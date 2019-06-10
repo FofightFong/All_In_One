@@ -4,4 +4,6 @@
 
 ## 他山之石，可以工玉，借鉴ing。
 
+* [一些有趣的小实例](https://github.com/FofightFong/All_In_One/blob/master/special_effects/example/README.md)
+
 * [L_system](https://github.com/FofightFong/All_In_One/blob/master/special_effects/lsystem/README.md),模拟植物生长。
