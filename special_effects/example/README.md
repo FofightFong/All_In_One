@@ -9,3 +9,6 @@
 * [基于节点的过程化建模初探及思考](https://blog.csdn.net/noahzuo/article/details/73302220?utm_source=blogxgwz0)----方块阵
 
 * [5分钟学会制作丧尸群集动画（一）](http://tieba.baidu.com/p/5090342653)----[群集动画升级版（二）](http://tieba.baidu.com/p/5093069542)----群集
+
+* [模拟冰锥生长](https://www.bilibili.com/video/av20742769)--[冰锥生长原理](https://www.bilibili.com/video/av20431740)----结冰
+
