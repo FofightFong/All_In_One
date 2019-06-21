@@ -11,3 +11,5 @@
 * [关于VEX](https://github.com/FofightFong/All_In_One/blob/master/special_effects/houdini_VEX/README.md)
 
 * [教程文档](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/README.md)
+
+* [Note-值得注意的点](https://github.com/FofightFong/All_In_One/blob/master/special_effects/note/README.md)
