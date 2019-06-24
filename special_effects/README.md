@@ -16,5 +16,5 @@
 
 * [破碎相关](https://github.com/FofightFong/All_In_One/blob/master/special_effects/fracture/README.md)
 
-* [Node-节点释]()
+* [Node-节点释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/Node_explanation/README.md)
 
