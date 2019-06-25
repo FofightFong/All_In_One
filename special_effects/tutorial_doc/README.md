@@ -52,6 +52,8 @@
 
 * [Houdini结合C4D预设 制作火山案例教程](https://www.bilibili.com/video/av33281420)
 
+* [Houdini 12 TVart课堂基础入门](https://www.bilibili.com/video/av32699823)
+
 * [Houdini 12 TVart课堂流体教程](https://www.bilibili.com/video/av33280079)
 
 * [Houdini 流体粒子 实战](https://www.bilibili.com/video/av33259916)
@@ -62,4 +64,24 @@
 
 * [Houdini基础入门教程](https://www.bilibili.com/video/av33210529)
 
+* [Houdini基础入门教程仿](https://www.bilibili.com/video/av32382051)
+
 * [houdini python 开发实战](https://www.bilibili.com/video/av33143116)
+
+* [Houdini高级实训](https://www.bilibili.com/video/av33075082)
+
+* [Houdini 冰块渲染 实战](https://www.bilibili.com/video/av32988810)
+
+* [Houdini 刚体破碎 实战](https://www.bilibili.com/video/av32870199)
+
+* [Houdini 流体烟火 实战](https://www.bilibili.com/video/av32896182)
+
+* [Maya 与 Houdini 火龙卷制作 实战](https://www.bilibili.com/video/av33779127)
+
+* [Houdini总动员（基础、建模、动画、材质）](https://www.bilibili.com/video/av34340416)
+
+* [Houdini网络基础教程](https://www.bilibili.com/video/av34202405)
+
+* [Houdini 大楼倒塌教程](https://www.bilibili.com/video/av34523924)
+
+* [Houdini16.5 基础教程](https://www.bilibili.com/video/av34533178)
