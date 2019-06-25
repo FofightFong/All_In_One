@@ -12,6 +12,8 @@
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
 
+* [特效之王 Houdini 基础教程](https://www.bilibili.com/video/av33359267)
+
 * [houdini pyro篝火教程全流程中文（中等难度）](https://www.bilibili.com/video/av20225605)
 
 * [houdini海洋制作教程（h13）](https://www.bilibili.com/video/av16641223)
@@ -37,3 +39,13 @@
 * [Houdini16 基础入门教程](https://www.bilibili.com/video/av31187812)
 
 * [HOUDINI三維特效｜提升動畫創作的自由度和速度](https://www.bilibili.com/video/av31780220)
+
+* [Houdini 云朵和静帧的制作 实战](https://www.bilibili.com/video/av33580168)
+
+* [Houdini 12 水晶石教育 标准教程](https://www.bilibili.com/video/av33438039)
+
+* [Houdini 岩浆和绿烟 实战](https://www.bilibili.com/video/av33417590)
+
+* [Houdini13 中文经典教程](https://www.bilibili.com/video/av33339239)
+
+* [Houdini 流体开道 实战](https://www.bilibili.com/video/av33331300)
