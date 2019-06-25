@@ -59,3 +59,7 @@
 * [从Maya学Houdini零起点入门极速教学](https://www.bilibili.com/video/av33253380)
 
 * [Houdini 14基础建模教程](https://www.bilibili.com/video/av33215513)
+
+* [Houdini基础入门教程](https://www.bilibili.com/video/av33210529)
+
+* [houdini python 开发实战](https://www.bilibili.com/video/av33143116)
