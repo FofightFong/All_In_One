@@ -102,3 +102,4 @@
 
 * [【Houdini】总动员 - 特效案例（5）](https://www.bilibili.com/video/av37409863)
 
+* [houdini从基础到入门高清国语教程](https://www.bilibili.com/video/av53239254)
