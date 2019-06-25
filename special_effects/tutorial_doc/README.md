@@ -21,3 +21,5 @@
 * [houdini中文基础教程](https://www.bilibili.com/video/av31582609)
 
 * [【Houdini】Houdini13 中文经典教程（国语）](https://www.bilibili.com/video/av33339239)
+
+* [【经典houdini-中文-教程解析粒子】完整合集](https://www.bilibili.com/video/av47657815)
