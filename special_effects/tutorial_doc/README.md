@@ -33,3 +33,7 @@
 * [Houdini制作神经网络](https://www.bilibili.com/video/av27671805)
 
 * [Houdini VEX中文百科](https://www.bilibili.com/video/av20390906)
+
+* [Houdini16 基础入门教程](https://www.bilibili.com/video/av31187812)
+
+* [HOUDINI三維特效｜提升動畫創作的自由度和速度](https://www.bilibili.com/video/av31780220)
