@@ -17,3 +17,7 @@
 * [houdini海洋制作教程（h13）](https://www.bilibili.com/video/av16641223)
 
 * [houdini河流制作教程（中级难度左右）](https://www.bilibili.com/video/av16210606)
+
+* [houdini中文基础教程](https://www.bilibili.com/video/av31582609)
+
+* [【Houdini】Houdini13 中文经典教程（国语）](https://www.bilibili.com/video/av33339239)
