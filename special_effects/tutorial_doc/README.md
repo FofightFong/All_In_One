@@ -49,3 +49,13 @@
 * [Houdini13 中文经典教程](https://www.bilibili.com/video/av33339239)
 
 * [Houdini 流体开道 实战](https://www.bilibili.com/video/av33331300)
+
+* [Houdini结合C4D预设 制作火山案例教程](https://www.bilibili.com/video/av33281420)
+
+* [Houdini 12 TVart课堂流体教程](https://www.bilibili.com/video/av33280079)
+
+* [Houdini 流体粒子 实战](https://www.bilibili.com/video/av33259916)
+
+* [从Maya学Houdini零起点入门极速教学](https://www.bilibili.com/video/av33253380)
+
+* [Houdini 14基础建模教程](https://www.bilibili.com/video/av33215513)
