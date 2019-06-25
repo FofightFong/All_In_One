@@ -27,3 +27,5 @@
 * [【Houdini】Houdini 82个案例讲解](https://www.bilibili.com/video/av33321378)
 
 * [Houdini16.5实战教程系列](https://www.bilibili.com/video/av28314507)
+
+* [houdini系列中文教程](https://www.bilibili.com/video/av18982808)
