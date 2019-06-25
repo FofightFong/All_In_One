@@ -85,3 +85,20 @@
 * [Houdini 大楼倒塌教程](https://www.bilibili.com/video/av34523924)
 
 * [Houdini16.5 基础教程](https://www.bilibili.com/video/av34533178)
+
+* [houdini16.5 vex查找附近点生长线](https://www.bilibili.com/video/av34567934)
+
+* [Houdini老吕_提高班](https://www.bilibili.com/video/av34859564)
+
+* [Houdini H17 基础教程（广东话）](https://www.bilibili.com/video/av36601926)
+
+* [【Houdini】总动员 - 特效案例（1）](https://www.bilibili.com/video/av37408685)
+
+* [【Houdini】总动员 - 特效案例（2）](https://www.bilibili.com/video/av37409078)
+
+* [【Houdini】总动员 - 特效案例（3）](https://www.bilibili.com/video/av37409433)
+
+* [【Houdini】总动员 - 特效案例（4）](https://www.bilibili.com/video/av37409568)
+
+* [【Houdini】总动员 - 特效案例（5）](https://www.bilibili.com/video/av37409863)
+
