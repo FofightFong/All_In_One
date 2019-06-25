@@ -29,3 +29,7 @@
 * [Houdini16.5实战教程系列](https://www.bilibili.com/video/av28314507)
 
 * [houdini系列中文教程](https://www.bilibili.com/video/av18982808)
+
+* [Houdini制作神经网络](https://www.bilibili.com/video/av27671805)
+
+* [Houdini VEX中文百科](https://www.bilibili.com/video/av20390906)
