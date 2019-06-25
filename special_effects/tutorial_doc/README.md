@@ -13,3 +13,5 @@
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
 
 * [houdini pyro篝火教程全流程中文（中等难度）](https://www.bilibili.com/video/av20225605)
+
+* [houdini海洋制作教程（h13）](https://www.bilibili.com/video/av16641223)
