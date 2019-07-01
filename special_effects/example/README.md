@@ -13,3 +13,9 @@
 * [模拟冰锥生长](https://www.bilibili.com/video/av20742769)--[冰锥生长原理](https://www.bilibili.com/video/av20431740)----结冰
 
 * [根据相机距离控制粒子大小](http://blog.sina.com.cn/s/blog_13f902b690102yfdb.html)
+
+# 读万卷书，行万里路---
+
+* [在Github收集的包含houdini源文件的repositories](https://github.com/all-in-one-of)
+
+
