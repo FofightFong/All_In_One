@@ -4,7 +4,7 @@
 
 * [Houdini动态图形设计案例解析](https://yuedu.baidu.com/ebook/40d1de22ba68a98271fe910ef12d2af90242a807?pn=1&pa=1)
 
-* [致houdini的情书](https://www.jianshu.com/u/41dc7d44f542)
+* [致houdini的情书](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/letterToHoudini.md)
 
 * [XIANVFX'S Blog](http://www.cghonour.com:666/categories/Tutorials/Houdini/)
 
