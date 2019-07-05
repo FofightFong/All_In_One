@@ -48,26 +48,26 @@
 * <a href="https://mp.weixin.qq.com/s/HphcJzIChzs6UiIK1eYGZA">
   <img width="45" height="45" src="" >第016封“情书” 防线 Loops & Subdivision迭代循环与细分 ＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/QUX-9_fpa77rtwy3L-qL9A">
+  <img width="45" height="45" src="" >第017封“情书”：切！Organic Voronoi Patterns沃罗诺图案＜Entagma＞Houdini2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/6BXwgylIw-WbyUCIjNY4qQ">
+  <img width="45" height="45" src="" >第018封“情书”：征服 Differential Line Gro＜Entagma＞Houdini 2016wth</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/aMHCpTfNVzaTyvPS_E_nVA">
+  <img width="45" height="45" src="" >第019封“情书”：魔戒 Differential Mesh Growth差分网格增长＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/CesJcjvPkLLm3pz3p5mIgA">
+  <img width="45" height="45" src="" >第020封“情书”：你就拧吧 Spline Wrap Deformer 样条盘绕器＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/8ZhDO-jUQ3r82O31_I59Hw">
+  <img width="45" height="45" src="" >第021封“情书”：人生切片Color Clustering簇的色彩应用＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/Pu-pgOTbCq-VAU7mWVykmA">
+  <img width="45" height="45" src="" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
   <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
