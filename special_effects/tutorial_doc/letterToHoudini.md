@@ -69,45 +69,92 @@
 * <a href="https://mp.weixin.qq.com/s/Pu-pgOTbCq-VAU7mWVykmA">
   <img width="45" height="45" src="" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/0BcKK4hUg33dnGfSURPuRQ">
+  <img width="45" height="45" src="" >第024封“情书”：三千烦恼丝 Modifying Curl Noise＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/lCyU28tAtFHHlH8Oywgm8Q">
+  <img width="45" height="45" src="" >第025封“情书”：急急如律令 PCFind Explained寻找指定位置附近点＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a> 
+* <a href="https://mp.weixin.qq.com/s/APMOQGPVSa2hoYbMAIxzew">
+  <img width="45" height="45" src="" >第026封“情书”：中国移动 VEX Space Filling Curves＜Entagma＞Houdini 2016</a> 
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/sApdgMjMR9o784OYRgc0eg">
+  <img width="45" height="45" src="" >第027封“情书”：中场休息CreatingAssets ForCinema 4D＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/8Egxsy2cL99Yqli0laOLTQ">
+  <img width="45" height="45" src="" >第028封“情书”：咕咚来了CustomParticleSystem in VEX＜Entagma＞Houdini2016＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/8O9MzW4ig5vrR20NeTY2WQ">
+  <img width="45" height="45" src="" >第029封“情书”：千与千寻 Naive Path Finding路径发现＜Entagma＞Houdini 2016</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/o_6bCmFHUvnGDcj64cNuLQ">
+  <img width="45" height="45" src="" >第030封“情书”：萧邦Shortest Path Growth最短路径增长＜Entagma＞Houdini 2017</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/wyXLirLYKxwA8dit6EJZ9w">
+  <img width="45" height="45" src="" >第031封“情书”：双簧 DIY Scatter Tool ＜Entagma＞Houdini 2017</a>   
   
-* <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>   
+* <a href="https://mp.weixin.qq.com/s/EZJXeoxsLQ5wvLvHJAnNLA">
+  <img width="45" height="45" src="" >第032封“情书”：梦想家 Quick VDB Clouds＜Entagma＞Houdini 2017</a>   
   
-  
-  
-  
-  
+* <a href="https://mp.weixin.qq.com/s/QoFwca1JLyedgBDv79exrA">
+  <img width="45" height="45" src="" >第033封“情书”：许愿池 Using The Ripple Solver涟漪结算器＜Entagma＞Houdini2017</a>   
   
   
+* <a href="https://mp.weixin.qq.com/s/qQ6DSwgV1XoyZdFgA4rruQ">
+  <img width="45" height="45" src="" >第034封“情书”：<地中海>Refine The Ripple SolverSetup＜Entagma＞Houdini2017</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/C9CG8epkIWyD_RBYTZJEtA">
+  <img width="45" height="45" src="" >第035封“情书”：青春纪念碑 Quartz Crystal＜Entagma＞Houdini 2017</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/k5PFD014ZtCm0IRXFCX_Vw">
+  <img width="45" height="45" src="" >第036封“情书”：你是猪吗？Yader - Poly Garden＜Entagma＞Houdini 2017</a>   
   
   
+* <a href="https://mp.weixin.qq.com/s/rGtHqrCKmru_8Yt0Mvf45Q">
+  <img width="45" height="45" src="" >第037封“情书”：江山如此多娇 Packing The Torus 丛生的球＜Entagma＞Houdini 2017</a>   
   
   
+* <a href="https://mp.weixin.qq.com/s/8ipD1B-BXwTycCt6JbAZZg">
+  <img width="45" height="45" src="" >第038封“情书”：变形记 Easy MinimalSurfacesUsingPBDs＜Entagma＞Houdini 2017</a>   
   
+* <a href="https://mp.weixin.qq.com/s/vlxge7cqPbAPMDUcc1q1IA">
+  <img width="45" height="45" src="" >第039封“情书”：石头记 Growth SolverFMX增长求解器＜Entagma＞Houdini 2017</a>   
   
+* <a href="https://mp.weixin.qq.com/s/nyNOOq66_W54AW_9Ds0mwA">
+  <img width="45" height="45" src="" 第040封“情书”：涨粉记DiffusionLimitedAggregation扩散聚集＜Entagma＞Houdini2017</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/hgpH3dGMLAdALi4LctlygA">
+  <img width="45" height="45" src="" >第041封“情书”：时间简史VEX-Movie Color Visualisation＜Entagma＞Houdini 2017</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/Db4UxFUjvlTxKvqesi3ygA">
+  <img width="45" height="45" src="" >第042封“情书”：青春小鸟Quilling paper spiral mosaic ＜Entagma＞Houdini 2017</a>   
+
+* <a href="https://mp.weixin.qq.com/s/q9-adpRvL94pgrKXCD72FQ">
+  <img width="45" height="45" src="" >第043封“情书”：软着陆Knitting Building a UVDeformer＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/OA2k9Fv1HnIxMRS0zwg2nQ">
+  <img width="45" height="45" src="" >第044封“情书”：错觉Perspective Halftone半色调透视＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/On5aiylHAOlZE4NMPenfaQ">
+  <img width="45" height="45" src="" >第045封“情书”：纠缠 Connect The Yarns＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/6S_v4W9aBcZYrQOqay3MNQ">
+  <img width="45" height="45" src="" >第046封“情书”：流浪地球 Visualizing Flight Paths＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/n_5j7XJaTM-f8IxtsRUD2g">
+  <img width="45" height="45" src="" >第047封“情书”：六里桥 Organic Volumes有机组织＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
 
 other link----[简书](https://www.jianshu.com/u/41dc7d44f542)
 
