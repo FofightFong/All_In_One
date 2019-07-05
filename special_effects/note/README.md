@@ -6,6 +6,8 @@
 
 * 3. Houdini高亮显示VEX创建的组----[i@group_sel = @primnum % 2 ==0](http://blog.sina.com.cn/s/blog_b11f872e0102xbr7.html)
 
+* 4. 目前scatter节点上限为100万。
+
 
 # 常用变量
 
