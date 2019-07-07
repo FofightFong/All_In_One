@@ -8,7 +8,7 @@
 
 * 4. 目前scatter节点上限为100万。
 
-* 5. houdini节点解除锁定---右键 allow editing
+* 5. houdini节点解除锁定---选择节点右键Allow Editing of Contents.
 
 
 # 常用变量
