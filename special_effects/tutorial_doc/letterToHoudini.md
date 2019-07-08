@@ -10,7 +10,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibiaoqseJf2u3gcvqLF4JibjhOaEA3HiaWsybicExkoGnB43Wp3hvFpa0Km7aM2MicEvdOw1t01gng9SNicQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第003封情书：Polygonal Rembrandt3多边形的伦勃朗渲染</a>
   
 * <a href="https://mp.weixin.qq.com/s/TSHSnqvTHPb2V62IMLgbAg">
-  <img width="45" height="45" src="" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>  
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibh0llMcvaRAEy7faGXxKYVx0mjD9anfTs5O2sJibZicLdKTw6IuftECAG5ttMAibLpNPLiaVnDzBA2KAg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第004封情书：Polygonal Rembrandt4多边形的伦勃朗-边缘检测</a>  
   
 * <a href="https://mp.weixin.qq.com/s/rzPi_kDqJ2GCHoWAyXTg-A">
   <img width="45" height="45" src="" >第005封情书：Polygonal Rembrandt5多边形的伦勃朗-执行边缘检测</a> 
