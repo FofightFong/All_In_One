@@ -16,7 +16,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibh0llMcvaRAEy7faGXxKYVxUy58I3f35mlgGQia3QbOZl7rxWc69H0K5SjBiaHgkcib0cXjsJVhaDlrA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第005封情书：Polygonal Rembrandt5多边形的伦勃朗-执行边缘检测</a> 
   
 * <a href="https://mp.weixin.qq.com/s/NOixsNScDU-1ophlYyuoCQ">
-  <img width="45" height="45" src="" >第006封情书：背缚的普罗米修斯-代码连线Creating Geometry With VEX</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjRZb5RZjKD5VtPI60yg7tIdhF3sedyNuVrZwMhicuHl6BEIZBFCdZVW4IzSLNsHqiaGQicLYS0fqIYQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第006封情书：背缚的普罗米修斯-代码连线Creating Geometry With VEX</a>   
   
 * <a href="https://mp.weixin.qq.com/s/WT_p9_xbIxKysQWqGa4VCw">
   <img width="45" height="45" src="" >第007封情书：体积布尔-Boolen Volume Denting</a>   
