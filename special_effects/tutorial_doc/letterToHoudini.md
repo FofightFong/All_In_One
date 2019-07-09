@@ -19,7 +19,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjRZb5RZjKD5VtPI60yg7tIdhF3sedyNuVrZwMhicuHl6BEIZBFCdZVW4IzSLNsHqiaGQicLYS0fqIYQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第006封情书：背缚的普罗米修斯-代码连线Creating Geometry With VEX</a>   
   
 * <a href="https://mp.weixin.qq.com/s/WT_p9_xbIxKysQWqGa4VCw">
-  <img width="45" height="45" src="" >第007封情书：体积布尔-Boolen Volume Denting</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgRPo4wSDDZbf1o8RyUhGT2zyrRXoFMLGxoYN1mgNtdL45DBLW0ibR3bjiarlznJwOnlBKLLAQJWdcQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第007封情书：体积布尔-Boolen Volume Denting</a>   
   
 * <a href="https://mp.weixin.qq.com/s/y6LJJLJs2y93EEzHTOU-0Q">
   <img width="45" height="45" src="" >第008封情书： 面目全非在噪声流之中Curl Noise Flow</a>   
