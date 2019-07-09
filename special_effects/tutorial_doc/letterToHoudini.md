@@ -144,6 +144,18 @@
 * <a href="https://mp.weixin.qq.com/s/n_5j7XJaTM-f8IxtsRUD2g">
   <img width="45" height="45" src="" >第047封“情书”：六里桥 Organic Volumes有机组织＜Entagma＞Houdini 2017</a>
 
+* <a href="https://mp.weixin.qq.com/s/pJ4AzNSlTqSu6eIJRTomtQ">
+  <img width="45" height="45" src="" >第048封“情书”：草根VEXinHoudini-Space Colonization＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/3F2pOr-yOei5tJQbGWlS3Q">
+  <img width="45" height="45" src="" >第049封“情书”：分子 Loops & VEX- Artistic Quadtrees＜Entagma＞Houdini2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/RkTOIyWF2GF24xY_RE4HBQ">
+  <img width="45" height="45" src="" >第050封“情书”：七七事变Rendering Of Heightfields InRs＜Entagma＞Houdini2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/3YPtYSzNIR-O9pq33Vo-kw">
+  <img width="45" height="45" src="" >第051封“情书”：爆仓Scaling The Bullets Dynamically＜Entagma＞Houdini 2017</a>  
+  
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
 
@@ -152,9 +164,6 @@
 
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
-
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
 
 other link----[简书](https://www.jianshu.com/u/41dc7d44f542)
 
