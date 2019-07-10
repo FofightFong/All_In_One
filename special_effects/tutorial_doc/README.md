@@ -8,6 +8,8 @@
 
 * [XIANVFX'S Blog](http://www.cghonour.com:666/categories/Tutorials/Houdini/)
 
+* [Houdini中文帮助文档](https://docs.newvfx.com/docs/category/houdini)
+
 # 自由的houdini中文视频教程
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
