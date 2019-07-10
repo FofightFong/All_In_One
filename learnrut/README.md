@@ -7,3 +7,11 @@
 * 借鉴houdini的exploded view节点（爆炸特效）-----实现思路参考[缩面轮廓](https://github.com/BlenderCN/Learnbgame/blob/0c11127a97dcb50efbae46a1b029fddf3de698a8/LearnruT.md)
 
 * 借鉴houdini的对points的操控力
+
+
+
+# 那些
+
+### * 酷炫的出场
+
+* 1. 魔道祖师14集，火焰变绿
