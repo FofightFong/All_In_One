@@ -22,7 +22,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgRPo4wSDDZbf1o8RyUhGT2zyrRXoFMLGxoYN1mgNtdL45DBLW0ibR3bjiarlznJwOnlBKLLAQJWdcQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第007封情书：体积布尔-Boolen Volume Denting</a>   
   
 * <a href="https://mp.weixin.qq.com/s/y6LJJLJs2y93EEzHTOU-0Q">
-  <img width="45" height="45" src="" >第008封情书： 面目全非在噪声流之中Curl Noise Flow</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjbdgfqkAUk4flZ0ZnoZA9sMSqDS0dPsyQcwX2hcKuctAyrJPUoaTFvAZUTZEevwYq0150YEjUaCQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第008封情书： 面目全非在噪声流之中Curl Noise Flow</a>   
   
 * <a href="https://mp.weixin.qq.com/s/fQngRUmAIG2abaofzK0e9g">
   <img width="45" height="45" src="" >第009封情书：穿越时空的恋人VEX in Houdini- Strange Attractors奇异吸引子</a>   
