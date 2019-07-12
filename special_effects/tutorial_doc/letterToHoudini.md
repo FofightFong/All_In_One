@@ -34,7 +34,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibia1vQPS2V3bDiagYNbtChLAad5DZezRzcxduPdAMKIUx833Vz1ONxWAruVDG4P1n4VYkO1Dd4tK1yg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第011封情书：欲望之主消亡史Reaction Diffusion Part II- Implementation反应扩散</a>   
   
 * <a href="https://mp.weixin.qq.com/s/-BRKXh6agYccI-Y2qJ9EuA">
-  <img width="45" height="45" src="" >第012封情书：虫虫危机Reaction Diffusion反应扩散 ＜Entagma＞Houdini 2016教程</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibhdian31xBH2A8gicNAfFLXvDJOpXcAFjic8DgB9dXG4THglPSW4eoeOjZrq7b0icfDQlG41hKwLe1f4w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第012封情书：虫虫危机Reaction Diffusion反应扩散 ＜Entagma＞Houdini 2016教程</a>   
   
 * <a href="https://mp.weixin.qq.com/s/kFNET8YrJzkneM6jch4XBQ">
   <img width="45" height="45" src="" >第013封情书：铁石心肠Abstract Shapes速建抽象几何＜Entagma＞Houdini2016教程 </a>   
