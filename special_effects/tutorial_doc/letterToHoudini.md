@@ -40,10 +40,10 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibhdian31xBH2A8gicNAfFLXvDWxWy72Yeeicdz0HBUXmW49PEc7pzdmUrhb90SIFR6yptaEQPdXjqJIw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第013封情书：铁石心肠Abstract Shapes速建抽象几何＜Entagma＞Houdini2016教程 </a>   
   
 * <a href="https://mp.weixin.qq.com/s/IU-Vf4pPiUi0eapcHS2RLQ">
-  <img width="45" height="45" src="" >第014封“情书” 空间大爆炸Fractal Ornament循环分型装饰＜Entagma＞Houdini 2016教程</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgsPibIxf4SEY2jbMtxnSibMS3GyLGXKJQ95M1F9FmibtEEgXnhczYibLasBia5XcAXDntmXHKIODZXujg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第014封“情书” 空间大爆炸Fractal Ornament循环分型装饰＜Entagma＞Houdini 2016教程</a>   
   
 * <a href="https://mp.weixin.qq.com/s/qzHecMtV2l46-Q5bRLv2YQ">
-  <img width="45" height="45" src="" >第015封“情书”：泥什么意思？Mandelbrot曼德布罗特集合＜Entagma＞Houdini 2016教程</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgNF0CzJb1J6NR4WHicHqvC23keuTjn4YMtQSuqFN4H1kH4W67msLjWaicUkguu5ib0ywTJ4jST6zsBw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第015封“情书”：泥什么意思？Mandelbrot曼德布罗特集合＜Entagma＞Houdini 2016教程</a>   
   
 * <a href="https://mp.weixin.qq.com/s/HphcJzIChzs6UiIK1eYGZA">
   <img width="45" height="45" src="" >第016封“情书” 防线 Loops & Subdivision迭代循环与细分 ＜Entagma＞Houdini 2016</a>   
