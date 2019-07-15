@@ -46,7 +46,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgNF0CzJb1J6NR4WHicHqvC23keuTjn4YMtQSuqFN4H1kH4W67msLjWaicUkguu5ib0ywTJ4jST6zsBw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第015封“情书”：泥什么意思？Mandelbrot曼德布罗特集合＜Entagma＞Houdini 2016教程</a>   
   
 * <a href="https://mp.weixin.qq.com/s/HphcJzIChzs6UiIK1eYGZA">
-  <img width="45" height="45" src="" >第016封“情书” 防线 Loops & Subdivision迭代循环与细分 ＜Entagma＞Houdini 2016</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibiaO9jw3JuBv13ZaTogyy7Yc2mQPvGvlOejBeazsxgVbiaPpXzGwbKkyCichoicUORrnUn2JQ4dOFm2sA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第016封“情书” 防线 Loops & Subdivision迭代循环与细分 ＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/QUX-9_fpa77rtwy3L-qL9A">
   <img width="45" height="45" src="" >第017封“情书”：切！Organic Voronoi Patterns沃罗诺图案＜Entagma＞Houdini2016</a>   
