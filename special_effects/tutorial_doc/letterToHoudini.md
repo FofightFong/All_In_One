@@ -58,7 +58,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjwvbGmZicH3vKymgJdwSqKxnuFicSHUhe1Scqrh7YpPCdHTmvNtrUic8Huc9NewezvwG10G3iagiaWr4A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第019封“情书”：魔戒 Differential Mesh Growth差分网格增长＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/CesJcjvPkLLm3pz3p5mIgA">
-  <img width="45" height="45" src="" >第020封“情书”：你就拧吧 Spline Wrap Deformer 样条盘绕器＜Entagma＞Houdini 2016</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjvH4JCsR59kfibCoWf7ZesfKVJEW7FZd1xW1TJice87yiavtOsAAcmlxqUib3kR86SuPeCZHITWfRyZQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第020封“情书”：你就拧吧 Spline Wrap Deformer 样条盘绕器＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/8ZhDO-jUQ3r82O31_I59Hw">
   <img width="45" height="45" src="" >第021封“情书”：人生切片Color Clustering簇的色彩应用＜Entagma＞Houdini 2016</a>   
