@@ -156,15 +156,64 @@
 * <a href="https://mp.weixin.qq.com/s/3YPtYSzNIR-O9pq33Vo-kw">
   <img width="45" height="45" src="" >第051封“情书”：爆仓Scaling The Bullets Dynamically＜Entagma＞Houdini 2017</a>  
   
+* <a href="https://mp.weixin.qq.com/s/iDm4dsmGzK7vuqXqaE70bQ">
+  <img width="45" height="45" src="" >第052封“情书”：线人WireSolverandConstraintNetworks＜Entagma＞Houdini2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/ZlzmdxJIjfQ4l4SRYaJ__g">
+  <img width="45" height="45" src="" >第053封“情书”：光阴似箭 CreatingProcedural Snowflake＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/1QeygEf8D666WJ06bk3BaA">
+  <img width="45" height="45" src="" >第054封“情书”： 暗物质 20171218 PBD- Dynamic Weave＜Entagma＞Houdini 2017</a>
+  
+* <a href="https://mp.weixin.qq.com/s/l9RJCbd9HpaRf1SyLzyrIA">
+  <img width="45" height="45" src="" >第055封“情书”：神奇宝贝Procedural Water Droplets＜Entagma＞Houdini 2017</a>
+
+* <a href="https://mp.weixin.qq.com/s/DNZeIDAdJ2EXJsEgSn3bBg">
+  <img width="45" height="45" src="" >第056封“情书”：傲慢与偏见 Fakebroidery- Needlework＜Entagma＞Houdini 2017</a>
+  
+* <a href="https://mp.weixin.qq.com/s/QJsD-pjz5kXyzeiAEv70Gg">
+  <img width="45" height="45" src="" >第057封“情书”：现实很骨感Parallel Transport平行移动＜Entagma＞Houdini 2018</a>
+
+* <a href="https://mp.weixin.qq.com/s/Qqfaftc6cie4O3uqvW3tkQ">
+  <img width="45" height="45" src="" >第058封“情书”：白加黑Taylor Instability Use FLIP＜Entagma＞Houdini 2018</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/_fWCAELjuDubPkqiv7Ytcg">
+  <img width="45" height="45" src="" >第059封“情书”：马克吐温 Directions From Growth方向增长</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>    
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>   
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
-
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
-
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
-
+  
+  
+  
+  
+  
 other link----[简书](https://www.jianshu.com/u/41dc7d44f542)
 
 
