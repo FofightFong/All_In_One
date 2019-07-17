@@ -121,7 +121,7 @@
   <img width="45" height="45" src="" >第039封“情书”：石头记 Growth SolverFMX增长求解器＜Entagma＞Houdini 2017</a>   
   
 * <a href="https://mp.weixin.qq.com/s/nyNOOq66_W54AW_9Ds0mwA">
-  <img width="45" height="45" src="" 第040封“情书”：涨粉记DiffusionLimitedAggregation扩散聚集＜Entagma＞Houdini2017</a>   
+  <img width="45" height="45" src=""> 第040封“情书”：涨粉记DiffusionLimitedAggregation扩散聚集＜Entagma＞Houdini2017</a>   
   
 * <a href="https://mp.weixin.qq.com/s/hgpH3dGMLAdALi4LctlygA">
   <img width="45" height="45" src="" >第041封“情书”：时间简史VEX-Movie Color Visualisation＜Entagma＞Houdini 2017</a>   
