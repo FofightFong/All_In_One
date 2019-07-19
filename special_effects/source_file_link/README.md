@@ -1,4 +1,8 @@
-源文件链接
+# houdini资源线索
+
+* panduoduo.net---[vfxcsn0309分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-1212301670)--[GUUUUUU分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-805597601)--[爱wozhenshizp分享的百度云盘资源](http://www.panduoduo.net/u/bd-3375094246)--[Oo弈缘oO分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-3660681483)--[CGP****G布丁分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-1584814570)--[zhangkaiyv2000分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-2889098306)--[ABOUTCG_ORG分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-3142481780)--[zivix分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-973688510/2)--[oneboge分享的百度云盘资源](http://www.panduoduo.net/u/bd-2033488627)--[Houdini教程集分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-356872819)--[致学网01分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-891971983/27)
+
+# 源文件链接
 
 * [1](https://www.dropbox.com/s/w2u4zfx9fygc95v/subd_control_curves_01.hip?dl=1)
 
