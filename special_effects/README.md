@@ -20,5 +20,5 @@
 
 * [源文件链接](https://github.com/FofightFong/All_In_One/blob/master/special_effects/source_file_link/README.md)
 
-* [houdini与其他软件的交互]()
+* [houdini与其他软件的交互](https://github.com/FofightFong/All_In_One/blob/master/special_effects/between_houdini_otherSoftware/README.md)
 
