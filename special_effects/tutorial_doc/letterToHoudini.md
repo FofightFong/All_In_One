@@ -252,32 +252,32 @@
 * <a href="https://mp.weixin.qq.com/s/0brc_kQZ6-NOgwp6RfD3ZQ">
   <img width="45" height="45" src="" >第083封“情书”：画家Double Pendulum in Vellum＜Entagma＞Houdini 2019</a>   
 
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+* <a href="https://mp.weixin.qq.com/s/2G2gf9zfPyf2TRkb9mVNiA">
   <img width="45" height="45" src="" >第084封“情书”：石更20190218 Polyfolding- Part 1卷曲＜Entagma＞Houdini 2019</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/jQoUu9Lq_qE7MnET9v9nxQ">
+  <img width="45" height="45" src="" >第085封“情书”：逆子 Polyfolding - Part 2＜Entagma＞Houdini 2019</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/wfISmfgT3vEd_qJvQ4JT9A">
+  <img width="45" height="45" src="" >第086封“情书”：顶风20190304 Simple Wind Tunnel＜Entagma＞Houdini 2019</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+* <a href="https://mp.weixin.qq.com/s/dpEqMvVQ8qaEEiJtSk3_CA">
+  <img width="45" height="45" src="" >第087封“情书”：红旗下的蛋Analytical Foam分析泡沫＜Entagma＞Houdini 2019</a>  
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/t00hfL-viFLTK2ai4ri24w">
+  <img width="45" height="45" src="" >第088封“情书”：万宗归一Procedural Subdivision Lines＜Entagma＞Houdini 2019</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/u3VeB68AJA4zDIG8bW_LFw">
+  <img width="45" height="45" src="" >第089封“情书”：九九归一VellumCellReplicationPART1＜AdrianMeyer＞Houdini2019</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/mY-jSHNsuSfDVziyKArYgQ">
+  <img width="45" height="45" src="" >第090封“情书”：一生二Vellum Cell Replication TutorialPart2＜Adrian Meyer＞</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+* <a href="https://mp.weixin.qq.com/s/NNpLx_7PABiepGaX5o7RIw">
+  <img width="45" height="45" src="" >第091封“情书”：一分为二VellumCellReplication2a＜Adrian Meyer＞Houdini2019</a>  
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/L799faRkXjSHX4YGPRZYmQ">
+  <img width="45" height="45" src="" >第092+93封“情书”：三生万物VellumCellReplicationPart3＜Entagma＞Houdini 2019</a> 
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
