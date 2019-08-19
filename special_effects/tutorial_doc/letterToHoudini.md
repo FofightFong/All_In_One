@@ -204,56 +204,56 @@
 * <a href="https://mp.weixin.qq.com/s/Hf3OSeWsf5Kc3Eky-mYvGA">
   <img width="45" height="45" src="" >第067封“情书”：扁平化Creating Isocontours＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/79XQ2khNTyDOY_6opdeYmQ">
+  <img width="45" height="45" src="" >第068封“情书”：黄粱一梦 Instancing In Redshift＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/ejzaGb_gTpFboIHUM5p3-g">
+  <img width="45" height="45" src="" >第069封“情书”：广寒宫Assembling a 3D ScanOfTheEarth＜Entagma＞Houdini 2018</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/R_DO-aSOsX4C-MDb-nmlBg">
+  <img width="45" height="45" src="" >第070封“情书”：天罗地网CrochetBlendDelaunayVoronoi＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+* <a href="https://mp.weixin.qq.com/s/HhjsYBjtrXGIx0zVWZYP_w">
+  <img width="45" height="45" src="" >第071封“情书”：绳命Create Simulate Procedural Rope＜Entagma＞Houdini 2018</a>  
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/US2IdrewKfcSu5d3LR7JTQ">
+  <img width="45" height="45" src="" >第072封“情书”：压力山大VellumTheory & Basic Setups＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/UIjBXtez8TylIL7qYBk2dQ">
+  <img width="45" height="45" src="" >第073封“情书”：小目标UV Layout ForGeometryPacking＜Entagma＞Houdini 2018</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/xLfKtqLdQRjjF7LgPMoLdw">
+  <img width="45" height="45" src="" >第074封“情书”：给你点颜色看看Colored Smoke＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+* <a href="https://mp.weixin.qq.com/s/MrpTleTm_Cdy8FlnMENWtQ">
+  <img width="45" height="45" src="" >第075封“情书”：百撕不得其解 Tearing Cloth＜Entagma＞Houdini 2018</a>  
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/QOHWqxJVVRFfmYpaunLW9g">
+  <img width="45" height="45" src="" >第076封“情书”：大风吹Vellum3_5Shooting Pigs＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/M5JkuRb-9dyl-RB46KV_8w">
+  <img width="45" height="45" src="" >第077封“情书”：弯弯绕＜Entagma＞Houdini 2018</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/bVZZT0S4D4htW2EUXoAkrg">
+  <img width="45" height="45" src="" >第078封“情书”：心坎 Displacement Modulo & Noise＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+* <a href="https://mp.weixin.qq.com/s/6l0g_L3vTG0rBT9R1oJYBw">
+  <img width="45" height="45" src="" >第079封“情书”：<I服了You>Cloth Solver From Scratch＜Entagma＞Houdini 2018</a>  
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/P1HUPoNG6PgNcY79jBXNYA">
+  <img width="45" height="45" src="" >第080封“情书”：生活大爆炸Color Dust Explosion＜Entagma＞Houdini 2018</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/U_qqxzBDe4uHbCYpwu0rLg">
+  <img width="45" height="45" src="" >第081封“情书”：流年Alien Orb Using Vellum Grains＜Entagma＞Houdini 2019</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/qe1GnHY3m3gAE1G82478Jw">
+  <img width="45" height="45" src="" >第082封“情书”：暴裂无声Nodes vs. VEX- Voronoi-Morph＜Entagma＞Houdini 2019</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>   
+* <a href="https://mp.weixin.qq.com/s/0brc_kQZ6-NOgwp6RfD3ZQ">
+  <img width="45" height="45" src="" >第083封“情书”：画家Double Pendulum in Vellum＜Entagma＞Houdini 2019</a>   
 
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+  <img width="45" height="45" src="" >第084封“情书”：石更20190218 Polyfolding- Part 1卷曲＜Entagma＞Houdini 2019</a> 
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
