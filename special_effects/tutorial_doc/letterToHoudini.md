@@ -64,7 +64,8 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibj5ZePahNzReoM8QANbY4iaty3ge4T9aibLD6vKZTrxMoiaOT5XAkScE6hegxyXIephecbKagcJ1mYVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第021封“情书”：人生切片Color Clustering簇的色彩应用＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibj7lBRRddLlzmNTsYB0xibB7xA0ZUrzlZzV9uQhBVzA2M2sfeYQD8uPvKE2yNu6FMyibhoic72ibo5MSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第022封“情书”：闭环 Dual Mesh交错物体</a>----[纠正](https://www.jianshu.com/p/172a976556da)
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibj7lBRRddLlzmNTsYB0xibB7xA0ZUrzlZzV9uQhBVzA2M2sfeYQD8uPvKE2yNu6FMyibhoic72ibo5MSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+----[纠正](https://www.jianshu.com/p/172a976556da)
   
 * <a href="https://mp.weixin.qq.com/s/Pu-pgOTbCq-VAU7mWVykmA">
   <img width="45" height="45" src="" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
