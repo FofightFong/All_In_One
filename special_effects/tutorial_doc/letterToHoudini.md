@@ -277,13 +277,13 @@
   <img width="45" height="45" src="" >第091封“情书”：一分为二VellumCellReplication2a＜Adrian Meyer＞Houdini2019</a>  
   
 * <a href="https://mp.weixin.qq.com/s/L799faRkXjSHX4YGPRZYmQ">
-  <img width="45" height="45" src="" >第092+93封“情书”：三生万物VellumCellReplicationPart3＜Entagma＞Houdini 2019</a> 
+  <img width="45" height="45" src="" >第092封“情书”：三生万物VellumCellReplicationPart3＜Entagma＞Houdini 2019</a> 
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+* <a href="https://mp.weixin.qq.com/s/U3eqaw0cWQW5Xash1O01TA">
+  <img width="45" height="45" src="" >第093封“情书”：变量PDGForDesignWorkPt1-TheBasics＜Entagma＞Houdini 2019</a>
   
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+* <a href="https://mp.weixin.qq.com/s/444CwwTjWzqdz8dYpCTrJA">
+  <img width="45" height="45" src="" >第094封“情书”：方阵 PDG1bMosaicsOutOfYour Renders＜Entagma＞Houdini 2019</a> 
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
