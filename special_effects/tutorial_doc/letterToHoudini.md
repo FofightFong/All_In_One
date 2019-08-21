@@ -304,7 +304,7 @@
 
 
 
-other link----[简书](https://www.jianshu.com/u/41dc7d44f542)
+other link----[简书](https://www.jianshu.com/u/41dc7d44f542)----[知乎专栏](https://zhuanlan.zhihu.com/c_1118955389068234752)
 
 
 
