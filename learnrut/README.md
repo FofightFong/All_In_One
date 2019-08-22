@@ -8,7 +8,7 @@
 
 * 借鉴houdini的对points的操控力
 
-* 借鉴houdini节点组可导入导出功能，但是相比较导入导出blender的append功能则更佳。
+* 借鉴houdini节点组可导入导出功能，但是相比较导入导出blender的append功能则更佳。（两个文件的houdini节点可以直接复制粘贴，这个功能很强，但有商业版和非商业版的区分，。）
 
 
 
