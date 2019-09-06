@@ -22,3 +22,7 @@
 
 * [houdini与其他软件的交互](https://github.com/FofightFong/All_In_One/blob/master/special_effects/between_houdini_otherSoftware/README.md)
 
+## 以自然为师
+
+* [火焰参考]()
+
