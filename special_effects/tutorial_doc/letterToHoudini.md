@@ -73,7 +73,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibhlvOSyOfTBdbYyejrYwNGAIzSDsSIshnpXWzHZJFwWomJetztf4BnwtAsZ9RibMLia70DQZ2BnXXdA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第024封“情书”：三千烦恼丝 Modifying Curl Noise＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/lCyU28tAtFHHlH8Oywgm8Q">
-  <img width="45" height="45" src="" >第025封“情书”：急急如律令 PCFind Explained寻找指定位置附近点＜Entagma＞Houdini 2016</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibgEpnTXAcsenicGfhowib74HsJFYYqiaZ6mZH9mpNvXYKY3d1iaDG8WYVkwT78a15eo32QYkEXzToVcYA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第025封“情书”：急急如律令 PCFind Explained寻找指定位置附近点＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/APMOQGPVSa2hoYbMAIxzew">
   <img width="45" height="45" src="" >第026封“情书”：中国移动 VEX Space Filling Curves＜Entagma＞Houdini 2016</a> 
