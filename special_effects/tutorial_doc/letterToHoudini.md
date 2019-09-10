@@ -67,7 +67,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibj7lBRRddLlzmNTsYB0xibB7xA0ZUrzlZzV9uQhBVzA2M2sfeYQD8uPvKE2yNu6FMyibhoic72ibo5MSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第022封“情书”：闭环 Dual Mesh交错物体</a>
 
 * <a href="https://mp.weixin.qq.com/s/Pu-pgOTbCq-VAU7mWVykmA">
-  <img width="45" height="45" src="" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjqNAM7T3WvbsFnlADvexcicIG9HuTQz1Eq8J8T9ia0jjsz96vb3ib7LfYj5nFKwjTuPlicYaQISLCkxA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/0BcKK4hUg33dnGfSURPuRQ">
   <img width="45" height="45" src="" >第024封“情书”：三千烦恼丝 Modifying Curl Noise＜Entagma＞Houdini 2016</a>   
