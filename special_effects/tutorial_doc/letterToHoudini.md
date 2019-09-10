@@ -70,7 +70,7 @@
   <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibjqNAM7T3WvbsFnlADvexcicIG9HuTQz1Eq8J8T9ia0jjsz96vb3ib7LfYj5nFKwjTuPlicYaQISLCkxA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第023封“情书”: 草书Point Advection点的平流染色线＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/0BcKK4hUg33dnGfSURPuRQ">
-  <img width="45" height="45" src="" >第024封“情书”：三千烦恼丝 Modifying Curl Noise＜Entagma＞Houdini 2016</a>   
+  <img width="45" height="45" src="https://mmbiz.qpic.cn/mmbiz_png/E18Fh20CEibhlvOSyOfTBdbYyejrYwNGAIzSDsSIshnpXWzHZJFwWomJetztf4BnwtAsZ9RibMLia70DQZ2BnXXdA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" >第024封“情书”：三千烦恼丝 Modifying Curl Noise＜Entagma＞Houdini 2016</a>   
   
 * <a href="https://mp.weixin.qq.com/s/lCyU28tAtFHHlH8Oywgm8Q">
   <img width="45" height="45" src="" >第025封“情书”：急急如律令 PCFind Explained寻找指定位置附近点＜Entagma＞Houdini 2016</a>   
