@@ -304,7 +304,7 @@
 
 
 
-other link----[简书](https://www.jianshu.com/u/41dc7d44f542)----[知乎专栏](https://zhuanlan.zhihu.com/c_1118955389068234752)
+other link----[简书](https://www.jianshu.com/u/41dc7d44f542)----[知乎专栏](https://zhuanlan.zhihu.com/c_1118955389068234752)----[wechat](http://mp.weixin.qq.com/mp/homepage?__biz=MzI3OTQzMjA5NQ==&hid=2&sn=4d6c217da6b40aa257c612a34691fc45&scene=18#wechat_redirect)
 
 
 
