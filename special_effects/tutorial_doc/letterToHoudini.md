@@ -285,24 +285,41 @@
 * <a href="https://mp.weixin.qq.com/s/444CwwTjWzqdz8dYpCTrJA">
   <img width="45" height="45" src="" >第094封“情书”：方阵 PDG1bMosaicsOutOfYour Renders＜Entagma＞Houdini 2019</a> 
   
+* <a href="https://mp.weixin.qq.com/s/7eUOJnbjMQv42ofqNQoISQ">
+  <img width="45" height="45" src="" >第096封“情书”：十六亩地Setting Up Distributed PDG＜Entagma＞Houdini 2019</a>  
+  
+* <a href="https://mp.weixin.qq.com/s/y-VKyGp3gY9XnZ30zRR_eA">
+  <img width="45" height="45" src="" >第097封“情书”：浮生碌碌Distributed Grains Using PDG＜Entagma＞Houdini 2019</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/70VpQXxk67cVG0Rq61FrNA">
+  <img width="45" height="45" src="" >第098封“情书”：我有病DistributedRenderingUseRedshift＜Entagma＞Houdini19</a>
+  
+* <a href="https://mp.weixin.qq.com/s/o7-GBnjUfgaYTWvjc89aHA">
+  <img width="45" height="45" src="" >第099封“情书”：天下无不散之筵席Volumes101-DissolvingGeometry＜Entagma＞Houdini</a> 
+  
+* <a href="https://mp.weixin.qq.com/s/9TE2IkDZASxcdNMoKLj14g">
+  <img width="45" height="45" src="" >第100封“情书”：不完美生活Volume Displacement Shader＜Entagma＞Houdini 2019</a>
+  
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
-  
-* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
-  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
-  
+
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a> 
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
+  
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>  
+
+* <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
+  <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
   
 * <a href="https://mp.weixin.qq.com/s/gWMjtZGm7zyIOEeng3LOhw">
   <img width="45" height="45" src="" >第022封“情书”：闭环 Dual Mesh交错物体</a>
-
-
-
-
 
 other link----[简书](https://www.jianshu.com/u/41dc7d44f542)----[知乎专栏](https://zhuanlan.zhihu.com/c_1118955389068234752)----[wechat](http://mp.weixin.qq.com/mp/homepage?__biz=MzI3OTQzMjA5NQ==&hid=2&sn=4d6c217da6b40aa257c612a34691fc45&scene=18#wechat_redirect)
 
