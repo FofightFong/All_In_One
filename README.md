@@ -9,4 +9,6 @@ All In One
 
 * [Houdini源文件库--未整理--包含但不局限于hipnc,otlnc,hdanc](https://github.com/all-in-one-of)
 
-* [人多力量大----渲染农场]()
+* [人多力量大----渲染农场](https://github.com/FofightFong/All_In_One/blob/master/render_farm/README.md)
+
+* [效率！懂不懂？](https://github.com/FofightFong/All_In_One/blob/master/efficiency/README.md)
