@@ -12,6 +12,10 @@
 
 * [JoyOfVex中文翻译教程](https://space.bilibili.com/4665318/article)
 
+# 一些网站
+
+[vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
+
 # 自由的houdini中文视频教程
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
