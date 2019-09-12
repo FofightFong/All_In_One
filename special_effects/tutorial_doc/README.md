@@ -14,7 +14,9 @@
 
 # 一些网站
 
-[vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
+* [vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
+
+* [urdro](http://www.urdro.com/houdini_rec)
 
 # 自由的houdini中文视频教程
 
