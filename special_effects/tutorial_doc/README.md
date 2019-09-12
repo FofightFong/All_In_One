@@ -18,6 +18,8 @@
 
 * [urdro](http://www.urdro.com/houdini_rec)
 
+* [c4dsky](https://c4dsky.com/category/houdini)
+
 # 自由的houdini中文视频教程
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
