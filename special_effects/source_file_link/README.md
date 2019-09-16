@@ -2,7 +2,7 @@
 
 * panduoduo.net----[vfxcsn0309分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-1212301670)--[GUUUUUU分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-805597601)--[爱wozhenshizp分享的百度云盘资源](http://www.panduoduo.net/u/bd-3375094246)--[Oo弈缘oO分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-3660681483)--[CGP****G布丁分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-1584814570)--[zhangkaiyv2000分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-2889098306)--[ABOUTCG_ORG分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-3142481780)--[zivix分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-973688510/2)--[oneboge分享的百度云盘资源](http://www.panduoduo.net/u/bd-2033488627)--[Houdini教程集分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-356872819)--[致学网01分享的百度云盘资源 ](http://www.panduoduo.net/u/bd-891971983/27)
 
-* wechat----[派先生vfx福利一](http://mp.weixin.qq.com/mp/homepage?__biz=MzU3NTQ2MjQxNQ==&hid=11&sn=42858bcbd6b1cbe309132c1095168f0f&scene=18#wechat_redirect)
+* wechat----[派先生vfx福利01](http://mp.weixin.qq.com/mp/homepage?__biz=MzU3NTQ2MjQxNQ==&hid=11&sn=42858bcbd6b1cbe309132c1095168f0f&scene=18#wechat_redirect)--[派先生vfx福利01](http://mp.weixin.qq.com/mp/homepage?__biz=MzU3NTQ2MjQxNQ==&hid=14&sn=933e2fc7ceea0c0e0ef8aef9444b4779&scene=18#wechat_redirect)
 
 # 源文件链接
 
