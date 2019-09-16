@@ -1,5 +1,5 @@
 ## 路在脚下
-* 1.  [丝绸之路地图燃烧特效。（灰烬飘散）]()
+* 1.  [丝绸之路地图燃烧特效。（灰烬飘散）](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/burningpaper.md)
 
 * 2.  [雨痕特效，（佛像落几滴雨，浸染，由小变大，由无到有）]()
 
