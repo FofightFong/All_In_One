@@ -22,6 +22,8 @@
 
 * [houdini与其他软件的交互](https://github.com/FofightFong/All_In_One/blob/master/special_effects/between_houdini_otherSoftware/README.md)
 
+* [材质贴图相关]()
+
 ## 以自然为师
 
 * [火焰参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E7%81%AB%E7%84%B0%E5%8F%82%E8%80%83.md)
