@@ -22,7 +22,7 @@
 
 * [houdini与其他软件的交互](https://github.com/FofightFong/All_In_One/blob/master/special_effects/between_houdini_otherSoftware/README.md)
 
-* [材质贴图相关]()
+* [材质贴图相关](https://github.com/FofightFong/All_In_One/tree/master/special_effects/material)
 
 ## 以自然为师
 
