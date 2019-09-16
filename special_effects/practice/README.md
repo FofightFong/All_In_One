@@ -8,7 +8,7 @@
 
 * 5.  [沙漠风沙吹过]()
 
-* 6.  [骆驼在沙上走过留下脚印]()
+* 6.  [骆驼在沙上走过留下脚印](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/footprint.md)
 
 * 7.  [盾牌阳光下反光特效]()
 
