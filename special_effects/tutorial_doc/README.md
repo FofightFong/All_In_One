@@ -31,6 +31,8 @@
 
 *	[HOUDINI动态设计系列课程006 - 液态粒子](https://www.bilibili.com/video/av63099976)
 
+*	[houdini院校两周实训课](https://www.bilibili.com/video/av65566633)
+
 *	[很好的中文Houdini教程](https://www.bilibili.com/video/av61953327)
 
 *	[特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
@@ -134,4 +136,4 @@
 * [特效之王 Houdini 基础教程](https://www.bilibili.com/video/av33359267)
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
-](https://www.bilibili.com/video/av65566633)
+
