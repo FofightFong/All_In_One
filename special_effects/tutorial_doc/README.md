@@ -20,6 +20,8 @@
 
 * [c4dsky](https://c4dsky.com/category/houdini)
 
+* [heronuke](http://www.heronuke.com/archives/category/%E5%BD%B1%E8%A7%86%E6%95%99%E7%A8%8B/houdini)
+
 # 自由的houdini中文视频教程
 
 
