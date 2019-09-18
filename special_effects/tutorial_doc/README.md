@@ -22,6 +22,8 @@
 
 * [heronuke](http://www.heronuke.com/archives/category/%E5%BD%B1%E8%A7%86%E6%95%99%E7%A8%8B/houdini)
 
+* [newvfx](https://docs.newvfx.com/docs/category/houdini)
+
 # 自由的houdini中文视频教程
 
 
