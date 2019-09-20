@@ -24,6 +24,7 @@
 
 * [newvfx](https://docs.newvfx.com/docs/category/houdini)
 
+* [enoni](https://www.enoni.de)
 # 自由的houdini中文视频教程
 
 
