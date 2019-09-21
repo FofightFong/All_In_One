@@ -308,7 +308,8 @@
 
 * [houdini从基础到入门高清国语教程](https://www.bilibili.com/video/av53239254)
 
-* [Houdini从零开始
+* [Houdini从零开始](https://www.bilibili.com/video/av50436080)
+
 * [Houdini制作神经网络](https://www.bilibili.com/video/av27671805)
 
 * [Houdini基础入门教程](https://www.bilibili.com/video/av33210529)
@@ -358,5 +359,21 @@
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
 
 *	[【科技-Houdini教程】Houdini成长计划——12-灯泡结构分析](https://www.bilibili.com/video/av67369111)
-](https://www.bilibili.com/video/av50436080)
 
+*	[houdini 16.5 数学应用【周更，入门学习】](https://www.bilibili.com/video/av31053082)
+
+*	[Houdini-Fire Power 火特效教程 【1】-- 制作流程简介](https://www.bilibili.com/video/av27965153)
+
+*	[houdini17 pyro attributerasterize完全讲解_houdini之道 sopI卷](https://www.bilibili.com/video/av39685912)
+
+*	[houdini17 rbdobject刚体动力学数据完全讲解 sop11章节](https://www.bilibili.com/video/av40218321)
+
+*	[houdini特效笔记本【第二期】水下气泡解析](https://www.bilibili.com/video/av43132168)
+
+*	[0基础 快速入门掌握 Houdini17](https://www.bilibili.com/video/av47019461)
+
+*	[HOUDINI动态设计系列课程001 - Detangle节点](https://www.bilibili.com/video/av47089328)
+
+*	[HOUDINI动态设计系列课程002 - 流动的云层](https://www.bilibili.com/video/av47706396)
+
+*	[P.1【houdini玩家必学中文超神案列】第一节：爆米花课程简介及如何切开](https://www.bilibili.com/video/av47994100)
