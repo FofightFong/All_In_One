@@ -7,7 +7,7 @@ All In One
 
 * [特效](https://github.com/FofightFong/All_In_One/blob/master/special_effects/README.md)
 
-* Houdini源文件库--包含但不局限于hipnc,otlnc,hdanc-----[已整理](https://github.com/BlenderCN/Learnbgame/blob/master/LearnruT/houdini_poqbdb.md)-----[未整理](https://github.com/all-in-one-of)
+* Houdini源文件库,包含但不局限于hipnc,otlnc,hdanc-----[已整理](https://github.com/BlenderCN/Learnbgame/blob/master/LearnruT/houdini_poqbdb.md)-----[未整理](https://github.com/all-in-one-of)
 
 * [人多力量大----渲染农场](https://github.com/FofightFong/All_In_One/blob/master/render_farm)
 
