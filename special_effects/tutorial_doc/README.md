@@ -12,6 +12,8 @@
 
 * [JoyOfVex中文翻译教程](https://space.bilibili.com/4665318/article)
 
+* [cggiants](https://cggiants.blogspot.com/)
+
 # 一些网站
 
 * [vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
