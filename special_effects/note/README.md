@@ -10,6 +10,8 @@
 
 * 5. houdini节点解除锁定---选择节点右键Allow Editing of Contents.
 
+* 6.[houdini非商业源文件转商业源文件技巧](https://mp.weixin.qq.com/s/c_9SKm_hmLpBLt95uZXxEA)
+
 
 # 常用变量
 
