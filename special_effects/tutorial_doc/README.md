@@ -28,9 +28,9 @@
 
 * [enoni](https://www.enoni.de)
 
-# 一些频道
+# 系列频道
 
-* [Houdini学习资料](https://space.bilibili.com/17920983/channel/detail?cid=89162)
+* [【科技-Houdini教程】Houdini成长计划](https://space.bilibili.com/17920983/channel/detail?cid=89162)
 
 # 自由的houdini中文视频教程
 
