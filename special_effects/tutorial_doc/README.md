@@ -27,6 +27,11 @@
 * [newvfx](https://docs.newvfx.com/docs/category/houdini)
 
 * [enoni](https://www.enoni.de)
+
+# 一些频道
+
+* [Houdini学习资料](https://space.bilibili.com/17920983/channel/detail?cid=89162)
+
 # 自由的houdini中文视频教程
 
 *	[C4D-HOUDINI写实云层特效案例](https://www.bilibili.com/video/av56067721)
