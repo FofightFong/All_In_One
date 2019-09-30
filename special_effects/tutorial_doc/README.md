@@ -34,6 +34,14 @@
 
 * [Houdini17 从零开始入门系列](https://space.bilibili.com/53249448)--[一](https://www.bilibili.com/video/av33708355)--[二](https://www.bilibili.com/video/av34053270)--[三](https://www.bilibili.com/video/av34530044)--[四](https://www.bilibili.com/video/av34663061)--[五](https://www.bilibili.com/video/av35151918)--[六](https://www.bilibili.com/video/av35632453)--[七](https://www.bilibili.com/video/av35632659)--[八](https://www.bilibili.com/video/av37667249)
 
+* [【教程】零基础 Houdini 特效入门教程（老汪@魔力水晶的杂货铺）](https://space.bilibili.com/92441475/channel/detail?cid=48351)--[一](https://www.bilibili.com/video/av42331104)--[二](https://www.bilibili.com/video/av42410893)--[三](https://www.bilibili.com/video/av42503201)--[四](https://www.bilibili.com/video/av42599149)--[五](https://www.bilibili.com/video/av42683451)--[六](https://www.bilibili.com/video/av42763590)--[七](https://www.bilibili.com/video/av42843102)
+
+--[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+
+
+--[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+
+
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
 # 自由的houdini中文视频教程
