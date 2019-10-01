@@ -41,7 +41,7 @@
 * [【Houdini】总动员 - 特效案例](https://space.bilibili.com/285104910/channel/detail?cid=51045)--[一](https://www.bilibili.com/video/av37408685)--[二](https://www.bilibili.com/video/av37409078)--[三](https://www.bilibili.com/video/av37409433)--[四](https://www.bilibili.com/video/av37409568)
 
 
-[houdini top系列教程](https://space.bilibili.com/116394346/channel/detail?cid=68941)--[一](https://www.bilibili.com/video/av46960072)--[二](https://www.bilibili.com/video/av47201654)--[三](https://www.bilibili.com/video/av47367100)
+* [houdini top系列教程](https://space.bilibili.com/116394346/channel/detail?cid=68941)--[一](https://www.bilibili.com/video/av46960072)--[二](https://www.bilibili.com/video/av47201654)--[三](https://www.bilibili.com/video/av47367100)
 
 * [Houdini Pyro系列教程](https://space.bilibili.com/324928136?spm_id_from=333.788.b_765f7570696e666f.2)--[一](https://www.bilibili.com/video/av39971748)--[二](https://www.bilibili.com/video/av58531704)--[三](https://www.bilibili.com/video/av59763698)--[四](https://www.bilibili.com/video/av59765956)--[五](https://www.bilibili.com/video/av61282539)--[六](https://www.bilibili.com/video/av62329495)
 
@@ -51,17 +51,35 @@
 
 * [【houdini玩家必会超神中文教程】](https://space.bilibili.com/174358846/channel/detail?cid=69664)--[一](https://www.bilibili.com/video/av47994100)--[二](https://www.bilibili.com/video/av48068006)--[三](https://www.bilibili.com/video/av48478384)--[四](https://www.bilibili.com/video/av48529823)--[五](https://www.bilibili.com/video/av48700508)--[六](https://www.bilibili.com/video/av48966305)
 
+* [【中文解析经典houdini教程-中文-解析粒子】](https://space.bilibili.com/174358846/channel/detail?cid=60845)--[一](https://www.bilibili.com/video/av40106900)--[二](https://www.bilibili.com/video/av40169270)--[三](https://www.bilibili.com/video/av40241467)--[四](https://www.bilibili.com/video/av40335513)--[五](https://www.bilibili.com/video/av47355029)--[六](https://www.bilibili.com/video/av47397689)--[七](https://www.bilibili.com/video/av47487479)--[八](https://www.bilibili.com/video/av47643767)--[九](https://www.bilibili.com/video/av47657898)
+
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+
+
+--[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+
+
+--[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+
 
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
 # 自由的houdini中文视频教程
+*	[0基础 快速入门掌握 Houdini17](https://www.bilibili.com/video/av47019461)
+
+*	[3.3maya相机输出到houdini](https://www.bilibili.com/video/av20483040)
+
+*	[<中文原创教程>houdini发布渲染任务到deadline（含高版本17.5）](https://www.bilibili.com/video/av52417873)
 
 *	[C4D-HOUDINI写实云层特效案例](https://www.bilibili.com/video/av56067721)
 
 *	[Houdini - VEX实例与OpenCL入门（2018.4.30更新）](https://www.bilibili.com/video/av20622707)
 
+*	[Houdini 12 基础教程](https://www.bilibili.com/video/av57751957)
+
 *	[Houdini 16.5 影视特效基础入门教学](https://www.bilibili.com/video/av24451115)
+
+*	[houdini 16.5 数学应用【周更，入门学习】](https://www.bilibili.com/video/av31053082)
 
 *	[Houdini 16.5制作高级影视特效《火山喷发》](https://www.bilibili.com/video/av48800756)
 
@@ -97,29 +115,53 @@
 
 *	[houdini top系列教程02](https://www.bilibili.com/video/av47201654)
 
+*	[Houdini 万箭飞过效果](https://www.bilibili.com/video/av57756299)
+
+*	[Houdini 初级公开课](https://www.bilibili.com/video/av57764917)
+
+*	[Houdini 初级教程](https://www.bilibili.com/video/av57755185)
+
 *	[Houdini 基础动画建模教程 (Old Version -CN)](https://www.bilibili.com/video/av62518699)
 
 *	[Houdini 基础材质教程 (Old Version -CN)](https://www.bilibili.com/video/av62533741)
 
 *	[Houdini 帮助全解第一期](https://www.bilibili.com/video/av57771516)
 
+*	[houdini 新版本和houdini老版本if使用方法](https://www.bilibili.com/video/av37681806)
+
+*	[Houdini 流体发射源碰撞](https://www.bilibili.com/video/av57753168)
+
+*	[Houdini 流体讲解](https://www.bilibili.com/video/av57757279)
+
 *	[Houdini 海洋大旋涡特效实战教学](https://www.bilibili.com/video/av33679338)
+
+*	[Houdini 船过水面教程](https://www.bilibili.com/video/av57753966)
 
 *	[Houdini+Maya Redshift 云海特效教学【TINKER】](https://www.bilibili.com/video/av40752048)
 
 *	[Houdini+SD程序化建模演绎-岩石资产](https://www.bilibili.com/video/av61298277)
 
+*	[Houdini-Fire Power 火特效教程 【1】-- 制作流程简介](https://www.bilibili.com/video/av27965153)
+
 *	[Houdini-FX avalanche/雪崩效果制作思路分享](https://www.bilibili.com/video/av56907800)
+
+*	[houdini16.5forloop节点详解](https://www.bilibili.com/video/av56434496)
 
 *	[Houdini16.5实战教程系列（国语讲解，持续更新，2018.8.12更新）](https://www.bilibili.com/video/av28314507)
 
 *	[houdini16.5破碎基础教学](https://www.bilibili.com/video/av38828126)
 
+*	[HOUDINI16制作星盘方格](https://www.bilibili.com/video/av26774845)
+
 *	[houdini16多流体框结算烟火](https://www.bilibili.com/video/av56429079)
 
 *	[houdini17 flip新流程以及发射源本质讲解_sopI卷](https://www.bilibili.com/video/av39877449)
 
+*	[houdini17 pyro attributerasterize完全讲解_houdini之道 sopI卷](https://www.bilibili.com/video/av39685912)
+
 *	[houdini17 pyro 新流程完全与流体解算流程本质讲解_houdini之道 sopI卷](https://www.bilibili.com/video/av38764721)
+
+*	[houdini17 rbdobject刚体动力学数据完全讲解 sop11章节](https://www.bilibili.com/video/av40218321)
 
 *	[houdini17 vex基础](https://www.bilibili.com/video/av56564215)
 
@@ -146,6 +188,10 @@
 
 *	[houdini三维影视特效_地面破碎教程](https://www.bilibili.com/video/av44407000)
 
+*	[houdini中htoa的cryptomatte分层](https://www.bilibili.com/video/av35450059)
+
+*	[houdini中redshift火焰渲染教程](https://www.bilibili.com/video/av35550762)
+
 *	[houdini之道第一卷 20个完整案例快速入门内容介绍](https://www.bilibili.com/video/av50283236)
 
 *	[houdini人群教程](https://www.bilibili.com/video/av63611433)
@@ -156,6 +202,10 @@
 
 *	[Houdini体积压缩输出](https://www.bilibili.com/video/av64840796)
 
+*	[HOUDINI动态设计系列课程001 - Detangle节点](https://www.bilibili.com/video/av47089328)
+
+*	[HOUDINI动态设计系列课程002 - 流动的云层](https://www.bilibili.com/video/av47706396)
+
 *	[HOUDINI动态设计系列课程003 - 粒子飘散](https://www.bilibili.com/video/av48712909)
 
 *	[HOUDINI动态设计系列课程004 - 气球膨胀](https://www.bilibili.com/video/av50063672)
@@ -164,15 +214,19 @@
 
 *	[HOUDINI动态设计系列课程006 - 液态粒子](https://www.bilibili.com/video/av63099976)
 
-*	[HOUDINI动态设计系列课程006 - 液态粒子](https://www.bilibili.com/video/av63099976)
-
 *	[houdini基础（中文字幕）](https://www.bilibili.com/video/av16516226)
 
 *	[Houdini岩浆特效案例制作教程（上下）](https://www.bilibili.com/video/av24054376)
 
+*	[houdini渲染完成了自动关机](https://www.bilibili.com/video/av22729838)
+
 *	[HOUDINI特效教程影视特效HOUDINI16闪电人制作](https://www.bilibili.com/video/av53961069)
 
+*	[houdini特效笔记本【第二期】水下气泡解析](https://www.bilibili.com/video/av43132168)
+
 *	[houdini粒子拖尾案例两则](https://www.bilibili.com/video/av21930544)
+
+*	[houdini粒子输出到maya](https://www.bilibili.com/video/av24278211)
 
 *	[houdini视窗中显示arnold和redshift材质属性和贴图](https://www.bilibili.com/video/av55483274)
 
@@ -182,21 +236,89 @@
 
 *	[houdini零基础入门（一）houdini界面介绍](https://www.bilibili.com/video/av45095160)
 
+*	[Maya学Houdin入门教学](https://www.bilibili.com/video/av57764956)
+
+*	[P.1【houdini玩家必学中文超神案列】第一节：爆米花课程简介及如何切开](https://www.bilibili.com/video/av47994100)
+
 *	[P·1【中文houdini-中文-解析经典之作】动态线的模拟制作](https://www.bilibili.com/video/av40106900)
 
 *	[Redshift for houdini 安装破解](https://www.bilibili.com/video/av56910301)
 
+*	[redshift for houdini 简单流程渲染](https://www.bilibili.com/video/av24136421)
+
 *	[redshift for houdini 超方便灵活 自定义材质输出](https://www.bilibili.com/video/av60754101)
+
+*	[VEX版本活泼多动症的方盒子houdini17【第十四期日更三维小教程houdini篇】](https://www.bilibili.com/video/av38863884)
+
+*	[VEX版点云Pcfind用法及如何把模型变成可控的线框【第十六期日更三维小教程houdini篇】](https://www.bilibili.com/video/av39019573)
+
+*	[VEX用for循环创建一个自由的圆锥 上【第十七期日更三维小教程houdini篇】](https://www.bilibili.com/video/av39089610)
+
+*	[VEX用for循环创建一个自由的圆锥 下【第十八期日更三维小教程houdini篇】](https://www.bilibili.com/video/av39157849)
 
 *	[《火山喷发》houdini特效全流程制作教程 流体 破碎 粒子 烟雾！](https://www.bilibili.com/video/av48722389)
 
+*	[【Houdini】Houdini 12 TVart课堂基础入门（国语）](https://www.bilibili.com/video/av32699823)
+
+*	[【Houdini】Houdini 12 TVart课堂流体教程（国语）](https://www.bilibili.com/video/av33280079)
+
+*	[【Houdini】Houdini 12 水晶石教育 标准教程（国语）](https://www.bilibili.com/video/av33438039)
+
+*	[【Houdini】Houdini 14基础建模教程（国语）](https://www.bilibili.com/video/av33215513)
+
+*	[【Houdini】Houdini H17 基础教程（广东话）](https://www.bilibili.com/video/av36601926)
+
+*	[【Houdini】houdini python 开发实战](https://www.bilibili.com/video/av33143116)
+
+*	[【Houdini】Houdini 云朵和静帧的制作 实战（国语）](https://www.bilibili.com/video/av33580168)
+
+*	[【Houdini】Houdini 冰块渲染 实战（国语）](https://www.bilibili.com/video/av32988810)
+
+*	[【Houdini】Houdini 刚体破碎 实战（国语）](https://www.bilibili.com/video/av32870199)
+
+*	[【Houdini】Houdini 大楼倒塌教程（国语）](https://www.bilibili.com/video/av34523924)
+
+*	[【Houdini】Houdini 岩浆和绿烟 实战（国语）](https://www.bilibili.com/video/av33417590)
+
+*	[【Houdini】Houdini 流体开道 实战（国语）](https://www.bilibili.com/video/av33331300)
+
 *	[【Houdini】Houdini 流体海洋 实战（国语）](https://www.bilibili.com/video/av33157626)
+
+*	[【Houdini】Houdini 流体烟火 实战（国语）](https://www.bilibili.com/video/av32896182)
+
+*	[【Houdini】Houdini 流体粒子 实战（国语）](https://www.bilibili.com/video/av33259916)
+
+*	[【Houdini】Houdini13 中文经典教程（国语）](https://www.bilibili.com/video/av33339239)
 
 *	[【Houdini】Houdini14 初级教程（国语）](https://www.bilibili.com/video/av32723872)
 
+*	[【Houdini】Houdini16 基础入门教程（台湾老师国语）](https://www.bilibili.com/video/av31187812)
+
+*	[【Houdini】houdini16.5 vex查找附近点生长线（国语）](https://www.bilibili.com/video/av34567934)
+
+*	[【Houdini】Houdini16.5 基础教程（国语）](https://www.bilibili.com/video/av34533178)
+
 *	[【Houdini】HOUDINI三維特效｜提升動畫創作的自由度和速度（台湾老师国语32集）](https://www.bilibili.com/video/av31780220)
 
+*	[【Houdini】Houdini基础入门教程（国语）](https://www.bilibili.com/video/av32382051)
+
+*	[【Houdini】Houdini基础入门教程（国语）](https://www.bilibili.com/video/av33210529)
+
 *	[【Houdini】Houdini总动员（基础、建模、动画、材质）（国语）](https://www.bilibili.com/video/av34340416)
+
+*	[【Houdini】Houdini结合C4D预设 制作火山案例教程（国语）](https://www.bilibili.com/video/av33281420)
+
+*	[【Houdini】Houdini网络基础教程（国语）](https://www.bilibili.com/video/av34202405)
+
+*	[【Houdini】Houdini高级实训（国语）](https://www.bilibili.com/video/av33075082)
+
+*	[【Houdini】Maya 与 Houdini 火龙卷制作 实战（国语）](https://www.bilibili.com/video/av33779127)
+
+*	[【Houdini】从Maya学Houdini零起点入门极速教学（国语）](https://www.bilibili.com/video/av33253380)
+
+*	[【Houdini】特效之王 Houdini 基础教程（国语）](https://www.bilibili.com/video/av33359267)
+
+*	[【houdini】自制小工具，破碎tips教程~](https://www.bilibili.com/video/av9635673)
 
 *	[【houdini中文教程】特效之王houdini从精通到入门再到入土系列教程第10000期——酷炫椭圆轨迹](https://www.bilibili.com/video/av11031553)
 
@@ -204,11 +326,21 @@
 
 *	[【houdini破碎特效教程】-飞天遁地](https://www.bilibili.com/video/av56420631)
 
+*	[【Q&A】Houdini 问与答 (18.12.07更新)](https://www.bilibili.com/video/av36569238)
+
+*	[【Settings】更改Houdini界面字体与大小](https://www.bilibili.com/video/av15233945)
+
+*	[【Settings】设置Houdini节点的初始颜色和形状](https://www.bilibili.com/video/av40146834)
+
+*	[【VEX】Houdini的UV插值（primuv / uvsample）介绍 (11.09更新)](https://www.bilibili.com/video/av35348348)
+
 *	[【VEX】Houdini的点云（Point Cloud）介绍](https://www.bilibili.com/video/av21033590)
 
 *	[【VEX】从 CityEngine 到 Houdini （19.09.09更新）](https://www.bilibili.com/video/av67212602)
 
 *	[【优秀】大象小牛的houdini 16.5 中文案例教程](https://www.bilibili.com/video/av53708682)
+
+*	[【做特技】如何在houdini 14中制作火龙卷](https://www.bilibili.com/video/av2158768)
 
 *	[【免费教程】Houdini16案例教程](https://www.bilibili.com/video/av27306274)
 
@@ -218,11 +350,35 @@
 
 *	[【原创】Houdini17新功能中文教程——毛发，布料，沙子](https://www.bilibili.com/video/av33753999)
 
+*	[【原创教程】一键做石头](https://www.bilibili.com/video/av22695323)
+
+*	[【原创教程】如何一键建模？Houdini16.5小周她爸原创程序化建模教程（一）](https://www.bilibili.com/video/av22115625)
+
 *	[【原创教程】如何制作动感光效？Houdini16.5小周她爸原创程序化建模教程（二）](https://www.bilibili.com/video/av22420078)
+
+*	[【原创教程】小周她爸Houdini16.5VDB入门（一）](https://www.bilibili.com/video/av23275872)
+
+*	[【原创教程】小周她爸Houdini16.5原创中文教程_火花效果](https://www.bilibili.com/video/av19393122)
+
+*	[【原创教程】小周她爸Houdini16.5原创中文教程_粒子消散效果Logo](https://www.bilibili.com/video/av19901996)
+
+*	[【原创教程】小周她爸Houdini16.5原创中文教程之物体消散效果](https://www.bilibili.com/video/av20372175)
+
+*	[【原创教程】小周她爸原创Houdini16.5基础教程之色彩基础一](https://www.bilibili.com/video/av23159255)
+
+*	[【小案例】在Houdini中制作切片效果](https://www.bilibili.com/video/av31131494)
 
 *	[【带你入坑Houdini】物体旋转的原理+在VEX中使用矩阵和四元数对物体进行旋转](https://www.bilibili.com/video/av65221922)
 
+*	[【教程】真·电影级特效教程零基础上手篇——（预热）](https://www.bilibili.com/video/av4638883)
+
 *	[【特效教程】初识Houdini 17白水系统，水池气泡教程免费升级教程。](https://www.bilibili.com/video/av36041708)
+
+*	[【玩转VEX】Houdini中使用VEX对任意四边面进行随机分割](https://www.bilibili.com/video/av68613041)
+
+*	[【玩转VEX】粉碎吧，派大星！Houdini中使用VEX对三角、四边面模型进行分割](https://www.bilibili.com/video/av69290224)
+
+*	[【电影特效】真·电影特效教程第二期——神说特效起源于sop](https://www.bilibili.com/video/av4758338)
 
 *	[【科技-Houdini教程】Houdini成长计划——01-界面布局1](https://www.bilibili.com/video/av67023139)
 
@@ -246,6 +402,8 @@
 
 *	[【科技-Houdini教程】Houdini成长计划——11-石磨模型制作3](https://www.bilibili.com/video/av67327347)
 
+*	[【科技-Houdini教程】Houdini成长计划——12-灯泡结构分析](https://www.bilibili.com/video/av67369111)
+
 *	[【科技-Houdini教程】Houdini成长计划——13-灯泡模型制作1](https://www.bilibili.com/video/av67437113)
 
 *	[【科技-Houdini教程】Houdini成长计划——14-灯泡模型制作2](https://www.bilibili.com/video/av67499130)
@@ -258,21 +416,37 @@
 
 *	[【科技-Houdini教程】Houdini成长计划——18-灯泡模型制作5](https://www.bilibili.com/video/av67823918)
 
-*	[【科技-Houdini教程】Houdini成长计划——18-灯泡模型制作5](https://www.bilibili.com/video/av67823918)
-
 *	[【科技-Houdini教程】Houdini成长计划——19-灯泡模型制作6](https://www.bilibili.com/video/av67834514)
 
 *	[【科技-Houdini教程】Houdini成长计划——20-地形的开始1](https://www.bilibili.com/video/av67939321)
 
 *	[【科技-Houdini教程】Houdini成长计划——21-地形的开始2](https://www.bilibili.com/video/av68033046)
 
+*	[【程序化解忧杂货铺】Houdini中物体旋转的原理+在VEX中使用矩阵和四元数对物体进行旋转](https://www.bilibili.com/video/av65221922)
+
 *	[【虚幻4】houdini引擎与虚幻4联动教程（我断更了‎）](https://www.bilibili.com/video/av55458609)
+
+*	[【闪电工具】一个自制的快速创建二维三维闪电特效工具。](https://www.bilibili.com/video/av10076547)
+
+*	[做一个三维logo还需要一点一点画吗？一键搞定！又快又好！【第四期日更小技巧】](https://www.bilibili.com/video/av37554410)
 
 *	[很好的中文Houdini教程](https://www.bilibili.com/video/av61953327)
 
 *	[注意！某加国houdini特效师人品与教程总结！](https://www.bilibili.com/video/av40346078)
 
+*	[火焰喷射炫彩粒子模拟 houdini16.5【第十一期日更三维小教程houdini篇】](https://www.bilibili.com/video/av38445901)
+
+*	[炫彩火焰喷射粒子渲染houdini16.5 【第十二期日更三维小教程houdini篇】](https://www.bilibili.com/video/av38546883)
+
+*	[点云Pcfind用法，如何把模型变成可控的线框【第十五期日更三维小教程houdini篇】](https://www.bilibili.com/video/av38944195)
+
 *	[特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
+
+*	[特效我只服你](https://www.bilibili.com/video/av14151634)
+
+*	[直线网Houdini制作沙子剥离效果](https://www.bilibili.com/video/av26758391)
+
+*	[设计师必用背景板！只需做一次！终生享用！渲染利器！ houdini16.5【第十期日更三维小教程houdini篇】](https://www.bilibili.com/video/av38379491)
 
 *	[详解Houdini中的四元数【TINKER】](https://www.bilibili.com/video/av42184730)
 
@@ -334,8 +508,6 @@
 
 * [houdini中文基础教程](https://www.bilibili.com/video/av31582609)
 
-* [houdini中文基础教程](https://www.bilibili.com/video/av31582609)
-
 * [houdini从基础到入门高清国语教程](https://www.bilibili.com/video/av53239254)
 
 * [Houdini从零开始](https://www.bilibili.com/video/av50436080)
@@ -387,28 +559,3 @@
 * [特效之王 Houdini 基础教程](https://www.bilibili.com/video/av33359267)
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
-
-*	[【科技-Houdini教程】Houdini成长计划——12-灯泡结构分析](https://www.bilibili.com/video/av67369111)
-
-*	[houdini 16.5 数学应用【周更，入门学习】](https://www.bilibili.com/video/av31053082)
-
-*	[Houdini-Fire Power 火特效教程 【1】-- 制作流程简介](https://www.bilibili.com/video/av27965153)
-
-*	[houdini17 pyro attributerasterize完全讲解_houdini之道 sopI卷](https://www.bilibili.com/video/av39685912)
-
-*	[houdini17 rbdobject刚体动力学数据完全讲解 sop11章节](https://www.bilibili.com/video/av40218321)
-
-*	[houdini特效笔记本【第二期】水下气泡解析](https://www.bilibili.com/video/av43132168)
-
-*	[0基础 快速入门掌握 Houdini17](https://www.bilibili.com/video/av47019461)
-
-*	[HOUDINI动态设计系列课程001 - Detangle节点](https://www.bilibili.com/video/av47089328)
-
-*	[HOUDINI动态设计系列课程002 - 流动的云层](https://www.bilibili.com/video/av47706396)
-
-*	[P.1【houdini玩家必学中文超神案列】第一节：爆米花课程简介及如何切开](https://www.bilibili.com/video/av47994100)
-
-*	[【优秀】大象小牛的houdini 16.5 中文案例教程](https://www.bilibili.com/video/av53708682)
-
-*	[houdini16.5forloop节点详解](https://www.bilibili.com/video/av56434496)
-
