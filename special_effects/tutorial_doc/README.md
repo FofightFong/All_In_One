@@ -38,7 +38,7 @@
 
 * [HOUDINI动态设计系列课程](https://space.bilibili.com/377698534/channel/detail?cid=69075)--[一](https://www.bilibili.com/video/av47089328)--[二](https://www.bilibili.com/video/av47706396)--[三](https://www.bilibili.com/video/av48712909)--[四](https://www.bilibili.com/video/av50063672)--[五](https://www.bilibili.com/video/av59991021)--[六](https://www.bilibili.com/video/av63099976)
 
---[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+* [【Houdini】总动员 - 特效案例](https://space.bilibili.com/285104910/channel/detail?cid=51045)--[一](https://www.bilibili.com/video/av37408685)--[二](https://www.bilibili.com/video/av37409078)--[三](https://www.bilibili.com/video/av37409433)--[四](https://www.bilibili.com/video/av37409568)--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
 
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
