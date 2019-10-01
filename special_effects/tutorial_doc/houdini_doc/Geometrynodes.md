@@ -198,706 +198,706 @@ Copies and flips attributes from one side of a plane to another.
 Adds noise to attributes of the incoming geometry.
 
 
-Attribute Promote
+[Attribute Promote]()
 
 Promotes or demotes attributes from one geometry level to another.
 
 
-Attribute Randomize
+[Attribute Randomize]()
 
 Generates random attribute values of various distributions.
 
 
-Attribute Rename
+[Attribute Rename]()
 
 Renames or deletes point and primitive attributes.
 
 
-Attribute Reorient
+[Attribute Reorient]()
 
 Modifies point attributes based on differences between two models.
 
 
-Attribute String Edit
+[Attribute String Edit]()
 
 Edits string attribute values.
 
 
-Attribute Swap
+[Attribute Swap]()
 
 Copies, moves, or swaps the contents of attributes.
 
 
-Attribute Transfer
+[Attribute Transfer]()
 
 Transfers vertex, point, primitive, and/or detail attributes between two models.
 
-Attribute Transfer By UV
+[Attribute Transfer By UV]()
 
 Transfers attributes between two geometries based on UV proximity.
 
 
-Attribute VOP
+[Attribute VOP]()
 
 Runs a VOP network to modify geometry attributes.
 
 
-Attribute Wrangle
+[Attribute Wrangle]()
 
 Runs a VEX snippet to modify attribute values.
 
 
-Attribute from Map
+[Attribute from Map]()
 
 Samples texture map information to a point attribute.
 
 
-Attribute from Volume
+[Attribute from Volume]()
 
 Copies information from a volume onto the point attributes of another piece of geometry, with optional remapping.
 
 
-Bake ODE
+[Bake ODE]()
 
 Converts primitives for ODE and Bullet solvers.
 
-Bake Volume
+[Bake Volume]()
 
 Computes lighting values within volume primitives
 
 
-Basis
+[Basis]()
 
 Provides operations for moving knots within the parametric space of a NURBS curve or surface.
 
 
-Bend
+[Bend]()
 
 Applies deformations such as bend, taper, squash/stretch, and twist.
 
 
-Blast
+[Blast]()
 
 Deletes primitives, points, edges or breakpoints.
 
 
-Blend Shapes
+[Blend Shapes]()
 
 Computes a 3D metamorphosis between shapes with the same topology.
 
 
-Blend Shapes
+[Blend Shapes]()
 
 Computes a 3D metamorphosis between shapes with the same topology.
 
 
-Block Begin
+[Block Begin]()
 
 The start of a looping block.
 
 
-Block Begin Compile
+[Block Begin Compile]()
 
 The start of a compile block.
 
 
-Block End
+[Block End]()
 
 The end/output of a looping block.
 
 
-Block End Compile
+[Block End Compile]()
 
 The end/output of a compile block.
 
 
-Bone Capture
+[Bone Capture]()
 
 Supports Bone Deform by assigning capture weights to bones.
 
 
-Bone Capture Biharmonic
+[Bone Capture Biharmonic]()
 
 Supports Deform by assigning capture weights to points based on biharmonic functions on tetrahedral meshes.
 
 
-Bone Capture Lines
+[Bone Capture Lines]()
 
 Supports Bone Capture Biharmonic by creating lines from bones with suitable attributes.
 
 
-Bone Capture Proximity
+[Bone Capture Proximity]()
 
 Supports Bone Deform by assigning capture weights to points based on distance to bones.
 
 
-Bone Deform
+[Bone Deform]()
 
 Uses capture attributes created from bones to deform geometry according to their movement.
 
 
-Bone Link
+[Bone Link]()
 
 Creates default geometry for Bone objects.
 
 
-Boolean
+[Boolean]()
 
 Combines two polygonal objects with boolean operators, or finds the intersection lines between two polygonal objects.
 
 
-Boolean Fracture
+[Boolean Fracture]()
 
 Fractures the input geometry using cutting surfaces.
 
 
-Bound
+[Bound]()
 
 Creates a bounding box, sphere, or rectangle for the input geometry.
 
 
-Box
+[Box]()
 
 Creates a cube or six-sided rectangular box.
 
 
-Bulge
+[Bulge]()
 
 Deforms the points in the first input using one or more magnets from the second input.
 
 
-Cache
+[Cache]()
 
 Records and caches its input geometry for faster playback.
 
 
-Cap
+[Cap]()
 
 Closes open areas with flat or rounded coverings.
 
 
-Capture Attribute Pack
+[Capture Attribute Pack]()
 
 Converts array attributes into a single index-pair capture attribute.
 
 
-Capture Attribute Unpack
+[Capture Attribute Unpack]()
 
 Converts a single index-pair capture attribute into per-point and detail array attributes.
 
 
-Capture Correct
+[Capture Correct]()
 
 Adjusts capture regions and capture weights.
 
 
-Capture Layer Paint
+[Capture Layer Paint]()
 
 Lets you paint capture attributes directly onto geometry.
 
 
-Capture Mirror
+[Capture Mirror]()
 
 Copies capture attributes from one half of a symmetric model to the other.
 
 
-Capture Override
+[Capture Override]()
 
 Overrides the capture weights on individual points.
 
 
-Capture Region
+[Capture Region]()
 
 Supports Capture and Deform operation by creating a volume within which points are captured to a bone.
 
 
-Carve
+[Carve]()
 
 Slices, cuts or extracts points or cross-sections from a primitive.
 
 
-Channel
+[Channel]()
 
 Reads sample data from a chop and converts it into point positions and point attributes.
 
 
-Circle
+[Circle]()
 
 Creates open or closed arcs, circles and ellipses.
 
 
-Clay
+[Clay]()
 
 Lets you deform NURBS faces and NURBS surfaces by pulling points that lie directly on them.
 
 
-Clean
+[Clean]()
 
 Helps clean up dirty models.
 
 
-Clip
+[Clip]()
 
 Removes or groups geometry on one side of a plane, or creases geometry along a plane.
 
 
-Cloth Capture
+[Cloth Capture]()
 
 Captures low-res simulated cloth.
 
 
-Cloth Deform
+[Cloth Deform]()
 
 Deforms geometry captured by the Cloth Capture SOP.
 
 
-Cloud
+[Cloud]()
 
 Creates a volume representation of source geometry.
 
 
-Cloud Light
+[Cloud Light]()
 
 Fills a volume with a diffuse light.
 
 
-Cloud Noise
+[Cloud Noise]()
 
 Applies a cloud like noise to a Fog volume.
 
 
-Cluster
+[Cluster]()
 
 Low-level machinery to cluster points based on their positions (or any vector attribute).
 
 
-Cluster Points
+[Cluster Points]()
 
 Higher-level node to cluster points based on their positions (or any vector attribute).
 
 
-Collision Source
+[Collision Source]()
 
 Creates geometry and VDB volumes for use with DOPs collisions.
 
 
-Color
+[Color]()
 
 Adds color attributes to geometry.
 
 
-Comb
+[Comb]()
 
 Adjust surface point normals by painting.
 
 
-Connect Adjacent Pieces
+[Connect Adjacent Pieces]()
 
 Creates lines between nearby pieces.
 
 
-Connectivity
+[Connectivity]()
 
 Creates an attribute with a unique value for each set of connected primitives or points.
 
 
-Control
+[Control]()
 
 Creates simple geometry for use as control shapes.
 
 
-Convert
+[Convert]()
 
 Converts geometry from one geometry type to another.
 
 
-Convert HeightField
+[Convert HeightField]()
 
 Converts a 2D height field to a 3D VDB volume, polygon surface, or polygon soup surface.
 
 
-Convert Line
+[Convert Line]()
 
 Converts the input geometry into line segments.
 
 
-Convert Meta
+[Convert Meta]()
 
 Polygonizes metaball geometry.
 
 
-Convert Tets
+[Convert Tets]()
 
 Generates the oriented surface of a tetrahedron mesh.
 
 
-Convert VDB
+[Convert VDB]()
 
 Converts sparse volumes.
 
 
-Convert VDB Points
+[Convert VDB Points]()
 
 Converts a Point Cloud into a VDB Points Primitive, or vice versa.
 
 
-Convert Volume
+[Convert Volume]()
 
 Converts the iso-surface of a volume into a polygonal surface.
 
 
-Convex Decomposition
+[Convex Decomposition]()
 
 Decomposes the input geometry into approximate convex segments.
 
 
-Copy Stamp
+[Copy Stamp]()
 
 Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
 
 
-Copy and Transform
+[Copy and Transform]()
 
 Copies geometry and applies transformations to the copies.
 
 
-Copy to Points
+[Copy to Points]()
 
 Copies the geometry in the first input onto the points of the second input.
 
 
-Crease
+[Crease]()
 
 Manually adds or removes a creaseweight attribute to/from polygon edges, for use with the Subdivide SOP.
 
 
-Creep
+[Creep]()
 
 Deforms and animates a piece of geometry across a surface.
 
 
-Crowd Source
+[Crowd Source]()
 
 Populates a crowd of agent primitives.
 
 
-Crowd Source
+[Crowd Source]()
 
 Creates crowd agents to be used with the crowd solver.
 
 
-Curve
+[Curve]()
 
 Creates polygonal, NURBS, or Bezier curves.
 
 
-Curveclay
+[Curveclay]()
 
 Deforms a spline surface by reshaping a curve on the surface.
 
 
-Curvesect
+[Curvesect]()
 
 Finds the intersections (or points of minimum distance) between two or more curves or faces.
 
 
-DOP I/O
+[DOP I/O]()
 
 Imports fields from DOP simulations, saves them to disk, and loads them back again.
 
 
-DOP Import Fields
+[DOP Import Fields]()
 
 Imports scalar and vector fields from a DOP simulation.
 
 
-DOP Import Records
+[DOP Import Records]()
 
 Imports option and record data from DOP simulations into points with point attributes.
 
 
-DOP Network
+[DOP Network]()
 
 
-Debris Source
+[Debris Source]()
 
 Generates point emission sources for debris from separating fractured rigid body objects.
 
 
-Deformation Wrangle
+[Deformation Wrangle]()
 
 Runs a VEX snippet to deform geometry.
 
 
-Delete
+[Delete]()
 
 Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
 
 
-DeltaMush
+[DeltaMush]()
 
 Smooths out (or "relaxes") point deformations.
 
 
-Detangle
+[Detangle]()
 
 Attempts to prevent collisions when deforming geometry.
 
 
-Dissolve
+[Dissolve]()
 
 Deletes edges from the input polygonal geometry merging polygons with shared edges.
 
 
-Dissolve
+[Dissolve]()
 
 Deletes points, primitives, and edges from the input geometry and repairs any holes left behind.
 
 
-Divide
+[Divide]()
 
 Divides, smooths, and triangulates polygons.
 
 
-Dop Import
+[Dop Import]()
 
 Imports and transforms geometry based on information extracted from a DOP simulation.
 
 
-Draw Curve
+[Draw Curve]()
 
 Creates a curve based on user input in the viewport.
 
 
-Draw Guides
+[Draw Guides]()
 
 
-Each
+[Each]()
 
 Culls the input geometry according to the specifications of the For Each SOP.
 
 
-Edge Collapse
+[Edge Collapse]()
 
 Collapses edges and faces to their centerpoints.
 
 
-Edge Cusp
+[Edge Cusp]()
 
 Sharpens edges by uniquing their points and recomputing point normals.
 
 
-Edge Divide
+[Edge Divide]()
 
 Inserts points on the edges of polygons and optionally connects them.
 
 
-Edge Flip
+[Edge Flip]()
 
 Flips the direction of polygon edges.
 
 
-Edge Fracture
+[Edge Fracture]()
 
 Cuts geometry along edges using guiding curves.
 
 
-Edge Transport
+[Edge Transport]()
 
 Copies and optionally modifies attribute values along edges networks and curves.
 
 
-Edit
+[Edit]()
 
 Edits points, edges, or faces interactively.
 
 
-Ends
+[Ends]()
 
 Closes, opens, or clamps end points.
 
 
-Enumerate
+[Enumerate]()
 
 Sets an attribute on selected points or primitives to sequential numbers.
 
 
-Error
+[Error]()
 
 Generates a message, warning, or error, which can show up on a parent asset.
 
 
-Exploded View
+[Exploded View]()
 
 Pushes geometry out from the center to create an exploded view.
 
-Exploded View
+[Exploded View]()
 
 Pushes geometry out from the center to create an exploded view.
 
 
-Extract Centroid
+[Extract Centroid]()
 
 Computes the centroid of each piece of the geometry.
 
 
-Extract Transform
+[Extract Transform]()
 
 Computes the best-fit transform between two pieces of geometry.
 
 
-Extrude
+[Extrude]()
 
 Extrudes geometry along a normal.
 
 
-Extrude Volume
+[Extrude Volume]()
 
 Extrudes surface geometry into a volume.
 
 
-FEM Visualization
+[FEM Visualization]()
 
 
-FLIP Source
+[FLIP Source]()
 
 Creates a surface or density VDB for sourcing FLIP simulations.
 
 
-Facet
+[Facet]()
 
 Controls the smoothness of faceting of a surface.
 
 
-Falloff
+[Falloff]()
 
 Adds smooth distance attributes to geometry.
 
 
-Filament Advect
+[Filament Advect]()
 
 Evolves polygonal curves as vortex filaments.
 
 
-File
+[File]()
 
 Reads, writes, or caches geometry on disk.
 
 
-File Cache
+[File Cache]()
 
 Writes and reads geometry sequences to disk.
 
 
-File Merge
+[File Merge]()
 
 Reads and collates data from disk.
 
 
-Fillet
+[Fillet]()
 
 Creates smooth bridging geometry between two curves or surfaces.
 
 
-Filmbox FBX ROP output driver
+[Filmbox FBX ROP output driver]()
 
 
-Find Shortest Path
+[Find Shortest Path]()
 
 Finds the shortest paths from start points to end points, following the edges of a surface.
 
 
-Fit
+[Fit]()
 
 Fits a spline curve to points, or a spline surface to a mesh of points.
 
 
-Fluid Compress
+[Fluid Compress]()
 
 Compresses the output of fluid simulations to decrease size on disk
 
 
-Font
+[Font]()
 
 Creates 3D text from Type 1, TrueType and OpenType fonts.
 
 
-Force
+[Force]()
 
 Uses a metaball to attract or repel points or springs.
 
 
-Fractal
+[Fractal]()
 
 Creates jagged mountain-like divisions of the input geometry.
 
 
-Fur
+[Fur]()
 
 Creates a set of hair-like curves across a surface.
 
 
-Fuse
+[Fuse]()
 
 Merges points.
 
 
-Fuse
+[Fuse]()
 
 Merges or splits (uniques) points.
 
 
-Glue Cluster
+[Glue Cluster]()
 
 Adds strength to a glue constraint network according to cluster values.
 
 
-Grain Source
+[Grain Source]()
 
 Generates particles to be used as sources in a particle-based grain simulation.
 
 
-Graph Color
+[Graph Color]()
 
 Assigns a unique integer attribute to non-touching components.
 
 
-Grid
+[Grid]()
 
 Creates planar geometry.
 
 
-Groom Blend
+[Groom Blend]()
 
 Blends the guides and skin of two grooms.
 
 
-Groom Fetch
+[Groom Fetch]()
 
 Fetches groom data from grooming objects.
 
 
-Groom Pack
+[Groom Pack]()
 
 Packs the components of a groom into a set of named Packed Primitives for the purpose of writing it to disk.
 
 
-Groom Switch
+[Groom Switch]()
 
 Switches between all components of two groom streams.
 
 
-Groom Unpack
+[Groom Unpack]()
 
 Unpacks the components of a groom from a packed groom.
 
 
-Group
+[Group]()
 
 Generates groups of points, primitives, edges, or vertices according to various criteria.
 
 
-Group Combine
+[Group Combine]()
 
 Combines point groups, primitive groups, or edge groups according to boolean operations.
 
