@@ -395,3 +395,8 @@
 *	[HOUDINI动态设计系列课程002 - 流动的云层](https://www.bilibili.com/video/av47706396)
 
 *	[P.1【houdini玩家必学中文超神案列】第一节：爆米花课程简介及如何切开](https://www.bilibili.com/video/av47994100)
+
+*	[【优秀】大象小牛的houdini 16.5 中文案例教程](https://www.bilibili.com/video/av53708682)
+
+*	[houdini16.5forloop节点详解](https://www.bilibili.com/video/av56434496)
+
