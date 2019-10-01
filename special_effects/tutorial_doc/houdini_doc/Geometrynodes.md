@@ -133,67 +133,67 @@ Modifies intrinsic properties of Alembic primitives.
 [Alembic ROP output driver]()
 
 
-Align
+[Align]()
 
 Aligns a group of primitives to each other or to an auxiliary input.
 
 
-Assemble
+[Assemble]()
 
 Cleans up a series of break operations and creates the resulting pieces.
 
 
-Attribute Blur
+[Attribute Blur]()
 
 Blurs out (or "relaxes") points in a mesh or a point cloud.
 
 
-Attribute Cast
+[Attribute Cast]()
 
 Changes the size/precision Houdini uses to store an attribute.
 
 
-Attribute Composite
+[Attribute Composite]()
 
 Composites vertex, point, primitive, and/or detail attributes between two or more selections.
 
 
-Attribute Copy
+[Attribute Copy]()
 
 Copies attributes between groups of vertices, points, or primitives.
 
 
-Attribute Create
+[Attribute Create]()
 
 Adds or edits user defined attributes.
 
 
-Attribute Delete
+[Attribute Delete]()
 
 Deletes point and primitive attributes.
 
 
-Attribute Expression
+[Attribute Expression]()
 
 Allows simple VEX expressions to modify attributes.
 
 
-Attribute Fade
+[Attribute Fade]()
 
 Fades a point attribute in and out over time.
 
 
-Attribute Interpolate
+[Attribute Interpolate]()
 
 Interpolates attributes within primitives or based on explicit weights.
 
 
-Attribute Mirror
+[Attribute Mirror]()
 
 Copies and flips attributes from one side of a plane to another.
 
 
-Attribute Noise
+[Attribute Noise]()
 
 Adds noise to attributes of the incoming geometry.
 
