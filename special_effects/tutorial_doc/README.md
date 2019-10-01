@@ -41,9 +41,15 @@
 * [【Houdini】总动员 - 特效案例](https://space.bilibili.com/285104910/channel/detail?cid=51045)--[一](https://www.bilibili.com/video/av37408685)--[二](https://www.bilibili.com/video/av37409078)--[三](https://www.bilibili.com/video/av37409433)--[四](https://www.bilibili.com/video/av37409568)
 
 
---[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+[houdini top系列教程](https://space.bilibili.com/116394346/channel/detail?cid=68941)--[一](https://www.bilibili.com/video/av46960072)--[二](https://www.bilibili.com/video/av47201654)--[三](https://www.bilibili.com/video/av47367100)
 
---[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+* [Houdini Pyro系列教程](https://space.bilibili.com/324928136?spm_id_from=333.788.b_765f7570696e666f.2)--[一](https://www.bilibili.com/video/av39971748)--[二](https://www.bilibili.com/video/av58531704)--[三](https://www.bilibili.com/video/av59763698)--[四](https://www.bilibili.com/video/av59765956)--[五](https://www.bilibili.com/video/av61282539)--[六](https://www.bilibili.com/video/av62329495)
+
+* [houdini_课程_day_01](https://space.bilibili.com/402001625?spm_id_from=333.788.b_765f7570696e666f.2)--[一](https://www.bilibili.com/video/av64543644)--[二](https://www.bilibili.com/video/av64543906)--[三](https://www.bilibili.com/video/av64544102)--[四](https://www.bilibili.com/video/av64544425)
+
+* [HOUDINI系统入门](https://space.bilibili.com/377698534/channel/detail?cid=69076)--[一](https://www.bilibili.com/video/av47128626)--[二](https://www.bilibili.com/video/av47128704)--[三](https://www.bilibili.com/video/av47128774)--[四](https://www.bilibili.com/video/av47128841)--[五](https://www.bilibili.com/video/av47128914)--[六](https://www.bilibili.com/video/av47129220)--[七](https://www.bilibili.com/video/av47129391)--[八](https://www.bilibili.com/video/av47129503)--[九](https://www.bilibili.com/video/av47129662)--[十](https://www.bilibili.com/video/av47129932)--[十一](https://www.bilibili.com/video/av47130234)--[十二](https://www.bilibili.com/video/av47130368)
+
+* [【houdini玩家必会超神中文教程】](https://space.bilibili.com/174358846/channel/detail?cid=69664)--[一](https://www.bilibili.com/video/av47994100)--[二](https://www.bilibili.com/video/av48068006)--[三](https://www.bilibili.com/video/av48478384)--[四](https://www.bilibili.com/video/av48529823)--[五](https://www.bilibili.com/video/av48700508)--[六](https://www.bilibili.com/video/av48966305)
 
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
