@@ -2573,784 +2573,784 @@ Applies a rotation by 'angle' radians to the given 3×3 or 4×4 matrix.
 Rotates a vector by a quaternion.
 
 
-Round to Integer
+[Round to Integer]()
 
 Rounds the argument to the closest integer.
 
-Rounded Edge
+[Rounded Edge]()
 
 Blends the normals between faces within specified radius.
 
 
-Rounded Hexes
+[Rounded Hexes]()
 
 Generates repeating filtered rounded hexagons.
 
 
-Rounded Stars
+[Rounded Stars]()
 
 Generates repeating filtered rounded five-pointed stars.
 
 
-Run External Program Procedural
+[Run External Program Procedural]()
 
 This procedural will run an external application in order to generate geometry at render time.
 
-SSS Component
+[SSS Component]()
 
 Adds energy conservation functionality and additional controls to the Physical SSS VOP.
 
 
-Sample Sphere
+[Sample Sphere]()
 
 Samples the interior or surface of the unit circle, sphere, or hypersphere, within a max angle of a direction.
 
 
-Scale
+[Scale]()
 
 Scales a 3×3 or 4×4 matrix by 'amount' units along the x,y, and z axes.
 
 
-Scales
+[Scales]()
 
 Generates a scale-like pattern and returns the displaced position, normal, and displacement amount.
 
 
-Sensor Panorama Color
+[Sensor Panorama Color]()
 
 Requests the rendered color from a specified direction
 
 
-Sensor Panorama Cone
+[Sensor Panorama Cone]()
 
 Returns an average direction, color, depth, and strength.
 
 
-Sensor Panorama Create
+[Sensor Panorama Create]()
 
 Renders the surrounding environment
 
 
-Sensor Panorama Depth
+[Sensor Panorama Depth]()
 
 Requests the rendered depth from a specified direction
 
 
-Sensor Panorama Save
+[Sensor Panorama Save]()
 
 Saves the rendered panorama to a specified output file
 
 
-Sensor Save
+[Sensor Save]()
 
 Saves sensor data to image files.
 
-Set Agent Clip Names
+[Set Agent Clip Names]()
 
 Sets the current animation clips for an agent primitive.
 
-Set Agent Clip Times
+[Set Agent Clip Times]()
 
 Sets the current times for an agent primitive’s animation clips.
 
-Set Agent Clip Weights
+[Set Agent Clip Weights]()
 
 Sets the blend weights for an agent primitive’s animation clips.
 
-Set Agent Layer
+[Set Agent Layer]()
 
 Sets the current layer or collision layer of an agent primitive.
 
-Set Agent Transforms
+[Set Agent Transforms]()
 
 Overrides the transforms of an agent primitive.
 
-Set Attribute
+[Set Attribute]()
 
 
-Set CHOP Attribute
+[Set CHOP Attribute]()
 
 Sets a CHOP attribute value.
 
 
-Set Channel Tranform
+[Set Channel Tranform]()
 
 Sets a transform value when evaluating a Channel VOP in Tranlate/Rotate/Scale mode.
 
 
-Set Channel Value
+[Set Channel Value]()
 
 Sets a channel value when evaluating a Channel VOP in Channel/Sample modes.
 
 
-Set Element
+[Set Element]()
 
 Sets the element at the specified index.
 
 
-Set Layer Export
+[Set Layer Export]()
 
 Adds layer exports to the Shader Layer struct
 
 
-Set Matrix Component
+[Set Matrix Component]()
 
 Assigns a value to one of the matrix’s components.
 
 
-Set Matrix2 Component
+[Set Matrix2 Component]()
 
 Assigns a value to one of the matrix2's components.
 
 
-Set Matrix3 Component
+[Set Matrix3 Component]()
 
 Assigns a value to one of the matrix3's components.
 
-Set Primitive Vertex
+[Set Primitive Vertex]()
 
 
-Set Vector Component
+[Set Vector Component]()
 
 Assigns a value to one of the vector’s components.
 
 
-Set Vector2 Component
+[Set Vector2 Component]()
 
 Assigns a value to one of the vector2's components.
 
 
-Set Vector4 Component
+[Set Vector4 Component]()
 
 Assigns a value to one of the vector4's components.
 
 
-Shader Output Export Variables
+[Shader Output Export Variables]()
 
 Represents export parameters in a shader call.
 
 
-Shader Output Global Variables
+[Shader Output Global Variables]()
 
 Represents global variables that are bound as output parameters in a shader call.
 
 
-Shading Area
+[Shading Area]()
 
 Computes the shading area of the given variable.
 
 
-Shading Derivative
+[Shading Derivative]()
 
 Computes the derivative of a given variable with respect to the s or t parametric coordinate.
 
 
-Shading Layer Parameter
+[Shading Layer Parameter]()
 
 Creates a parameter to appear in the signature of the VEX function defined by the VOP network (VOPNET).
 
 
-Shading Normal
+[Shading Normal]()
 
 Computes the normal at the location specified by the P position.
 
 
-Shadow
+[Shadow]()
 
 This shader calls the shadow shader inside an illuminance loop.
 
 
-Shadow Map
+[Shadow Map]()
 
 Shadow Map treats the depth map as if the image were rendered from a light source.
 
 
-Shadow Matte
+[Shadow Matte]()
 
 Implements a shadowmatte shader that occludes geometry behind the surface being rendered.
 
 
-Sign
+[Sign]()
 
 Returns -1 if the input is less than 0, otherwise it returns 1.
 
 
-Sine
+[Sine]()
 
 Performs a sine function.
 
 
-Skin Shader Core
+[Skin Shader Core]()
 
 A skin shader with three levels of subsurface scattering.
 
 
-Slice
+[Slice]()
 
 Slices a sub-string or sub-array of a string or array.
 
 
-Smooth
+[Smooth]()
 
 Computes a number between zero and one.
 
 
-Smooth Rotation
+[Smooth Rotation]()
 
 Returns the closest equivalent Euler rotations to a reference rotation.
 
 
-Snippet
+[Snippet]()
 
 Runs a VEX snippet to modify the incoming values.
 
-Soft Clip
+[Soft Clip]()
 
 Increases or decreases contrast for values at the top of the input range.
 
 
-Soft Dots
+[Soft Dots]()
 
 Generates repeating soft dots.
 
 
-Sort
+[Sort]()
 
 Returns the array sorted in increasing order.
 
-Specular
+[Specular]()
 
 Generates a color using the selected specular lighting model calculation.
 
-Specular Sheen
+[Specular Sheen]()
 
 Generates a color using a specular lighting model with a Fresnel falloff calculation.
 
 
-Spherical Linear Interp
+[Spherical Linear Interp]()
 
 Computes a spherical linear interpolation between its two quaternion inputs, and outputs the intermediate quaternion.
 
 
-Splatter
+[Splatter]()
 
 Generates a splatter pattern and returns the splatter amount.
 
 
-Spline
+[Spline]()
 
 Computes either a Catmull-Rom (Cardinal) spline or a Linear spline between the specified key points, given an interpolant (u) in the domain of the spline.
 
 
-Split String
+[Split String]()
 
 Splits a string into tokens.
 
 
-Sprites Procedural
+[Sprites Procedural]()
 
 This procedural will render points as sprites.
 
 
-Square Root
+[Square Root]()
 
 Computes the square root of the argument.
 
 
-Starts With
+[Starts With]()
 
 Result 1 if the string starts with the specified string.
 
 
-String Length
+[String Length]()
 
 Returns the length of the string.
 
 
-String to Character
+[String to Character]()
 
 Converts an UTF8 string into a codepoint.
 
 
-Strip
+[Strip]()
 
 Strips leading and trailing whitespace from a string.
 
 
-Stripes
+[Stripes]()
 
 Generates repeating filtered stripes.
 
 
-Struct
+[Struct]()
 
 Creates, modifies, or de-structures an instance of a structured datatype.
 
 
-Struct Pack
+[Struct Pack]()
 
 Bundles input values into an instance of an ad-hoc struct.
 
 
-Struct Unpack
+[Struct Unpack]()
 
 Extracts one or more values from a struct by member name.
 
 
-Sub Network
+[Sub Network]()
 
 Contains other VOP operators.
 
 
-Subnet Connector
+[Subnet Connector]()
 
 Represents an input or an output (or both) of the parent VOP subnet.
 
 
-Subnet Input
+[Subnet Input]()
 
 Allows the connection of operators outside a subnet to operators inside the subnet.
 
 
-Subnet Output
+[Subnet Output]()
 
 Allows the connection of operators inside a subnet to operators outside the subnet.
 
 
-Subtract
+[Subtract]()
 
 Outputs the result of subtracting all its inputs.
 
 
-Subtract Constant
+[Subtract Constant]()
 
 Subtracts the specified constant value from the incoming integer, float, vector or vector4 value.
 
-Surface Color
+[Surface Color]()
 
 Generates a basic color with a choice of tinting with the point color and/or a color map.
 
 
-Surface Distance
+[Surface Distance]()
 
 Finds the shortest distance between a point and a source point group.
 
 
-Switch
+[Switch]()
 
 Switches between network branches based on the value of an input.
 
-Switch Lighting BSDF
+[Switch Lighting BSDF]()
 
 Use a different bsdf for direct or indirect lighting.
 
 
-Swizzle Vector
+[Swizzle Vector]()
 
 Rearranges components of a vector.
 
 
-Swizzle Vector2
+[Swizzle Vector2]()
 
 Rearranges components of a vector2.
 
 
-Swizzle Vector4
+[Swizzle Vector4]()
 
 Rearranges components of a vector4.
 
 
-Tangent
+[Tangent]()
 
 Performs a tangent function.
 
-Tangent Normal
+[Tangent Normal]()
 
 Transform an input normal to UV/tangent space
 
-Tangent Normal Remap
+[Tangent Normal Remap]()
 
 Transform an input normal from UV/tangent to current space
 
-Tangent Normals
+[Tangent Normals]()
 
 Exports shader normals as a render plane.
 
 
-Tetrahedron Adjacent
+[Tetrahedron Adjacent]()
 
 Returns primitive number of an adjacent tetrahedron.
 
 
-Tetrahedron Adjacent
+[Tetrahedron Adjacent]()
 
 Returns vertex indices of each face of a tetrahedron.
 
 
-Texture
+[Texture]()
 
 Computes a filtered sample of the texture map specified and returns an RGB or RGBA color.
 
 
-Texture 3D
+[Texture 3D]()
 
 Returns the value of a 3D image at a specified position within that image.
 
 
-Texture 3D Box
+[Texture 3D Box]()
 
 Queries the 3D texture map specified and returns the bounding box information for the given channel in the min and max corner vectors.
 
 
-Texture Map
+[Texture Map]()
 
 
-Thin Film Fresnel
+[Thin Film Fresnel]()
 
 Computes the thin film reflection and refraction contributions given a normalized incident ray, a normalized surface normal, and an index of refraction.
 
 
-Tiled Boxes
+[Tiled Boxes]()
 
 Generates staggered rectangular tiles.
 
 
-Tiled Hexagons
+[Tiled Hexagons]()
 
 Generates staggered hexagonal tiles.
 
 
-Timing
+[Timing]()
 
 Returns the frame range and rate of the given input.
 
 
-Title Case
+[Title Case]()
 
 Returns a string that is the titlecase version of the input string.
 
 
-To Lower
+[To Lower]()
 
 Returns a string that is the lower case version of the input string.
 
 
-To NDC
+[To NDC]()
 
 Transforms a position into normal device coordinates.
 
-To NDC
+[To NDC]()
 
 
-To Polar
+[To Polar]()
 
 Converts cartesian coordinates to polar coordinates.
 
 
-To Upper
+[To Upper]()
 
 Returns a string that is the upper case version of the input string.
 
-Trace
+[Trace]()
 
 Uses the vex gather function to send a ray and return with the reflected or refracted colors.
 
 
-Transform
+[Transform]()
 
 Transforms a vector to or from an object’s transform space, or one of several other spaces, such as world or camera space.
 
 
-Transform Matrix
+[Transform Matrix]()
 
 
-Translate
+[Translate]()
 
 Translates a 4×4 matrix 'amount' units along the x,y,z and possibly w axes.
 
 
-Transpose
+[Transpose]()
 
 
-Trigonometric Functions
+[Trigonometric Functions]()
 
 Performs a variety of trigonometric functions.
 
 
-Turbulent Noise
+[Turbulent Noise]()
 
 Can compute three types of 1D and 3D noise with the ability to compute turbulence with roughness and attenuation.
 
 
-Two Sided
+[Two Sided]()
 
 Generates a two sided surface.
 
 
-Two Way Switch
+[Two Way Switch]()
 
 Takes an integer input.
 
 
-USD Global Variables
+[USD Global Variables]
 
 Provides outputs representing commonly used input variables for processing USD primitive attributes inside an Attribute VOP LOP.
 
-USD Preview Surface
+[USD Preview Surface]()
 
 USD Preview Surface shader
 
-USD Prim Var Reader
+[USD Prim Var Reader]()
 
 USD Prim Var Reader shader
 
-USD UV Texture
+[USD UV Texture]()
 
 USD UV Texture shader
 
-UV Coords
+[UV Coords]()
 
 Returns texture coordinates or geometric s and t, depending on what is defined.
 
 
-UV Noise
+[UV Noise]()
 
 Disturbs the incoming parametric s and t coordinates using anti aliased noise generated from the Surface Position input.
 
 
-UV Planar Project
+[UV Planar Project]()
 
 Computes UV co-ordinates projected along a single axis, derived from the position of an object, and generates a mask relative to the projection axis.
 
 
-UV Position
+[UV Position]()
 
 
-UV Project
+[UV Project]()
 
 Assigns texture coordinates based on the specified projection type.
 
 
-UV Transform
+[UV Transform]()
 
 Transforms texture coordinates by the inverse of the matrix consisting of the translation, rotation, and scale amounts.
 
 
-UV Tri-planar Project
+[UV Tri-planar Project]()
 
 Projects texture maps along X, Y, and Z axes and blends them together at the seams.
 
 
-Unified Noise
+[Unified Noise]()
 
 Presents a unified interface and uniform output range for all the noise types available in VEX.
 
 
-Unified Noise
+[Unified Noise]()
 
 Presents a unified interface and uniform output range for all the noise types available in VEX.
 
 
-Unified Noise Static
+[Unified Noise Static]()
 
 Presents a unified interface and uniform output range for all the noise types available in VEX.
 
-Unique Value Count of Attribute
+[Unique Value Count of Attribute]()
 
-Unique Values of Attribute
+[Unique Values of Attribute]()
 
 
-VOP Force Global
+[VOP Force Global]()
 
 Provides outputs that represent all the global variables for the Force VOP network type.
 
 
-VOP Force Output Variables
+[VOP Force Output Variables]()
 
 Simple output variable for VOP Force Networks.
 
 
-Vector Cast
+[Vector Cast]()
 
 Converts between different vector types.
 
 
-Vector To Float
+[Vector To Float]()
 
 Unpacks a vector into its three components.
 
 
-Vector To Quaternion
+[Vector To Quaternion]()
 
 Takes an angle/axis vector and constructs the quaternion representing the rotation about that axis.
 
 
-Vector To Vector4
+[Vector To Vector4]()
 
 Converts a vector to a vector4.
 
 
-Vector to Matrix3
+[Vector to Matrix3]()
 
 Converts rows values to a 3×3 matrix value.
 
 
-Vector to Vector2
+[Vector to Vector2]()
 
 Converts a vector to a vector2 and also returns the third component of the vector.
 
 
-Vector2 To Float
+[Vector2 To Float]()
 
 Unpacks a vector2 into its two components.
 
 
-Vector2 To Vector
+[Vector2 To Vector]()
 
 Converts a vector2 to a vector.
 
 
-Vector2 To Vector4
+[Vector2 To Vector4]()
 
 Converts a pair of vector2s into a vector4.
 
 
-Vector2 to Matrix2
+[Vector2 to Matrix2]()
 
 Converts rows values to a 2×2 matrix value.
 
 
-Vector4 to Float
+[Vector4 to Float]()
 
 Unpacks a vector4 into its four components.
 
 
-Vector4 to Matrix
+[Vector4 to Matrix]()
 
 Converts rows values to a 4×4 matrix value.
 
 
-Vector4 to Vector
+[Vector4 to Vector]()
 
 Converts a vector4 to a vector and also returns the fourth component of the vector4.
 
 
-Vector4 to Vector2
+[Vector4 to Vector2]()
 
 Converts a vector4 to a pair of vector2s..
 
 
-Veins
+[Veins]()
 
 Generates an anti-aliased vein pattern that can be used in any VEX context.
 
 
-Vex Volume Procedural
+[Vex Volume Procedural]()
 
 This procedural will generate a volume from a CVEX shader.
 
 
-Visualize
+[Visualize]()
 
 Exports a vis_ prefixed attribute.
 
-Volume Density to Opacity
+[Volume Density to Opacity]()
 
 Computes the opacity of a uniform volume given a density.
 
 
-Volume Gradient
+[Volume Gradient]()
 
 Calculates the gradient of a volume primitive stored in a disk file.
 
 
-Volume Index
+[Volume Index]()
 
 Gets the value of a voxel from a volume primitive stored in a disk file.
 
 
-Volume Index To Pos
+[Volume Index To Pos]()
 
 Calculates the position of a voxel in a volume primitive stored in a disk file.
 
 
-Volume Index Vector
+[Volume Index Vector]()
 
 Gets the vector value of a voxel from a volume primitive stored in a disk file.
 
-Volume Model
+[Volume Model]()
 
 A shading model for volume rendering.
 
 
-Volume Pos To Index
+[Volume Pos To Index]()
 
 Calculates the voxel closest to a voxel of a volume primitive stored in a disk file.
 
 
-Volume Resolution
+[Volume Resolution]()
 
 Gets the resolution of a volume primitive stored in a disk file.
 
 
-Volume Sample
+[Volume Sample]()
 
 Samples the value of a volume primitive stored in a disk file.
 
 
-Volume Sample Vector
+[Volume Sample Vector]()
 
 Samples the vector value of a volume primitive stored in a disk file.
 
 
-Volume VOP Global Parameters
+[Volume VOP Global Parameters]()
 
 Provides outputs that represent all the global variables for the Volume VOP network type.
 
 
-Volume VOP Output Variables
+[Volume VOP Output Variables]()
 
 Simple output variable for Volume VOP Networks.
 
 
-Voronoi Noise
+[Voronoi Noise]()
 
 Computes 1D, 3D, and 4D Voronoi noise, which is similar to Worley noise but has additional control over jittering.
 
 
-Wave Vector
+[Wave Vector]()
 
 Computes the wave vector for a given index in a grid of specified size.
 
 
-Waves
+[Waves]()
 
 Simulates rolling waves with choppiness of various frequencies, and outputs the positional and normal displacements as well as the amount of displacement.
 
-Wire Pattern
+[Wire Pattern]()
 
 Returns float between 0 and 1 which defines a wire grid pattern useful for simulating screens or visualizing parametric or texture coordinates.
 
 
-Worley Noise
+[Worley Noise]()
 
 Computes 1D, 3D, and 4D Worley noise, which is synonymous with "cell noise".
 
 
-XYZ Distance
+[XYZ Distance]()
 
 Finds closest position on a primitive in a given geometry file.
 
 
-Xor
+[Xor]()
 
 Performs a logical "xor" operation between its inputs.
 
-agentaddclip
+[agentaddclip]()
 
 Add a clip into an agent’s definition.
 
 
-argsort
+[argsort]()
 
 Returns the indices of a sorted version of an array.
