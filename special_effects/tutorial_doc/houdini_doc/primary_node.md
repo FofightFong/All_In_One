@@ -5,7 +5,11 @@
 
 [Box]()----Creates a cube or six-sided rectangular box.
 
+[Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
+
 [Edit]()----Edits points, edges, or faces interactively.
+
+[Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
 
 [Merge]()----Merges geometry from its inputs.
 
