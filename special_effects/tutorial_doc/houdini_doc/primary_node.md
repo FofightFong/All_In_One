@@ -5,6 +5,8 @@
 
 [Agent Clip]()----Adds new clips to agent primitives.
 
+[Agent Layer]()----Adds a new layer to agent primitives.
+
 [Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
 
 [Attribute Composite]()----Composites vertex, point, primitive, and/or detail attributes between two or more selections.
@@ -49,6 +51,8 @@
 [Merge]()----Merges geometry from its inputs.
 
 [Null]()----Does nothing.
+
+[Output]()----Marks the output of a sub-network.
 
 [Point]()----Manually adds or edits point attributes.
 
