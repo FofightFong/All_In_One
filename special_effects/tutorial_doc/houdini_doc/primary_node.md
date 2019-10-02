@@ -64,6 +64,8 @@
 
 [Point Relax]()----Moves points with overlapping radii away from each other, optionally on a surface.
 
+[Python]()----Runs a Python snippet to modify the incoming geometry.
+
 [Rewire Vertices]()----Rewires vertices to different points specified by an attribute.
 
 [Sphere]()----Creates a sphere or ovoid surface.
