@@ -1,735 +1,735 @@
 
 
-Absolute
+[Absolute]()
 
 Computes the absolute value of the argument.
 
 
-Add
+[Add]()
 
 Outputs the sum of its inputs.
 
 
-Add Attribute
+[Add Attribute]()
 
 Adds a new attribute.
 
 
-Add Constant
+[Add Constant]()
 
 Adds the specified constant value to the incoming integer, float, vector or vector4 value.
 
-Add Point
+[Add Point]()
 
 Adds points to the geometry.
 
 
-Add Point to Group
+[Add Point to Group]()
 
 Adds the point specified to the group given.
 
-Add Primitive
+[Add Primitive]()
 
 Adds primitives to the geometry.
 
 
-Add Steer Force
+[Add Steer Force]()
 
 Multiply steerforce by steerweight attributes and normalize results by total steerweight.
 
-Add Vertex
+[Add Vertex]()
 
 Adds vertices to the geometry.
 
 
-Add Wind Force
+[Add Wind Force]()
 
 Layers a wind force onto a simulation.
 
 
-Advect by Volumes
+[Advect by Volumes]()
 
 Advects a position by a set of volume primitives stored in a disk file.
 
-Agent Clip Catalog
+[Agent Clip Catalog]()
 
 Returns all of the animation clips that have been loaded for an agent primitive.
 
-Agent Clip Length
+[Agent Clip Length]()
 
 Returns the length (in seconds) of an agent’s animation clip.
 
-Agent Clip Names
+[Agent Clip Names]()
 
 Returns an agent primitive’s current animation clips.
 
-Agent Clip Sample
+[Agent Clip Sample]()
 
 Samples an agent’s animation clip at a specific time.
 
-Agent Clip Sample Rate
+[Agent Clip Sample Rate]()
 
 Returns the sample rate of an agent’s animation clip.
 
-Agent Clip Times
+[Agent Clip Times]()
 
 Returns the current times for an agent primitive’s animation clips.
 
-Agent Clip Weights
+[Agent Clip Weights]()
 
 Returns the blend weights for an agent primitive’s animation clips.
 
-Agent Convert Transforms
+[Agent Convert Transforms]()
 
 Converts transforms between local space and world space for an agent primitive.
 
-Agent Layer Bindings
+[Agent Layer Bindings]()
 
 Returns the transform that each shape in an agent’s layer is bound to.
 
-Agent Layer Name
+[Agent Layer Name]()
 
 Returns the name of the current layer or collision layer of an agent.
 
-Agent Layer Shapes
+[Agent Layer Shapes]()
 
 Returns the names of the shapes referenced by an agent primitive’s layer.
 
-Agent Layers
+[Agent Layers]()
 
 Returns all of the layers that have been loaded for an agent primitive.
 
-Agent Rig Children
+[Agent Rig Children]()
 
 Returns the child transforms of a transform in an agent primitive’s rig.
 
-Agent Rig Find
+[Agent Rig Find]()
 
 Finds the index of a transform in an agent primitive’s rig.
 
-Agent Rig Parent
+[Agent Rig Parent]()
 
 Returns the parent transform of a transform in an agent primitive’s rig.
 
-Agent Transform Count
+[Agent Transform Count]()
 
 Returns the number of transforms in an agent primitive’s rig.
 
-Agent Transform Names
+[Agent Transform Names]()
 
 Returns the name of each transform in an agent primitive’s rig.
 
-Agent Transforms
+[Agent Transforms]()
 
 Returns the current local or world space transforms of an agent primitive.
 
 
-Align
+[Align]()
 
 Computes a matrix representing the rotation around the axes normal to two vectors by the angle which is between the two vectors.
 
 
-Alpha Mix
+[Alpha Mix]()
 
 Takes two values for alpha based on the surface orientation relative to the camera and blends between the two with a rolloff as the bias control, effectively removing the silhouettes of the geometry edges.
 
-Ambient
+[Ambient]()
 
 Generates a color using ambient lighting model calculation.
 
 
-And
+[And]()
 
 Performs a logical "and" operation between its inputs and returns 1 or 0.
 
 
-Anti-Aliased Flow Noise
+[Anti-Aliased Flow Noise]()
 
 Generates anti-aliased (fractional brownian motion) noise by using the derivative information of the incoming position to compute band-limited noise.
 
 
-Anti-Aliased Noise
+[Anti-Aliased Noise]()
 
 Generates anti-aliased noise by using the derivative information of the incoming position to compute band-limited noise.
 
-Anti-Aliased Ramp Parameter
+[Anti-Aliased Ramp Parameter]()
 
 
-Append
+[Append]()
 
 Adds an item to an array or string.
 
 
-Arctangent
+[Arctangent]()
 
 Performs the atan2() function
 
 
-Array Contains
+[Array Contains]()
 
 Checks whether a value exists in an array.
 
 
-Array Find Index
+[Array Find Index]()
 
 Finds the first location of an item in an array or string.
 
 
-Array Find Indices
+[Array Find Indices]()
 
 Finds all locations of an item in an array or string.
 
 
-Array Length
+[Array Length]()
 
 Produces the length of an array.
 
 
-Attenuated Falloff
+[Attenuated Falloff]()
 
 Computes attenuated falloff.
 
 
-Average
+[Average]()
 
 Outputs the average of its inputs.
 
 
-Average Vector Component
+[Average Vector Component]()
 
 Computes the average value of a vector argument.
 
-BSDF Tint
+[BSDF Tint]()
 
 Tints a BSDF with separate control over colorization and luminance.
 
-Bake Exports
+[Bake Exports]()
 
 Export shading for use in bake image planes
 
 
-Bias
+[Bias]()
 
 
-Bind
+[Bind]()
 
 Represents an attribute bound to VEX.
 
 
-Blend Regions
+[Blend Regions]()
 
 Takes a float input as a bias to blend between three input regions.
 
 
-Block Begin
+[Block Begin]()
 
 Marks the start of a code block.
 
 
-Block Begin For
+[Block Begin For]()
 
 Marks the start of a for loop block.
 
 
-Block Begin For-Each
+[Block Begin For-Each]()
 
 Marks the start of a for-each loop block.
 
 
-Block Begin If
+[Block Begin If]()
 
 Marks the start of an if code block.
 
 
-Block End
+[Block End]()
 
 Marks the end of a code block.
 
 
-Block End Break-If
+[Block End Break-If]()
 
 Marks the end of a code block.
 
 
-Block End While
+[Block End While]()
 
 Marks the end of a while code block.
 
 
-Bounding Box
+[Bounding Box]()
 
 Returns two vectors representing the minimum and maximum corners of the bounding box for the specified geometry.
 
 
-Box Clip
+[Box Clip]()
 
 Clips the line segment defined by p1 and p2 to the bounding box specified by the min and max corner points.
 
 
-Boxes
+[Boxes]()
 
 Generates repeating filtered squares.
 
 
-Bricker
+[Bricker]()
 
 Generates a brick pattern based on the parametric s and t coordinates.
 
-Brushed Circles
+[Brushed Circles]()
 
 Outputs an angle that gives the appearance of a circular brush pattern when used with anisotropy direction.
 
-Brushed Metal Shader
+[Brushed Metal Shader]()
 
 A basic brushed metal shader.
 
 
-Build Array
+[Build Array]()
 
 Outputs the array consisting of its inputs as array elements.
 
 
-Bump Noise
+[Bump Noise]()
 
 Displaces surfaces along their normal using anti-aliased noise, and returns the displaced surface position, normal, and displacement amount.
 
-Bump To Normal Map
+[Bump To Normal Map]()
 
 Compute a tangent-space normal map from a bump map
 
 
-Burlap
+[Burlap]()
 
 Generates a burlap displacement pattern useful for simulating rough cloth or weave patterns.
 
-Burlap Pattern
+[Burlap Pattern]()
 
 Returns float between 0 and 1 which defines a burlap pattern useful for simulating rough cloth or weave patterns.
 
 
-COP Input
+[COP Input]()
 
 Returns a pixel value in one of the 4 input COPs connected to the VEX COP.
 
 
-CVEX Shader Builder
+[CVEX Shader Builder]()
 
 A node that implements a CVEX shader using its children VOPs.
 
-Car Paint Shader
+[Car Paint Shader]()
 
 Simulates car paint with embedded metallic flakes and a coat layer.
 
 
-Cavities
+[Cavities]()
 
 Produces a surface displacement that simulates small surface damage using anti-aliased noise of various frequencies.
 
 
-Ceiling
+[Ceiling]()
 
 Returns the smallest integer greater than or equal to the argument.
 
 
-Cellular Cracks
+[Cellular Cracks]()
 
 Generates a cellular crack displacement suitable for simulating skin, leather, dried earth, and all kinds of crusts.
 
 
-Cellular Noise
+[Cellular Noise]()
 
 Computes 2D, anti-aliased cellular noise suitable for shading.
 
 
-Character to String
+[Character to String]()
 
 Converts an unicode codepoint to a UTF8 string.
 
-Checkered
+[Checkered]()
 
 Returns number between 0 and 1 which defines a checkered pattern useful for visualizing parametric or texture coordinates.
 
 
-Clamp
+[Clamp]()
 
 Clamps the input data between the minimum and maximum values.
 
 
-Class Cast
+[Class Cast]()
 
 Downcasts a generic (anonymous) co-shader object to a specific co-shader
 
 
-Classic Shader
+[Classic Shader]()
 
 Flexible material including multiple reflection layers, subsurface scattering, refractions and displacement.
 
 
-Classic Shader Core
+[Classic Shader Core]()
 
 A powerful, highly flexible, generic surface shader with displacement.
 
-Collect
+[Collect]()
 
-Color Correction
+[Color Correction]()
 
 Provides a means to change the hue, saturation, intensity, bias, gain and gamma of the input color.
 
 
-Color Map
+[Color Map]()
 
 Looks up a single sample of RGB or RGBA color from a disk image.
 
 
-Color Mix
+[Color Mix]()
 
 Computes a blend (or a mix) of its two color inputs, and outputs the resulting color.
 
-Color Transform
+[Color Transform]()
 
 
-Compare
+[Compare]()
 
 Compares two values and returns true or false.
 
 
-Complement
+[Complement]()
 
 Computes the complement of the argument by subtracting the argument from 1.
 
-Composite
+[Composite]()
 
-Compute Lighting
+[Compute Lighting]()
 
 Computes lighting using Physically Based Rendering.
 
-Compute Normal
+[Compute Normal]()
 
 This node gives finer control over handling of the normal attribute in VOPs.
 
-Compute Tangents
+[Compute Tangents]()
 
 Compute surface tangents in different ways.
 
-Conductor Fresnel
+[Conductor Fresnel]()
 
 Outputs a physically correct reflection factor for conductive materials.
 
-Conserve Energy
+[Conserve Energy]()
 
 Clamp the reflectivity of a bsdf to 1.
 
 
-Constant
+[Constant]()
 
 Outputs a constant value of any VEX data type.
 
-Contour
+[Contour]()
 
 Increases or decreases contrast for values at the bottom of the input range.
 
 
-Copy
+[Copy]()
 
 Takes a single input of any data type.
 
 
-Cosine
+[Cosine]()
 
 Performs a cosine function.
 
-Crackle
+[Crackle]()
 
 Returns float between 0 and 1 which defines a crackle pattern useful for simulating the fine grain texture in skin or on a much larger scale dried mudflats.
 
 
-Create Point Group
+[Create Point Group]()
 
 Creates a new point group with the name specified.
 
 
-Cross Product
+[Cross Product]()
 
 Computes the cross product between two vectors, defined as the vector perpendicular to both input vectors.
 
-Curl Noise
+[Curl Noise]()
 
 Creates divergence-free 3D noise using a curl function.
 
-Curl Noise 2D
+[Curl Noise 2D]()
 
 Creates divergence-free 2D noise using a curl function.
 
 
-Curvature
+[Curvature]()
 
 Computes surface curvature.
 
-Decal
+[Decal]()
 
 An OTL that performs composting of texture maps.
 
 
-Degrees to Radians
+[Degrees to Radians]()
 
 Converts degrees to radians.
 
 
-Delayed Load Procedural
+[Delayed Load Procedural]()
 
 
-Delayed Read Archive
+[Delayed Read Archive]()
 
 
-Depth Map
+[Depth Map]()
 
 Works on an image which was rendered as a z-depth image, returning the distance from the camera to the pixel (or plane) in question.
 
 
-Determinant
+[Determinant]()
 
 Computes the determinant of a 4×4 or 3×3 matrix.
 
-Direct Lighting
+[Direct Lighting]()
 
 Internal VOP used to compute direct lighting.
 
-Displace
+[Displace]()
 
 Displaces surface position and modifies surface normals.
 
 
-Displace Along Normal
+[Displace Along Normal]()
 
 Displaces the surface along the surface normal by a given amount.
 
-Displacement Texture
+[Displacement Texture]()
 
 Modifies normals and/or positions based on a texture map.
 
 
-Distance
+[Distance]()
 
 Returns the distance between two 3D or 4D points.
 
 
-Distance Point to Line
+[Distance Point to Line]()
 
 Returns the closest distance between a point and a line segment defined by two end points.
 
 
-Divide
+[Divide]()
 
 Outputs the result of dividing each input value by the next.
 
 
-Divide Constant
+[Divide Constant]()
 
 Divides the incoming integer, float, vector or vector4 value by the specified constant value.
 
 
-Dot Product
+[Dot Product]()
 
 Computes the dot product between two vectors.
 
-Dual Rest
+[Dual Rest]()
 
 Outputs sanitized dual rest values based.
 
-Dual Rest Solver
+[Dual Rest Solver]()
 
 Sanitizes dual rest attribute data for easier use.
 
 
-Edge Falloff
+[Edge Falloff]()
 
 Creates a smooth roll-off of the input color from the center of the geometry to the edges, based on the surface normal.
 
-Eggshell Pattern
+[Eggshell Pattern]()
 
 Returns a new surface normal (N) which has a slight fine grained bump on it.
 
-Eigenvalues
+[Eigenvalues]()
 
 
-Ends With
+[Ends With]()
 
 Result 1 if the string ends with the specified string.
 
 
-Environment Map
+[Environment Map]()
 
 Sets the environment map (on an infinite sphere) and returns its color.
 
 
-Euler to Quaternion
+[Euler to Quaternion]()
 
 Builds a quaternion with the given euler rotation.
 
 
-Exponential
+[Exponential]()
 
 Computes the exponential function of the argument.
 
 
-Extract Transform
+[Extract Transform]()
 
 Extracts the translation, rotation, scale or shear component of a 4×4 transform matrix.
 
-Fake Caustics
+[Fake Caustics]()
 
 Outputs and opacity value which can be used to approximate caustic lighting effects.
 
 
-Fast Shadow
+[Fast Shadow]()
 
 Sends a ray from the position P along the direction specified by the direction D.
 
-Field Name
+[Field Name]()
 
 Provides a "fallback" value for a field/attribute if the field does not exist or the given field name is an empty string.
 
-Field Parameter
+[Field Parameter]()
 
 Provides a "fallback" value for a field/attribute if the field does not exist or the given field name is an empty string.
 
-Filament Sample
+[Filament Sample]()
 
-Filter Pulse Train
+[Filter Pulse Train]()
 
 Filters the input.
 
 
-Filter Shadow
+[Filter Shadow]()
 
 Sends a ray from the position P along the direction specified by the direction D, a…
 
 
-Filter Step
+[Filter Step]()
 
 Computes the anti-aliased weight of the step function.
 
-Filter Width
+[Filter Width]()
 
 This function returns the square root of the area of a 3D input or the length of the derivative of a float input, such as s or t.
 
-Find Attribute Value
+[Find Attribute Value]()
 
-Find Attribute Value Count
+[Find Attribute Value Count]()
 
-Find Attribute Value by Index
-
-
-Fit Range
-
-Takes the value in the source range and shifts it to the corresponding value in the destination range.
+[Find Attribute Value by Index]()
 
 
-Fit Range (Unclamped)
+[Fit Range]()
 
 Takes the value in the source range and shifts it to the corresponding value in the destination range.
 
 
-Float to Integer
+[Fit Range (Unclamped)]]()
+
+Takes the value in the source range and shifts it to the corresponding value in the destination range.
+
+
+[Float to Integer]()
 
 Converts a float value to an integer value.
 
 
-Float to Matrix
+[Float to Matrix]()
 
 Converts sixteen floating-point values to a 4×4 matrix value.
 
 
-Float to Matrix2
+[Float to Matrix2]()
 
 Converts four floating-point values to a matrix2 value.
 
 
-Float to Matrix3
+[Float to Matrix3]()
 
 Converts nine floating-point values to a matrix3 value.
 
 
-Float to Vector
+[Float to Vector]()
 
 Converts three floating-point values to a vector value.
 
 
-Float to Vector2
+[Float to Vector2]()
 
 Converts two floating-point values to a vector2 value.
 
 
-Float to Vector4
+[Float to Vector4]()
 
 Converts four floating-point values to a vector4 value.
 
 
-Floor
+[Floor]()
 
 Returns the largest integer less than or equal to the argument.
 
 
-Flow Noise
+[Flow Noise]()
 
 Generates 1D and 3D Perlin Flow Noise from 3D and 4D data.
 
 
-Fraction
+[Fraction]()
 
 Computes the fractional component of the argument.
 
 
-Fresnel
+[Fresnel]()
 
 Computes the Fresnel reflection/refraction contributions given a normalized incident ray, a normalized surface normal, and an index of refraction.
 
 
-From NDC
+[From NDC]()
 
 Transforms a position from normal device coordinates to the coordinates in the appropriate space.
 
 
-From NDC
+[From NDC]()
 
 Transforms a position from normal device coordinates to the coordinates in the appropriate space.
 
 
-From Polar
+[From Polar]()
 
 Converts polar coordinates to cartesian coordinates.
 
 
-Front Face
+[Front Face]()
 
 Returns the front facing normal of a surface, given a surface normal (N) and an incident ray (I).
 
 
-Fur Guide Global Variables
+[Fur Guide Global Variables]()
 
 Provides outputs representing commonly used input variables of fur guide shader network.
 
 
-Fur Guide Output Variables and Parameters
+[Fur Guide Output Variables and Parameters]()
 
 Provides inputs representing the output variables of a fur guide shader network.
 
-Fur Procedural
+[Fur Procedural]()
 
 Creates a set of hair-like curves across a surface at render time.
 
 
-Fur Skin Global Variables
+[Fur Skin Global Variables]()
 
 Provides outputs representing commonly used input variables of fur skin shader network.
 
 
-Fur Skin Output Variables and Parameters
+[Fur Skin Output Variables and Parameters]()
 
 Provides inputs representing the output variables of a fur skin shader network.
 
 
-Furrows
+[Furrows]()
 
 Displaces the surface along the surface normal by an amount equal to the value of an anti-aliased cosine wave.
 
