@@ -33,6 +33,8 @@
 
 [Box]()----Creates a cube or six-sided rectangular box.
 
+[Circle]()----Creates open or closed arcs, circles and ellipses.
+
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
 
 [Control]()----Creates simple geometry for use as control shapes.
@@ -63,6 +65,10 @@
 [Point Generate]()----Creates new points, optionally based on point positions in the input geometry.
 
 [Point Relax]()----Moves points with overlapping radii away from each other, optionally on a surface.
+
+[Poly Extrude]()----Extrudes polygonal faces and edges.
+
+[PolyBevel]()----Creates straight, rounded, or custom fillets along edges and corners.
 
 [Python]()----Runs a Python snippet to modify the incoming geometry.
 
