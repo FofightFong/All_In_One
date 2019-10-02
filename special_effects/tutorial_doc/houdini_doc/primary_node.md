@@ -7,6 +7,10 @@
 
 [Attribute Create]()----Adds or edits user defined attributes.
 
+[Attribute Promote]()----Promotes or demotes attributes from one geometry level to another.
+
+[Attribute Rename]()----Renames or deletes point and primitive attributes.
+
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
 [Box]()----Creates a cube or six-sided rectangular box.
