@@ -7,6 +7,8 @@
 
 [Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
 
+[Attribute Composite]()----Composites vertex, point, primitive, and/or detail attributes between two or more selections.
+
 [Attribute Copy]()----Copies attributes between groups of vertices, points, or primitives.
 
 [Attribute Create]()----Adds or edits user defined attributes.
