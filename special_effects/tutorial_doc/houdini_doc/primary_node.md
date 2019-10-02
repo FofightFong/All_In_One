@@ -5,6 +5,10 @@
 
 [Agent Clip]()----Adds new clips to agent primitives.
 
+[Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
+
+[Attribute Copy]()----Copies attributes between groups of vertices, points, or primitives.
+
 [Attribute Create]()----Adds or edits user defined attributes.
 
 [Attribute Promote]()----Promotes or demotes attributes from one geometry level to another.
