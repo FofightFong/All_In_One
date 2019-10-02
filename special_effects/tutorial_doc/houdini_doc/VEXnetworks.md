@@ -6,91 +6,91 @@
 This network defines a CVEX shader (SHOP).
 
 
-RSL Displacement Shader
+[RSL Displacement Shader]()
 
 Creates a RenderMan RSL displacement shader.
 
 
-RSL Imager Shader
+[RSL Imager Shader]()
 
 Creates a RenderMan RSL imager shader.
 
 
-RSL Light Shader
+[RSL Light Shader]()
 
 Creates a RenderMan RSL light shader.
 
 
-RSL Surface Shader
+[RSL Surface Shader]()
 
 Creates a RenderMan RSL surface shader.
 
 
-RSL Volume Shader
+[RSL Volume Shader]()
 
 Creates a RenderMan RSL volume shader.
 
 
-VEX Compositing Filter
+[VEX Compositing Filter]()
 
 This network defines a COP operator type that requires at least one input.
 
 
-VEX Compositing Generator
+[VEX Compositing Generator]()
 
 This network defines a COP operator type that takes no inputs.
 
 
-VEX Displacement Shader
+[VEX Displacement Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Fog Shader
+[VEX Fog Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Geometry Operator
+[VEX Geometry Operator]()
 
 This network defines a surface node (SOP).
 
 
-VEX Image3D Shader
+[VEX Image3D Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Light Shader
+[VEX Light Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Motion and Audio Operator
+[VEX Motion and Audio Operator]()
 
 This network defines a CHOP operator type.
 
 
-VEX Particle Operator
+[VEX Particle Operator]()
 
 This network defines a POP operator type.
 
 
-VEX Photon Shader
+[VEX Photon Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Shadow Shader
+[VEX Shadow Shader]()
 
 This network defines a SHOP operator type.
 
 
-VEX Subnetwork
+[VEX Subnetwork]()
 
 This network contains other VOP networks.
 
 
-VEX Surface Shader
+[VEX Surface Shader]()
 
 This network defines a SHOP operator type.
