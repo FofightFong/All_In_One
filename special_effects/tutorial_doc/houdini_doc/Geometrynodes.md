@@ -1331,1372 +1331,1372 @@ Measures volume, area, and perimeter of polygons and puts the results in attribu
 Merges geometry from its inputs.
 
 
-MetaGroups
+[MetaGroups]()
 
 Defines groupings of metaballs so that separate groupings are treated as separate surfaces when merged.
 
 
-Metaball
+[Metaball]()
 
 Creates metaballs and meta-superquadric surfaces.
 
 
-Mirror
+[Mirror]()
 
 Duplicates and mirrors geometry across a mirror plane.
 
 
-Mountain
+[Mountain]()
 
 Displaces points along their normals based on fractal noise.
 
 
-Mountain
+[Mountain]()
 
 Displaces points along their normals based on fractal noise.
 
 
-Muscle Capture
+[Muscle Capture]()
 
 Supports Muscle Deform by assigning capture weights to points based on distance away from given primitives
 
 
-Muscle Deform
+[Muscle Deform]()
 
 Deforms a surface mesh representing skin to envelop or drape over geometry representing muscles
 
 
-Name
+[Name]()
 
 Creates a "naming" attribute on points or primitives allowing you to refer to them easily, similar to groups.
 
 
-Normal
+[Normal]()
 
 Computes surface normal attribute.
 
 
-Null
+[Null]()
 
 Does nothing.
 
 
-Object Merge
+[Object Merge]()
 
 Merges geometry from multiple sources and allows you to define the manner in which they are grouped together and transformed.
 
-Object_musclerig@musclerigstrokebuilder
+[Object_musclerig@musclerigstrokebuilder]()
 
-Object_riggedmuscle@musclestrokebuilder
+[Object_riggedmuscle@musclestrokebuilder]()
 
 Assists the creation of a Muscle or Muscle Rig by allowing you to draw a stroke on a projection surface.
 
 
-Ocean Evaluate
+[Ocean Evaluate]()
 
 Deforms input geometry based on ocean "spectrum" volumes.
 
 
-Ocean Evaluate
+[Ocean Evaluate]()
 
 Deforms input geometry based on ocean "spectrum" volumes.
 
 
-Ocean Foam
+[Ocean Foam]()
 
 Generates particle-based foam
 
 
-Ocean Source
+[Ocean Source]()
 
 Generates particles and volumes from ocean "spectrum" volumes for use in simulations
 
 
-Ocean Source
+[Ocean Source]()
 
 Generates particles and volumes from ocean "spectrum" volumes for use in simulations
 
 
-Ocean Spectrum
+[Ocean Spectrum]()
 
 Generates volumes containing information for simulating ocean waves.
 
 
-Ocean Waves
+[Ocean Waves]()
 
 Instances individual waveforms onto input points and generated points.
 
 
-OpenCL
+[OpenCL]()
 
 Executes an OpenCL kernel on geometry.
 
 
-Output
+[Output]()
 
 Marks the output of a sub-network.
 
 
-Pack
+[Pack]()
 
 Packs geometry into an embedded primitive.
 
 
-Pack Points
+[Pack Points]()
 
 Packs points into a tiled grid of packed primitives.
 
 
-Packed Disk Edit
+[Packed Disk Edit]()
 
 Editing Packed Disk Primitives.
 
 
-Packed Edit
+[Packed Edit]()
 
 Editing Packed Primitives.
 
 
-Paint
+[Paint]()
 
 Lets you paint color or other attributes on geometry.
 
 
-Paint Color Volume
+[Paint Color Volume]()
 
 Creates a color volume based on drawn curve
 
 
-Paint Fog Volume
+[Paint Fog Volume]()
 
 Creates a fog volume based on drawn curve
 
 
-Paint SDF Volume
+[Paint SDF Volume]()
 
 Creates an SDF volume based on drawn curve
 
 
-Particle Fluid Surface
+[Particle Fluid Surface]()
 
 Generates a surface around the particles from a particle fluid simulation.
 
 
-Particle Fluid Tank
+[Particle Fluid Tank]()
 
 Creates a set of regular points filling a tank.
 
 
-Partition
+[Partition]()
 
 Places points and primitives into groups based on a user-supplied rule.
 
 
-Peak
+[Peak]()
 
 Moves primitives, points, edges or breakpoints along their normals.
 
 
-Planar Patch
+[Planar Patch]()
 
 Creates a planar polygonal patch.
 
 
-Planar Patch from Curves
+[Planar Patch from Curves]()
 
 Fills in a 2d curve network with triangles.
 
 
-Planar Pleat
+[Planar Pleat]()
 
 Deforms flat geometry into a pleat.
 
 
-Platonic Solids
+[Platonic Solids]()
 
 Creates platonic solids of different types.
 
 
-Point
+[Point]()
 
 Manually adds or edits point attributes.
 
 
-Point Cloud Iso
+[Point Cloud Iso]()
 
 Constructs an iso surface from its input points.
 
 
-Point Deform
+[Point Deform]()
 
 Deforms geometry on an arbitrary connected point mesh.
 
 
-Point Generate
+[Point Generate]()
 
 Creates new points, optionally based on point positions in the input geometry.
 
 
-Point Jitter
+[Point Jitter]()
 
 Jitters points in random directions.
 
 
-Point Relax
+[Point Relax]()
 
 Moves points with overlapping radii away from each other, optionally on a surface.
 
 
-Point Replicate
+[Point Replicate]()
 
 Generates a cloud of points around the input points.
 
 
-Point Velocity
+[Point Velocity]()
 
 Computes and manipulates velocities for points of a geometry.
 
 
-Points from Volume
+[Points from Volume]()
 
 Creates set of regular points filling a volume.
 
 
-Poly Bridge
+[Poly Bridge]()
 
 Creates flat or tube-shaped polygon surfaces between source and destination edge loops, with controls for the shape of the bridge.
 
 
-Poly Expand 2D
+[Poly Expand 2D]()
 
 Creates offset polygonal geometry for planar polygonal graphs.
 
 
-Poly Extrude
+[Poly Extrude]()
 
 Extrudes polygonal faces and edges.
 
 
-PolyBevel
+[PolyBevel]()
 
 Creates straight, rounded, or custom fillets along edges and corners.
 
 
-PolyBevel
+[PolyBevel]()
 
 Bevels points and edges.
 
 
-PolyCut
+[PolyCut]()
 
 Breaks curves where an attribute crosses a threshold.
 
 
-PolyDoctor
+[PolyDoctor]()
 
 Helps repair invalid polygonal geometry, such as for cloth simulation.
 
 
-PolyExtrude
+[PolyExtrude]()
 
 Extrudes polygonal faces and edges.
 
 
-PolyFill
+[PolyFill]()
 
 Fills holes with polygonal patches.
 
 
-PolyFrame
+[PolyFrame]()
 
 Creates coordinate frame attributes for points and vertices.
 
 
-PolyLoft
+[PolyLoft]()
 
 Creates new polygons using existing points.
 
 
-PolyPatch
+[PolyPatch]()
 
 Creates a smooth polygonal patch from primitives.
 
 
-PolyPath
+[PolyPath]()
 
 Cleans up topology of polygon curves.
 
 
-PolyReduce
+[PolyReduce]()
 
 Reduces the number of polygons in a model while retaining its shape. This node preserves features, attributes, textures, and quads during reduction.
 
 
-PolySoup
+[PolySoup]()
 
 Combines polygons into a single primitive that can be more efficient for many polygons
 
 
-PolySpline
+[PolySpline]()
 
 The PolySpline SOP fits a spline curve to a polygon or hull and outputs a polygonal approximation of that spline.
 
 
-PolySplit
+[PolySplit]()
 
 Divides an existing polygon into multiple new polygons.
 
 
-PolySplit
+[PolySplit]()
 
 Divides an existing polygon into multiple new polygons.
 
 
-PolyStitch
+[PolyStitch]()
 
 Stitches polygonal surfaces together, attempting to remove cracks.
 
 
-PolyWire
+[PolyWire]()
 
 Constructs polygonal tubes around polylines, creating renderable geometry with smooth bends and intersections.
 
 
-Pose-Space Deform
+[Pose-Space Deform]()
 
 Interpolates between a set of pose-shapes based on the value of a set of drivers.
 
 
-Pose-Space Deform Combine
+[Pose-Space Deform Combine]()
 
 Combine result of Pose-Space Deform with rest geometry.
 
-Pose-Space Edit
+[Pose-Space Edit]()
 
 Packs geometry edits for pose-space deformation.
 
-Pose-Space Edit Configure
+[Pose-Space Edit Configure]()
 
 Creates common attributes used by the Pose-Space Edit SOP.
 
 
-Primitive
+[Primitive]()
 
 Edits primitive, primitive attributes, and profile curves.
 
 
-Primitive Split
+[Primitive Split]()
 
 Takes a primitive attribute and splits any points whose primitives differ by more than a specified tolerance at that attribute.
 
 
-Profile
+[Profile]()
 
 Extracts or manipulates profile curves.
 
 
-Project
+[Project]()
 
 Creates profile curves on surfaces.
 
 
-Pyro Source
+[Pyro Source]()
 
 Creates points for sourcing pyro and smoke simulations.
 
 
-Python
+[Python]()
 
 Runs a Python snippet to modify the incoming geometry.
 
 
-RBD Cluster
+[RBD Cluster]()
 
 Combines fractured pieces or constraints into larger clusters.
 
 
-RBD Constraint Properties
+[RBD Constraint Properties]()
 
 Creates attributes describing rigid body constraints.
 
 
-RBD Constraints From Curves
+[RBD Constraints From Curves]()
 
 Creates rigid body constraint geometry from curves drawn in the viewport.
 
 
-RBD Constraints From Lines
+[RBD Constraints From Lines]()
 
 Creates rigid body constraint geometry from interactively drawn lines in the viewport.
 
 
-RBD Constraints From Rules
+[RBD Constraints From Rules]()
 
 Creates rigid body constraint geometry from a set of rules and conditions.
 
 
-RBD Interior Detail
+[RBD Interior Detail]()
 
 Creates additional detail on the interior surfaces of fractured geometry.
 
 
-RBD Material Fracture
+[RBD Material Fracture]()
 
 Fractures the input geometry based on a material type.
 
 
-RBD Material Fracture
+[RBD Material Fracture]()
 
 Fractures the input geometry based on a material type.
 
 
-RBD Pack
+[RBD Pack]()
 
 Packs RBD geometry, constraints, and proxy geometry into a single geometry.
 
 
-RBD Paint
+[RBD Paint]()
 
 Paints values onto geometry or constraints using strokes.
 
 
-RBD Unpack
+[RBD Unpack]()
 
 Unpacks an RBD setup into three outputs.
 
 
-RMan Shader
+[RMan Shader]()
 
 Attaches RenderMan shaders to groups of faces.
 
 
-ROP Geometry Output
+[ROP Geometry Output]()
 
 
-Rails
+[Rails]()
 
 Generates surfaces by stretching cross-sections between two guide rails.
 
 
-Ray
+[Ray]()
 
 Projects one surface onto another.
 
 
-Refine
+[Refine]()
 
 Increases the number of points/CVs in a curve or surface without changing its shape.
 
 
-Reguide
+[Reguide]()
 
 Scatters new guides, interpolating the properties of existing guides.
 
 
-Remesh
+[Remesh]()
 
 Recreates the shape of the input surface using "high-quality" (nearly equilateral) triangles.
 
 
-Repack
+[Repack]()
 
 Repacks geometry as an embedded primitive.
 
 
-Resample
+[Resample]()
 
 Resamples one or more curves or surfaces into even length segments.
 
 
-Rest Position
+[Rest Position]()
 
 Sets the alignment of solid textures to the geometry so the texture stays put on the surface as it deforms.
 
 
-Retime
+[Retime]()
 
 Retimes the time-dependent input geometry.
 
 
-Reverse
+[Reverse]()
 
 Reverses or cycles the vertex order of faces.
 
 
-Revolve
+[Revolve]()
 
 Revolves a curve around a center axis to sweep out a surface.
 
 
-Rewire Vertices
+[Rewire Vertices]()
 
 Rewires vertices to different points specified by an attribute.
 
 
-Ripple
+[Ripple]()
 
 Generates ripples by displacing points along the up direction specified.
 
 
-Scatter
+[Scatter]()
 
 Scatters new points randomly across a surface or through a volume.
 
 
-Script
+[Script]()
 
 Runs scripts when cooked.
 
 
-Sculpt
+[Sculpt]()
 
 Lets you interactively reshape a surface by brushing.
 
 
-Sequence Blend
+[Sequence Blend]()
 
 Morphs though a sequence of 3D shapes, interpolating geometry and attributes.
 
 
-Sequence Blend
+[Sequence Blend]()
 
 Sequence Blend lets you do 3D Metamorphosis between shapes and Interpolate point position, colors…
 
 
-Shape Diff
+[Shape Diff]()
 
 Computes the post-deform or pre-deform difference of two geometries with similar topologies.
 
 
-Shrinkwrap
+[Shrinkwrap]()
 
 Computes the convex hull of the input geometry and moves its polygons inwards along their normals.
 
 
-Shrinkwrap
+[Shrinkwrap]()
 
 Takes the convex hull of input geometry and moves its polygons inwards along their normals.
 
 
-Skin
+[Skin]()
 
 Builds a skin surface between any number of shape curves.
 
 
-Sky
+[Sky]()
 
 Creates a sky filled with volumentric clouds
 
 
-Smooth
+[Smooth]()
 
 Smooths out (or "relaxes") polygons, meshes and curves without increasing the number of points.
 
 
-Smooth
+[Smooth]()
 
 Smooths out (or "relaxes") polygons, meshes and curves without increasing the number of points.
 
 
-Soft Peak
+[Soft Peak]()
 
 Moves the selected point along its normal, with smooth rolloff to surrounding points.
 
 
-Soft Transform
+[Soft Transform]()
 
 Moves the selected point, with smooth rolloff to surrounding points.
 
 
-Solid Conform
+[Solid Conform]()
 
 Creates a tetrahedral mesh that conforms to a connected mesh as much as possible.
 
 
-Solid Embed
+[Solid Embed]()
 
 Creates a simple tetrahedral mesh that covers a connected mesh.
 
 
-Solid Fracture
+[Solid Fracture]()
 
 Creates a partition of a tetrahedral mesh that can be used for finite-element fracturing.
 
 
-Solver
+[Solver]()
 
 Allows running a SOP network iteratively over some input geometry, with the output of the network from the previous frame serving as the input for the network at the current frame.
 
 
-Sort
+[Sort]()
 
 Reorders points and primitives in different ways, including randomly.
 
 
-Sphere
+[Sphere]()
 
 Creates a sphere or ovoid surface.
 
 
-Split
+[Split]()
 
 Splits primitives or points into two streams.
 
 
-Spray Paint
+[Spray Paint]()
 
 Spray paints random points onto a surface.
 
 
-Sprite
+[Sprite]()
 
 A SOP node that sets the sprite display for points.
 
 
-Starburst
+[Starburst]()
 
 Insets points on polygonal faces.
 
 
-Stash
+[Stash]()
 
 Caches the input geometry in the node on command, and then uses it as the node’s output.
 
 
-Stitch
+[Stitch]()
 
 Stretches two curves or surfaces to cover a smooth area.
 
 
-Stroke
+[Stroke]()
 
 Low level tool for building interactive assets.
 
 
-Subdivide
+[Subdivide]()
 
 Subdivides polygons into smoother, higher-resolution polygons.
 
 
-Subnetwork
+[Subnetwork]()
 
 The Subnet op is essentially a way of creating a macro to represent a collection of ops as a single op in the Network Editor.
 
 
-Super Quad
+[Super Quad]()
 
 Generates an isoquadric surface.
 
 
-Surfsect
+[Surfsect]()
 
 Trims or creates profile curves along the intersection lines between NURBS or bezier surfaces.
 
 
-Sweep
+[Sweep]()
 
 Creates a surface by sweeping cross-sections along a backbone curve.
 
 
-Switch
+[Switch]()
 
 Switches between network branches based on an expression or keyframe animation.
 
 
-TOP SOP
+[TOP SOP]()
 
 Sends input geometry to a TOP subnet and retrieves the output geometry.
 
 
-Table Import
+[Table Import]()
 
 Reads a CSV file creating point per row.
 
 
-Test Geometry: Crag
+[Test Geometry: Crag]()
 
 Creates a rock creature, which can be used as test geometry.
 
 
-Test Geometry: Pig Head
+[Test Geometry: Pig Head]()
 
 Creates a pig head, which can be used as test geometry..
 
 
-Test Geometry: Rubber Toy
+[Test Geometry: Rubber Toy]()
 
 Creates a rubber toy, which can be used as test geometry.
 
 
-Test Geometry: Shader Ball
+[Test Geometry: Shader Ball]()
 
 Creates a shader ball, which can be used to test shaders.
 
 
-Test Geometry: Squab
+[Test Geometry: Squab]()
 
 Creates a squab, which can be used as test geometry.
 
 
-Test Geometry: Tommy
+[Test Geometry: Tommy]()
 
 Creates a soldier, which can be used as test geometry.
 
 
-Test Simulation: Crowd Transition
+[Test Simulation: Crowd Transition]()
 
 Provides a simple crowd simulation for testing transitions between animation clips.
 
 
-Test Simulation: Ragdoll
+[Test Simulation: Ragdoll]()
 
 Provides a simple Bullet simulation for testing the behavior of a ragdoll.
 
 
-Tet Partition
+[Tet Partition]()
 
 Partitions a given tetrahedron mesh into groups of tets isolated by a given polygon mesh
 
 
-Tetrahedralize
+[Tetrahedralize]()
 
 Performs variations of a Delaunay Tetrahedralization.
 
 
-TimeShift
+[TimeShift]()
 
 Cooks the input at a different time.
 
-Toon Shader Attributes
+[Toon Shader Attributes]()
 
 Sets attributes used by the Toon Color Shader and Toon Outline Shader.
 
 
-TopoBuild
+[TopoBuild]()
 
 Lets you interactively draw a reduced quad mesh automatically snapped to existing geometry.
 
 
-Torus
+[Torus]()
 
 Creates a torus (doughnut) shaped surface.
 
 
-Trace
+[Trace]()
 
 Traces curves from an image file.
 
 
-Trail
+[Trail]()
 
 Creates trails behind points.
 
 
-Transform
+[Transform]()
 
 The Transform operation transforms the source geometry in "object space" using a transformation matrix.
 
 
-Transform Axis
+[Transform Axis]()
 
 Transforms the input geometry relative to a specific axis.
 
 
-Transform By Attribute
+[Transform By Attribute]()
 
 Transforms the input geometry by a point attribute.
 
 
-Transform Pieces
+[Transform Pieces]()
 
 Transforms input geometry according to transformation attributes on template geometry.
 
 
-Tri Bezier
+[Tri Bezier]()
 
 Creates a triangular Bezier surface.
 
 
-TriDivide
+[TriDivide]()
 
 Refines triangular meshes using various metrics.
 
 
-Triangulate 2D
+[Triangulate 2D]()
 
 Connects points to form well-shaped triangles.
 
 
-Trim
+[Trim]()
 
 Trims away parts of a spline surface defined by a profile curve or untrims previous trims.
 
 
-Tube
+[Tube]()
 
 Creates open or closed tubes, cones, or pyramids.
 
 
-UV Autoseam
+[UV Autoseam]()
 
 Generates an edge group representing suggested seams for flattening a polygon model in UV space.
 
 
-UV Brush
+[UV Brush]()
 
 Adjusts texture coordinates in the UV viewport by painting.
 
 
-UV Edit
+[UV Edit]()
 
 Lets you interactively move UVs in the texture view.
 
 
-UV Flatten
+[UV Flatten]()
 
 Creates flattened pieces in texture space from 3D geometry.
 
 
-UV Flatten
+[UV Flatten]()
 
 Creates flattened pieces in texture space from 3D geometry.
 
 
-UV Fuse
+[UV Fuse]()
 
 Merges UVs.
 
 
-UV Layout
+[UV Layout]()
 
 Packs UV islands efficiently into a limited area.
 
 
-UV Pelt
+[UV Pelt]()
 
 Relaxes UVs by pulling them out toward the edges of the texture area.
 
 
-UV Project
+[UV Project]()
 
 Assigns UVs by projecting them onto the surface from a set direction.
 
 
-UV Quick Shade
+[UV Quick Shade]()
 
 Applies an image file as a textured shader to a surface.
 
 
-UV Texture
+[UV Texture]()
 
 Assigns texture UV coordinates to geometry for use in texture and bump mapping.
 
 
-UV Transform
+[UV Transform]()
 
 Transforms UV texture coordinates on the source geometry.
 
 
-UV Transform
+[UV Transform]()
 
 Transforms UV texture coordinates on the source geometry.
 
 
-UV Unwrap
+[UV Unwrap]()
 
 Separates UVs into reasonably flat, non-overlapping groups.
 
 
-Unix
+[Unix]()
 
 Processes geometry using an external program.
 
 
-Unpack
+[Unpack]()
 
 Unpacks packed primitives.
 
 
-Unpack Points
+[Unpack Points]()
 
 Unpacks points from packed primitives.
 
 
-VDB
+[VDB]()
 
 Creates one or more empty/uniform VDB volume primitives.
 
 
-VDB Activate
+[VDB Activate]()
 
 Activates voxel regions of a VDB for further processing.
 
 
-VDB Activate SDF
+[VDB Activate SDF]()
 
 Expand or contract signed distance fields stored on VDB volume primitives.
 
 
-VDB Advect
+[VDB Advect]()
 
 Moves VDBs in the input geometry along a VDB velocity field.
 
 
-VDB Advect Points
+[VDB Advect Points]()
 
 Moves points in the input geometry along a VDB velocity field.
 
 
-VDB Analysis
+[VDB Analysis]()
 
 Computes an analytic property of a VDB volumes, such as gradient or curvature.
 
 
-VDB Clip
+[VDB Clip]()
 
 Clips VDB volume primitives using a bounding box or another VDB as a mask.
 
 
-VDB Combine
+[VDB Combine]()
 
 Combines the values of two aligned VDB volumes in various ways.
 
 
-VDB Diagnostics
+[VDB Diagnostics]()
 
 Tests VDBs for Bad Values and Repairs.
 
 
-VDB Fracture
+[VDB Fracture]()
 
 Cuts level set VDB volume primitives into multiple pieces.
 
 
-VDB LOD
+[VDB LOD]()
 
 Build an LOD Pyramid from a VDB.
 
 
-VDB Morph SDF
+[VDB Morph SDF]()
 
 Blends between source and target SDF VDBs.
 
 
-VDB Occlusion Mask
+[VDB Occlusion Mask]()
 
 Create a mask of the voxels in shadow from a camera for VDB primitives.
 
 
-VDB Points Delete
+[VDB Points Delete]()
 
 Deletes points inside of VDB Points primitives.
 
 
-VDB Points Group
+[VDB Points Group]()
 
 Manipulates the Internal Groups of a VDB Points Primitive.
 
 
-VDB Potential Flow
+[VDB Potential Flow]()
 
 Computes the steady-state air flow around VDB obstacles.
 
 
-VDB Project Non-Divergent
+[VDB Project Non-Divergent]()
 
 Removes divergence from a Vector VDB.
 
 
-VDB Renormalize SDF
+[VDB Renormalize SDF]()
 
 Fixes signed distance fields stored in VDB volume primitives.
 
 
-VDB Resample
+[VDB Resample]()
 
 Re-samples a VDB volume primitive into a new orientation and/or voxel size.
 
 
-VDB Reshape SDF
+[VDB Reshape SDF]()
 
 Reshapes signed distance fields in VDB volume primitives.
 
 
-VDB Segment by Connectivity
+[VDB Segment by Connectivity]()
 
 Splits SDF VDBs into connected components.
 
 
-VDB Smooth
+[VDB Smooth]()
 
 Smooths out the values in a VDB volume primitive.
 
 
-VDB Smooth SDF
+[VDB Smooth SDF]()
 
 Smooths out SDF values in a VDB volume primitive.
 
 
-VDB Topology to SDF
+[VDB Topology to SDF]()
 
 Creates an SDF VDB based on the active set of another VDB.
 
 
-VDB Vector Merge
+[VDB Vector Merge]()
 
 Merges three scalar VDB into one vector VDB.
 
 
-VDB Vector Split
+[VDB Vector Split]()
 
 Splits a vector VDB primitive into three scalar VDB primitives.
 
 
-VDB Visualize Tree
+[VDB Visualize Tree]()
 
 Replaces a VDB volume with geometry that visualizes its structure.
 
 
-VDB from Particle Fluid
+[VDB from Particle Fluid]()
 
 Generates a signed distance field (SDF) VDB volume representing the surface of a set of particles from a particle fluid simulation.
 
 
-VDB from Particles
+[VDB from Particles]()
 
 Converts point clouds and/or point attributes into VDB volume primitives.
 
 
-VDB from Polygons
+[VDB from Polygons]()
 
 Converts polygonal surfaces and/or surface attributes into VDB volume primitives.
 
 
-VDB to Spheres
+[VDB to Spheres]()
 
 Fills a VDB volume with adaptively-sized spheres.
 
 
-Vellum Configure Grain
+[Vellum Configure Grain]()
 
 Configures geometry for Vellum Grain constraints.
 
 
-Vellum Constraints
+[Vellum Constraints]()
 
 Configure constraints on geometry for the Vellum solvers.
 
 
-Vellum Drape
+[Vellum Drape]()
 
 Vellum solver setup to pre-roll fabric to drape over characters.
 
 
-Vellum I/O
+[Vellum I/O]()
 
 Packs Vellum simulations, saves them to disk, and loads them back again.
 
 
-Vellum Pack
+[Vellum Pack]()
 
 Packs Vellum geometry and constraints into a single geometry.
 
 
-Vellum Post-Process
+[Vellum Post-Process]()
 
 Applies common post-processing effects to the result of Vellum solves.
 
 
-Vellum Rest Blend
+[Vellum Rest Blend]()
 
 Blends the current rest values of constraints with a rest state calculated from external geometry.
 
 
-Vellum Solver
+[Vellum Solver]()
 
 Runs a dynamic Vellum simulation.
 
 
-Vellum Unpack
+[Vellum Unpack]()
 
 Unpacks a Vellum simulation into two outputs.
 
-Verify BSDF
+[Verify BSDF]()
 
 Verify that a bsdf conforms to the required interface.
 
 
-Vertex
+[Vertex]()
 
 Manually adds or edits attributes on vertices (rather than on points).
 
 
-Vertex Split
+[Vertex Split]()
 
 Takes a vertex attribute and splits any point whose vertices differ by more than a specified tolerance at that attribute.
 
 
-Visibility
+[Visibility]()
 
 Shows/hides primitives in the 3D viewer and UV editor.
 
 
-Visualize
+[Visualize]()
 
 Lets you attach visualizations to different nodes in a geometry network.
 
 
-Volume
+[Volume]()
 
 Creates a volume primitive.
 
 
-Volume Analysis
+[Volume Analysis]()
 
 Computes analytic properties of volumes.
 
 
-Volume Arrival Time
+[Volume Arrival Time]()
 
 Computes a speed-defined travel time from source points to voxels.
 
 
-Volume Blur
+[Volume Blur]()
 
 Blurs the voxels of a volume.
 
 
-Volume Bound
+[Volume Bound]()
 
 Bounds voxel data.
 
 
-Volume Break
+[Volume Break]()
 
 Cuts polygonal objects using a signed distance field volume.
 
 
-Volume Compress
+[Volume Compress]()
 
 Re-compresses Volume Primitives.
 
 
-Volume Convolve 3×3×3
+[Volume Convolve 3×3×3]()
 
 Convolves a volume by a 3×3×3 kernel.
 
 
-Volume FFT
+[Volume FFT]()
 
 Compute the Fast Fourier Transform of volumes.
 
 
-Volume Feather
+[Volume Feather]()
 
 Feathers the edges of volumes.
 
 
-Volume Merge
+[Volume Merge]()
 
 Flattens many volumes into one volume.
 
 
-Volume Mix
+[Volume Mix]()
 
 Combines the scalar fields of volume primitives.
 
-Volume Optical Flow
+[Volume Optical Flow]()
 
 Translates the motion between two "image" volumes into displacement vectors.
 
-Volume Patch
+[Volume Patch]()
 
 Fill in a region of a volume with features from another volume.
 
 
-Volume Ramp
+[Volume Ramp]()
 
 Remaps a volume according to a ramp.
 
 
-Volume Rasterize
+[Volume Rasterize]()
 
 Rasterizes into a volume.
 
 
-Volume Rasterize Attributes
+[Volume Rasterize Attributes]()
 
 Samples point attributes into VDBs.
 
 
-Volume Rasterize Curve
+[Volume Rasterize Curve]()
 
 Converts a curve into a volume.
 
 
-Volume Rasterize Hair
+[Volume Rasterize Hair]()
 
 Converts fur or hair to a volume for rendering.
 
 
-Volume Rasterize Particles
+[Volume Rasterize Particles]()
 
 Converts a point cloud into a volume.
 
 
-Volume Rasterize Points
+[Volume Rasterize Points]()
 
 Converts a point cloud into a volume.
 
 
-Volume Reduce
+[Volume Reduce]()
 
 Reduces the values of a volume into a single number.
 
 
-Volume Resample
+[Volume Resample]()
 
 Resamples the voxels of a volume to a new resolution.
 
 
-Volume Resize
+[Volume Resize]()
 
 Resizes the bounds of a volume without changing voxels.
 
 
-Volume SDF
+[Volume SDF]()
 
 Builds a Signed Distance Field from an isocontour of a volume.
 
 
-Volume Slice
+[Volume Slice]()
 
 Extracts 2d slices from volumes.
 
 
-Volume Splice
+[Volume Splice]()
 
 Splices overlapping volume primitives together.
 
 
-Volume Stamp
+[Volume Stamp]()
 
 Stamps volumes instanced on points into a single target volume.
 
 
-Volume Surface
+[Volume Surface]()
 
 Adaptively surfaces a volume hierarchy with a regular triangle mesh.
 
 
-Volume Trail
+[Volume Trail]()
 
 Computes a trail of points through a velocity volume.
 
 
-Volume VOP
+[Volume VOP]()
 
 Runs CVEX on a set of volume primitives.
 
 
-Volume Velocity
+[Volume Velocity]()
 
 Computes a velocity volume.
 
 
-Volume Velocity from Curves
+[Volume Velocity from Curves]()
 
 Generates a volume velocity field using curve tangents.
 
 
-Volume Velocity from Surface
+[Volume Velocity from Surface]()
 
 Generates a velocity field within a surface geometry.
 
 
-Volume Visualization
+[Volume Visualization]()
 
 Adjusts attributes for multi-volume visualization.
 
 
-Volume Wrangle
+[Volume Wrangle]()
 
 Runs a VEX snippet to modify voxel values in a volume.
 
 
-Volume from Attribute
+[Volume from Attribute]()
 
 Sets the voxels of a volume from point attributes.
 
 
-Voronoi Fracture
+[Voronoi Fracture]()
 
 Fractures the input geometry by performing a Voronoi decomposition of space around the input cell points
 
 
-Voronoi Fracture
+[Voronoi Fracture]()
 
 Fractures the input geometry by performing a Voronoi decomposition of space around the input cell points
 
 
-Voronoi Fracture Points
+[Voronoi Fracture Points]()
 
 Given an object and points of impact on the object, this SOP generates a set of points that can be used as input to the Voronoi Fracture SOP to simulate fracturing the object from those impacts.
 
 
-Voronoi Split
+[Voronoi Split]()
 
 Cuts the geometry into small pieces according to a set of cuts defined by polylines.
 
 
-Vortex Force Attributes
+[Vortex Force Attributes]()
 
 Creates the point attributes needed to create a Vortex Force DOP.
 
 
-Whitewater Source
+[Whitewater Source]()
 
 Generates volumes to be used as sources in a whitewater simulation.
 
 
-Whitewater Source
+[Whitewater Source]()
 
 Generates emission particles and volumes to be used as sources in a Whitewater simulation.
 
 
-Winding Number
+[Winding Number]()
 
 Computes generalized winding number of surface at query points.
 
 
-Wire Blend
+[Wire Blend]()
 
 Morphs between curve shapes while maintaining curve length.
 
 
-Wire Capture
+[Wire Capture]()
 
 Captures surfaces to a wire, allowing you to edit the wire to deform the surface.
 
 
-Wire Deform
+[Wire Deform]()
 
 Deforms geometry captured to a curve via the Wire Capture node.
 
 
-Wire Transfer
+[Wire Transfer]()
 
 Transfers the shape of one curve to another.
 
 
-Wireframe
+[Wireframe]()
 
 Constructs polygonal tubes around polylines, creating renderable geometry.
 
 
-glTF ROP output driver
+[glTF ROP output driver]()
 
 
-posescope
+[posescope]()
 
 Assigns channel paths and/or pickscripts to geometry.
