@@ -734,1334 +734,1334 @@ Provides inputs representing the output variables of a fur skin shader network.
 Displaces the surface along the surface normal by an amount equal to the value of an anti-aliased cosine wave.
 
 
-Fuzzy And
+[Fuzzy And]()
 
 Performs a fuzzy "and" operation between its inputs and returns a value between 0 and 1.
 
-Fuzzy Defuzz
+[Fuzzy Defuzz]()
 
 Performs a defuzzify operation between its input fuzzy sets and returns a crisp value.
 
-Fuzzy Inference
+[Fuzzy Inference]()
 
 Performs a fuzzy inference operation over each input to determine the truth of the fuzzy set defined on this node.
 
-Fuzzy Inference Mirror
+[Fuzzy Inference Mirror]()
 
 "This node represents two inferred fuzzy sets that are mirrors of one another.
 
-Fuzzy Input
+[Fuzzy Input]()
 
 Performs a "fuzzify" operation that calculates a fuzzy value given a membership function and an input crisp value.
 
 
-Fuzzy Not
+[Fuzzy Not]()
 
 This operator performs a fuzzy not operation on an integer or float value.
 
-Fuzzy Obstacle Sense
+[Fuzzy Obstacle Sense]()
 
 Detects obstacles in an agent’s field of view.
 
 
-Fuzzy Or
+[Fuzzy Or]()
 
 Performs a fuzzy "or" operation between its inputs and returns a value between 0 and 1.
 
 
-Gain
+[Gain]()
 
 
-Gather Loop
+[Gather Loop]()
 
 Sends rays into the scene and contains a subnetwork of VOPs to operate on the information gathered from the shaders of surfaces hit by the rays.
 
 
-Gaussian Random
+[Gaussian Random]()
 
 Generates a random number fitting a Gaussian distribution.
 
 
-Gaussian Random UV
+[Gaussian Random UV]()
 
 Generates a random number fitting a Gaussian distribution.
 
-General Fresnel
+[General Fresnel]()
 
 Computes the Fresnel reflection/refraction contributions and vectors for objects with or without depth.
 
-Generic Shader
+[Generic Shader]()
 
 Represents a shader.
 
 
-Geometry VOP Global Parameters
+[Geometry VOP Global Parameters]()
 
 Provides outputs that represent all the global variables for the Attribute VOP network types.
 
 
-Geometry VOP Output Variables
+[Geometry VOP Output Variables]()
 
 Simple output variable for Geometry VOP Networks.
 
-Get Attribute
+[Get Attribute]()
 
-Get BSDF Albedo
+[Get BSDF Albedo]()
 
 Compute the reflectivity of a bsdf.
 
-Get Blur P
+[Get Blur P]()
 
 
-Get CHOP Attribute
+[Get CHOP Attribute]()
 
 Returns a CHOP attribute value in one of the 4 input CHOPs connected to the Channel VOP.
 
 
-Get Channel Transform
+[Get Channel Transform]()
 
 Returns a transform value built from 9 channels from one of the 4 input CHOPs connected to the Channel VOP.
 
 
-Get Channel Value
+[Get Channel Value]()
 
 Returns a sample value in one of the 4 input CHOPs connected to the Channel VOP.
 
 
-Get Channel Value by Name
+[Get Channel Value by Name]()
 
 Returns a sample value in one of the 4 input CHOPs connected to the Channel VOP.
 
 
-Get Element
+[Get Element]()
 
 Gets a specified element from array.
 
 
-Get Layer Export
+[Get Layer Export]()
 
 Obtains a value of the export variable added to the Shader Layer struct.
 
 
-Get Matrix Component
+[Get Matrix Component]()
 
 Extracts a 4×4 matrix component.
 
 
-Get Matrix2 Component
+[Get Matrix2 Component]()
 
 Extracts a 2×2 matrix3 component.
 
 
-Get Matrix3 Component
+[Get Matrix3 Component]()
 
 Extracts a 3×3 matrix3 component.
 
 
-Get Object Transform
+[Get Object Transform]()
 
 Gets the transform matrix of a named object in camera (current) space.
 
-Get PTexture ID
+[Get PTexture ID]()
 
-Get Primitive ID
+[Get Primitive ID]()
 
 
-Get Vector Component
+[Get Vector Component]()
 
 Extracts a vector component.
 
 
-Get Vector2 Component
+[Get Vector2 Component]()
 
 Extracts a vector2 component.
 
 
-Get Vector4 Component
+[Get Vector4 Component]()
 
 Extracts a vector4 component.
 
 
-Get a CHOP Channel Value
+[Get a CHOP Channel Value]()
 
 Evaluates a CHOP channel and return its value.
 
 
-Get a Channel or Parameter Value
+[Get a Channel or Parameter Value]()
 
 Evaluates a channel (or parameter) and return its value.
 
 
-Get an Object Transform
+[Get an Object Transform]()
 
 Evaluates an OBJ node’s transform
 
 
-Gingham Checks
+[Gingham Checks]()
 
 Generates anti-aliased gingham checks similar to a tablecloth pattern.
 
 
-Global Variables
+[Global Variables]()
 
 Provides outputs that represent all the global variables for the current VOP network type.
 
 
-Gradient 3D
+[Gradient 3D]()
 
 Returns the gradient of a single channel 3D texture image at a specified position within that image.
 
 
-HSV to RGB
+[HSV to RGB]()
 
 Converts HSV color space to RGB color space.
 
-Hair Normal
+[Hair Normal]()
 
 Generates a normal vector which always faces the camera, parallel to the incidence vector.
 
 
-Hair Shader
+[Hair Shader]()
 
 A powerful, highly flexible, general model for hair/fur shading.
 
 
-Has Input
+[Has Input]()
 
 Returns 1 if the specified input (0-3) is connected.
 
 
-High-Low Noise
+[High-Low Noise]()
 
 Computes a mix of high and low frequency, anti-aliased noise with a wide range of applications.
 
 
-Houdini Engine Procedural: Curve Generate
+[Houdini Engine Procedural: Curve Generate]()
 
 Cooks a SOP asset for each point in the source geometry and instances the generated curves onto the point.
 
 
-Houdini Engine Procedural: Point Generate
+[Houdini Engine Procedural: Point Generate]()
 
 Cooks a SOP asset for each point in the source geometry and instances the generated points onto the point.
 
-Hue Shift
+[Hue Shift]()
 
 Uses the shift value to move the hue of the input color along the color wheel by the amount influenced by the amplitude.
 
 
-If Connected
+[If Connected]()
 
 Passes through the value of the first input if the first input is ultimately connected.
 
 
-Illuminance Loop
+[Illuminance Loop]()
 
 Only available in Surface VOP networks.
 
 
-Image 3D Iso-Texture Procedural
+[Image 3D Iso-Texture Procedural]()
 
 This procedural will generate an iso-surface from a 3D texture image (.i3d file).
 
 
-Image 3D Volume Procedural
+[Image 3D Volume Procedural]()
 
 This procedural will generate a volume from a 3D texture image (.i3d file).
 
 
-Import Attribute
+[Import Attribute]()
 
 Imports attribute data from the OP connected to the given input.
 
-Import Detail Attribute
+[Import Detail Attribute]()
 
 
-Import Displacement Variable
+[Import Displacement Variable]()
 
 Imports the value of the specified variable from a displacement shader and stores it in var.
 
 
-Import Light Variable
+[Import Light Variable]()
 
 Imports the value of the specified variable from a light shader and stores it in var.
 
-Import Point Attribute
+[Import Point Attribute]()
 
-Import Primitive Attribute
+[Import Primitive Attribute]()
 
-Import Properties from OpenColorIO
+[Import Properties from OpenColorIO]()
 
 Imports a color space property from Open Color IO.
 
 
-Import Ray Variable
+[Import Ray Variable]()
 
 Imports the value of the specified variable sent from a trace() function and stores it in var.
 
 
-Import Surface Variable
+[Import Surface Variable]()
 
 Imports the value of the specified variable from a surface shader and stores it in var.
 
-Import Vertex Attribute
+[Import Vertex Attribute]()
 
 
-In Group
+[In Group]()
 
 Returns 1 if the point or primitive is in the group specified by the string.
 
-Indirect Lighting
+[Indirect Lighting]()
 
 Internal VOP used to compute indirect lighting.
 
 
-Inline Code
+[Inline Code]()
 
 Write VEX code that is put directly into your shader or operator definition.
 
 
-Insert
+[Insert]()
 
 Inserts an item, array, or string into an array or string.
 
 
-Instance with Hscript Procedural
+[Instance with Hscript Procedural]()
 
 Runs hscript for each point in the source geometry and instances the generated geometry to the point.
 
 
-Integer to Float
+[Integer to Float]()
 
 Converts an integer value to a float value.
 
-Integer to Vector
+[Integer to Vector]()
 
 
-Intersect
+[Intersect]()
 
 Computes the intersection of a ray with geometry.
 
 
-Intersect All
+[Intersect All]()
 
 Computes all the intersections of a ray with geometry.
 
 
-Invert
+[Invert]()
 
 If given a 3×3 or 4×4 matrix, this operator computes its inverse (or just returns the input matrix if it detects singularity).
 
 
-Irradiance
+[Irradiance]()
 
 Computes the irradiance (the global illumination) at the point P with the normal N.
 
 
-Is Alphabetic
+[Is Alphabetic]()
 
 Result 1 if all the characters in the string are alphabetic.
 
 
-Is Connected
+[Is Connected]()
 
 Outputs 1 if the input is ultimately connected, otherwise it outputs 0.
 
 
-Is Digit
+[Is Digit]()
 
 Result 1 if all the characters in the string are numeric.
 
 
-Is Finite
+[Is Finite]()
 
 Returns 1 if the number is a normal number, ie, not infinite or NAN.
 
 
-Is Fog Ray
+[Is Fog Ray]()
 
 Returns 1 if the shader is being evaluated from within a fog shader.
 
 
-Is Front Face
+[Is Front Face]()
 
 Returns true if the normal of the surface is forward facing, and false if it isn’t.
 
 
-Is NAN
+[Is NAN]()
 
 Returns 1 if the number is not a number.
 
 
-Is Shadow Ray
+[Is Shadow Ray]()
 
 Returns 1 if the shader is being evaluated for shadow rays.
 
-Jittered Hair Normal
+[Jittered Hair Normal]()
 
 
-Join Strings
+[Join Strings]()
 
 Concatenate all the strings of an array inserting a common spacer.
 
-Lambert
+[Lambert]()
 
 Generates a color using the Lambert diffuse lighting model calculation.
 
-Layer Composite
+[Layer Composite]()
 
 Combines two layers using standard compositing operations.
 
-Layer Mix
+[Layer Mix]()
 
 Outputs a mix of the two input layers, blended using the alpha value.
 
 
-Length
+[Length]()
 
 Computes the length of an array
 
 
-Length
+[Length]()
 
 Computes the length of a 3D or 4D vector.
 
 
-Lighting Model
+[Lighting Model]()
 
 Performs a lighting model calculation to generate a color.
 
-Limits
+[Limits]()
 
 Selectively clamps values to a minimum and/or maximum value.
 
 
-Logarithm
+[Logarithm]()
 
 Computes the natural logarithm function of the argument.
 
 
-Look At
+[Look At]()
 
 Computes a 3×3 rotation matrix to orient the z-axis along the vector (to - from) under the transformation.
 
 
-Luminance
+[Luminance]()
 
 Computes the luminance of the RGB color specified by the input parameter.
 
 
-Make Instance Transform
+[Make Instance Transform]()
 
 Builds a general 4×4 transform matrix derived from the standard copy/instance attributes
 
 
-Make Space Transform
+[Make Space Transform]()
 
 Returns the transformation matrix to transform from a transform space such as an object’s transform space to another space, such as world space.
 
 
-Make Transform
+[Make Transform]()
 
 Builds a general 4×4 transform matrix.
 
 
-Mandelbrot Set
+[Mandelbrot Set]()
 
 Generates a Mandelbrot pattern.
 
 
-Material shader builder
+[Material shader builder]()
 
 A higher-level shader that can contain one or more sub-shaders, such as surface shaders, displacement shaders, and rendering properties.
 
 
-Matrix to Float
+[Matrix to Float]()
 
 Unpacks a 4×4 matrix into its sixteen components.
 
 
-Matrix to Vector4
+[Matrix to Vector4]()
 
 Unpacks a 4×4 matrix into its rows.
 
 
-Matrix2 to Float
+[Matrix2 to Float]()
 
 Unpacks a 2×2 matrix2 into its four components.
 
-Matrix2 to Matrix3
+[Matrix2 to Matrix3]()
 
 Converts a 2×2 matrix to a 3×3 matrix.
 
-Matrix2 to Matrix4
+[Matrix2 to Matrix4]()
 
 Converts a 2×2 matrix to a 4×4 matrix.
 
 
-Matrix2 to Vector2
+[Matrix2 to Vector2]()
 
 Unpacks a 2×2 matrix into its rows.
 
 
-Matrix3 to Float
+[Matrix3 to Float]()
 
 Unpacks a 3×3 matrix3 into its nine components.
 
-Matrix3 to Matrix2
+[Matrix3 to Matrix2]()
 
 Converts a 3×3 matrix to a 2×2 matrix.
 
-Matrix3 to Matrix4
+[Matrix3 to Matrix4]()
 
 
-Matrix3 to Quaternion
+[Matrix3 to Quaternion]()
 
 Converts a matrix3, representing a rotation, to a quaternion representing the same rotation.
 
 
-Matrix3 to Vector
+[Matrix3 to Vector]()
 
 Unpacks a 3×3 matrix into its rows.
 
-Matrix4 to Matrix2
+[Matrix4 to Matrix2]()
 
 Converts a 4×4 matrix to a 2×2 matrix.
 
-Matrix4 to Matrix3
+[Matrix4 to Matrix3]()
 
 
-Matte
+[Matte]()
 
 Implements a matte shader that occludes geometry behind the surface being rendered.
 
 
-Max Vector Component
+[Max Vector Component]()
 
 Computes the maximum value of a vector argument.
 
 
-Maximum
+[Maximum]()
 
 Outputs the maximum value from its inputs.
 
 
-Meta-Loop Import
+[Meta-Loop Import]()
 
 Takes a handle generated by the Meta-Loop Start operator and will import attributes…
 
 
-Meta-Loop Next
+[Meta-Loop Next]()
 
 Takes a handle generated by the Meta-Loop Start operator and will "iterate" to the …
 
 
-Meta-Loop Start
+[Meta-Loop Start]()
 
 Opens a geometry file and initializes the handle to iterate through all metaballs at the position specified.
 
 
-Metaball Attribute
+[Metaball Attribute]()
 
 Returns the value of the given point attribute at the specified position in the metaball field.
 
 
-Metaball Density
+[Metaball Density]()
 
 Returns the density of the metaball field at the specified position.
 
 
-Metaball Space
+[Metaball Space]()
 
 Transforms the specified position into the local space of the metaball.
 
 
-Metaball Weight
+[Metaball Weight]()
 
 Returns the metaweight of the geometry at a given position.
 
 
-Metadata
+[Metadata]()
 
 Returns true if the specified metadata exists.
 
 
-Metadata
+[Metadata]()
 
 Returns metadata from one of the 4 input COPs connected to the VEX COP.
 
 
-Method
+[Method]()
 
 Represents a method inside a class-based shader.
 
 
-Method Call
+[Method Call]()
 
 Invokes a given method on a given struct or co-shader object.
 
 
-Method Input
+[Method Input]()
 
 Represents a method argument list inside a class-based shader.
 
 
-Method Subner
+[Method Subner]()
 
 Represents a method inside a class-based shader.
 
 
-Min Vector Component
+[Min Vector Component]()
 
 Computes the minimum value of a vector argument.
 
 
-Minimum
+[Minimum]()
 
 Outputs the minimum value from its inputs.
 
 
-Minimum Position
+[Minimum Position]()
 
 Finds closest position on a primitive in a given geometry file.
 
 
-Mix
+[Mix]()
 
 Computes a blend (or a mix) of its input values using linear interpolation.
 
 
-Modulo
+[Modulo]()
 
 Computes the modulo of two values.
 
 
-Multiply
+[Multiply]()
 
 Outputs the product of its inputs.
 
 
-Multiply Add Constant
+[Multiply Add Constant]()
 
 Will take the input value, add the pre-add amount, multiply by the constant multiplier, then add the post-add amount.
 
 
-Multiply Constant
+[Multiply Constant]()
 
 Multiplies the incoming value by a constant.
 
 
-Near Point
+[Near Point]()
 
 Finds closest point in a given geometry file.
 
 
-Negate
+[Negate]()
 
 Negates the incoming integer, float, vector or vector4 value.
 
 
-Neighbor Count File
+[Neighbor Count File]()
 
 Count the number of connected points from a given point in a given geometry file (or op:path)
 
 
-Neighbor File
+[Neighbor File]()
 
 Finds the nth neighbouring point for a given point in a given geometry file.
 
 
-Neighbors
+[Neighbors]()
 
 Retrieves an array of indices to the points connected to the given point.
 
 
-Non-Deterministic Random
+[Non-Deterministic Random]()
 
 A non-deterministic random number generator.
 
-Normal Clamp
+[Normal Clamp]()
 
 Clamp shading normals to prevent bad reflection directions
 
-Normal Falloff
+[Normal Falloff]()
 
 Generates a falloff value based on the relationship between the normal and incident vectors.
 
 
-Normalize
+[Normalize]()
 
 Normalizes a vector.
 
 
-Not
+[Not]()
 
 This operator performs a logical not operation on an integer value, returning 1 if the input is zero, and 0 if the input is non-zero.
 
 
-Null
+[Null]()
 
 Passes the inputs to the output with an optional name change.
 
-OCIO Color Transform
+[OCIO Color Transform]()
 
 Transforms color spaces using Open Color IO.
 
-OSL Bias
+[OSL Bias]()
 
-OSL Calculate Normal
+[OSL Calculate Normal]()
 
-OSL Dx/Dy/Dz
+[OSL Dx/Dy/Dz]()
 
-OSL Environment Map
+[OSL Environment Map]()
 
-OSL Gain
+[OSL Gain]()
 
-OSL Logarithm
+[OSL Logarithm]()
 
 
-OSL Shader
+[OSL Shader]()
 
 Implements an OSL shader.
 
-OSL Step
+[OSL Step]()
 
-OSL Texture Map
+[OSL Texture Map]()
 
-OSL Transform
+[OSL Transform]()
 
-OSL Transform Color
+[OSL Transform Color]()
 
 
-Occlusion
+[Occlusion]()
 
 Computes ambient occlusion at the point P with the normal N.
 
 
-Ocean Sample Layers
+[Ocean Sample Layers]()
 
 Sample ocean values from layered ocean spectra at the specified position and time.
 
 
-OpenSubdiv Face Count
+[OpenSubdiv Face Count]()
 
 Returns the number of coarse faces in the subdivision hull
 
 
-OpenSubdiv First Patch
+[OpenSubdiv First Patch]()
 
 Returns the patch of the first patch for a given face in the subdivision hull.
 
 
-OpenSubdiv Limit Surface
+[OpenSubdiv Limit Surface]()
 
 Evaluates a point attribute on the limit of a subdivision surface.
 
 
-OpenSubdiv Lookup Face
+[OpenSubdiv Lookup Face]()
 
 Outputs the Houdini face and UV coordinates corresponding to the given coordinates on an OSD patch.
 
 
-OpenSubdiv Lookup Patch
+[OpenSubdiv Lookup Patch]()
 
 Outputs the OSD patch and UV coordinates corresponding to the given coordinates on a Houdini polygon face.
 
 
-OpenSubdiv Patch Count
+[OpenSubdiv Patch Count]()
 
 Returns the number of patches in the subdivision hull
 
 
-Or
+[Or]()
 
 This operator performs a logical "or" operation between its inputs and returns 1 or 0 .
 
-Oren-Nayar
+[Oren-Nayar]()
 
 Generates a color using the Oren-Nayar diffuse lighting model calculation.
 
 
-Orient
+[Orient]()
 
 Reorients a vector representing a direction by multiplying it by a 4×4 transform matrix.
 
 
-Oscillations
+[Oscillations]()
 
 Returns an anti-aliased cosine or sine wave.
 
 
-Outer Product
+[Outer Product]()
 
 Computes the outer product of a pair of vectors.
 
 
-Output Variables and Parameters
+[Output Variables and Parameters]()
 
 Provides inputs representing the writable output variables of the shader network.
 
 
-PBR Emission
+[PBR Emission]()
 
 Makes a shaded surface emissive.
 
-PBR Hair Primary Reflection
+[PBR Hair Primary Reflection]()
 
 Produce a hair BSDF.
 
-PBR Hair Secondary Reflection
+[PBR Hair Secondary Reflection]()
 
 Produce a hair BSDF.
 
-PBR Hair Transmission
+[PBR Hair Transmission]()
 
 Produce a hair BSDF.
 
-PBR Lighting
+[PBR Lighting]()
 
 Evaluate Lighting Using PBR.
 
 
-PBR Metallic Reflection
+[PBR Metallic Reflection]()
 
 Computes metallic reflections.
 
 
-PBR Non-Metallic
+[PBR Non-Metallic]()
 
 Computes reflections and refractions for dielectric (non-metallic) materials.
 
-PBR SSS
+[PBR SSS]()
 
 Creates an approximate SSS BSDF.
 
-PBR Single Scatter
+[PBR Single Scatter]()
 
 Creates a Single Subsurface Scatter BSDF.
 
 
-PBR Volume Phase Function
+[PBR Volume Phase Function]()
 
-PRB Diffuse
+[PRB Diffuse]()
 
 Produce a normalized diffuse bsdf.
 
 
-Parameter
+[Parameter]()
 
 Represents a user-controllable parameter.
 
 
-Periodic Noise
+[Periodic Noise]()
 
 Generates 1D and 3D Perlin noise from 1D, 3D and 4D data.
 
 
-Periodic Worley Noise
+[Periodic Worley Noise]()
 
 Computes 1D, 3D, and 4D tileable Worley noise, which is synonymous with "cell noise".
 
 
-Photon Output Variables
+[Photon Output Variables]()
 
 Performs photon russian roulette.
 
-Physical SSS
+[Physical SSS]()
 
 Outputs surface color based on a physically-based subsurface scattering model. This node an do physically correct single scattering and/or multiple scattering.
 
 
-Pixel Area
+[Pixel Area]()
 
 Returns the area of the current pixel after being transformed to the new UV coordinate uvpos.
 
 
-Pixel Derivative
+[Pixel Derivative]()
 
 Returns U and V derivatives of the current pixel.
 
 
-Plane Clip
+[Plane Clip]()
 
 Clips the line segment defined by p1 and p2 against the 3D plane defined by the following equation: plane.
 
 
-Plane Count
+[Plane Count]()
 
 Returns the number of planes in the input.
 
 
-Plane Exists
+[Plane Exists]()
 
 Returns the name of the plane with the index plane_index in input input_index.
 
 
-Plane Index
+[Plane Index]()
 
 Returns the index of the plane with the name plane_index in input input_index.
 
 
-Plane Name
+[Plane Name]()
 
 Returns the name of the plane with the index plane_index in input input_index.
 
 
-Plane Size
+[Plane Size]()
 
 Returns the number of components in the plane with the index plane_index in input input_index.
 
 
-Point Bounding Box
+[Point Bounding Box]()
 
 Returns two vectors representing the minimum and maximum corners of the bounding box for the specified geometry.
 
-Point Cloud Close
+[Point Cloud Close]()
 
 This node closes a point cloud handle opened by pcopen.
 
-Point Cloud Export
+[Point Cloud Export]()
 
 This node exports point data while inside a pcunshaded loop.
 
-Point Cloud Farthest
+[Point Cloud Farthest]()
 
 This node finds the farthest query point produced by pcopen.
 
-Point Cloud Filter
+[Point Cloud Filter]()
 
 This node filters the points queried by pcopen.
 
 
-Point Cloud Find
+[Point Cloud Find]()
 
 Returns a list of closest points from a file
 
 
-Point Cloud Find Radius
+[Point Cloud Find Radius]()
 
 Returns a list of closest points from a file taking into account their radii.
 
-Point Cloud Import
+[Point Cloud Import]()
 
 This node imports point data while inside a pciterate or pcunshaded loop.
 
-Point Cloud Import by Index
+[Point Cloud Import by Index]()
 
 This node imports point data from a pcopen.
 
-Point Cloud Iterate
+[Point Cloud Iterate]()
 
 This node advances to the next iteration point returned by pcopen.
 
-Point Cloud Num Found
+[Point Cloud Num Found]()
 
 This node returns the number of points found by pcopen.
 
-Point Cloud Open
+[Point Cloud Open]()
 
 This node opens a point cloud file and searches for points around a source position.
 
-Point Cloud Unshaded
+[Point Cloud Unshaded]()
 
 This node advances to the next unshaded iteration point returned by pcopen.
 
-Point Cloud Write
+[Point Cloud Write]()
 
 This function writes data for the current shading point out to a point cloud file.
 
 
-Point Count
+[Point Count]()
 
 Returns the number of points for all primitives in the given geometry.
 
 
-Point In Group
+[Point In Group]()
 
 Returns 1 if the point specified by the point number is in the group specified by the string.
 
 
-Point Instance Procedural
+[Point Instance Procedural]()
 
 The underlying procedural when using Fast Point Instancing with the instance render parameters.
 
 
-Point Loop
+[Point Loop]()
 
 Only available in Image3D VOP networks.
 
 
-Point Replicate
+[Point Replicate]()
 
 The Point Replicate Procedural takes a number of input points and multiplies them, and processes the result using a CVEX script.
 
 
-Pop
+[Pop]()
 
 Removes the last element of an array and returns it.
 
 
-Power
+[Power]()
 
 Raises the first argument to the power of the second argument.
 
 
-Primitive Attribute
+[Primitive Attribute]()
 
 Evaluates an attribute for a given primitive at the specified uv parametric location.
 
 
-Primitive Intrinsic
+[Primitive Intrinsic]()
 
 Evaluates an intrinsic on a given primitive.
 
 
-Primitive Normal
+[Primitive Normal]()
 
 Returns the normal of a primitive (defined by its number) at the given uv parametric location.
 
 
-Principled Shader
+[Principled Shader]()
 
 An artist-friendly shader that can model a large number of materials realistically.
 
 
-Principled Shader
+[Principled Shader]()
 
 An artist-friendly shader that can model a large number of materials realistically.
 
 
-Print
+[Print]()
 
 Generate a formatted text string.
 
-Promote Layer Exports
+[Promote Layer Exports]()
 
 Promotes the export variables from the Shader Layer struct to the parent shader
 
-Properties
+[Properties]()
 
-Pxr AOV Light
+[Pxr AOV Light]()
 
 Pxr AOV Light shader
 
-Pxr Adjust Normal
+[Pxr Adjust Normal]()
 
 Pxr Adjust Normal shader
 
-Pxr Area Light
+[Pxr Area Light]()
 
 Pxr Std Area Light light shader
 
-Pxr Attribute
+[Pxr Attribute]()
 
 Pxr Attribute shader
 
-Pxr Background Display Filter
+[Pxr Background Display Filter]()
 
 Pxr Background Display Filter shader
 
-Pxr Background Sample Filter
+[Pxr Background Sample Filter]()
 
 Pxr Background Sample Filter shader
 
-Pxr Bake Point Cloud
+[Pxr Bake Point Cloud]()
 
 Pxr Bake Point Cloud shader
 
-Pxr Bake Texture
+[Pxr Bake Texture]()
 
 Pxr Bake Texture shader
 
-Pxr Barn Light Filter
+[Pxr Barn Light Filter]()
 
 Pxr Barn Light Filter shader
 
-Pxr Black
+[Pxr Black]()
 
 Pxr Black shader
 
-Pxr Black Body
+[Pxr Black Body]()
 
 Pxr Black Body pattern shader
 
-Pxr Blend
+[Pxr Blend]()
 
 Pxr Blend shader
 
-Pxr Blocker
+[Pxr Blocker]()
 
 Pxr Blocker light filter shader
 
-Pxr Blocker Light Filter
+[Pxr Blocker Light Filter]()
 
 Pxr Blocker Light Filter shader
 
-Pxr Bump
+[Pxr Bump]()
 
 Pxr Bump shader
 
-Pxr Bump Manifold 2d
+[Pxr Bump Manifold 2d]()
 
 Pxr Bump Manifold 2d shader
 
-Pxr Camera
+[Pxr Camera]()
 
 Pxr Camera shader
 
-Pxr Checker
+[Pxr Checker]()
 
 Pxr Checker shader
 
-Pxr Clamp
+[Pxr Clamp]()
 
 Pxr Clamp shader
 
-Pxr Color Correct
+[Pxr Color Correct]()
 
 Pxr Color Correct shader
 
-Pxr Combiner Light Filter
+[Pxr Combiner Light Filter]()
 
 Pxr Combiner Light Filter shader
 
-Pxr Constant
+[Pxr Constant]()
 
 Pxr Constant shader
 
-Pxr Cookie Light Filter
+[Pxr Cookie Light Filter]()
 
 Pxr Cookie Light Filter shader
 
-Pxr Copy AOV Display Filter
+[Pxr Copy AOV Display Filter]()
 
 Pxr Copy AOV Display Filter shader
 
-Pxr Copy AOV Sample Filter
+[Pxr Copy AOV Sample Filter]()
 
 Pxr Copy AOV Sample Filter shader
 
-Pxr Cross
+[Pxr Cross]()
 
 Pxr Cross shader
 
-Pxr DebugShadingContext
+[Pxr DebugShadingContext]()
 
 Pxr DebugShadingContext shader
 
-Pxr Default
+[Pxr Default]()
 
 Pxr Default integrator shader
 
-Pxr Direct Lighting
+[Pxr Direct Lighting]()
 
 Pxr Direct Lighting integrator shader
 
-Pxr Dirt
+[Pxr Dirt]()
 
 Pxr Dirt shader
 
-Pxr Disk Light
+[Pxr Disk Light]()
 
 Pxr Disk Light shader
 
-Pxr Disney
+[Pxr Disney]()
 
 Pxr Disney bxdf shader
 
-Pxr Disp Transform
+[Pxr Disp Transform]()
 
 Pxr Disp Transform shader
 
-Pxr Disp Vector Layer
+[Pxr Disp Vector Layer]()
 
 Pxr Disp Vector Layer shader
 
-Pxr Displace
+[Pxr Displace]()
 
 Pxr Displace shader
 
-Pxr Displacement
+[Pxr Displacement]()
 
 Pxr Displacement shader
 
-Pxr Display Filter Combiner
+[Pxr Display Filter Combiner]()
 
 Pxr Display Filter Combiner shader
 
-Pxr Disps Calar Layer
+[Pxr Disps Calar Layer]()
 
 Pxr Disps Calar Layer shader
 
-Pxr Distant Light
+[Pxr Distant Light]()
 
 Pxr Distant Light shader
 
-Pxr Dome Light
+[Pxr Dome Light]()
 
 Pxr Dome Light shader
 
-Pxr Dot
+[Pxr Dot]()
 
 Pxr Dot shader
 
-Pxr Envday Light
+[Pxr Envday Light]()
 
 Pxr Envday Light shader
 
-Pxr Exposure
+[Pxr Exposure]()
 
 Pxr Exposure shader
 
-Pxr FacingRatio
+[Pxr FacingRatio]()
 
 Pxr FacingRatio shader
 
-Pxr Filmic Tone Mapper Display Filter
+[Pxr Filmic Tone Mapper Display Filter]()
 
 Pxr Filmic Tone Mapper Display Filter shader
 
-Pxr Filmic Tone Mapper Sample Filter
+[Pxr Filmic Tone Mapper Sample Filter]()
 
 Pxr Filmic Tone Mapper Sample Filter shader
 
-Pxr Flakes
+[Pxr Flakes]()
 
 Pxr Flakes shader
 
-Pxr Fractal
+[Pxr Fractal]()
 
 Pxr Fractal pattern shader
 
-Pxr Fractialize
+[Pxr Fractialize]()
 
 Pxr Fractialize shader
 
-Pxr Gamma
+[Pxr Gamma]()
 
 Pxr Gamma shader
 
-Pxr Geometric AOVs
+[Pxr Geometric AOVs]()
 
 Pxr Geometric AOVs shader
 
-Pxr Gobo
+[Pxr Gobo]()
 
 Pxr Gobo light filter shader
 
-Pxr Gobolight Filter
+[Pxr Gobolight Filter]()
 
 Pxr Gobolight Filter shader
 
-Pxr Grade Display Filter
+[Pxr Grade Display Filter]()
 
 Pxr Grade Display Filter shader
 
-Pxr Grade Sample Filter
+[Pxr Grade Sample Filter]()
 
 Pxr Grade Sample Filter shader
 
-Pxr Hair Color
+[Pxr Hair Color]()
 
 Pxr Hair Color shader.
 
-Pxr Half Buffer Error Filter
+[Pxr Half Buffer Error Filter]()
 
 Pxr Half Buffer Error Filter shader.
 
-Pxr Hsl
+[Pxr Hsl]()
 
 Pxr Hsl shader
 
-Pxr Image Display Filter
+[Pxr Image Display Filter]()
 
 Pxr Image Display Filter shader
 
-Pxr Image Plane Filter
+[Pxr Image Plane Filter]()
 
 Pxr Image Plane Filter shader
 
-Pxr Int Mult Light Filter
+[Pxr Int Mult Light Filter]()
 
 Pxr Int Mult Light Filter shader
 
-Pxr Invert
+[Pxr Invert]()
 
 Pxr Invert shader
 
-Pxr Layer
+[Pxr Layer]()
 
 Pxr Layer shader
 
-Pxr Layer Mixer
+[Pxr Layer Mixer]()
 
 Pxr Layer Mixer shader
 
-Pxr Layered Texture
+[Pxr Layered Texture]()
 
 Pxr Layered Texture shader
 
-Pxr Layeredblend
+[Pxr Layeredblend]()
 
 Pxr Layeredblend shader
 
-Pxr Light Probe
+[Pxr Light Probe]()
 
 Pxr Light Probe shader
 
-Pxr Lightemission
+[Pxr Lightemission]()
 
 Pxr Lightemission shader
 
-Pxr Lmdiffuse
+[Pxr Lmdiffuse]()
 
 Pxr Lmdiffuse shader
 
-Pxr Lmglass
+[Pxr Lmglass]()
 
 Pxr Lmglass shader
 
-Pxr Lmlayer
+[Pxr Lmlayer]()
 
 Pxr Lmlayer shader
 
-Pxr Lmmixer
+[Pxr Lmmixer]()
 
 Pxr Lmmixer shader
 
-Pxr Lmplastic
+[Pxr Lmplastic]()
 
 Pxr Lmplastic shader
 
-Pxr Lmsubsurface
+[Pxr Lmsubsurface]()
 
 Pxr Lmsubsurface shader
 
-Pxr Manifold 3D
+[Pxr Manifold 3D]()
 
 Pxr Manifold 3D manifold shader
 
-Pxr Manifold2d
+[Pxr Manifold2d]()
 
 Pxr Manifold2d shader
 
-Pxr Manifold3dn
+[Pxr Manifold3dn]()
 
 Pxr Manifold3dn shader
 
-Pxr Marschnerhair
+[Pxr Marschnerhair]()
 
 Pxr Marschnerhair shader
 
-Pxr Matteid
+[Pxr Matteid]()
 
 Pxr Matteid shader
 
-Pxr Mesh Light
+[Pxr Mesh Light]()
 
 Pxr Mesh Light shader
 
-Pxr Mix
+[Pxr Mix]()
 
 Pxr Mix shader
 
