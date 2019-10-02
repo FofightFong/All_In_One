@@ -17,6 +17,8 @@
 
 [Box]()----Creates a cube or six-sided rectangular box.
 
+[Copy Stamp]()----Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
+
 [Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
 
 [Edit]()----Edits points, edges, or faces interactively.
