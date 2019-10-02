@@ -2065,510 +2065,510 @@ Pxr Mesh Light shader
 
 Pxr Mix shader
 
-Pxr Multi Texture
+[Pxr Multi Texture]()
 
 Pxr Multi Texture shader
 
-Pxr Normalmap
+[Pxr Normalmap]()
 
 Pxr Normalmap shader
 
-Pxr Occlusion
+[Pxr Occlusion]()
 
 Pxr Occlusion shader
 
-Pxr Omini Directional Stereo
+[Pxr Omini Directional Stereo]()
 
 Pxr Omini Directional Stereo
 
-Pxr Osl
+[Pxr Osl]()
 
 Pxr Osl shader
 
-Pxr Path Tracer
+[Pxr Path Tracer]()
 
 Pxr Path Tracer integrator shader
 
-Pxr Portal Light
+[Pxr Portal Light]()
 
 Pxr Portal Light shader
 
-Pxr Primvar
+[Pxr Primvar]()
 
 Pxr Primvar shader
 
-Pxr Projection Stack
+[Pxr Projection Stack]()
 
 Pxr Projection Stack shader
 
-Pxr Projectionlayer
+[Pxr Projectionlayer]()
 
 Pxr Projectionlayer shader
 
-Pxr Projector
+[Pxr Projector]()
 
 Pxr Projector shader
 
-Pxr Ptexture
+[Pxr Ptexture]()
 
 Pxr Ptexture shader
 
-Pxr Ramp
+[Pxr Ramp]()
 
 Pxr Ramp shader
 
-Pxr Ramp Light Filter
+[Pxr Ramp Light Filter]()
 
 Pxr Ramp Light Filter shader
 
-Pxr Random Texture Manifold
+[Pxr Random Texture Manifold]()
 
 Pxr Random Texture Manifold shader.
 
-Pxr Rect Light
+[Pxr Rect Light]()
 
 Pxr Rect Light shader
 
-Pxr Remap
+[Pxr Remap]()
 
 Pxr Remap shader
 
-Pxr Rod Light Filter
+[Pxr Rod Light Filter]()
 
 Pxr Rod Light Filter shader
 
-Pxr Rolling Shutter
+[Pxr Rolling Shutter]()
 
 Pxr Rolling Shutter shader
 
-Pxr Roundcube
+[Pxr Roundcube]()
 
 Pxr Roundcube shader
 
-Pxr Sample Filter Combiner
+[Pxr Sample Filter Combiner]()
 
 Pxr Sample Filter Combiner shader
 
-Pxr Seexpr
+[Pxr Seexpr]()
 
 Pxr Seexpr shader
 
-Pxr Shaded Side
+[Pxr Shaded Side]()
 
 Pxr Shaded Side shader
 
-Pxr Shadow Display Filter
+[Pxr Shadow Display Filter]()
 
 Pxr Shadow Display Filter shader
 
-Pxr Shadow Filter
+[Pxr Shadow Filter]()
 
 Pxr Shadow Filter shader
 
-Pxr Sphere Light
+[Pxr Sphere Light]()
 
 Pxr Sphere Light shader
 
-Pxr Std Env Day Light
+[Pxr Std Env Day Light]()
 
 Pxr Std Env Day Light light shader
 
-Pxr Std Env Map Light
+[Pxr Std Env Map Light]()
 
 Pxr Std Env Map Light light shader
 
-Pxr Surface
+[Pxr Surface]()
 
 Pxr Surface shader
 
-Pxr Tangentfield
+[Pxr Tangentfield]()
 
 Pxr Tangentfield shader
 
-Pxr Tee
+[Pxr Tee]()
 
 Pxr Tee shader
 
-Pxr Texture
+[Pxr Texture]()
 
 Pxr Texture shader
 
-Pxr Thinfilm
+[Pxr Thinfilm]()
 
 Pxr Thinfilm shader
 
-Pxr Threshold
+[Pxr Threshold]()
 
 Pxr Threshold shader
 
-Pxr Tile Manifold
+[Pxr Tile Manifold]()
 
 Pxr Tile Manifold shader
 
-Pxr Tofloat
+[Pxr Tofloat]()
 
 Pxr Tofloat shader
 
-Pxr Tofloat3
+[Pxr Tofloat3]()
 
 Pxr Tofloat3 shader
 
-Pxr UPBP
+[Pxr UPBP]()
 
 Pxr UPBP shader
 
-Pxr VCM
+[Pxr VCM]()
 
 Pxr VCM integrator shader
 
-Pxr Validatebxdf
+[Pxr Validatebxdf]()
 
 Pxr Validatebxdf shader
 
-Pxr Variable
+[Pxr Variable]()
 
 Pxr Variable shader
 
-Pxr Vary
+[Pxr Vary]()
 
 Pxr Vary shader
 
-Pxr Visualizer
+[Pxr Visualizer]()
 
 Pxr Visualizer shader
 
-Pxr Volume
+[Pxr Volume]()
 
 Pxr Volume shader
 
-Pxr Voronoise
+[Pxr Voronoise]()
 
 Pxr Voronoise pattern shader
 
-Pxr White Point Display Filter
+[Pxr White Point Display Filter]()
 
 Pxr White Point Display Filter shader
 
-Pxr White Point Sample Filter
+[Pxr White Point Sample Filter]()
 
 Pxr White Point Sample Filter shader
 
-Pxr Worley
+[Pxr Worley]()
 
 Pxr Worley shader
 
-PxrLm Metal
+[PxrLm Metal]()
 
 PxrLm Metal shader
 
-Pyro Blackbody
+[Pyro Blackbody]()
 
 Converts a temperature value into color (chroma) and intensity according to the blackbody radiation model.
 
-Pyro Color Correct
+[Pyro Color Correct]()
 
 Provides color correction functions.
 
-Pyro Color Model
+[Pyro Color Model]()
 
 Provides constant, artistic, and physically correct (blackbody) tint as well as color correction functions.
 
-Pyro Color Volume
+[Pyro Color Volume]()
 
 Provides functions for editing color fields by conditioning the field values, adding noise, filtering, and color correction.
 
-Pyro Density Volume
+[Pyro Density Volume]()
 
 Provides functions for editing fields such as density by conditioning the field values, adding noise, and filtering.
 
-Pyro Displace
+[Pyro Displace]()
 
-Pyro Field
+[Pyro Field]()
 
-Pyro Noise
+[Pyro Noise]()
 
 
-Pyro Shader
+[Pyro Shader]()
 
 Flexible, production-quality fire and smoke shader.
 
 
-Pyro Shader Core
+[Pyro Shader Core]()
 
 Provides the core functionality needed to build a high-quality volumetric shader.
 
 
-Quaternion
+[Quaternion]()
 
 Takes an angle and an axis and constructs the quaternion representing the rotation about that axis.
 
 
-Quaternion Distance
+[Quaternion Distance]()
 
 Computes distance between quaternions in radians.
 
 
-Quaternion Invert
+[Quaternion Invert]()
 
 Takes an quaternion inverts it..
 
 
-Quaternion Multiply
+[Quaternion Multiply]()
 
 Performs a quaternion multiplication with its two inputs.
 
 
-Quaternion to Angle/Axis
+[Quaternion to Angle/Axis]()
 
 Converts a quaternion to angle/axis form.
 
 
-Quaternion to Matrix3
+[Quaternion to Matrix3]()
 
 Converts a vector4, representing a quaternion, to a matrix3 value, representing the same rotation.
 
 
-RGB to HSV
+[RGB to HSV]()
 
 Converts RGB color space to HSV color space.
 
 
-RSL Gather Loop
+[RSL Gather Loop]()
 
 Sends rays into the scene and contains a subnetwork of VOPs to operate on the information gathered from the shaders of surfaces hit by the rays.
 
 
-RSL Material
+[RSL Material]()
 
 Implements an RSL material.
 
 
-Radians to Degrees
+[Radians to Degrees]()
 
 Converts radians to degrees.
 
 
-Rainbow
+[Rainbow]()
 
 Generates a non-repeating rainbow color ramp by modulating the hue over the range of the parametric coordinate s and using the given saturation and value to compute the HSV color.
 
-Ramp Filter
+[Ramp Filter]()
 
 Adds anti-aliased analytical filtering to the output of a Ramp Parameter VOP.
 
 
-Ramp Parameter
+[Ramp Parameter]()
 
 Represents a user-editable ramp parameter.
 
 
-Ramps
+[Ramps]()
 
 Generates repeating filtered ramps.
 
 
-Random
+[Random]()
 
 Generates a random number based on the position in one, three, or four dimensions.
 
 
-Random Sobol
+[Random Sobol]()
 
 Generates a random number in a Sobol sequence.
 
-Random Value
+[Random Value]()
 
 
-Ray Bounce Level
+[Ray Bounce Level]()
 
 Returns the current ray-bounce level.
 
 
-Ray Bounce Weight
+[Ray Bounce Weight]()
 
 Returns the amount that the current bounce level will contribute to the final pixel color.
 
 
-Ray Hit
+[Ray Hit]()
 
 This operator sends a ray from the position P along the direction specified by the direction D, and returns the distance to the object intersected or a negative number if not object found.
 
 
-Ray Trace
+[Ray Trace]()
 
 Sends a ray starting at origin P and in the direction specified by the normalized vector D.
 
 
-Reflect
+[Reflect]()
 
 Returns the vector representing the reflection of the direction against the normal vector.
 
 
-Reflected Light
+[Reflected Light]()
 
 Computes the amount of reflected light which hits the surface.
 
 
-Refract
+[Refract]()
 
 Computes the refraction ray given an incoming direction, the normalized normal and an index of refraction.
 
 
-Refracted Light
+[Refracted Light]()
 
 Sends a ray starting at origin P and in the direction specified by the normalized vector I.
 
 
-Regex Find
+[Regex Find]()
 
 Finds the given regular expression in the string.
 
 
-Regex Findall
+[Regex Findall]()
 
 Finds all instances of the given regular expression in the string.
 
 
-Regex Match
+[Regex Match]()
 
 Result 1 if the entire input string matches the expression.
 
 
-Regex Replace
+[Regex Replace]()
 
 Replaces instances of find_regex with replace_regex.
 
 
-Regex Split
+[Regex Split]()
 
 Splits the given string based on regex match.
 
 
-Relative to Bounding Box
+[Relative to Bounding Box]()
 
 Returns the relative position of the point given with respect to the bounding box of the specified geometry.
 
 
-Relative to Point Bounding Box
+[Relative to Point Bounding Box]()
 
 Returns the relative position of the point given with respect to the bounding box of the specified geometry.
 
 
-Remove Index
+[Remove Index]()
 
 Removes an item at the given index from an array.
 
-Remove Point
+[Remove Point]()
 
 Removes points from the geometry.
 
-Remove Primitive
+[Remove Primitive]()
 
 
-Remove Value
+[Remove Value]()
 
 Removes an item from an array.
 
 
-Render State
+[Render State]()
 
 Gets state information from the renderer.
 
-RenderMan Bias
+[RenderMan Bias]]()
 
-RenderMan Calculate Normal
+[RenderMan Calculate Normal]()
 
-RenderMan Deriv
+[RenderMan Deriv]()
 
-RenderMan Du/Dv
+[RenderMan Du/Dv]()
 
-RenderMan Environment Map
+[RenderMan Environment Map]()
 
-RenderMan Gain
+[RenderMan Gain]()
 
-RenderMan Illuminance Loop
+[RenderMan Illuminance Loop]()
 
-RenderMan Illuminate Construct
+[RenderMan Illuminate Construct]()
 
-RenderMan Import Value
+[RenderMan Import Value]()
 
-RenderMan Indirect Diffuse
+[RenderMan Indirect Diffuse]()
 
-RenderMan Logarithm
+[RenderMan Logarithm]()
 
-RenderMan Occlusion
+[RenderMan Occlusion]()
 
-RenderMan Ray Information
+[RenderMan Ray Information]()
 
-RenderMan Render State Information
+[RenderMan Render State Information]()
 
-RenderMan Shadow Map
+[RenderMan Shadow Map]()
 
-RenderMan Step
+[RenderMan Step]()
 
-RenderMan Surface Color
+[RenderMan Surface Color]()
 
-RenderMan Texture Map
+[RenderMan Texture Map]()
 
-RenderMan Texture Map Information
+[RenderMan Texture Map Information]()
 
-RenderMan Transform
+[RenderMan Transform]()
 
-RenderMan Transform Color
+[RenderMan Transform Color]()
 
-RenderMan Z-Depth From Camera
+[RenderMan Z-Depth From Camera]()
 
 
-Reorder
+[Reorder]()
 
 Reorders items in an array or string.
 
 
-Report Error
+[Report Error]()
 
 Optionally report a custom VEX error or warning.
 
-Reshape Value
+[Reshape Value]()
 
 Modulates input value using a variety of methods.
 
 
-Resolution
+[Resolution]()
 
 Returns the pixel resolution of an input.
 
 
-Rest Position
+[Rest Position]()
 
 Checks if the geometry attribute "rest" is bound and, if so, uses it as the rest position for shading.
 
 
-Return
+[Return]()
 
 Generates a return statement inside a method or a function defined by the parent subnet.
 
 
-Reverse
+[Reverse]()
 
 Adds an item to an array or string.
 
 
-Rings
+[Rings]()
 
 Generates repeating filtered rings.
 
 
-Ripples
+[Ripples]()
 
 Generates repeating ripples.
 
 
-Rotate
+[Rotate]()
 
 Applies a rotation by 'angle' radians to the given 3×3 or 4×4 matrix.
 
 
-Rotate by Quaternion
+[Rotate by Quaternion]()
 
 Rotates a vector by a quaternion.
 
