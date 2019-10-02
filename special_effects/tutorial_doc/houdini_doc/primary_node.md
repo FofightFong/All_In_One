@@ -50,6 +50,8 @@
 
 [Edit]()----Edits points, edges, or faces interactively.
 
+[Facet]()----Controls the smoothness of faceting of a surface.
+
 [Font]()----Creates 3D text from Type 1, TrueType and OpenType fonts.
 
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
