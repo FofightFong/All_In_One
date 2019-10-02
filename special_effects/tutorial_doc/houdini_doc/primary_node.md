@@ -7,6 +7,8 @@
 
 [Agent Layer]()----Adds a new layer to agent primitives.
 
+[Agent Unpack]()----Extracts geometry from agent primitives.
+
 [Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
 
 [Attribute Composite]()----Composites vertex, point, primitive, and/or detail attributes between two or more selections.
@@ -55,6 +57,8 @@
 [Font]()----Creates 3D text from Type 1, TrueType and OpenType fonts.
 
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
+
+[Group Delete]()----Deletes groups of points, primitives, edges, or vertices according to patterns.
 
 [Invoke Compiled Block]()----Processes its inputs using the operation of a referenced compiled block.
 
