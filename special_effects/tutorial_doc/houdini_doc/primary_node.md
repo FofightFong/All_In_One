@@ -31,6 +31,8 @@
 
 [Null]()----Does nothing.
 
+[Point Generate]()----Creates new points, optionally based on point positions in the input geometry.
+
 [Point Relax]()----Moves points with overlapping radii away from each other, optionally on a surface.
 
 [Sphere]()----Creates a sphere or ovoid surface.
