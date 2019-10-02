@@ -39,5 +39,7 @@
 
 [Tube]()----Creates open or closed tubes, cones, or pyramids.
 
+[Unpack]()----Unpacks packed primitives.
 
+[Unpack Points]()----Unpacks points from packed primitives.
 
