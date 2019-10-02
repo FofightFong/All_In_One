@@ -35,6 +35,8 @@
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
 
+[Control]()----Creates simple geometry for use as control shapes.
+
 [Copy Stamp]()----Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
 
 [Copy to Points]()----Copies the geometry in the first input onto the points of the second input.
