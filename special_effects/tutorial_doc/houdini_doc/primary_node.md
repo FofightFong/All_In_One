@@ -1,4 +1,8 @@
 
+[Add]()----Creates Points or Polygons, or adds points/polys to an input.
+
+[Attribute Create]()----Adds or edits user defined attributes.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Edit]()----Edits points, edges, or faces interactively.
