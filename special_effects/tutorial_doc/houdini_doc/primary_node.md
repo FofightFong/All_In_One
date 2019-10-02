@@ -50,6 +50,8 @@
 
 [Edit]()----Edits points, edges, or faces interactively.
 
+[Font]()----Creates 3D text from Type 1, TrueType and OpenType fonts.
+
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
 
 [Invoke Compiled Block]()----Processes its inputs using the operation of a referenced compiled block.
