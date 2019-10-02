@@ -42,6 +42,8 @@
 
 [Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
 
+[Dop Import]()----Imports and transforms geometry based on information extracted from a DOP simulation.
+
 [Edit]()----Edits points, edges, or faces interactively.
 
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
