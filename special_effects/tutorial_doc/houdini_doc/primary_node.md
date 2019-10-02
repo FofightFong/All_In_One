@@ -11,6 +11,8 @@
 
 [Attribute Rename]()----Renames or deletes point and primitive attributes.
 
+[Attribute String Edit]()----Edits string attribute values.
+
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
 [Box]()----Creates a cube or six-sided rectangular box.
