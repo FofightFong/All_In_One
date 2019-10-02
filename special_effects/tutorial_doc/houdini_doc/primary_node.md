@@ -3,7 +3,11 @@
 
 [Agent]()----Creates agent primitives.
 
+[Agent Clip]()----Adds new clips to agent primitives.
+
 [Attribute Create]()----Adds or edits user defined attributes.
+
+[Blast]()----Deletes primitives, points, edges or breakpoints.
 
 [Box]()----Creates a cube or six-sided rectangular box.
 
