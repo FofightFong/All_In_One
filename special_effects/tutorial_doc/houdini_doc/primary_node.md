@@ -15,6 +15,14 @@
 
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
+[Block Begin]()----The start of a looping block.
+
+[Block Begin Compile]()----The start of a compile block.
+
+[Block End]()----The end/output of a looping block.
+
+[Block End Compile]()----The end/output of a compile block.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Copy Stamp]()----Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
@@ -26,6 +34,8 @@
 [Edit]()----Edits points, edges, or faces interactively.
 
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
+
+[Invoke Compiled Block]()----Processes its inputs using the operation of a referenced compiled block.
 
 [Merge]()----Merges geometry from its inputs.
 
