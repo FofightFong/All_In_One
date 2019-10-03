@@ -64,6 +64,8 @@
 
 [Merge]()----Merges geometry from its inputs.
 
+[Name]()----Creates a "naming" attribute on points or primitives allowing you to refer to them easily, similar to groups.
+
 [Null]()----Does nothing.
 
 [Output]()----Marks the output of a sub-network.
