@@ -86,6 +86,8 @@
 
 [Switch]()----Switches between network branches based on an expression or keyframe animation.
 
+[TimeShift]()----Cooks the input at a different time.
+
 [Torus]()----Creates a torus (doughnut) shaped surface.
 
 [Transform]()----The Transform operation transforms the source geometry in "object space" using a transformation matrix.
