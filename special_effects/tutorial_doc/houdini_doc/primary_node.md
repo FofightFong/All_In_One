@@ -39,6 +39,8 @@
 
 [Attribute Swap]()----Copies, moves, or swaps the contents of attributes.
 
+[Attribute Transfer]()----Transfers vertex, point, primitive, and/or detail attributes between two models.
+
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
 [Block Begin]()----The start of a looping block.
@@ -63,6 +65,8 @@
 
 
 [Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
+
+[Divide]()----Divides, smooths, and triangulates polygons.
 
 [Dop Import]()----Imports and transforms geometry based on information extracted from a DOP simulation.
 
@@ -103,6 +107,8 @@
 [PolyBevel]()----Creates straight, rounded, or custom fillets along edges and corners.
 
 [Python]()----Runs a Python snippet to modify the incoming geometry.
+
+[Rest Position]()----Sets the alignment of solid textures to the geometry so the texture stays put on the surface as it deforms.
 
 [Rewire Vertices]()----Rewires vertices to different points specified by an attribute.
 
