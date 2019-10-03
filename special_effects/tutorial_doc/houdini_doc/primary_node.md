@@ -33,7 +33,11 @@
 
 [Attribute Rename]()----Renames or deletes point and primitive attributes.
 
+[Attribute Reorient]()----Modifies point attributes based on differences between two models.
+
 [Attribute String Edit]()----Edits string attribute values.
+
+[Attribute Swap]()----Copies, moves, or swaps the contents of attributes.
 
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
