@@ -82,6 +82,8 @@
 
 [Rewire Vertices]()----Rewires vertices to different points specified by an attribute.
 
+[Sequence Blend]()----Sequence Blend lets you do 3D Metamorphosis between shapes and Interpolate point position, colors…
+
 [Sphere]()----Creates a sphere or ovoid surface.
 
 [Switch]()----Switches between network branches based on an expression or keyframe animation.
