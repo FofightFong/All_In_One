@@ -9,6 +9,8 @@
 
 [Agent Unpack]()----Extracts geometry from agent primitives.
 
+[Alembic]()----Loads the geometry from an Alembic scene archive (.abc) file into a geometry network.
+
 [Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
 
 [Attribute Composite]()----Composites vertex, point, primitive, and/or detail attributes between two or more selections.
