@@ -130,3 +130,7 @@
 
 [Unpack Points]()----Unpacks points from packed primitives.
 
+[UV Texture]()----Assigns texture UV coordinates to geometry for use in texture and bump mapping.
+
+[UV Transform]()----Transforms UV texture coordinates on the source geometry.
+
