@@ -25,6 +25,10 @@
 
 [Attribute Create]()----Adds or edits user defined attributes.
 
+[Attribute Interpolate]()----Interpolates attributes within primitives or based on explicit weights.
+
+[Attribute Mirror]()----Copies and flips attributes from one side of a plane to another.
+
 [Attribute Promote]()----Promotes or demotes attributes from one geometry level to another.
 
 [Attribute Rename]()----Renames or deletes point and primitive attributes.
