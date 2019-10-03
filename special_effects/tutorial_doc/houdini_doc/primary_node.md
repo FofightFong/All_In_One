@@ -78,6 +78,8 @@
 
 [Output]()----Marks the output of a sub-network.
 
+[OpenCL]()----Executes an OpenCL kernel on geometry.
+
 [Pack]()----Packs geometry into an embedded primitive.
 
 [Pack Points]()----Packs points into a tiled grid of packed primitives.
