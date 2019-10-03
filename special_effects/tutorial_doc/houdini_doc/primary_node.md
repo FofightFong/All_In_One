@@ -11,6 +11,12 @@
 
 [Alembic]()----Loads the geometry from an Alembic scene archive (.abc) file into a geometry network.
 
+[Alembic Group]()----Creates a geometry group for Alembic primitives.
+
+[Alembic Primitive]()----Modifies intrinsic properties of Alembic primitives.
+
+[Align]()----Aligns a group of primitives to each other or to an auxiliary input.
+
 [Attribute Cast]()----Changes the size/precision Houdini uses to store an attribute.
 
 [Attribute Composite]()----Composites vertex, point, primitive, and/or detail attributes between two or more selections.
