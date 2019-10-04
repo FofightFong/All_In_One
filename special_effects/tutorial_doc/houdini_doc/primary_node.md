@@ -127,6 +127,8 @@
 
 [Font]()----Creates 3D text from Type 1, TrueType and OpenType fonts.
 
+[Fuse]()----Merges points.
+
 [Group]()----Generates groups of points, primitives, edges, or vertices according to various criteria.
 
 [Group Delete]()----Deletes groups of points, primitives, edges, or vertices according to patterns.
