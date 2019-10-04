@@ -111,6 +111,8 @@
 
 [Control]()----Creates simple geometry for use as control shapes.
 
+[Convert]()----Converts geometry from one geometry type to another.
+
 [Copy Stamp]()----Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
 
 [Copy to Points]()----Copies the geometry in the first input onto the points of the second input.
