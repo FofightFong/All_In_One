@@ -85,6 +85,8 @@
 
 [Cap]()----Closes open areas with flat or rounded coverings.
 
+[Capture Attribute Pack]()----Converts array attributes into a single index-pair capture attribute.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
