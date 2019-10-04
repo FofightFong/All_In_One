@@ -99,6 +99,8 @@
 
 [Capture Region]()----Supports Capture and Deform operation by creating a volume within which points are captured to a bone.
 
+[Carve]()----Slices, cuts or extracts points or cross-sections from a primitive.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
