@@ -61,6 +61,10 @@
 
 [Block End Compile]()----The end/output of a compile block.
 
+[Bone Capture]()----Supports Bone Deform by assigning capture weights to bones.
+
+[Bone Capture Biharmonic]()----Supports Deform by assigning capture weights to points based on biharmonic functions on tetrahedral meshes.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Circle]()----Creates open or closed arcs, circles and ellipses.
