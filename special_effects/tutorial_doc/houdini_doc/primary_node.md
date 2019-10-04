@@ -69,6 +69,12 @@
 
 [Bone Capture Proximity]()----Supports Bone Deform by assigning capture weights to points based on distance to bones.
 
+[Bone Deform]()----Uses capture attributes created from bones to deform geometry according to their movement.
+
+[Bone Link]()----Creates default geometry for Bone objects.
+
+[Boolean]()----Combines two polygonal objects with boolean operators, or finds the intersection lines between two polygonal objects.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Circle]()----Creates open or closed arcs, circles and ellipses.
