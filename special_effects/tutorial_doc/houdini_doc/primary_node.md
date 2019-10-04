@@ -101,6 +101,8 @@
 
 [Carve]()----Slices, cuts or extracts points or cross-sections from a primitive.
 
+[Channel]()----Reads sample data from a chop and converts it into point positions and point attributes.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
