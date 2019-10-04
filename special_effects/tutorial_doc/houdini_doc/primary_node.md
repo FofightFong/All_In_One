@@ -51,6 +51,8 @@
 
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
+[Blend Shapes]()----Computes a 3D metamorphosis between shapes with the same topology.
+
 [Block Begin]()----The start of a looping block.
 
 [Block Begin Compile]()----The start of a compile block.
@@ -131,6 +133,8 @@
 [Torus]()----Creates a torus (doughnut) shaped surface.
 
 [Transform]()----The Transform operation transforms the source geometry in "object space" using a transformation matrix.
+
+[Transform By Attribute]()----Transforms the input geometry by a point attribute.
 
 [Tube]()----Creates open or closed tubes, cones, or pyramids.
 
