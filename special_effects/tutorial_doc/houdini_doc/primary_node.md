@@ -140,6 +140,8 @@
 
 [Sphere]()----Creates a sphere or ovoid surface.
 
+[Split]()----Splits primitives or points into two streams.
+
 [Switch]()----Switches between network branches based on an expression or keyframe animation.
 
 [TimeShift]()----Cooks the input at a different time.
