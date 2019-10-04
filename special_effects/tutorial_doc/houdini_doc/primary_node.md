@@ -104,11 +104,15 @@
 
 [Group Delete]()----Deletes groups of points, primitives, edges, or vertices according to patterns.
 
+[Group Promote]()----Converts point, primitive, edge, or vertex groups into point, primitive, edge, or vertex groups.
+
 [Invoke Compiled Block]()----Processes its inputs using the operation of a referenced compiled block.
 
 [Merge]()----Merges geometry from its inputs.
 
 [Name]()----Creates a "naming" attribute on points or primitives allowing you to refer to them easily, similar to groups.
+
+[Normal]()----Computes surface normal attribute.
 
 [Null]()----Does nothing.
 
