@@ -25,6 +25,8 @@
 
 [Attribute Create]()----Adds or edits user defined attributes.
 
+[Attribute from Volume]()----Copies information from a volume onto the point attributes of another piece of geometry, with optional remapping.
+
 [Attribute Interpolate]()----Interpolates attributes within primitives or based on explicit weights.
 
 [Attribute Mirror]()----Copies and flips attributes from one side of a plane to another.
