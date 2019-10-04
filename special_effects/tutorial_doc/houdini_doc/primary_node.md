@@ -171,6 +171,8 @@
 
 [Ray]()----Projects one surface onto another.
 
+[Resample]()----Resamples one or more curves or surfaces into even length segments.
+
 [Rest Position]()----Sets the alignment of solid textures to the geometry so the texture stays put on the surface as it deforms.
 
 [Reverse]()----Reverses or cycles the vertex order of faces.
