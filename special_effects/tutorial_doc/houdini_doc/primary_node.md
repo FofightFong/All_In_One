@@ -87,6 +87,8 @@
 
 [Capture Attribute Pack]()----Converts array attributes into a single index-pair capture attribute.
 
+[Capture Attribute Unpack]()----Converts a single index-pair capture attribute into per-point and detail array attributes.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
