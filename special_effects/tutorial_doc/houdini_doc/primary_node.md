@@ -89,6 +89,8 @@
 
 [Capture Attribute Unpack]()----Converts a single index-pair capture attribute into per-point and detail array attributes.
 
+[Capture Correct]()----Adjusts capture regions and capture weights.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
@@ -98,7 +100,6 @@
 [Copy Stamp]()----Creates multiple copies of the input geometry, or copies the geometry onto the points of the second input.
 
 [Copy to Points]()----Copies the geometry in the first input onto the points of the second input.
-
 
 [Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
 
