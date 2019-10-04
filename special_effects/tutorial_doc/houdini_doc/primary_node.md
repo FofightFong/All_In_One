@@ -65,6 +65,10 @@
 
 [Bone Capture Biharmonic]()----Supports Deform by assigning capture weights to points based on biharmonic functions on tetrahedral meshes.
 
+[Bone Capture Lines]()----Supports Bone Capture Biharmonic by creating lines from bones with suitable attributes.
+
+[Bone Capture Proximity]()----Supports Bone Deform by assigning capture weights to points based on distance to bones.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Circle]()----Creates open or closed arcs, circles and ellipses.
