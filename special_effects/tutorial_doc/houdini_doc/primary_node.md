@@ -75,6 +75,8 @@
 
 [Boolean]()----Combines two polygonal objects with boolean operators, or finds the intersection lines between two polygonal objects.
 
+[Bound]()----Creates a bounding box, sphere, or rectangle for the input geometry.
+
 [Box]()----Creates a cube or six-sided rectangular box.
 
 [Circle]()----Creates open or closed arcs, circles and ellipses.
