@@ -81,6 +81,8 @@
 
 [Bulge]()----Deforms the points in the first input using one or more magnets from the second input.
 
+[Cache]()----Records and caches its input geometry for faster playback.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
