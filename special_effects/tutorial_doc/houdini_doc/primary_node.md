@@ -93,6 +93,8 @@
 
 [Capture Layer Paint]()----Lets you paint capture attributes directly onto geometry.
 
+[Capture Mirror]()----Copies capture attributes from one half of a symmetric model to the other.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
