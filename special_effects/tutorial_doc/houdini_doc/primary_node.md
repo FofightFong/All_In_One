@@ -83,6 +83,8 @@
 
 [Cache]()----Records and caches its input geometry for faster playback.
 
+[Cap]()----Closes open areas with flat or rounded coverings.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
