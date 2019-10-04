@@ -97,6 +97,8 @@
 
 [Capture Override]()----Overrides the capture weights on individual points.
 
+[Capture Region]()----Supports Capture and Deform operation by creating a volume within which points are captured to a bone.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
