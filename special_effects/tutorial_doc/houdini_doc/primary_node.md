@@ -105,6 +105,8 @@
 
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
+[Clay]()----Lets you deform NURBS faces and NURBS surfaces by pulling points that lie directly on them.
+
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
 
 [Control]()----Creates simple geometry for use as control shapes.
