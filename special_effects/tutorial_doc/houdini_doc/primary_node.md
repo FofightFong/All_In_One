@@ -91,6 +91,8 @@
 
 [Capture Correct]()----Adjusts capture regions and capture weights.
 
+[Capture Layer Paint]()----Lets you paint capture attributes directly onto geometry.
+
 [Circle]()----Creates open or closed arcs, circles and ellipses.
 
 [Connectivity]()----Creates an attribute with a unique value for each set of connected primitives or points.
