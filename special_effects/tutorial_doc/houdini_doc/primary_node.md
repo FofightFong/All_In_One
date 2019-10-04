@@ -45,6 +45,10 @@
 
 [Bake ODE]()----Converts primitives for ODE and Bullet solvers.
 
+[Bake Volume]()----Computes lighting values within volume primitive
+
+[Basis]()----Provides operations for moving knots within the parametric space of a NURBS curve or surface.
+
 [Blast]()----Deletes primitives, points, edges or breakpoints.
 
 [Block Begin]()----The start of a looping block.
