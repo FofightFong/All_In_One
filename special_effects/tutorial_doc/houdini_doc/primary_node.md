@@ -169,6 +169,10 @@
 
 [Rest Position]()----Sets the alignment of solid textures to the geometry so the texture stays put on the surface as it deforms.
 
+[Reverse]()----Reverses or cycles the vertex order of faces.
+
+[Revolve]()----Revolves a curve around a center axis to sweep out a surface.
+
 [Rewire Vertices]()----Rewires vertices to different points specified by an attribute.
 
 [Sequence Blend]()----Sequence Blend lets you do 3D Metamorphosis between shapes and Interpolate point position, colors…
