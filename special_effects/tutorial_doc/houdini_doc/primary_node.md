@@ -115,6 +115,8 @@
 
 [Copy to Points]()----Copies the geometry in the first input onto the points of the second input.
 
+[Curve]()----Creates polygonal, NURBS, or Bezier curves.
+
 [Delete]()----Deletes input geometry by group, entity number, bounding volume, primitive/point/edge normals, and/or degeneracy.
 
 [Divide]()----Divides, smooths, and triangulates polygons.
