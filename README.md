@@ -12,3 +12,5 @@ All In One
 * [人多力量大----渲染农场](https://github.com/FofightFong/All_In_One/blob/master/render_farm)
 
 * [效率！懂不懂？](https://github.com/FofightFong/All_In_One/blob/master/efficiency)
+
+* [后浪推前浪](https://github.com/FofightFong/All_In_One/blob/master/learnrut/update.md)
