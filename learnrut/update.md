@@ -17,29 +17,29 @@ houdini更新
 
 ## New SOPs for Procedural
 
-* Error SOP                       Group Combine SOP               PolyPath SOP
+*     Error SOP                       Group Combine SOP               PolyPath SOP
 
-* Stash SOP                       Group Create SOP                Pose Scope SOP
+*     Stash SOP                       Group Create SOP                Pose Scope SOP
 
-* Test Geometry: Tommy            Group Delete SOP                Rewire Vertices SOP
+*     Test Geometry: Tommy            Group Delete SOP                Rewire Vertices SOP
 
-* Attribute Blur SOP              Group Expression SOP            Ripple SOP
+*     Attribute Blur SOP              Group Expression SOP            Ripple SOP
 
-* Attribute Expression SOP        Group Promote SOP               Smooth SOP
+*     Attribute Expression SOP        Group Promote SOP               Smooth SOP
 
-* Boolean SOP                     Group by Range SOP              Solidify SOP
+*     Boolean SOP                     Group by Range SOP              Solidify SOP
 
-* Compile Blocks                  Group Rename SOP                Convert VDB Points
+*     Compile Blocks                  Group Rename SOP                Convert VDB Points
 
-* Copy To Points SOP              Intersection Analysis SOP       VDB Diagnostics SOP
+*     Copy To Points SOP              Intersection Analysis SOP       VDB Diagnostics SOP
 
-* Copy and Transform SOP          Intersectio Stitch SOP          VDB LOD SOP
+*     Copy and Transform SOP          Intersectio Stitch SOP          VDB LOD SOP
 
-*                                 OpenCL SOP                      VDB Points Group SOP
+*                                     OpenCL SOP                      VDB Points Group SOP
                                   
-*                                 PolyFill SOP                    VDB Project Non-Divergent SOP
+*                                     PolyFill SOP                    VDB Project Non-Divergent SOP
 
-*                                                                 VDB Segment by Connectivity SOP
+*                                                                     VDB Segment by Connectivity SOP
                                                                   
-*                                                                 VDB Topolopy to SDF SOP
+*                                                                     VDB Topolopy to SDF SOP
 
