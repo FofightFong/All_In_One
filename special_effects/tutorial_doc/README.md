@@ -2,7 +2,7 @@
 
 * [自译houdini中文化文档](houdini_doc)
 
-* [节点解释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/node_explanation.md)
+* [节点解释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/node_explanation.md)-----[变量解释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/variables_explanation.md)
 
 * [Houdini12标准教程](https://yuedu.baidu.com/ebook/c94b0bcbfe4733687e21aadc?pn=1&pa=1)
 
