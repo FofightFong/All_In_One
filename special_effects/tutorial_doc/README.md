@@ -447,6 +447,8 @@
 
 *	[特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
 
+* [特效之王 houdini 入门教程 3 random data by aoisaki](https://www.bilibili.com/video/av4594169)
+
 *	[特效我只服你](https://www.bilibili.com/video/av14151634)
 
 *	[直线网Houdini制作沙子剥离效果](https://www.bilibili.com/video/av26758391)
