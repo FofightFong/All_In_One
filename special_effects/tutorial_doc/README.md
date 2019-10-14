@@ -94,7 +94,7 @@
 
 *	[Houdini ICE Blast System冰爆系统制作教程](https://www.bilibili.com/video/av17682864)
 
-*	[Houdini Master FX FLIP基础讲解及海洋透明水花案例](https://www.bilibili.com/video/av40309512)
+* --guanggao--	[Houdini Master FX FLIP基础讲解及海洋透明水花案例](https://www.bilibili.com/video/av40309512)
 
 *	[Houdini Pyro Explosion 粒子驱动流体爆炸实战](https://www.bilibili.com/video/av32562471)
 
@@ -138,7 +138,7 @@
 
 *	[Houdini 流体讲解](https://www.bilibili.com/video/av57757279)
 
-*	[Houdini 海洋大旋涡特效实战教学](https://www.bilibili.com/video/av33679338)
+*	--guanggao-- [Houdini 海洋大旋涡特效实战教学](https://www.bilibili.com/video/av33679338)
 
 *	[Houdini 船过水面教程](https://www.bilibili.com/video/av57753966)
 
