@@ -287,7 +287,7 @@
 
 *	[【Houdini】Houdini 流体开道 实战（国语）](https://www.bilibili.com/video/av33331300)
 
-*	--porblem-- [【Houdini】Houdini 流体海洋 实战（国语）](https://www.bilibili.com/video/av33157626)
+*	--porblem-- [【Houdini】Houdini 流体海洋 实战（国语）](https://www.bilibili.com/video/av33157626)---矫正---[houdini海洋制作教程（h13）](https://www.bilibili.com/video/av16641223)
 
 *	[【Houdini】Houdini 流体烟火 实战（国语）](https://www.bilibili.com/video/av32896182)
 
@@ -528,8 +528,6 @@
 * [Houdini总动员（基础、建模、动画、材质）](https://www.bilibili.com/video/av34340416)
 
 * [houdini河流制作教程（中级难度左右）](https://www.bilibili.com/video/av16210606)
-
-* [houdini海洋制作教程（h13）](https://www.bilibili.com/video/av16641223)
 
 * [houdini系列中文教程](https://www.bilibili.com/video/av18982808)
 
