@@ -21,6 +21,8 @@
 
 # 一些网站
 
+* [知乎和知乎专栏](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/zhihu.md)
+
 * [vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
 
 * [urdro](http://www.urdro.com/houdini_rec)
