@@ -9,6 +9,10 @@
 
 * [通过Houdini迈向程序化（目录）](https://zhuanlan.zhihu.com/p/78841856)
 
+* [Houdini：制作飘扬的国旗](https://zhuanlan.zhihu.com/p/85227078)
+
+* []()
+
 
 
 
