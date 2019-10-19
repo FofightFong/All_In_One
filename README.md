@@ -15,3 +15,5 @@ All In One
 
 * [后浪推前浪](https://github.com/FofightFong/All_In_One/blob/master/learnrut/update.md)
 
+* [三人行](other_person.md)
+
