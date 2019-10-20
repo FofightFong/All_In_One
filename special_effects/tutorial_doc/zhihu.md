@@ -13,6 +13,8 @@
 
 * [迈向节点](https://zhuanlan.zhihu.com/ForwardTheNodes)
 
+* [致houdini的情书](https://zhuanlan.zhihu.com/c_1118955389068234752)
+
 # 文章和
 
 * [通过Houdini迈向程序化（目录）](https://zhuanlan.zhihu.com/p/78841856)
