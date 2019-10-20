@@ -217,10 +217,13 @@
 
 [VDB]()----Creates one or more empty/uniform VDB volume primitives.
 
+[VDB Activate]()----Activates voxel regions of a VDB for further processing.
 
+[VDB Activate SDF]()----Expand or contract signed distance fields stored on VDB volume primitives.
 
+[VDB Advect]()----Moves VDBs in the input geometry along a VDB velocity field.
 
-
+[VDB Advect Points]()----Moves points in the input geometry along a VDB velocity field.
 
 
 
