@@ -11,6 +11,8 @@
 
 * [程序猿玩 Houdini](https://zhuanlan.zhihu.com/letshoudini)
 
+* [迈向节点](https://zhuanlan.zhihu.com/ForwardTheNodes)
+
 # 文章和
 
 * [通过Houdini迈向程序化（目录）](https://zhuanlan.zhihu.com/p/78841856)
