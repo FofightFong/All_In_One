@@ -225,8 +225,9 @@
 
 [VDB Advect Points]()----Moves points in the input geometry along a VDB velocity field.
 
+[VDB Analysis]()----Computes an analytic property of a VDB volumes, such as gradient or curvature.
 
-
+[VDB Clip]()----Clips VDB volume primitives using a bounding box or another VDB as a mask.
 
 
 
