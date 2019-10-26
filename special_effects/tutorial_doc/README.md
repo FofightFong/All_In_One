@@ -25,7 +25,7 @@
 
 * [知乎和知乎专栏](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/zhihu.md)
 
-* sina-blog----[JunVFX的博客](http://blog.sina.com.cn/s/articlelist_2971633454_2_1.html)
+* [sina-blog](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/sinaBlog.md)----[JunVFX的博客](http://blog.sina.com.cn/s/articlelist_2971633454_2_1.html)
 
 * [vfxforce](https://www.vfxforce.cn/archives/category/video_tut)
 
