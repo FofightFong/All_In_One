@@ -82,6 +82,13 @@
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
 # 自由的houdini中文视频教程
+
+## 其他
+
+[houdini无限海洋实例教程](http://yuntv.letv.com/bcloud.html?uu=ejtjj0ntox&vu=6047c3afd4&pu=75346142bf&auto_play=0&gpcflag=1&width=100%&height=100%&isPlayerAd=0)
+
+## b站
+
 *	[0基础 快速入门掌握 Houdini17](https://www.bilibili.com/video/av47019461)
 
 *	[3.3maya相机输出到houdini](https://www.bilibili.com/video/av20483040)
