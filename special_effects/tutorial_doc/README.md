@@ -640,3 +640,7 @@
 * [特效之王 Houdini 基础教程](https://www.bilibili.com/video/av33359267)
 
 * [特效之王houdini中文基础教程（老版本）](https://www.bilibili.com/video/av12849036)
+
+* [houdini河流制作教程（中级难度左右）](https://www.bilibili.com/video/av16210606)
+
+* [houdini pyro篝火教程全流程中文（中等难度）](https://www.bilibili.com/video/av20225605)
