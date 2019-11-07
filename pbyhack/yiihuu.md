@@ -7,4 +7,4 @@
 
 * [课时3：Flip流体内部与碰撞讲解（上）](https://vod1.yiihuu.com/vod/video_mp4/6596/d5408b569a4327efac2999302d4ba3b2-sd-130458.mp4?pid=1573108935150X1735387)
 
-* [课时13：无限海面与速度层生成](blob:https://www.yiihuu.com/25039ee4-683d-4f46-87dc-4b8e1bbd8e5b)
+* [课时13：无限海面与速度层生成]()
