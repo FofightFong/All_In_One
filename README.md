@@ -19,4 +19,4 @@ All In One
 
 * [这个世界已经不能再阻止我了]()
 
-* [我横起来自己都怕----自黑手册]()
+* [我横起来自己都怕----狼灭自怕之自黑手册](https://github.com/FofightFong/All_In_One/tree/master/selfblack)
