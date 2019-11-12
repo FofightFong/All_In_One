@@ -7,3 +7,5 @@
 [海面由粒子体积转为平面](https://vod1.yiihuu.com/vod/video_mp4/6598/f56875a6f17c109e15d1f4fc9f0171fd-sd-130484.mp4?pid=1572834106552X1465002)----12'
 
 [小海域拓展无限大海域](https://www.bilibili.com/video/av40309512)----7'
+
+[布尔运算说明](https://www.bilibili.com/video/av67141329)----1'06''
