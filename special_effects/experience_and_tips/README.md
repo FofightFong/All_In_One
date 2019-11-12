@@ -9,3 +9,5 @@
 [小海域拓展无限大海域](https://www.bilibili.com/video/av40309512)----7'
 
 [布尔运算说明](https://www.bilibili.com/video/av67141329)----1'06''
+
+[物体中心点$CEX,$CEY,$CEZ](https://www.bilibili.com/video/av67240826)----15'10''
