@@ -652,3 +652,19 @@ Houdini Master FX FLIP基础讲解及海洋透明水花案例
 * [houdini河流制作教程（中级难度左右）](https://www.bilibili.com/video/av16210606)
 
 * [houdini pyro篝火教程全流程中文（中等难度）](https://www.bilibili.com/video/av20225605)
+
+* [houdini人群教程](https://www.bilibili.com/video/av63611433)
+
+* [houdini corwd系列教程 004 agent layer和agent clip](https://www.bilibili.com/video/av63749226)
+
+* [rbd_CONSTRAINT01](https://www.bilibili.com/video/av49400012)
+
+* [houdini rbd系列教程02](https://www.bilibili.com/video/av48935706)
+
+* [houdini rbd系列教程01（fracture](https://www.bilibili.com/video/av48722586)
+
+* [houdini中的opencl](https://www.bilibili.com/video/av48264275)
+
+* [vellum](https://www.bilibili.com/video/av35069578)
+
+* [【玩转VEX】简单漂亮的算法控制花开特效——Houdini中四元数的案例解析](https://www.bilibili.com/video/av69701815)
