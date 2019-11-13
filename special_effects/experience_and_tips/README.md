@@ -11,3 +11,5 @@
 [布尔运算说明](https://www.bilibili.com/video/av67141329)----1'06''
 
 [物体中心点$CEX,$CEY,$CEZ](https://www.bilibili.com/video/av67240826)----15'10''
+
+[读取物体的属性及属性值](https://zhuanlan.zhihu.com/p/79783942)
