@@ -94,3 +94,19 @@ repellant还有一个crampedness属性，代表repellant的紧密程度，解算
     * Repellants用来生成“细胞”状的白水形态。
 
     * Adhesion可以避免白水与液体表面分离。
+    
+
+*  Whitewater Source节点内的Visualization选项卡可以控制显示curvature、acceleration、vorticity等。开启Source Particles后，设置Whitewater Scale和Emission Amount的值可以控制发射量（这两个参数与Whitewater解算器中对应的参数相关联）。
+
+*  Whitewater解算器内的Whitewater Scale参数控制白水精度。使用较高的值来进行快速的模拟和预览，较低的值意味着更多的粒子和更丰富的细节。
+
+*  将Whitewater解算器里的Aging Rates（老化速度）调高将增加粒子的死亡几率。例如，你想让泡沫附着的时间长一点并且不想要气泡，设置Bubbles Aging Rate一个较高的值，设置Foam Aging Rate一个较低的值。
+
+*  防止白水粒子小区域积聚或过于分散，可以使用Whitewater解算器Foam选项卡里的Clumping参数。这将使粒子更具凝聚力。
+
+*  使用解算器Foam选项卡里的Adhesion参数来让泡沫吸附在液体表面、防止渲染瑕疵。
+
+*  使用解算器Foam选项卡里的Erosion参数可以让白水从外向内“侵蚀”并防止过度分散。
+
+*  Repellants用来生成“细胞”状形态的白水，这些参数在解算器里的Foam选项卡中。Noise Range和Pulse Frequency Range控制repellant的形态。repellant具有较高的Pulse值将会更快的变形，较低的noise值会让白水呈现“圆形”的图案。    
+    
