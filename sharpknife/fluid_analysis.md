@@ -44,13 +44,13 @@ repellants影响白水的形态受以下这些点属性控制：
 
 * magnitude：代表repellant的强度。与action不同的是，这个属性代表永久（或长期）属性，而不是action那种临时的。
 
-noise：控制repellant的形态。值为0代表正圆（circle），为1代表最大化的扰乱。
+* noise：控制repellant的形态。值为0代表正圆（circle），为1代表最大化的扰乱。
 
-phase：具有相同noise属性的repellants可能形态不同，这就受phase控制。
+* phase：具有相同noise属性的repellants可能形态不同，这就受phase控制。
 
-pulse：代表phase属性的变化率。随着phase属性的变化，repellant的形状也会发生变化。值为0表示形状是静态的，而远离0的值导致repellant不断演变其形状。
+* pulse：代表phase属性的变化率。随着phase属性的变化，repellant的形状也会发生变化。值为0表示形状是静态的，而远离0的值导致repellant不断演变其形状。
 
-radius：控制repellant的大小。
+* radius：控制repellant的大小。
 
 默认情况下，repellant没有生命值不会死亡。不过，如果解算器中的Life Range参数开启，它们会在出生时被赋予一个生命值（lifespan）存储到life这个点属性中（同时生成一个age属性）。当age超过了life，repellant就会消亡。
 
