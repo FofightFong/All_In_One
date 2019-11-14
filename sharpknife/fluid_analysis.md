@@ -61,6 +61,15 @@ repellant还有一个crampedness属性，代表repellant的紧密程度，解算
 除非Density Threshold参数开启，否则repellant不受白水的影响。因此可以通过暂时关闭whitewater发射源来查看repellant的运动形态。
 
 
+##  whitewater Source(发射源)
+
+水雾和泡沫由此产生，在这里蕴含许多重要的参数来控制白水的数量和分布。
+
+* Whitewater Source节点内的Curvature选项卡控制白浪的产生位置。你可以指定在哪个曲率（curvature）处发射白水以及Max Velocity Angle（最大速度角度）。
+
+* Whitewater Source节点内的Acceleration选项卡控制白水速度的变化。例如，当海浪撞到礁石改变运动方向。
+
+* Whitewater Source节点内的Vorticity选项卡控制水流“打转”的区域，或速度的卷曲。当水被搅动，气泡（bubbles）便会产生。通常用来模拟船只经过或是有物体在水中搅动。
 
 
 
