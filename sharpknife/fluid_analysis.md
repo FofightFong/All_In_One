@@ -6,7 +6,7 @@
 
 * 由重力（gravity）驱动的加速度均匀地分布在每一个白水粒子上。
 
-* 默认设置下，浮力（Buoyancy）将粒子推向与重力相反的方向，并推动气泡上浮。
+* 默认设置下，浮力（[Buoyancy]()）将粒子推向与重力相反的方向，并推动气泡上浮。
 
 * 白水粒子被它们下面的液体流动的速度场驱动。、
 
@@ -33,3 +33,36 @@ whitewater source节点中的emission是控制生成白水粒子的参数。
 高级用户可以通过点属性deathchance来进一步控制粒子生命值。
 
 通常情况下，Lifespan代表白水粒子的平均生命值。
+
+##  Repellants(排斥力）
+
+这是H17白水系统的新特性之一。它们是一些覆盖在流体表面的点。这些点对附近的白水施加排斥力，破坏其结构并形成“光秃的”斑块，形成更大的“细胞状”形态。除了计算和施加这些力之外，解算器还会移动repellants点的位置来使泡沫随着流体运动，并动态增删这些点来控制repellents点的分布。在它们产生时，这些点会被归到一个叫“justborn”的组中。
+
+repellants影响白水的形态受以下这些点属性控制：
+
+* action：当前推动白水粒子的强度值。是repellents强度（magnitude）的系数（两者是相乘关系）。
+
+* magnitude：代表repellant的强度。与action不同的是，这个属性代表永久（或长期）属性，而不是action那种临时的。
+
+noise：控制repellant的形态。值为0代表正圆（circle），为1代表最大化的扰乱。
+
+phase：具有相同noise属性的repellants可能形态不同，这就受phase控制。
+
+pulse：代表phase属性的变化率。随着phase属性的变化，repellant的形状也会发生变化。值为0表示形状是静态的，而远离0的值导致repellant不断演变其形状。
+
+radius：控制repellant的大小。
+
+默认情况下，repellant没有生命值不会死亡。不过，如果解算器中的Life Range参数开启，它们会在出生时被赋予一个生命值（lifespan）存储到life这个点属性中（同时生成一个age属性）。当age超过了life，repellant就会消亡。
+
+在whitewater object节点上开启相应的参数，可以可视化repellant的系列属性。
+
+repellant还有一个crampedness属性，代表repellant的紧密程度，解算器使用这个属性来reseed白水粒子。该属性的区间是0到1。
+
+除非Density Threshold参数开启，否则repellant不受白水的影响。因此可以通过暂时关闭whitewater发射源来查看repellant的运动形态。
+
+
+
+
+
+
+
