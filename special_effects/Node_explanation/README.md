@@ -16,4 +16,6 @@
 
 * 8. [Particlefluidsurface]()节点：通过点生成表面网格物体。
 
+* 9.  [opdigits,opname](https://blog.csdn.net/qq_21715613/article/details/81029750)表达式：opname(".")表示取当前节点的名字，opdigits则把拿到的名字里面的数字提取出来。
+
 
