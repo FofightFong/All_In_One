@@ -22,3 +22,5 @@ All In One
 * [我横起来自己都怕----狼灭自怕之自黑手册](https://github.com/FofightFong/All_In_One/tree/master/selfblack)
 
 * [分析分析-----磨刀不误砍柴工](https://github.com/FofightFong/All_In_One/tree/master/sharpknife)
+
+* [江山代有才人出，各领风骚----那些骚起来让人眼前一亮的操作]()
