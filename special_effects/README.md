@@ -32,7 +32,7 @@
 
 * [火焰参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E7%81%AB%E7%84%B0%E5%8F%82%E8%80%83.md)
 
-* [水参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E7%81%AB%E7%84%B0%E5%8F%82%E8%80%83.md)
+* [水参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E6%B0%B4%E5%8F%82%E8%80%83.md)
 
 * [风沙参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E9%A3%8E%E6%B2%99%E5%8F%82%E8%80%83.md)
 
