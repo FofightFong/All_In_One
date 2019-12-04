@@ -26,3 +26,5 @@
 * 13. [篝火特效](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/campfire.md)
 
 * 14. [海豚特效](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/dolphin.md)
+
+* 15  [8-只海豚镜头](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/8s_dolphin.md)
