@@ -20,3 +20,5 @@
 * 2. [sin($PT)](),PT是指当前处理点的序号,表示根据当前点的序号进行正弦运算(T是否有"当前"的含义,即time?);
 
 * 3. [$T](),T即time,当前时间,注意H中24帧=1S,所以在N帧的时候,对应的是N*(1/24);
+
+*[【Houdini】Houdini 变量&函数汇总](https://www.newvfx.com/forums/topic/33239)
