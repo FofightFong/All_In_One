@@ -5,3 +5,7 @@
 
 * []()
 
+## 关于hda/otl的
+
+* [Houdini安装和管理数字资产HDA、OTL,方法详解](https://www.newvfx.com/forums/topic/69738)
+
