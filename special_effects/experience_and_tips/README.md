@@ -18,3 +18,5 @@
 [缝合点线](https://www.bilibili.com/video/av71723682)----1'
 
 [破面模型封口](https://www.bilibili.com/video/av16210606?p=6)----1'10''
+
+[houdini粒子输出速度通道方法](http://blog.sina.com.cn/s/blog_809e17170102w3vl.html)
