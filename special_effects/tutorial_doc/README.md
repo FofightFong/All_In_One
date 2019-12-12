@@ -16,6 +16,8 @@
 
 * [JoyOfVex中文翻译教程](https://space.bilibili.com/4665318/article)
 
+* [NewFX的一些话题](https://www.newvfx.com/forums/forum/6775)
+
 * [cggiants](https://cggiants.blogspot.com/)
 
 * [microbot](http://www.microbot.ch/)----[mlib](https://github.com/Doudini/mLib)----[Doudini](https://github.com/Doudini)
