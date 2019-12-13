@@ -25,4 +25,10 @@
 
 ### 渲染
 
-* 
+* 1.提高light的sampling quality能有效减少noise
+
+* 2.提高mantra的pixelsamples的值能有效减少noise。
+
+* 3.提高mantra的min ray samples能提高ray trace的采样值。
+
+* 4.mantra的dicing的shading quality multipler的值是raytrace渲染引擎发射更多的raytrace光线来采样多边形。如果使用micropolgon算法，这个值就是多边形渲染的更加细小。提高这个值，渲染精度就越高，时间越长。
