@@ -12,6 +12,8 @@
 
 * 6. [houdini非商业源文件转商业源文件技巧](https://mp.weixin.qq.com/s/c_9SKm_hmLpBLt95uZXxEA)
 
+* 7.  提高light的sampling quality能有效减少noise
+
 
 # 常用变量
 
