@@ -20,3 +20,9 @@
 [破面模型封口](https://www.bilibili.com/video/av16210606?p=6)----1'10''
 
 [houdini粒子输出速度通道方法](http://blog.sina.com.cn/s/blog_809e17170102w3vl.html)--[houdini怎么渲染出流体的速度通道](https://blog.csdn.net/liujiufu/article/details/82146206)
+
+# 分类
+
+### 渲染
+
+* 
