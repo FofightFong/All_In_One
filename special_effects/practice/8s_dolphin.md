@@ -25,9 +25,18 @@
     
   3.  实际操作
 
-  4.  解算和渲染
+  4.  解算
+  
+    a.水花层，guidedoceanlayer_fluid中使用blast节点将guidedoceanlayer层分离出来供后续渲染。
+    
+    b.白水
 
-    a.  分层渲染（分通道输出）
+
+  5.  渲染
+
+    a.  分层渲染
+    
+    b.  分通道输出渲染
   
   5.  合成
 
