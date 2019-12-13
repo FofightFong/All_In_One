@@ -18,4 +18,7 @@
 
 * 9.  [opdigits,opname](https://blog.csdn.net/qq_21715613/article/details/81029750)表达式：opname(".")表示取当前节点的名字，opdigits则把拿到的名字里面的数字提取出来。
 
+## From
+# [Houdini Obj节点](https://blog.csdn.net/Microunreal/article/details/103498346)
+
 
