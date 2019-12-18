@@ -9,6 +9,8 @@
 
 * [课时4：Flip流体内部与碰撞讲解（下）](https://vod1.yiihuu.com/vod/video_mp4/6596/bb366efbfaa68802f9af234066edab7a-sd-130460.mp4?pid=1576585633110X1817099)
 
+* [课时5：Flip粒子生成曲面详细讲解](https://vod1.yiihuu.com/vod/video_mp4/6596/2c74bda60efd2ad40e506d7d4d4a4b6b-sd-130462.mp4?pid=1576657119990X1666591)
+
 * [课时6：Flip初始状态案例讲解](https://vod1.yiihuu.com/vod/video_mp4/6596/ab7386f785767ee1f34e0f0ebc465a27-sd-130482.mp4?pid=1576655128323X1273698)
 
 * [课时13：无限海面与速度层生成]()
