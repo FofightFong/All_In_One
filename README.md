@@ -19,7 +19,7 @@ All In One
 
 * [三人行](other_person)
 
-* [这个世界已经不能再阻止我了]()
+* [这个世界已经不能再阻止我了](pbyhack)
 
 * [我横起来自己都怕----狼灭自怕之自黑手册](https://github.com/FofightFong/All_In_One/tree/master/selfblack)
 
