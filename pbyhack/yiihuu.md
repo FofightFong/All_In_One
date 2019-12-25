@@ -13,4 +13,8 @@
 
 * [课时6：Flip初始状态案例讲解](https://vod1.yiihuu.com/vod/video_mp4/6596/ab7386f785767ee1f34e0f0ebc465a27-sd-130482.mp4)
 
+* [课时7：透明水花案例讲解1](https://hls.videocc.net/9215d65496/a/9215d65496e0fe41577fc707931e7d8a_1.m3u8)
+
+* [课时8：透明水花案例讲解2](https://hls.videocc.net/9215d65496/b/9215d6549618691382113b384c3137ab_1.m3u8)
+
 * [课时13：无限海面与速度层生成]()
