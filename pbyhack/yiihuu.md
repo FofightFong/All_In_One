@@ -21,4 +21,6 @@
 
 * [课时10：透明水花案例讲解4](https://hls.videocc.net/9215d65496/8/9215d654969ba76e14f910adb6a050a8_1.m3u8)
 
+* [课时11：ParticlesSuface节点讲解1](https://hls.videocc.net/9215d65496/9/9215d654963fde118f905a43efb1d569_1.m3u8)
+
 * [课时13：无限海面与速度层生成]()
