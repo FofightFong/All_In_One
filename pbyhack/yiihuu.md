@@ -23,4 +23,6 @@
 
 * [课时11：ParticlesSuface节点讲解1](https://hls.videocc.net/9215d65496/9/9215d654963fde118f905a43efb1d569_1.m3u8)
 
+* [课时12：ParticlesSuface节点讲解2](https://hls.videocc.net/9215d65496/e/9215d6549600107cf47106e59d9ce2ee_1.m3u8)
+
 * [课时13：无限海面与速度层生成]()
