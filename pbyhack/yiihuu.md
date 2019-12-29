@@ -25,4 +25,4 @@
 
 * [课时12：ParticlesSuface节点讲解2](https://hls.videocc.net/9215d65496/e/9215d6549600107cf47106e59d9ce2ee_1.m3u8)
 
-* [课时13：无限海面与速度层生成]()
+* [课时13：无限海面与速度层生成](https://hls.videocc.net/9215d65496/5/9215d65496ab4f158844edf037980cd5_1.m3u8)
