@@ -28,3 +28,10 @@
 ### 合成
 
 *     [合成模块](cop.md)
+
+
+## 结束之后
+
+      import os 
+      os.system("shutdown -s")
+
