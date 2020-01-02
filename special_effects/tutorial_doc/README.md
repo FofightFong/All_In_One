@@ -76,7 +76,7 @@
 
 * [【中文解析经典houdini教程-中文-解析粒子】](https://space.bilibili.com/174358846/channel/detail?cid=60845)--[一](https://www.bilibili.com/video/av40106900)--[二](https://www.bilibili.com/video/av40169270)--[三](https://www.bilibili.com/video/av40241467)--[四](https://www.bilibili.com/video/av40335513)--[五](https://www.bilibili.com/video/av47355029)--[六](https://www.bilibili.com/video/av47397689)--[七](https://www.bilibili.com/video/av47487479)--[八](https://www.bilibili.com/video/av47643767)--[九](https://www.bilibili.com/video/av47657898)
 
---[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
+* [VVHoudini_000——简介](https://www.bilibili.com/video/av80640640)--[001_霓虹灯制作](https://www.bilibili.com/video/av80642303)--[VVHoooudini 002.粒子形状转换](https://www.bilibili.com/video/av80764667)--[003.1.科技粒子线条动态篇](https://www.bilibili.com/video/av80832524)--[003.2.科技粒子线条渲染篇](https://www.bilibili.com/video/av81052582)--[004.1.山脉投影 模型篇](https://www.bilibili.com/video/av81152128)--[004.2.山脉投影 渲染篇](https://www.bilibili.com/video/av81342919)--[004.3.山脉投影 合成篇](https://www.bilibili.com/video/av81346550)--[005.1.车面光线粒子 引导线篇](https://www.bilibili.com/video/av81799541)--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
 
 
 --[一]()--[二]()--[三]()--[四]()--[五]()--[六]()--[七]()--[八]()--[九]()--[十]()--[十一]()--[十二]()--[十三]()--[十四]()--[十五]()--[十六]()--[十七]()--[十八]()--[十九]()--[二十]()
