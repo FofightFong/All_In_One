@@ -110,3 +110,5 @@ repellant还有一个crampedness属性，代表repellant的紧密程度，解算
 
 *  Repellants用来生成“细胞”状形态的白水，这些参数在解算器里的Foam选项卡中。Noise Range和Pulse Frequency Range控制repellant的形态。repellant具有较高的Pulse值将会更快的变形，较低的noise值会让白水呈现“圆形”的图案。    
     
+
+from[H17全新白水whitewater系统解析（一）](https://www.vfxforce.cn/archives/2915)--[H17全新白水whitewater系统解析（二）](https://www.vfxforce.cn/archives/2912)
