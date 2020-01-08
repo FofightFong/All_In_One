@@ -21,4 +21,6 @@
 
 * 1.  [Houdini集群效果制作](https://www.bilibili.com/video/av53253216)
 
+* 2.  [houdini人群教程](https://www.bilibili.com/video/av63611433)
+
 ### 烟火流体
