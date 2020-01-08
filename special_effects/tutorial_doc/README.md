@@ -25,6 +25,8 @@
 
 # 一些网站
 
+* [aigei](http://www.aigei.com/course/3d/houdini/)
+
 * [百度经验](baidujingyan.md)
 
 * [csdn](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/csdn.md)
