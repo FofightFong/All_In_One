@@ -19,6 +19,6 @@
 
 ### 集群动画
 
-* 1.  []()
+* 1.  [Houdini集群效果制作](https://www.bilibili.com/video/av53253216)
 
 ### 烟火流体
