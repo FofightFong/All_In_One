@@ -23,4 +23,6 @@
 
 * 2.  [houdini人群教程](https://www.bilibili.com/video/av63611433)
 
+* 3.  [houdini corwd系列教程 004 agent layer和agent clip](https://www.bilibili.com/video/av63749226)
+
 ### 烟火流体
