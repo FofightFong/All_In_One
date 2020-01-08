@@ -570,6 +570,10 @@
 
 * [Houdini 冰块渲染 实战](https://www.bilibili.com/video/av32988810)
 
+* [MAYA+Houdini模型特效芬达制作](https://www.bilibili.com/video/av50510050?p=3)
+
+* [MAYA+SP+Houdini制作石碑断裂效果](https://www.bilibili.com/video/av50926230?p=5)
+
 * [Houdini 刚体破碎 实战](https://www.bilibili.com/video/av32870199)
 
 * [Houdini 大楼倒塌教程](https://www.bilibili.com/video/av34523924)
@@ -669,5 +673,7 @@
 * [houdini中的opencl](https://www.bilibili.com/video/av48264275)
 
 * [vellum](https://www.bilibili.com/video/av35069578)
+
+×
 
 * [【玩转VEX】简单漂亮的算法控制花开特效——Houdini中四元数的案例解析](https://www.bilibili.com/video/av69701815)
