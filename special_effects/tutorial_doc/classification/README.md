@@ -2,20 +2,30 @@
 
 ### 建模
 
+* 1.  []()
+
 ### 贴图材质
+
+* 1.  []()
 
 ### 动画
 
+* 1.  []()
+
 ### 骨骼
+
+* 1.  []()
 
 
 ### 后期合成
 
-* [14cop合成系统](https://www.bilibili.com/video/av34340416?p=14)
+* 1.  [14cop合成系统](https://www.bilibili.com/video/av34340416?p=14)
 
 # 按经验习惯分类
 
 ### 海洋流体
+
+* 1.  []()
 
 ### 集群动画
 
@@ -26,3 +36,5 @@
 * 3.  [houdini corwd系列教程 004 agent layer和agent clip](https://www.bilibili.com/video/av63749226)
 
 ### 烟火流体
+
+* 1.  []()
