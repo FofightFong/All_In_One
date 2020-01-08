@@ -153,6 +153,8 @@
 
 ## b站
 
+* [Houdini集群效果制作](https://www.bilibili.com/video/av53253216)
+
 *	[0基础 快速入门掌握 Houdini17](https://www.bilibili.com/video/av47019461)
 
 *	[3.3maya相机输出到houdini](https://www.bilibili.com/video/av20483040)
