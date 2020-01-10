@@ -3,6 +3,8 @@
 
 # 收藏----有人的地方就有江湖
 
+* [zxp yingzi 的收藏](https://www.zhihu.com/collection/318193926)
+
 # 专栏
 
 * [Go Procedural--程序化生成数字资产](https://zhuanlan.zhihu.com/goprocedural)
