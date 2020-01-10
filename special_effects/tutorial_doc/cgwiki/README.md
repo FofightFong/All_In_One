@@ -14,7 +14,7 @@
 
 * 2.[HoudiniTutorials ](HoudiniTutorials.md)-对话式，borderline rambling教程，就像基于文本的长达一个小时的vimeo教程一样，你将以2呗数度播放。
 
-* 3.[Houdini_Lighting_Shading](Houdini_Lighting_Shading.md)
+* 3.[Houdini_Lighting_Shading](Houdini_Lighting_Shading.md)-如何放置灯光，分配材质，创建图像。
 
 * 4.[HoudiniVolumes](HoudiniVolumes.md)
 
