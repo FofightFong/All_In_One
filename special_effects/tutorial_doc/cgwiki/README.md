@@ -10,16 +10,16 @@
 
 一旦你打开软件进入sop network，就可以开始通过这个站点进行学习操作。我建议按以下顺序进行：
 
-* 1.[Houdini]()-有很多简单的例子。
+* 1.[Houdini](Houdini.md)-有很多简单的例子。
 
-* 2.[HoudiniTutorials ]()-对话式，borderline rambling教程，就像基于文本的长达一个小时的vimeo教程一样，你将以2呗数度播放。
+* 2.[HoudiniTutorials ](HoudiniTutorials.md)-对话式，borderline rambling教程，就像基于文本的长达一个小时的vimeo教程一样，你将以2呗数度播放。
 
-* 3.[Houdini_Lighting_Shading]()
+* 3.[Houdini_Lighting_Shading](Houdini_Lighting_Shading.md)
 
-* 4.[HoudiniVolumes]()
+* 4.[HoudiniVolumes](HoudiniVolumes.md)
 
-* 5.[HoudiniVex]()
+* 5.[HoudiniVex](HoudiniVex.md)
 
-* 6.[HoudiniDops]()
+* 6.[HoudiniDops](HoudiniDops.md)
 
 * 7.The rest.:)
