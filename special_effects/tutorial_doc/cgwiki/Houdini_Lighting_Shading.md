@@ -122,9 +122,28 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 摘要：取一个材质属性名称（例如baseColor），在一个对象或点级别创建一个具有相同名称的属性，为其赋予一个新值，它将覆盖该对象/点的材质默认值。很强大。
 
-##  Override at object level
+![Mat_attr_override.gif](http://www.tokeru.com/cgwiki/images/5/50/Mat_attr_override.gif)
 
-##  Override at point level
+###  Override at object level
+
+（以下3,4,5步操作因为houdini版本的迭代没有了，类似的操作可以在geo内创建一个material节点，然后就可进行类似操作）
+
+1.  编辑材质的基础颜色，进行渲染。茶壶和地板都变成绿色。
+
+2.  将鼠标悬停在baseColor标签上，请注意其名称为baseColor baseColorg baseColorb。baseColor是一个向量。
+
+3.  选择茶壶，转到材质选项卡
+
+4.  点击材质名称最右侧的下拉菜单，选择select and create local material parameters
+
+5.  在弹出窗口，选择baseColor，点击Accept。
+
+6.  将此颜色设为红色
+
+7.  渲染视图现在显示红色的茶壶和绿色的地板，即使它们都使用相同的材质。
+
+
+###  Override at point level
 
 ##  Assign materials to faces
 
