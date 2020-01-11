@@ -13,9 +13,9 @@
 
 * 5. [Material attribute overrides]()
 
-* a. [Override at object level]()
+* 1. [Override at object level]()
         
-* b. [Override at point level]()
+* 2. [Override at point level]()
         
 * 6. [Assign materials to faces]()
 
@@ -23,9 +23,9 @@
 
 * 8. [AOVs or Extra Image Planes]()
 
-* a. [Defining AOVs in a shader]()
+* 1. [Defining AOVs in a shader]()
 
-* b. [Add AOVs to Rop]()
+* 2. [Add AOVs to Rop]()
 
 * 9. [Houdini rendering setup from a maya perspective]()
 
