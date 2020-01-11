@@ -98,6 +98,14 @@
 
 8.  将Principled 材质节点直接拖动到茶壶上（可以在opengl视图或渲染视图中执行此操作）。这将分配材质。
 
+分配材质的另一种方法是直接从对象节点进行分配：
+
+1.  返回到/obj网络，找到grid节点，转到其material菜单，单击选择器图标，将显示一个选择器。
+
+2.  选择/objshopnet1/mantrasurface‘。启用export relative path,点击accpt。
+
+如果保持渲染视图运行，你应该可以在对象上看到更新后的材质。
+
 ##  Things to note
 
 ##  Material attribute overrides
