@@ -41,7 +41,7 @@
 
 这些快速入门都假定你使用“Build”界面（Windows>Desktop>Build),并且熟悉选项卡菜单和基本的houdini导航。
 
-![http://www.tokeru.com/cgwiki/images/1/17/Lighting_setup_geo_sm.gif](http://www.tokeru.com/cgwiki/images/1/17/Lighting_setup_geo_sm.gif)
+![Lighting_setup_geo_sm.gif](http://www.tokeru.com/cgwiki/images/1/17/Lighting_setup_geo_sm.gif)
 
 1.  创建grid
 
@@ -49,7 +49,7 @@
 
 3.  将其向上平移约1.39，以便使其位于grid上
 
-4.  从工具架上创建distant light，旋转和平移使其看起来不错，将其着色为黄色。（提示：
+4.  从工具架上创建distant light，旋转和平移使其看起来不错，将其着色为黄色。（提示：单击微型色轮，然后依次点击RGB，HSV和TMI，直到显示TMI。这是一种更好的调色滑块，第一个滑块控制暖冷色温
 
 
 
