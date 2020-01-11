@@ -120,6 +120,8 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ##  Material attribute overrides
 
+摘要：取一个材质属性名称（例如baseColor），在一个对象或点级别创建一个具有相同名称的属性，为其赋予一个新值，它将覆盖该对象/点的材质默认值。很强大。
+
 ##  Override at object level
 
 ##  Override at point level
