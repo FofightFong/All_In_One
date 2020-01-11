@@ -142,8 +142,11 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 7.  渲染视图现在显示红色的茶壶和绿色的地板，即使它们都使用相同的材质。
 
+从同一下拉列表中你可以选择在对象上复制完整的材质界面，或将其重置为默认值，或删除局部替代。接下来，我们将在点层面进行覆盖
 
 ###  Override at point level
+
+
 
 ##  Assign materials to faces
 
