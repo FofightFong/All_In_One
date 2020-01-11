@@ -76,7 +76,9 @@
 
 ##  Material creation
 
+摘要：从调色板创建材材质，进行分配。
 
+如果还没有，请回到/obj网络的顶部。
 
 ##  Things to note
 
