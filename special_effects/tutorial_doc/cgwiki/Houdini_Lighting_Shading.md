@@ -126,7 +126,7 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ###  Override at object level
 
-（以下3,4,5步操作因为houdini版本的迭代没有了，类似的操作可以在geo内创建一个material节点，然后就可进行类似操作）
+[以下3,4,5步操作因为houdini版本的迭代没有了，类似的操作可以在geo内创建一个material节点，然后就可进行类似操作]()
 
 1.  编辑材质的基础颜色，进行渲染。茶壶和地板都变成绿色。
 
