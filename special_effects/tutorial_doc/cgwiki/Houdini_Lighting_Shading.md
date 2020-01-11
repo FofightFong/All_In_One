@@ -35,3 +35,36 @@
 
 * 12. [Todo]()
 
+## Build a simple test scene
+
+##  Setup a render node, render
+
+##  Material creation
+
+##  Things to note
+
+##  Material attribute overrides
+
+##  Override at object level
+
+##  Override at point level
+
+##  Assign materials to faces
+
+##  Point Colour (Cd) and Alpha
+
+##  AOVs or Extra Image Planes
+
+### Defining AOVs in a shader
+
+### Add AOVs to Rop
+
+##  Houdini rendering setup from a maya perspective
+
+##  Renderstate vop
+
+##  Material wrangle via snippet
+
+##  Todo
+
+
