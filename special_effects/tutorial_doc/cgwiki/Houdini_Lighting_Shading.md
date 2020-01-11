@@ -62,9 +62,21 @@
 
 ![Lighting_setup_rop_sm.gif](http://www.tokeru.com/cgwiki/images/7/7f/Lighting_setup_rop_sm.gif)
 
-1.
+1.  创建一个rop网络。虽然你可以在更高层“/out”网络中创建节点，但我发现其更容易跟踪子网络中的所有内容，并且跳转变得更加本地化。
+
+2.  进入所创建的rop，创建一个mantra节点。默认设置将指向你创建的相机（/obj/cam1）。
+
+3.  在渲染标签下，将渲染引擎设置为physically based rendering(简称PBR）
+
+4.  在主视图中，切换到渲染视图选项卡。
+
+5.  点击渲染
+
+6.  惊叹于你的阳光茶壶。
 
 ##  Material creation
+
+
 
 ##  Things to note
 
