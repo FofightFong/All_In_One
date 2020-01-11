@@ -80,6 +80,18 @@
 
 如果还没有，请回到/obj网络的顶部。
 
+![Lighting_setup_shop_sm.gif](http://www.tokeru.com/cgwiki/images/7/70/Lighting_setup_shop_sm.gif)
+
+1.  创建一个shop网络
+
+2.  在右下角的选项卡中找到Material Palatte选项卡。
+
+3.  在material palette的右侧，单击/shop/标题旁边的上下箭头以将其折叠。现在你应该看到关闭了。
+
+4.  单击/obj/shopnet1旁边的三角形以将其打开（这是你刚创建的shopnet）
+
+5.  在左侧，找到Generic下的Principled shader节点（由于houdini版本的迭代，这里有所不同，你也可以选择其它houdini内置的材质进行测试）。
+
 ##  Things to note
 
 ##  Material attribute overrides
