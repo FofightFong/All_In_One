@@ -37,6 +37,11 @@
 
 ## Build a simple test scene
 
+摘要：茶壶放在地板上，有阳光，天空，相机
+
+这些快速入门都假定你使用“Build”界面（Windows>Desktop>Build),并且熟悉选项卡菜单和基本的houdini导航。
+
+
 ##  Setup a render node, render
 
 ##  Material creation
