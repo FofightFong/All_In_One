@@ -41,7 +41,7 @@
 
 这些快速入门都假定你使用“Build”界面（Windows>Desktop>Build),并且熟悉选项卡菜单和基本的houdini导航。
 
-![](http://www.tokeru.com/cgwiki/index.php?title=File:Lighting_setup_geo_sm.gif)
+![](http://www.tokeru.com/cgwiki/images/1/17/Lighting_setup_geo_sm.gif)
 
 1.  创建grid
 
