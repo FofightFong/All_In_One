@@ -92,6 +92,8 @@
 
 5.  在左侧，找到Generic下的Principled shader节点（由于houdini版本的迭代，这里有所不同，你也可以选择其它houdini内置的材质进行测试）。
 
+6.  将其拖到/obj/shopnet1标题下。短暂的延迟后，你将看到一个名为principledsh..的着色器正方形
+
 ##  Things to note
 
 ##  Material attribute overrides
