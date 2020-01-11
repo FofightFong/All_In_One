@@ -58,6 +58,12 @@
 
 ##  Setup a render node, render
 
+摘要：在PBR模式下创建ROP（Render OPerator，即渲染全局节点），在大多数情况下，这是当今首选的渲染器
+
+![Lighting_setup_rop_sm.gif](http://www.tokeru.com/cgwiki/images/7/7f/Lighting_setup_rop_sm.gif)
+
+1.
+
 ##  Material creation
 
 ##  Things to note
