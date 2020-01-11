@@ -108,6 +108,16 @@
 
 ##  Things to note
 
+The material palette is similar to the maya visor, ie, a place to get and store presets. Like the Visor, its clunky and no-one really uses it. For some strange reason, SideFx decided this is the place to store the mantrasurface node, rather than the expected tab-complete menu in SHOPs, which itself is unusually empty. Fixed in a future version perhaps? (note to self; find a way to add nodes to the tab menu...)
+
+I find using relative paths ( ../shopnet/mymaterial ) easier to read than explicit paths ( /obj/shopnet1/mymaterial ). Also means if you have to copy and paste setups, its less likely to clash with existing nodes in other shots.
+
+The mantrasurface node is the latest attempt by SideFx at an all purpose, mia_material/vray/arnold style all-in-one physically correct shader. It does diffuse, 2 reflect (for base and clearcoat), refract, translucence, emission, opacity, with support for maps on most parameters. The one in H14 has had a bit of a tidy up, the tabs are cleaner, shader parameters better named than previous versions. Prior to the mantrasurface node was the surfacemode node (which you can still find in the palette underthe mantrasurface)
+
+A great feature of the mantrasurface node is you can dive inside and see how it works. A horrible feature is that its pretty messy under there and a bit overwhelming at first! Don't try and understand it all in one hit, its better if you have a specific interest to just dive into that section and poke around, most of it is clearly labelled.
+
+Other Houdini users have made their own versions of an all-in-one physically correct shader. The layered pbr shader on the orbolt store is very nice. A key difference is that its written in vex rather than vop nodes, so isn't designed to be pulled apart. There's also been attempts to recreate the disney bsdf shader, also worth a look. (provide links here) 
+
 ##  Material attribute overrides
 
 ##  Override at object level
