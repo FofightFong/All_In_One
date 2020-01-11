@@ -94,6 +94,10 @@
 
 6.  将其拖到/obj/shopnet1标题下。短暂的延迟后，你将看到一个名为principledsh..的着色器正方形
 
+7.  返回到network选项卡，进入shop网络，其中包含你刚制作的材料。
+
+8.  将Principled 材质节点直接拖动到茶壶上（可以在opengl视图或渲染视图中执行此操作）。这将分配材质。
+
 ##  Things to note
 
 ##  Material attribute overrides
