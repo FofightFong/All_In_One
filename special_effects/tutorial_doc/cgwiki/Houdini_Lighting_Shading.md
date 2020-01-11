@@ -13,9 +13,9 @@
 
 * 5 [Material attribute overrides]()
 
-* 5.1 [Override at object level]()
+*       1 [Override at object level]()
         
-* 5.2 [Override at point level]()
+*       2 [Override at point level]()
         
 * 6 [Assign materials to faces]()
 
