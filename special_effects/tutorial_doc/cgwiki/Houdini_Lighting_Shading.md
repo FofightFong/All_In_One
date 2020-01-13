@@ -170,6 +170,14 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 2.  在视窗的左侧，单击箭头以进入选择模式（视窗中的热键s）
 
+3.  拽出矩形框以选择一些面
+
+4.  在视窗中按Tap键（重要！），选择group，它将会把你选择的面打包成一个组。
+
+5.  使用其他选择的面进行同样的操作。
+
+6.  添加一个材质节点，选择一种材质，然后从组下拉列表中选择一个组。该材料将仅限于该组。
+
 ##  Point Colour (Cd) and Alpha
 
 ##  AOVs or Extra Image Planes
