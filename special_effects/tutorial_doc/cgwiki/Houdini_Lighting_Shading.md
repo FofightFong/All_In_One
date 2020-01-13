@@ -146,7 +146,11 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ###  Override at point level
 
+1.  进入grid对象，添加一个point vop节点，使其可以成为可渲染/显示的节点。
 
+2.  进入point vop节点，创建一个bind export节点，将其类型设置为color，名称为baseColor。
+
+3.  将P直接连接bind export节点。
 
 ##  Assign materials to faces
 
