@@ -164,6 +164,8 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ![Per_face_material.jpg](http://www.tokeru.com/cgwiki/images/e/eb/Per_face_material.jpg)
 
+在maya中进行按面分配是有风险的，使用渲染层进行更改很麻烦。在houdini中进行相同的操作非常好。添加material sop节点，告诉它你想要完成哪种材质。如果已定义，也可分配给face组。
+
 ##  Point Colour (Cd) and Alpha
 
 ##  AOVs or Extra Image Planes
