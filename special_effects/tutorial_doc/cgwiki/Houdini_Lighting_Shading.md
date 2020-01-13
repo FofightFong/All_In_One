@@ -160,6 +160,8 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ##  Assign materials to faces
 
+摘要：material sop节点使你可以按面分配。
+
 ##  Point Colour (Cd) and Alpha
 
 ##  AOVs or Extra Image Planes
