@@ -148,9 +148,15 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 1.  进入grid对象，添加一个point vop节点，使其可以成为可渲染/显示的节点。
 
-2.  进入point vop节点，创建一个bind export节点，将其类型设置为color，名称为baseColor。
+2.  进入point vop节点，
 
-3.  将P直接连接bind export节点。
+3.  创建一个bind export节点，将其类型设置为color，名称为baseColor。
+
+4.  将P直接连接bind export节点。
+
+5.  grid的baseColor材质属性已被点颜色覆盖
+
+点级别替代的次要复杂之处是知道所需属性的名称（我发现工具提示悬停是最简便的方式），并且设置该属性（我的首选项是使用point vop，这样我就可以用vop纹理或其他技巧）。
 
 ##  Assign materials to faces
 
