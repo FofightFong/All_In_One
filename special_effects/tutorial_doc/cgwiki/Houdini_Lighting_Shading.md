@@ -180,6 +180,10 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 ##  Point Colour (Cd) and Alpha
 
+摘要：颜色属性为Cd，透明度为Alpha（请注意大写字母a)
+
+将Principled shader节点设置为读取点颜色和透明度（如果存在）（它们将与着色器颜色相乘）。要记住的唯一技巧是使用正确的属性名称。颜色非常简单，因为在vop网络中，其颜色在输出节点上列出。虽然没有列出Alpha，但每个人都经历了一次错误的尝试，即尝试看似明显的（Af），然后尝试其他的（af？）和其他事情(opacity?),直到最终记住正确的格式：输入float。
+
 ##  AOVs or Extra Image Planes
 
 ### Defining AOVs in a shader
