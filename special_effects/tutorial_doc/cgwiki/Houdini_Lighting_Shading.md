@@ -162,6 +162,8 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 摘要：material sop节点使你可以按面分配。
 
+![Per_face_material.jpg](http://www.tokeru.com/cgwiki/images/e/eb/Per_face_material.jpg)
+
 ##  Point Colour (Cd) and Alpha
 
 ##  AOVs or Extra Image Planes
