@@ -166,6 +166,10 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 
 在maya中进行按面分配是有风险的，使用渲染层进行更改很麻烦。在houdini中进行相同的操作非常好。添加material sop节点，告诉它你想要完成哪种材质。如果已定义，也可分配给face组。
 
+1.  在视窗的左侧，确保模式为primitives(或视窗中的热键4)
+
+2.  在视窗的左侧，单击箭头以进入选择模式（视窗中的热键s）
+
 ##  Point Colour (Cd) and Alpha
 
 ##  AOVs or Extra Image Planes
