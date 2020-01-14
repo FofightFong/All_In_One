@@ -4,4 +4,6 @@
 
 ## 功法
 
+* [Houdini_18_新增功能](https://www.bilibili.com/video/av78584243)
+
 
