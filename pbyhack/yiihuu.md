@@ -26,3 +26,11 @@
 * [课时12：ParticlesSuface节点讲解2](https://hls.videocc.net/9215d65496/e/9215d6549600107cf47106e59d9ce2ee_1.m3u8)
 
 * [课时13：无限海面与速度层生成](https://hls.videocc.net/9215d65496/5/9215d65496ab4f158844edf037980cd5_1.m3u8)
+
+
+[Houdini Fx Narrow Band 完整船航行镜头制作 下卷](https://www.yiihuu.com/a_6598.html)
+
+* [课时1：修改优化particle mesh与涡度渲染通道制作](https://vod1.yiihuu.com/vod/video_mp4/6598/f56875a6f17c109e15d1f4fc9f0171fd-sd-130484.mp4?pid=1572834106552X1465002)
+
+
+* [课时2：海面拼接uv处理及海洋变形制作讲解](https://vod1.yiihuu.com/vod/video_mp4/6598/1ad89df361b0b62a476463ad11048bff-sd-130486.mp4?pid=1572835278193X1418407)
