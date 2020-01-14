@@ -152,6 +152,9 @@
 
 [课时2：海面拼接uv处理及海洋变形制作讲解](https://vod1.yiihuu.com/vod/video_mp4/6598/1ad89df361b0b62a476463ad11048bff-sd-130486.mp4?pid=1572835278193X1418407)
 
+## [蛮荒18]()
+
+[Houdini_18_新增功能](https://www.bilibili.com/video/av78584243)
 
 ## b站----[分类整理](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/classification)
 
