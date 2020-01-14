@@ -26,3 +26,5 @@ All In One
 * [分析分析-----磨刀不误砍柴工](https://github.com/FofightFong/All_In_One/tree/master/sharpknife)
 
 * [江山代有才人出，各领风骚----那些骚起来让人眼前一亮的操作](https://github.com/FofightFong/All_In_One/tree/master/saocaozuo)
+
+* [上古蛮荒](AntiquityWild/)
