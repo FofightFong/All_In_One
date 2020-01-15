@@ -56,6 +56,20 @@ VDB存储格式在Houdini中作为primitive（足够有趣的是VDB primitive）
 
 进一步阅读[http://www.openvdb.org/about/](http://www.openvdb.org/about/)
 
+### VDB interactive tutorial
+
+也可以从openvdb网站上获得VDB功能的精彩介绍。这是一个单一的houdini文件，就像VDB上的一本互动书;它分成几章，有很多便笺，我很惊讶我最近才发现它。非常感谢odforce上的人指出这一点！
+
+如果你想和老板一样使用VDB，请立即下载。
+
+[http://www.openvdb.org/download/](http://www.openvdb.org/download/)
+
+[https://nexus.aswf.io/content/repositories/releases/io/aswf/openvdb/houdini_examples.hip/1.0.0/houdini_examples.hip-1.0.0.zip](https://nexus.aswf.io/content/repositories/releases/io/aswf/openvdb/houdini_examples.hip/1.0.0/houdini_examples.hip-1.0.0.zip)
+
+### VDB vs Houdini volumes
+
+
+
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
 </a>
