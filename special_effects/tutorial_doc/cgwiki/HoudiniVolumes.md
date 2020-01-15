@@ -96,6 +96,14 @@ VDB确实支持矢量volume，因此相同的烟雾设置将是2个vdb primitive
 
 * 2. 一个volume只能包含一个属性，因此你可以创建多个volume，每个volume都存储一个属性（density,vel,fuel等）。
 
+houdini中的一些工具知道这一点，并且知道如何将所有volume连接起来并将它们视为单个空对象。但是其他工具却没有，例如你需要显式地告诉一个pyro solver，以同时修改Cd字段的密度和速度（此示例更近一步。）
+
+大多数情况下，你在处理houdini期望的默认字段，因此在实践中通常不会经常手动进行字段接线。
+
+### SDF
+
+![Volume_compare.jpg](http://www.tokeru.com/cgwiki/images/9/97/Volume_compare.jpg)
+
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
