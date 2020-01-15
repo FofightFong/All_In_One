@@ -104,6 +104,10 @@ houdini中的一些工具知道这一点，并且知道如何将所有volume连�
 
 ![Volume_compare.jpg](http://www.tokeru.com/cgwiki/images/9/97/Volume_compare.jpg)
 
+volume（或vdb）可以表示诸如雾或火之类的无定型形状，也可以表示固体表面。进行后者时，每个体素都会存储距离表面上最接近点的距离，并且存储在该表面的外部和内部。因为这些值可以是分数（例如，距离表面1.42个单位而不仅仅是一个单位），所以它们可以很好地贴合输入的几何形状。辨别体素是在表面的内部还是外部，他变为正或负。正面在外面，负面在i里面。如果将其可视化，它将看起来在形状轮廓上为0的渐变，以及在形状内部和外部延伸的平滑渐变。该volume称为Signed Distance Field或SDF。
+
+![Viz_sdf.gif](http://www.tokeru.com/cgwiki/images/8/88/Viz_sdf.gif)
+
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
