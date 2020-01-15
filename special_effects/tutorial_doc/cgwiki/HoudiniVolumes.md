@@ -44,7 +44,15 @@ houdini支持2种volume类型，其自己的volume格式和VDB。这些被视为
 
 ### VDB？
 
-对于volumes，最简单的描述方式是Alembic。
+对于volumes，最简单的描述方式是Alembic。这是一种开源的标准格式，因此你可以从houdini中导出VDB，将其加载到maya中，然后在vray中进行渲染。它有多家公司来推动它的发展（Dreamworks，Double Negative，SideFx最引人注目），通常是一件好事。
+
+但是它比Alembic更重要，因为Alembic主要是一种文件格式，并且是一些用于操纵和查看Alembic文件的示例工具。VDB工具箱既是存储volume的一种方式，又是一套用于处理volume算法。
+
+VDB最有趣的特性之一是它不会浪费空像素上的存储空间。与其他格式相比，磁盘上的VDB可以小得多。
+
+VDB存储格式在Houdini中作为primitive（足够有趣的是VDB primitive）公开，而操纵工具则作为sops公开，大多数带有VDB前缀或后缀。
+
+原始论文中提到的VDB名称来自...Volumetric,Dynamic grid that shares several characteristics with B+ trees.
 
 进一步阅读[http://www.openvdb.org/about/](http://www.openvdb.org/about/)
 
