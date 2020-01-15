@@ -268,6 +268,8 @@ yep. right on the file sop is a toggle, 'delay load geometry'. this also has the
 
 ##  Material wrangle via snippet
 
+![](http://www.tokeru.com/cgwiki/images/3/3c/Material_wrangle_capture.gif)
+
 ##  Todo
 
 
