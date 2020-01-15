@@ -223,9 +223,48 @@ Houdini称它们为Extra Image Planes，其他人称它们为AOV（Renderman缩�
 
 *   加载已发布的资产（相机，动画/FX alembics,vdb体积，材质，材质等）
 
-对上述所有都是
+Yes to all the above. The last time I used Maya it was still in the mindset of 'you load a thing in, thats a one-shot deal, now it belongs in the maya scene. You don't get to swap out for another obj on disk, or another fbx, or another camera'. You could use referencing of course, but that's specific to maya mb or ma files, and was super brittle and prone to failure. You could refer to particle caches or occasionally ncaches in a more general hot-swappable sense, but it seemed fraught.
+
+Houdini by comparison is completely built around this idea of 'load stuff from anywhere in a myriad of formats, process it, spit it out as something else'. The file sop, the general purpose get-something-from-disk loader, can handle houdini's native geometry format ( bgeo, which in itself can be polys, or particles, or volumes, or any combo of the above), but also abc, and vdb, and more esoteric formats like fbx (rapidly getting better and better due to Sidefx's focus on games, which uses fbx a lot), and plenty of esoteric formats ( obj, ply, collada, blah blah)
+
+The upshot is that you can load a high level format like alembic or vdb, and build a network that does stuff to it, assigns shaders, hides/shows things, and preps it for rendering. If you design the network in the right way, you can swap the path on the file rop, the rest of the network just updates. Best analogy is nuke; you can use it in a super custom way with lots of manual roto and paint nodes, so that if you swap the initial read node you have to start from scratch, or you avoid manual brittle nodes, keep your comp network procedural, and you can reuse the setup across similar shots.
+
+Alembic itself is a special case. Alembic can be brought in via the file sop, as I mentioned above, and it essentially brings in whatever geo you have as a point cache. The geo itself will have lots of attributes (think like particles and per particle attributes), and houdini has excellent tools for manipulating data in this format. That's one of the key mode switches of moving from maya to houdini; maya is mostly high level transforms with mesh data carried underneath, and you mostly work at that top level. Houdini is better down below, so you tend to bring lots of geo into a single transform (which you barely touch, it functions like a null at the origin normally), while you do lots of manipulation to the mesh data underneath.
+
+Anyway, you don't have to do this. Alembic can also be loaded as a high level thing if you need it, and houdini will create the full transform heirarchy with local mesh data. Normally this is avoided, unless, and this is a big unless. you need cameras. Cameras are inherently not mesh data, a camera is a fancy transform, so this is how you load camera data. While this method isn't as flexible as the other, it still allows the hot swap reloading for cameras like the file sop method.
+
+The other thing that makes Houdini good for mass shot work is its heavy unix underpinnings. Again last I checked maya was terrible for data based file paths, both for input and output, so if you wanted to define a path to a shot cache via code, you need python/mel to be fiddling file paths. 
+
+Houdini on the other hand allows for unix style variable substitution in paths. A path to a shot cache might look like 
+
+    /jobs/$SHOW/$SEQ/$SHOT/assets/${CHAR}.abc
+    
+And either from your shell, or from houdini's own environment variable editor, or from an asset management tool like shotgun, you'd have all those variables defined, like:
+
+    $SHOW = beemovie2
+    $SEQ = sk02
+    $SHOT = sk02_050
+    $CHAR = joe
+
+You can middle click on the file path, and see the path get the variables substituted in. Again, the idea is you setup the file sop to be procedural and data driven, and let the system swap the paths around for you.
+
+Shaders are of course more render engine dependent. This is where I must confess I don't do much setup (I've been spoiled in my film fx career, and we have lots of pipeline tools to pre define shaders, or its handled downstream), but you've got a few options here. Maya uses shading groups, which is a set containing a link to a shader, and a link to either transforms (preferred) or shapes (also ok), or sub-shape selections (fraught). Houdini lets you assign shaders to the top level transform, or in that per-particle attribute style I mentioned earlier applied to the polys, or using stylesheets, similar to web css stylesheets. The latter is very powerful, but a bit arcane, I only know a few studios using it. Yet another thing you can do is material parameter overrides; say your material has an attribute called 'basecolor', and its red. If you have an extra attribute on your transform also called 'basecolor', and its green, because the names match, it will function as a local override. You can even do this per poly, which is pretty cool. This can also be defined via stylesheets if you want. 
+
+*   connect stuff in a procedural, non-explicit fashion (like dynamically assigning shaders to geometry based on names/attributes/metadata/whatever)
+
+What I alluded to above; houdini has excellent geo data manipulation tools, so within your sop network (the closest thing to maya's construction history but much cleaner to use and more powerful), you can put in things like switch nodes, and drive that switching from an expression, so that if its shot 10, it will assign materialA, but if its shot 20, assign materialB. Or you can do assignments based on geo attributes, so if the geometry sub-name is 'fred', assign the fred shader, but this can be as baroque or as simple as you want; again the maya particles analogy comes into play; you can do lots of 'if this do that' behaviour with particles, imagine that times 100, and to drive whatever attributes, wherever. 
+
+*        keep a 'root' assembly/tree (like everything needed for a particular sequence of shots), that can then be branched out into multiple shot outputs with local overrides on attributes, caches and render output.
+
+not so much. you can kindasorta do this, better than maya can, but not in the way katana can. you can do tricky tricks with branching switch nodes based on shot variables and stuff, but its not elegant. 
+
+*   defer loading to rendertime for heavy assets
+
+yep. right on the file sop is a toggle, 'delay load geometry'. this also has the effect that when translating geo to pass to the renderer, it will just use a reference to the cache on disk rather than trying to load it all into a big binary blog, so translate times are quick, and all the heavy lifting is left to the renderer. 
 
 ##  Renderstate vop
+
+![](http://www.tokeru.com/cgwiki/images/6/6c/Renderstate_wiki.jpg)
 
 ##  Material wrangle via snippet
 
