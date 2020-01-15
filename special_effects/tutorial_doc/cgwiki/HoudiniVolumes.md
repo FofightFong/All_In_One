@@ -116,7 +116,7 @@ volume（或vdb）可以表示诸如雾或火之类的无定型形状，也可�
 
 houdini提供了两种从poly geo生成SDF的方法。原生houdini方式（在IsoOffset SOP节点中使用使用SDF volume模式）和VDB方式（VDB-from-polygons sop）。我的30秒测试表明，对于更详细的几何图形，VDB的速度要快得多。
 
-houdini
+houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来它使用SDF gradient来派生sprite的法线，以此对照明做出响应。
 
 
 ### Viewing volume data
