@@ -90,6 +90,8 @@ VDB可以比houdini本地volume小得多（通常可节省50%），而且VDB sop
 
 VDB确实支持矢量volume，因此相同的烟雾设置将是2个vdb primitives，density和vel。
 
+请注意，这几乎与使用标准几何图形和属性的方式相反
+
 
 
 <a href="Houdini_Lighting_Shading.md">
