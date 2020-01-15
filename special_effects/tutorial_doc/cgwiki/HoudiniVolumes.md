@@ -92,6 +92,9 @@ VDB确实支持矢量volume，因此相同的烟雾设置将是2个vdb primitive
 
 请注意，这几乎与使用标准几何图形和属性的方式相反
 
+* 1. grid是单个几何体，但是grid上的每个点可能具有很多属性（N，Cd，id，foo，myattr等）
+
+* 2. 一个volume只能包含一个属性，因此你可以创建多个volume，每个volume都存储一个属性（density,vel,fuel等）。
 
 
 <a href="Houdini_Lighting_Shading.md">
