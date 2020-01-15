@@ -80,6 +80,15 @@ VDB可以比houdini本地volume小得多（通常可节省50%），而且VDB sop
 
 ### Scalar and vector volumes
 
+例如，用于表示云的volume仅需要为每个体素密度存储一个值。如果密度为0,则体素是完全透明的;如果密度为1,则体素是不透明的。例如，cloud sop使用引擎盖下的噪音功能将密度雕刻成令人愉悦的云形。
+
+如果要存储在整个云中变化的颜色，则需要存储红色/绿色/蓝色分量。这意味着你需要一个向量volume（或向量字段，你会发现文档和论坛经常将volume称为字段）来存储此信息。
+
+向量场的更常见用途是速度。houdini中的一个约定是将速度体积命名为vel。体积中的每个体素都存储一个方向。pyro solver将使用该速度场在周围传递密度，从而给人以运动感。pyro sims的其他属性是修改速度场本身，因此你可能会得到向上滚动的蘑菇云，或使密度回旋的噪声。
+
+
+
+
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
