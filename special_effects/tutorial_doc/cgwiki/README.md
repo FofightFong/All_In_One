@@ -23,3 +23,10 @@
 * 6.[HoudiniDops](HoudiniDops.md)
 
 * 7.The rest.:)
+
+<a href="https://github.com/BlenderCN/blenderTutorial/blob/master/README.md">
+  <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
+</a>
+<a href="https://github.com/BlenderCN/blenderTutorial/blob/master/theBlenderPythonApi/chapter1.md">
+  <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoright.png" align="right">
+</a>
