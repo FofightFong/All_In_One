@@ -68,6 +68,9 @@ VDB存储格式在Houdini中作为primitive（足够有趣的是VDB primitive）
 
 ### VDB vs Houdini volumes
 
+houdini自己的volume格式在VDB到来之前已经存在了一段时间，因此那里有大量的节点可以使用它们（你可以通过选项卡菜单中键入volume在sops中看到它）。VDB拥有自己的节点集合（以VDB为前缀或后缀）。
+
+VDB可以比houdini本地volume小得多（通常可节省50%），而且VDB sops通常比houdini本地volume更快，并且具有更有趣的功能。
 
 
 <a href="Houdini_Lighting_Shading.md">
