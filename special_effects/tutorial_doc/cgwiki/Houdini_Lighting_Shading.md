@@ -201,7 +201,19 @@ Houdini称它们为Extra Image Planes，其他人称它们为AOV（Renderman缩�
 
 ### Add AOVs to Rop
 
-进入ropnet，选择mantra节点。
+1.  进入ropnet，选择mantra节点。
+
+2.  选择Image菜单，然后选择Extra Image Planes子菜单。有一些预定义AOV，但我们需要新的自定义AOV。
+
+3.  单击Extra Image Planes字段旁边的+按钮，将出现一个新的参数子集合。
+
+4.  在vex变量字段中输入myaov
+
+5.  确保vex类型为Vector Type.
+
+6.  渲染。弹出渲染视图顶部（在渲染按钮下方）的视图栏，并在显示C的位置使用下拉菜单选择myaov。
+
+7.  有你之前定义的AOV。
 
 ##  Houdini rendering setup from a maya perspective
 
