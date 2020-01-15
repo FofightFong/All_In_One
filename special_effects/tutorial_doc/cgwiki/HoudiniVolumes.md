@@ -114,6 +114,16 @@ volume（或vdb）可以表示诸如雾或火之类的无定型形状，也可�
 
 ![Poly_mesh_vdb.jpg](http://www.tokeru.com/cgwiki/images/c/cd/Poly_mesh_vdb.jpg)
 
+houdini提供了两种从poly geo生成SDF的方法。原生houdini方式（在IsoOffset SOP节点中使用使用SDF volume模式）和VDB方式（VDB-from-polygons sop）。我的30秒测试表明，对于更详细的几何图形，VDB的速度要快得多。
+
+houdini
+
+
+### Viewing volume data
+
+![Sdf_visualise.jpg](http://www.tokeru.com/cgwiki/images/7/72/Sdf_visualise.jpg)
+
+
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
 </a>
