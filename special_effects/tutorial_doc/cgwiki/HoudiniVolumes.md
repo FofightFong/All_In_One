@@ -42,6 +42,12 @@
 
 houdini支持2种volume类型，其自己的volume格式和VDB。这些被视为诸如polys或nurbs之类的primitives，如果你在节点上按住中键不放，则会看到它说1VDB或1volume或类似内容。
 
+### VDB？
+
+对于volumes，最简单的描述方式是Alembic。
+
+进一步阅读[http://www.openvdb.org/about/](http://www.openvdb.org/about/)
+
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
 </a>
