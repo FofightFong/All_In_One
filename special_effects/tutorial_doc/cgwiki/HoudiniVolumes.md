@@ -86,7 +86,9 @@ VDB可以比houdini本地volume小得多（通常可节省50%），而且VDB sop
 
 向量场的更常见用途是速度。houdini中的一个约定是将速度体积命名为vel。体积中的每个体素都存储一个方向。pyro solver将使用该速度场在周围传递密度，从而给人以运动感。pyro sims的其他属性是修改速度场本身，因此你可能会得到向上滚动的蘑菇云，或使密度回旋的噪声。
 
+需要注意的是本地houdini向量volume和vdb向量volume之间的区别。在内部，Houdini并没有真正使用矢量volume格式，但是它会创建3个标量volume，并且知道将它们视为单个空对象。使用密度和vel的标准烟雾设置将具有4个volume primitives;density，vel.x,vel.y,vel.z。
 
+VDB确实支持矢量volume，因此相同的烟雾设置将是2个vdb primitives，density和vel。
 
 
 
