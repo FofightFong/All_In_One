@@ -274,3 +274,11 @@ yep. right on the file sop is a toggle, 'delay load geometry'. this also has the
 
 
 
+
+<a href="HoudiniTutorials.md">
+  <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
+</a>
+<a href="HoudiniVolumes.md">
+  <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoright.png" align="right">
+</a>
+
