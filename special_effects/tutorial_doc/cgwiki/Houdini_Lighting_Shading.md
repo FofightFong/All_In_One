@@ -102,7 +102,7 @@
 
 1.  返回到/obj网络，找到grid节点，转到其material菜单，单击选择器图标，将显示一个选择器。
 
-2.  选择/objshopnet1/mantrasurface‘。启用export relative path,点击accpt。
+2.  选择/obj/shopnet1/principledshader。启用export relative path,点击accpt。
 
 如果保持渲染视图运行，你应该可以在对象上看到更新后的材质。
 
@@ -185,10 +185,23 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 将Principled shader节点设置为读取点颜色和透明度（如果存在）（它们将与着色器颜色相乘）。要记住的唯一技巧是使用正确的属性名称。颜色非常简单，因为在vop网络中，其颜色在输出节点上列出。虽然没有列出Alpha，但每个人都经历了一次错误的尝试，即尝试看似明显的（Af），然后尝试其他的（af？）和其他事情(opacity?),直到最终记住正确的格式：输入float。
 
 ##  AOVs or Extra Image Planes
+Houdini称它们为Extra Image Planes，其他人称它们为AOV（Renderman缩写为Arbitrary Output Variables）。与其他软件包相比，它的工作量要多一些，但是在另一方面，它可以自由地做任何你想做的事情（就像大多数houdini一样）。
 
 ### Defining AOVs in a shader
 
+在着色器中，你连接到bind export的vop的任何内容都可以用作AOV。
+
+1.  进入shopnet，然后进入principledshader着色器。
+
+2.  创建一个bind export节点，名称为myaov,键入vector。
+
+3.  将N连接到其输入。
+
+你现在已经准备好将myaov用作AOV。
+
 ### Add AOVs to Rop
+
+进入ropnet，选择mantra节点。
 
 ##  Houdini rendering setup from a maya perspective
 
@@ -197,5 +210,6 @@ Other Houdini users have made their own versions of an all-in-one physically cor
 ##  Material wrangle via snippet
 
 ##  Todo
+
 
 
