@@ -72,6 +72,14 @@ houdini自己的volume格式在VDB到来之前已经存在了一段时间，因�
 
 VDB可以比houdini本地volume小得多（通常可节省50%），而且VDB sops通常比houdini本地volume更快，并且具有更有趣的功能。
 
+有一种.vdb文件格式（可用于导出到其他应用程序），但你无需导出.vdb文件即可节省空间，只需在houdini中使用vdb primitive就足够了。可以随时将houdini volume primitive转换为vdb primitive，只需要创建convertvdb节点，并将其模式设置为VDB。如果在节点上单击鼠标中键，将看到Volume primitive已被VDB替换。现在，你可以像其他任何houdini geo一样将其缓存到.bgeo,但比不进行转换的情况要小得多。
+
+令人高兴的是，许多houdini volume工具也已更新，可以与VDB primitive一起使用。例如，Volume VOPS和Volume Wrangles都可以与VDB一起使用。这意味着在任何时候使用VDB都相当安全，因为你可以根据需要轻松地将VDB临时转换为本地volume，然后再次转换。
+
+进一步阅读[http://www.sidefx.com/docs/houdini15.0/model/volumes](http://www.sidefx.com/docs/houdini15.0/model/volumes)
+
+### Scalar and vector volumes
+
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
