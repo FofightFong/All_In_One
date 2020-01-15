@@ -254,7 +254,7 @@ Shaders are of course more render engine dependent. This is where I must confess
 
 What I alluded to above; houdini has excellent geo data manipulation tools, so within your sop network (the closest thing to maya's construction history but much cleaner to use and more powerful), you can put in things like switch nodes, and drive that switching from an expression, so that if its shot 10, it will assign materialA, but if its shot 20, assign materialB. Or you can do assignments based on geo attributes, so if the geometry sub-name is 'fred', assign the fred shader, but this can be as baroque or as simple as you want; again the maya particles analogy comes into play; you can do lots of 'if this do that' behaviour with particles, imagine that times 100, and to drive whatever attributes, wherever. 
 
-*        keep a 'root' assembly/tree (like everything needed for a particular sequence of shots), that can then be branched out into multiple shot outputs with local overrides on attributes, caches and render output.
+*   keep a 'root' assembly/tree (like everything needed for a particular sequence of shots), that can then be branched out into multiple shot outputs with local overrides on attributes, caches and render output.
 
 not so much. you can kindasorta do this, better than maya can, but not in the way katana can. you can do tricky tricks with branching switch nodes based on shot variables and stuff, but its not elegant. 
 
