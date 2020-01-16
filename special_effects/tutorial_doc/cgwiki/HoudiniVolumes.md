@@ -149,6 +149,20 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 找到了这篇[文章](http://pepefx.blogspot.com.au/2015/08/how-to-create-magnetic-vector-field-in.html),其中介绍了如何设置磁力线。试着在很累的时候跟着操作，然后一个月后再试一次，不看他的笔记我是否能得到类似的效果，并且不用他巧妙的vex。
 
+在此设置中，可能有两件事很有趣：
+
+* 从多边形创建vdb，特别是从一个多边形同时创建密度和vel的vdb。vdb-from-polygons sop具有一个multilister，类似于在rop创建aovs/imge planes,单击创建一个新的Surface Attributes，告诉它源属性是什么（例如，v表示速度）以及它将映射到哪种vdb（矢量）
+
+* combine vdb。我设置一个正负vdb，然后使用add模式combine他们，在我看来我可以先merge多边形的形状，然后一步一步制作vdb，这样会更有效率。还有，方便学习练习不是吗？
+
+我敢肯定最终结果和科学上是不符合的，但看起来很漂亮。老实说，我确定该设置将无法正常工作。仅创建一个负的和正的速度场似乎太简单了，以至于wolume trails无法完成它的工作，但这就是在起作用。线条和颜色通常是我对volume trails和point wrangles的滥用。
+
+### Swirly lines,or worms with volumes and curl noise
+
+! [](http://www.tokeru.com/cgwiki/images/0/0e/Pig_worms.gif)
+
+
+
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
 
