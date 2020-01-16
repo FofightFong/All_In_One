@@ -161,6 +161,13 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 ! [](http://www.tokeru.com/cgwiki/images/0/0e/Pig_worms.gif)
 
+这是另一种尝试处理涡旋线的方法，但我认为效果更好。我看过Raph在vimeo上做的非常酷的实验，并对如何实现感到好奇。即使他离我只有两米远，我自然也很骄傲地问他。我一直研究了很久。
+
+我在pyro上进行的实验让我熟悉了volume并创建了速度场，而volume trail sop始终提供了不错的结果。当我注意到sdf的输入时，正在volume vop中使用curl noise。开始使用他时，令我惊讶的是她确实达到了我所追求的效果，并且帮助文档证实了这一点;就像将石头放到溪流中一样，它会迫使curl noise在你给它的sdf周围流动
+
+因此，工作流程如下：
+
+1. 
 
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
