@@ -123,7 +123,10 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 ![Sdf_visualise.jpg](http://www.tokeru.com/cgwiki/images/7/72/Sdf_visualise.jpg)
 
-由于将volume或vdb视为其自身的primitive类型，因此无法像你最初期望的那样从geometry spreadsheet
+由于将volume或vdb视为其自身的primitive类型，因此无法像你最初期望的那样从geometry spreadsheet中检查体素数据。如果尝试，你将看到的是每个volume的原始编号。
+
+相反，你应该在视口中使用可视化工具。volume slice可以让你查看映射到色带的二维体素数据的切片，volume trails节点可让你跟踪体积内的方向线，通过volume道出graident。
+
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
