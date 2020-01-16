@@ -135,6 +135,8 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 看到了有关生成涡旋线的有趣的[vimeo教程](https://vimeo.com/134057856),以及一个[odforce帖子](http://forums.odforce.net/topic/23535-noise-how-to-convert-into-line/),询问如何从噪声生成示踪线，这是我将两者结合在一起的尝试。volume trail sop用于可视化volume中的场，但是如果你以正确的方式设置volume，则可以将其用于自己的目的。
 
+这里的想法是从一个形状中创建一个SDF（Signed Distance Field）。这是每个体素存储到曲面上最近点的距离的体积。曲面上的体素的值为0曲面外的体素的值为正，曲面内的体素的值为负。这使它们非常容易检查碰撞，或做其他事情。（这里是一个不错的shadertoy演示，用于在2d中可视化SDF：https://www.shadertoy.com/view/ltBGzK）
+
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
 </a>
