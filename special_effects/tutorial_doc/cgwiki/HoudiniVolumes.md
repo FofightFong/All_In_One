@@ -215,13 +215,40 @@ vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mes
 
 * 2. vdb节点有一点混乱，因为它是通过@v创建vel的，而该框是没有的。快速重置为零，然后重置P，清除其头部。所以现在@vel实际上正在存储@P，但这只是一个占位符。
 
-* 3.vdb节点之后添加一个volume wrangel，它所做的是两件事情：
+* 3. vdb节点之后添加一个volume wrangel，它所做的是两件事情：
 
  * 1. int pt = nearpoint(1,@P);对于每个体素，曲线上最接近的点，获取其@ptnum，将其存储为pt。
  
  * 2. v@vel=point(1,'v',pt);---在曲线上查找点pt，读取其@v，将其存储为当前的体素@vel。
  
-* 将其连接到volume trail中即可查看结果。
+* 4. 将其连接到volume trail中即可查看结果。
+
+* 5. 注意，我使用v@vel而不是@vel;我意外的发现@vel不是自动识别为哪种类型的特殊wrangle属性之一。如果你忘记了，它会被当成float，这一度使我感到困惑。
+
+这是[场景文件](http://www.tokeru.com/cgwiki/index.php?title=File:Volume_vel_from_geo_curve.hipnc)
+
+感谢Luke Gravett向我展示这个小技巧。
+
+### volume displacement
+
+![](http://www.tokeru.com/cgwiki/images/6/64/Volume_displacement.gif)
+
+再一次，把它建立起来确实很复杂，但实际上却很容易。一般来说，当使用较小的体素时，volumes看起来更好，但这当然是以磁盘空间，内存和渲染时间为代价的。我知道houdini和mantra支持volume置换，但是我认为无论看什么教程，它都看起来非常复杂。
+
+Patreon的支持者Isaac Katz的提示促使我去做一些研究，这使我在odforce论坛上举了[Marc Picco的简单例子](http://forums.odforce.net/topic/12050-displace-volumes/?do=findComment&comment=77623)。你要做的就是像对常规多边形置换那样设置着色器，因此取P，添加一些噪声，填入一些置换输出。
+
+上面的gif显示了这种方法的有效性。volume 猪的起始分辨率非常第（25×27×29,刚好可以捕捉基本的猪形）。通过在渲染时进行置换，可以得到像素级的细节，并且可以放大得足够近，甚至可以是子像素），并且渲染时间仍然非常合理。
+
+这显示了我从materal palette添加到basic smoke着色器的额外节点。唯一令人困惑的地方是如何创建置换节点。它只是一个输出节点，其类型更改为displacement。
+
+![](http://www.tokeru.com/cgwiki/images/d/d9/Volume_displacement_shop_network.jpg)
+
+### Volume deform
+
+![](http://www.tokeru.com/cgwiki/images/a/a8/Volume_deform.gif)
+
+变形volumes似乎很简单，然后你尝试一下却意识到并非如此。令人沮丧的是，像Pixar的REVES这样酷的内部工具似乎可以毫不费力地处理它，但是我们其余人会做什么？
+
 
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
