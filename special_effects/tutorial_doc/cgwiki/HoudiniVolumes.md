@@ -253,6 +253,8 @@ Patreon的支持者Isaac Katz的提示促使我去做一些研究，这使我在
 
 这有两个部分，一个是使用vdb可视化工具将volume转换为points，另一个是使用volume from attribute转换回volume。
 
+vdb可视化工具可以生成从体积到点的精确转换。如果将其模式更改为仅对active体素进行操作，并导出带有值的点，那么你将获得此结果。每个体素的点，其密度存储为@vdb_float。
+
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
 
