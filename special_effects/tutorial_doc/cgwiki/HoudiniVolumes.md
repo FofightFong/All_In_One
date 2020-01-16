@@ -159,7 +159,7 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 ### Swirly lines,or worms with volumes and curl noise
 
-! [](http://www.tokeru.com/cgwiki/images/0/0e/Pig_worms.gif)
+![](http://www.tokeru.com/cgwiki/images/0/0e/Pig_worms.gif)
 
 这是另一种尝试处理涡旋线的方法，但我认为效果更好。我看过Raph在vimeo上做的非常酷的实验，并对如何实现感到好奇。即使他离我只有两米远，我自然也很骄傲地问他。我一直研究了很久。
 
@@ -167,7 +167,9 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 因此，工作流程如下：
 
-1. 
+1. 获取一个形状。（在这种情况下，值得信赖的猪）
+
+2. 
 
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
