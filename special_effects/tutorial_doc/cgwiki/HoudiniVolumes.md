@@ -197,6 +197,19 @@ vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mes
 
 ![](http://www.tokeru.com/cgwiki/images/3/35/Vel_field_watertight.gif)
 
+但是，如果你没有质密的mesh，则会导致vdb convert sop的结果非常混乱，因此要么需要非常密集的采样设置，要么用挤出或其他来创建多面体几何体，这可能是不可能的。
+
+在这里，我将猪换成具有法线和速度的曲线。vdb from polys节点无法创建密度场，因此整个过程都将中断：
+
+![](http://www.tokeru.com/cgwiki/images/6/67/Vel_field_curve_bad.gif)
+
+这里我们真正需要的是能够生成通用的密度fog，然后将@v从曲线到体积的@vel进行属性传递。有几个节点可以执行此操作（volume from attribute，velocity volume，volume from curve等），但是不幸的是，所有的这些似乎都不适用于vdb，只有常规的houdini体积。这意味着你要转换，执行此操作并转换回去，这很浪费。（现在可以了）
+
+更好的方式是使用volume wrangle：
+
+![](http://www.tokeru.com/cgwiki/images/e/e7/Vel_field_curve_good.gif)
+
+这是gif中发生的事情：
 
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
