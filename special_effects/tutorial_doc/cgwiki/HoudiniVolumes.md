@@ -193,6 +193,8 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mesh上具有@v，也可以创建速度场。
 
+例如，我有一头猪，给它point noamal，用@v=cross（@N，{0,1,0}）创建一个涡旋状的@v。然后使用vdb from polygons创建一个密度场，并另外通过@v创建一个@vel场。（我还附加了一个scatter和volume trail来可视化涡旋场。）
+
 ![](http://www.tokeru.com/cgwiki/images/3/35/Vel_field_watertight.gif)
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
