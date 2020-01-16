@@ -125,8 +125,15 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 由于将volume或vdb视为其自身的primitive类型，因此无法像你最初期望的那样从geometry spreadsheet中检查体素数据。如果尝试，你将看到的是每个volume的原始编号。
 
-相反，你应该在视口中使用可视化工具。volume slice可以让你查看映射到色带的二维体素数据的切片，volume trails节点可让你跟踪体积内的方向线，通过volume道出graident。
+相反，你应该在视口中使用可视化工具。volume slice可以让你查看映射到色带的二维体素数据的切片，volume trails节点可让你跟踪体积内的方向线，通过volume道出gradient。
 
+[hip示例文件](http://www.tokeru.com/cgwiki/index.php?title=File:Vis_volume.hip)是使用volume的两种不同方式的示例,它以两种方式计算gradient，一种是通过vex的volumegradient调用，另一种是通过VDB analysis sop。VDB节点的显示方式与常规houdini节点略有不同，但功能非常强大且非常快。
+
+### Volumes,SDF,Trails
+
+![](http://www.tokeru.com/cgwiki/images/7/73/Vol_trails.gif)
+
+看到了有关生成涡旋线的有趣的[vimeo教程](https://vimeo.com/134057856),以及一个[odforce帖子](http://forums.odforce.net/topic/23535-noise-how-to-convert-into-line/),询问如何从噪声生成示踪线，这是我将两者结合在一起的尝试。volume trail sop用于可视化volume中的场，但是如果你以正确的方式设置volume，则可以将其用于自己的目的。
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
