@@ -249,7 +249,9 @@ Patreon的支持者Isaac Katz的提示促使我去做一些研究，这使我在
 
 变形volumes似乎很简单，然后你尝试一下却意识到并非如此。令人沮丧的是，像Pixar的REVES这样酷的内部工具似乎可以毫不费力地处理它，但是我们其余人会做什么？
 
+嗯，有正确的方法可以做到这一点（例如Orbolt上的[volume Lattice资产](https://www.orbolt.com/asset/StianHalvorsen::Volume_Lattice)，或[Juraj Tomori的示例](https://vimeo.com/139814928)），两者都可以直接将其转换为体积，并且这种方法有些怪异。在我丢失的一个vimeo帖子上阅读了有关如何执行此操作的提示以及同事的提示后，这还不错，并且在相当高的分辨率下速度相当快。
 
+这有两个部分，一个是使用vdb可视化工具将volume转换为points，另一个是使用volume from attribute转换回volume。
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
