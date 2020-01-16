@@ -123,7 +123,7 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 ![Sdf_visualise.jpg](http://www.tokeru.com/cgwiki/images/7/72/Sdf_visualise.jpg)
 
-由于将volume或vdb视为其自身的primitive类型，因此无法像你
+由于将volume或vdb视为其自身的primitive类型，因此无法像你最初期望的那样从geometry spreadsheet
 
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
