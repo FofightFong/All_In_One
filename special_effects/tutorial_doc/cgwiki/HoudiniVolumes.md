@@ -169,8 +169,31 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 1. 获取一个形状。（在这种情况下，值得信赖的猪）
 
-2. 
+2. 获取bound，并从中创建一个vel fog vdb
 
+3. 同时创建一个猪的SDF。
+
+4. 在volume vop中，使用curl noise，将SDF连接到curl noise的输入上以绕动它，调整滑块以得到满意的效果。
+
+5.测试vdb是否为负值（即在猪的形状的内部），是则设为1,外部的值设置为0
+
+6.将此值乘以curl noise以将所有猪外部的vel设置为0，现在，curl noise沿着表面和猪的volume内部流动。
+
+7.在猪的表面scatter点，用volume trail sop生成酷的线。
+
+8. 使用@width直接渲染曲线或使用polywire sop获得poly tubes。
+
+具有@width的曲线当然更有效，但是他们和opengl都有一个bug，导致奇怪的尖峰和爆裂，因此我需要用polywire来进行我的flipbook（拍屏）的获取。可以从添加time到curl noise的输入来使线条动起来。
+
+这同样适用于squab，通过SDF的值驱动颜色的增加，进而驱动ramp，表面附近的值是白色，然后是红色，然后是粉色，然后是蓝色。令人毛骨悚然。
+
+![](http://www.tokeru.com/cgwiki/images/e/e4/Squab_viscera_small.jpg)
+
+### Convert geometry to velocity volumes efficiently
+
+vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mesh上具有@v，也可以创建速度场。
+
+![](http://www.tokeru.com/cgwiki/images/3/35/Vel_field_watertight.gif)
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
