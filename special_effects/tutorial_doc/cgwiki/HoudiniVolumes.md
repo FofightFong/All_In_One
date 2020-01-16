@@ -211,6 +211,10 @@ vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mes
 
 这是gif中发生的事情：
 
+* 1. 首先我们需要一个通用的密度框，因此我给猪使用了了bounds sop，然后将其边界框接入到vdb from polys。
+
+* 2. vdb节点有一点混乱，因为它是通过@v创建vel的，而该框是没有的。快速重置为零，然后重置P，清除其头部。所以现在@vel实际上正在存储@P，但这只是一个占位符。
+
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
