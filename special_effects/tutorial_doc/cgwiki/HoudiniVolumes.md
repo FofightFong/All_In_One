@@ -215,6 +215,14 @@ vdb from polygons节点非常适合将meshes转换为sdf或fog，并且如果mes
 
 * 2. vdb节点有一点混乱，因为它是通过@v创建vel的，而该框是没有的。快速重置为零，然后重置P，清除其头部。所以现在@vel实际上正在存储@P，但这只是一个占位符。
 
+* 3.vdb节点之后添加一个volume wrangel，它所做的是两件事情：
+
+ * 1. int pt = nearpoint(1,@P);对于每个体素，曲线上最接近的点，获取其@ptnum，将其存储为pt。
+ 
+ * 2. v@vel=point(1,'v',pt);---在曲线上查找点pt，读取其@v，将其存储为当前的体素@vel。
+ 
+* 将其连接到volume trail中即可查看结果。
+
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
