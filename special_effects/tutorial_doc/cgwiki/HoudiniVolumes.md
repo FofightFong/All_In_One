@@ -137,6 +137,21 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 这里的想法是从一个形状中创建一个SDF（Signed Distance Field）。这是每个体素存储到曲面上最近点的距离的体积。曲面上的体素的值为0曲面外的体素的值为正，曲面内的体素的值为负。这使它们非常容易检查碰撞，或做其他事情。（这里是一个不错的shadertoy演示，用于在2d中可视化SDF：https://www.shadertoy.com/view/ltBGzK）
 
+然后，我取另一个体积，每个体素可以在其中存储一个矢量值，称为vel（用于在volume中存储速度的houdini标准）。然后，我使用SDF对vel场进行分片，以便仅保留表面0.1以内的体素，其余部分被裁剪掉。
+
+然后，我通过curl noise运行该volume，因此vel场现在具有穿过它的粗糙块状漩涡。将其放入到volume trails sop产生彩线。
+
+虽然这种排序沿着猪的表面，但线条倾向于在表面的上方和下方有些晃动。为了使他们直接贴在上面，我只需将曲线映射到稍胖的猪的副本上，以避免交叉问题）
+
+可能存在一种直接从SDF生成curl noise的方法，以使最终产生的线条留在表面，ray是一种快速偷懒的方法：）
+
+### Volume magnetic lines
+
+找到了这篇[文章](http://pepefx.blogspot.com.au/2015/08/how-to-create-magnetic-vector-field-in.html),其中介绍了如何设置磁力线。
+
+[From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
+
+
 <a href="Houdini_Lighting_Shading.md">
   <img src="https://github.com/BlenderCN/blenderTutorial/blob/master/mDrivEngine/blenderpng/logoleft.png" align="left">
 </a>
