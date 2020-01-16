@@ -147,7 +147,7 @@ houdini使用SDF场为0的每个体素的sprite来可视化SDF体积。看起来
 
 ### Volume magnetic lines
 
-找到了这篇[文章](http://pepefx.blogspot.com.au/2015/08/how-to-create-magnetic-vector-field-in.html),其中介绍了如何设置磁力线。
+找到了这篇[文章](http://pepefx.blogspot.com.au/2015/08/how-to-create-magnetic-vector-field-in.html),其中介绍了如何设置磁力线。试着在很累的时候跟着操作，然后一个月后再试一次，不看他的笔记我是否能得到类似的效果，并且不用他巧妙的vex。
 
 [From](http://www.tokeru.com/cgwiki/index.php?title=HoudiniVolumes)
 
