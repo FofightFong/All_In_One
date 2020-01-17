@@ -25,6 +25,8 @@
 
 # 一些网站
 
+* [aducg](http://www.aducg.com/tag/houidni/)
+
 * [aigei](http://www.aigei.com/course/3d/houdini/)
 
 * [百度经验](baidujingyan.md)
