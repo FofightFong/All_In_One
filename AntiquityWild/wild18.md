@@ -8,6 +8,8 @@
 
 * [Houdini_18_新增功能](https://www.bilibili.com/video/av78584243)
 
+* [Houdini 18 Solaris全流程详解与实战演练 - 中文教程](https://www.bilibili.com/video/av83912830)
+
 
 
 ### 文章
