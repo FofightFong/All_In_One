@@ -10,6 +10,14 @@
 
 * [Houdini 18 Solaris全流程详解与实战演练 - 中文教程](https://www.bilibili.com/video/av83912830)
 
+* [【中文教程】小白入门Houdini18第一期：软件界面介绍和节点操作](https://www.bilibili.com/video/av85344806)
+
+* [【中文教程】Houdini18 节点介绍：For loop](https://www.bilibili.com/video/av85672342)
+
+* [【中文教程】Houdini18 节点介绍：Group 组节点](https://www.bilibili.com/video/av85816584)
+
+* [【中文教程】Houdini18 节点介绍：Sweep (扫描节点)](https://www.bilibili.com/video/av86400615)
+
 
 
 ### 文章
