@@ -724,86 +724,130 @@
 
 * 361.[在MToA中调用MPlay显示渲染 ](https://mp.weixin.qq.com/s/onErvaO0xTc3ADvHx7fPYg)
 
-* 362.[362]()
+* 362.[CGAL之Houdini脊和脐线+模型骨架算法 ](https://mp.weixin.qq.com/s/AzJLiXRp4qvJubgMBCcz8g)
 
-* 363.[363]()
+* 363.[【Tools】Houdini碎块导出到maya工具_Part_03 ](https://mp.weixin.qq.com/s/o5zdyYL_ih0Hl2M-nCtatg)
 
-* 364.[364]()
+* 364.[【Tools】Houdini碎块导出到maya工具_Part_02](https://mp.weixin.qq.com/s/aKQz1Mocge-q-OIMUEjK7w)
 
-* 365.[365]()
+* 365.[【Tools】Houdini碎块导出到maya的工具_Part_01 ](https://mp.weixin.qq.com/s/fAxyWEejFhwSZPSxGb1j4A)
 
-* 366.[366]()
+* 366.[【Tools】Houdini碎块导出到maya的工具-预告 ](https://mp.weixin.qq.com/s/xtf7njy1Ljc_tN0_wCzalg)
 
-* 367.[367]()
+* 367.[【Tools】Houdini 创建速度矢量场的otls](https://mp.weixin.qq.com/s/CwQOPEQtL7aGrhqSpysViw)
 
-* 368.[368]()
+* 368.[Sop】10分钟带你走进For循环 ](https://mp.weixin.qq.com/s/EiBiLfvxwtbXDgPVouW6-A)
 
-* 369.[369]()
+* 369.[Tips】Houdini 为动态模型添加静态Mountain ](https://mp.weixin.qq.com/s/qZgfVxm2hMqBQ8VN1uD0Fw)
 
-* 370.[370]()
+* 370.[【Tools】Houdini volume Deformation(晶格变形) ](https://mp.weixin.qq.com/s/W6fkV42MaZ9ANdFvLdw9HA)
 
-* 371.[371]()
+* 371.[【Tips】如何用orient属性在SOP中为粒子做自旋](https://mp.weixin.qq.com/s/31KZRg5e6TPL5mBh_Cw8Ww)
 
-* 372.[372]()
+* 372.[【Tips】怎么让线上走流光 ](https://mp.weixin.qq.com/s/kAcLtiDE_XJwDsjPBvq2Aw)
 
-* 373.[373]()
+* 373.[【Tips】FLIP添加turbulence自定义mask场 ](https://mp.weixin.qq.com/s/1EgGbfeZLfpWAoLEScECNA)
 
-* 374.[374]()
+* 374.[【RBD】Houdini18_RBD破碎，玻璃无裂纹渲染 ](https://mp.weixin.qq.com/s/7PQskn_Ms6BOA4IQdccOTg)
 
-* 375.[375]()
+* 375.[【3DTo2D】houdini制作刀光 ](https://mp.weixin.qq.com/s/dtSlZK3KqCexrQVibcHeZQ)
 
-* 376.[376]()
+* 376.[【Tips】houdini烘焙贴图Bake Texture ](https://mp.weixin.qq.com/s/fptFm3UcZ_ZY1i61bYCWtw)
 
-* 377.[377]()
+* 377.[【Solaris】Houdini18_LOPs模块知识分享 ](https://mp.weixin.qq.com/s/yo4RQ936XMq74Kni474rmQ)
 
-* 378.[378]()
+* 378.[待发【Q&A】如何解决有动画的水桶，解算时漏水问题。](https://mp.weixin.qq.com/s/Uw1ItYCB96Xu-r0igtnq5A)
 
-* 379.[379]()
+* 379.[【Test】Houdini18_Pryo深度_Part3，探索活动测试分享](https://mp.weixin.qq.com/s/hT7bHyYQBkPb1KeS_Wp9TQ)
 
-* 380.[380]()
+* 380.[【Text】Houdini18_Vellum更新对比，初探分享 ](https://mp.weixin.qq.com/s/wHhxJ70Vm63G3RwObOcDVg)
 
-* 381.[381]()
+* 381.[【Test】Houdini18_Pryo深度_Part2，探索活动测试分享 ](https://mp.weixin.qq.com/s/YEP3B03KY4DnFfgtUoHIOA)
 
-* 382.[382]()
+* 382.[【Test】Houdini18_Pryo深度_Par 1，探索活动测试分享](https://mp.weixin.qq.com/s/X9t1Mi3pGiBYLHugLc-s8g)
 
-* 383.[383]()
+* 383.[【Test】Houdini18_karma探索活动，测试分享 ](https://mp.weixin.qq.com/s/YDPTTEz4GXmDdUe6YgBerg)
 
-* 384.[384]()
+* 384.[【Test】Pryo_Houdini18探索活动，测试分享](https://mp.weixin.qq.com/s/i3FpjBmf3JyFfeJKMuFc1g)
 
-* 385.[385]()
+* 385.[【Tips】如何将杂乱无章的点序号重新排序](https://mp.weixin.qq.com/s/6tS3ZwDleG5M_DuUVQpolw)
 
-* 386.[386]()
+* 386.[【Tools】Houdini批量输出缓存的工具 ](https://mp.weixin.qq.com/s/wp8Q3mqkYdPTznVOauIEVQ)
 
-* 387.[387]()
+* 387.[【Q&A】关于fliptank创建时的小经验 ](https://mp.weixin.qq.com/s/Q2t9WivQGdvb1iSy1TQaMA)
 
-* 388.[388]()
+* 388.[【3Dto2D】Houdini_Cartoon关于Houdini卡通材质的简单用法 ](https://mp.weixin.qq.com/s/z1QIAXfjqmjkzNZ9ud5UNg)
 
-* 389.[389]()
+* 389.[Houdini程序化复杂道路 ](https://mp.weixin.qq.com/s/qBGlzKdbGWjkPU33HO4BnQ)
 
-* 390.[390]()
+* 390.[Houdini的python和vex制作程序化城市](https://mp.weixin.qq.com/s/TS5lUpYFd2g5z8QiefWD_A)
 
-* 391.[391]()
+* 391.[Houdini的python和vex制作程序化城市（一）python导入模型 ](https://mp.weixin.qq.com/s/FRYaAc4Hhx-8ZJnBNtIV0Q)
 
-* 392.[392]()
+* 392.[houdini 批处理流程学习笔记](https://mp.weixin.qq.com/s/7DxCJvd8IAie9sa8pqu-2Q)
 
-* 393.[393]()
+* 393.[houdini矩阵变换笔记 ](https://mp.weixin.qq.com/s/-4-K76Fnvy2-OQx8fLDxew)
 
-* 394.[394]()
+* 394.[Houdini和UE4制作程序化地形（二）](https://mp.weixin.qq.com/s/pEizDHjATTxiW5YJDaG7yA)
 
-* 395.[395]()
+* 395.[Houdini和UE4制作程序化地形篇（一） ](https://mp.weixin.qq.com/s/I46ehfkwbhs_UJQ41bV21w)
 
-* 396.[396]()
+* 396.[Quixel Bridge导出纹理到houdini报错13290 ](https://mp.weixin.qq.com/s/VXGtHiSTRLBJYMv55Lj95w)
 
-* 397.[397]()
+* 397.[Houdini中用VEX写一个有趣的程序动画 ](https://mp.weixin.qq.com/s/pkkdZ-Q3ZGYUam850QfJ7Q)
 
-* 398.[398]()
+* 398.[houdini破碎后导入Clarisse渲染，用点云代替动画的方法](https://mp.weixin.qq.com/s/GA-JZS8IdelBYzbe4H3_Ug)
 
-* 399.[399]()
+* 399.[如何利用Houdini的Ocean导出Mesh添加细节 ](https://mp.weixin.qq.com/s/YJ7auU3S88FDHK5GqNEOWA)
 
-* 400.[400]()
+* 400.[Houdini破碎后导回Maya如何快速赋予材质](https://mp.weixin.qq.com/s/646LZdb04v7RvNb6IRU-nw)
 
-* 401.[401]()
+* 401.[Houdini程序化建模-瞭望塔思路分享第二期 ](https://mp.weixin.qq.com/s/UAYOgHt9eGkHqTR85XoRGg)
 
-* 402.[402]()
+* 402.[Houdini程序化建模-瞭望塔思路分享第一期 ](https://mp.weixin.qq.com/s/3e34CJqOK_0Vq8kP4FGjgA)
 
-* 403.[403]()
+* 403.[houdini 蠕动的病毒程序化建模 ](https://mp.weixin.qq.com/s/oonJ-gx5AsBILqfwwAPzXw)
+
+* 404.[houdini创建螺旋线的几种小方法 ](https://mp.weixin.qq.com/s/Nk8JAHy4h0qy-GplvylIOg)
+
+* 405.[Houdini程序化建模-大将军炮 ](https://mp.weixin.qq.com/s/PDl0GgFWPjowlevi3GV7XA)
+
+* 406.[python语法大串烧 ](https://mp.weixin.qq.com/s/Sv3DAN0Wjh61rJGcxL9XRQ)
+
+* 407.[VEX语法大串烧 ](https://mp.weixin.qq.com/s/qNjpmcHaUbJ9EGjhAJ4ltg)
+
+* 408.[非界面下Houdini操控方法 ](https://mp.weixin.qq.com/s/BndadlAHZJsuXq7vVSAOsw)
+
+* 409.[Houdini中解放人力的自动输出方法](https://mp.weixin.qq.com/s/195jTXtc5797JbbSFc8yiQ)
+
+* 410.[Houdini全局变量与常用几何体变量总结](https://mp.weixin.qq.com/s/MPA0-DaygstHy63t7zidzg)
+
+* 411.[Houdini几何体常用属性总结 ](https://mp.weixin.qq.com/s/yfhQS0wRYmPgaO6pvGYK8Q)
+
+* 412.[Houdini为什么需要三种内置语言 ](https://mp.weixin.qq.com/s/tGNlj3umeFWyzjzZCQqA7A)
+
+* 413.[【外文翻译】GDC2017-Grooming system in Houdini （Houdini的毛发梳理系统）Part3](https://mp.weixin.qq.com/s/pR3SKYBstqHXySwcsF6XvA)
+
+* 414.[【技术研发】多流体框奔跑扬尘效果 ](https://mp.weixin.qq.com/s/UkxNVKYBzVjQT6UsxM6TtQ)
+
+* 415.[【外文翻译】Houdini VEX Traffic System: How It Works ](https://mp.weixin.qq.com/s/fy5ddGa79Chjc_cswL6FnQ)
+
+* 416.[【外文翻译】GDC2017 - Grooming System in Houdini Part2 ](https://mp.weixin.qq.com/s/5SU9sTvngFpCCO3S7JVhyQ)
+
+* 417.[【技术解析】USD系列-概念篇 ](https://mp.weixin.qq.com/s/eKnXnWzmu9HtOk90443AYg)
+
+* 418.[【技术解析】USD系列-环境篇 ](https://mp.weixin.qq.com/s/NOcFMQICl66sAjv1e9KhFg)
+
+* 419.[【外文翻译】GDC2017 - Grooming System in Houdini ](https://mp.weixin.qq.com/s/jfyw7TxRCLRpVkuHC_jVTw)
+
+* 420.[ 【技术解析】破碎场景引入爆破力的方法 ](https://mp.weixin.qq.com/s/lHAVyUabZSyvRPYstDz1qg)
+
+* 421.[ 【技术解析】轨迹烟雾解算处理部分](https://mp.weixin.qq.com/s/7tpkuCQ3Hs7V11KojsvE-Q)
+
+* 422.[【技术解析】轨迹烟雾（二）](https://mp.weixin.qq.com/s/CpxWUiS3gjhbW727IOa8tg)
+
+* 423.[【技术解析】轨迹烟雾（一） ](https://mp.weixin.qq.com/s/1uaQgno0r_xDWk2jQUBicA)
+
+* 424.[【干货】Houdini Engine的安装 ](https://mp.weixin.qq.com/s/hHHd0onrDMStllgM2wkK5g)
+
+* 425.[volume灯光踪迹制作 ](https://mp.weixin.qq.com/s/8IR6Roa75CZoI_Uro-Yl6A)
