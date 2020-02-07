@@ -604,101 +604,101 @@
 
 * 302.[【Houdini16编程】Houdini16开发系列30:检查节点输出路径](https://mp.weixin.qq.com/s/bjm59-qZ4MZrKDyeQixt9Q)
 
-* 303.[303](https://mp.weixin.qq.com/s/gmuCx9fYYxPEBM5rs7ZOjQ)
+* 303.[【Houdini16编程】Houdini16开发系列29:hou.ui模块创建一些简单实用的界面 ](https://mp.weixin.qq.com/s/gmuCx9fYYxPEBM5rs7ZOjQ)
 
-* 304.[304](https://mp.weixin.qq.com/s/MiCCCNmN4iwKjwDqy1i10Q)
+* 304.[【Houdini16编程】Houdini16开发系列28:如何使用Python Key帧以及bake关键帧](https://mp.weixin.qq.com/s/MiCCCNmN4iwKjwDqy1i10Q)
 
-* 305.[305](https://mp.weixin.qq.com/s/mYvt3LxaJnD4AGz5Yx8qQA)
+* 305.[【Houdini16编程】Houdini16开发系列26:OnCreated.py自定义创建节点颜色和形状 ](https://mp.weixin.qq.com/s/mYvt3LxaJnD4AGz5Yx8qQA)
 
-* 306.[306](https://mp.weixin.qq.com/s/w0MZE5FGJMdWVCISloFy7Q)
+* 306.[【Houdini16编程】Houdini16开发系列27:如何使用Maya在Houdini中创建节点 ](https://mp.weixin.qq.com/s/w0MZE5FGJMdWVCISloFy7Q)
 
-* 307.[307](https://mp.weixin.qq.com/s/X05rPyxYX9gbo5Xq8r6Dzg)
+* 307.[【Houdini16编程】Houdini16开发系列25:设置渲染完成自动关机 ](https://mp.weixin.qq.com/s/X05rPyxYX9gbo5Xq8r6Dzg)
 
-* 308.[308](https://mp.weixin.qq.com/s/fe8iknHx5J7zU4TxhrkpMQ)
+* 308.[【Houdini研发】Houdini dll插件如何安装使用？](https://mp.weixin.qq.com/s/fe8iknHx5J7zU4TxhrkpMQ)
 
-* 309.[309](https://mp.weixin.qq.com/s/X66Xqgf1_pZ509ksOp1ymA)
+* 309.[【Houdini研发】Houdini Performance Monitor测试节点预算时间](https://mp.weixin.qq.com/s/X66Xqgf1_pZ509ksOp1ymA)
 
-* 310.[310](https://mp.weixin.qq.com/s/gB1OEvbx5Mr0rztN_luspQ)
+* 310.[【Houdini16编程】Houdini16开发系列24:PySide2自定义样式表setStyleSheet ](https://mp.weixin.qq.com/s/gB1OEvbx5Mr0rztN_luspQ)
 
-* 311.[311](https://mp.weixin.qq.com/s/8E3dhBe6E_oM6fEcErmQWg)
+* 311.[【Houdini16编程】Houdini16开发系列23:关于123.py和456.py](https://mp.weixin.qq.com/s/8E3dhBe6E_oM6fEcErmQWg)
 
-* 312.[312](https://mp.weixin.qq.com/s/gBDQ55CqlFbfWZa9orjs5A)
+* 312.[【Houdini16编程】Houdini16开发系列22:规范null节点以及kwargs callback机制 ](https://mp.weixin.qq.com/s/gBDQ55CqlFbfWZa9orjs5A)
 
-* 313.[313](https://mp.weixin.qq.com/s/PGWQfEU36lazUZOMrTK6BQ)
+* 313.[【Houdini研发】Render Plugin v5.1工具发布[劳动节版本] ](https://mp.weixin.qq.com/s/PGWQfEU36lazUZOMrTK6BQ)
 
-* 314.[314](https://mp.weixin.qq.com/s/Kj14QCynRWkrLXWdTnedKQ)
+* 314.[【流程研发】Arnold/Mantra渲染设置Overscan值 ](https://mp.weixin.qq.com/s/Kj14QCynRWkrLXWdTnedKQ)
 
-* 315.[315](https://mp.weixin.qq.com/s/9hoiG8xhTDWdO9fPOJuirw)
+* 315.[【Houdini16编程】Houdini16开发系列21:Houdini中心化rfconnect](https://mp.weixin.qq.com/s/9hoiG8xhTDWdO9fPOJuirw)
 
-* 316.[316](https://mp.weixin.qq.com/s/qSk-1JjfZYjt0Qx_xNkp1A)
+* 316.[【Houdini16编程】Houdini16开发系列20:Houdini自制otls版本切换](https://mp.weixin.qq.com/s/qSk-1JjfZYjt0Qx_xNkp1A)
 
-* 317.[317](https://mp.weixin.qq.com/s/QC6BU-zqZiQiToRcOYvflA)
+* 317.[【Houdini16编程】Houdini16开发系列19:Houdini后台命令行输出的那些事儿 ](https://mp.weixin.qq.com/s/QC6BU-zqZiQiToRcOYvflA)
 
-* 318.[318](https://mp.weixin.qq.com/s/wKl4FQZOJyXCNjtbNR2OYQ)
+* 318.[【Houdini研发】Houdini ROP Network中Merge和Prepost节点输出的区别 ](https://mp.weixin.qq.com/s/wKl4FQZOJyXCNjtbNR2OYQ)
 
-* 319.[319](https://mp.weixin.qq.com/s/DC4UqXfJqV5bcJU9m0usXA)
+* 319.[【Houdini16编程】Houdini16开发系列18:Houdini第二个核心模块toolutils](https://mp.weixin.qq.com/s/DC4UqXfJqV5bcJU9m0usXA)
 
-* 320.[320](https://mp.weixin.qq.com/s/5H17wbOGDs7GD2tcaZWE6A)
+* 320.[【Houdini16编程】Houdini16开发系列16:hou.Node和hou.Parm Class](https://mp.weixin.qq.com/s/5H17wbOGDs7GD2tcaZWE6A)
 
-* 321.[321](https://mp.weixin.qq.com/s/2djT41wJIk3aFjdaVUN3Qg)
+* 321.[【Houdini16编程】Houdini16开发系列15:修改Houdini预设参数 ](https://mp.weixin.qq.com/s/2djT41wJIk3aFjdaVUN3Qg)
 
-* 322.[322](https://mp.weixin.qq.com/s/1E0SpbhiRUZcx25WfzBGzQ)
+* 322.[【Houdini16编程】Houdini16开发系列14:如何写个Py模块来启动Houdini并加载相应的环境变量 ](https://mp.weixin.qq.com/s/1E0SpbhiRUZcx25WfzBGzQ)
 
-* 323.[323](https://mp.weixin.qq.com/s/R6OJysEWu09dQvRafBJXmg)
+* 323.[【Houdini16编程】Houdini16开发系列13:Python异常处理try](https://mp.weixin.qq.com/s/R6OJysEWu09dQvRafBJXmg)
 
-* 324.[324](https://mp.weixin.qq.com/s/U_anUzCOAXupFXE99JhpJw)
+* 324.[【Python编程】Maya和Houdini中两个案例:ESC中断 ](https://mp.weixin.qq.com/s/U_anUzCOAXupFXE99JhpJw)
 
-* 325.[325](https://mp.weixin.qq.com/s/EDOTQ7INIAzOtxY7mCoc9A)
+* 325.[【Houdini16编程】Houdini16开发系列12:Python生成器yield ](https://mp.weixin.qq.com/s/EDOTQ7INIAzOtxY7mCoc9A)
 
-* 325.[325](https://mp.weixin.qq.com/s/iQh7p_0-SlivaJkZLZC9GA)
+* 325.[【Houdini16编程】Houdini16开发系列11:Python装饰器 ](https://mp.weixin.qq.com/s/iQh7p_0-SlivaJkZLZC9GA)
 
-* 326.[326](https://mp.weixin.qq.com/s/76Rh5hc0XFMdD_znT41n6g)
+* 326.[【Houdini16编程】Houdini16开发系列10:Python类的三种方法](https://mp.weixin.qq.com/s/76Rh5hc0XFMdD_znT41n6g)
 
-* 327.[327](https://mp.weixin.qq.com/s/juGMc2Syr03r_i_vwT2ZQg)
+* 327.[【Houdini16编程】Houdini16开发系列07:Python处理文件路径](https://mp.weixin.qq.com/s/juGMc2Syr03r_i_vwT2ZQg)
 
-* 328.[328](https://mp.weixin.qq.com/s/Pf_VxgGcMGabN7MFU_-c9Q)
+* 328.[【Houdini16编程】Houdini16开发系列06:Otls安装以及中心化](https://mp.weixin.qq.com/s/Pf_VxgGcMGabN7MFU_-c9Q)
 
-* 329.[329](https://mp.weixin.qq.com/s/IFktb_5UJ2sezqPDoXQ_Ew)
+* 329.[【Houdini16编程】Houdini16开发系列05:Houdini如何创建工具架以及设置工具图标](https://mp.weixin.qq.com/s/IFktb_5UJ2sezqPDoXQ_Ew)
 
-* 330.[330](https://mp.weixin.qq.com/s/bvzoLPKk8Oh_-rSjWzvcag)
+* 330.[【Houdini16编程】Houdini16开发系列04:Houdini如何添加自定义菜单](https://mp.weixin.qq.com/s/bvzoLPKk8Oh_-rSjWzvcag)
 
-* 331.[331](https://mp.weixin.qq.com/s/nFOnqvZJhSGiqrnQUB0MQw)
+* 331.[Math in Houdini 06 ](https://mp.weixin.qq.com/s/nFOnqvZJhSGiqrnQUB0MQw)
 
-* 332.[332](https://mp.weixin.qq.com/s/bR0e_vaGuuufUmfDWjp-iA)
+* 332.[Math in Houdini 05 ](https://mp.weixin.qq.com/s/bR0e_vaGuuufUmfDWjp-iA)
 
-* 333.[333](https://mp.weixin.qq.com/s/EagOpD_o7WocY49gRqxiKg)
+* 333.[Math in Houdini 04](https://mp.weixin.qq.com/s/EagOpD_o7WocY49gRqxiKg)
 
-* 334.[334](https://mp.weixin.qq.com/s/13R8Lm3LxVCM1sXWik6fhg)
+* 334.[Math in Houdini 03 ](https://mp.weixin.qq.com/s/13R8Lm3LxVCM1sXWik6fhg)
 
-* 335.[335](https://mp.weixin.qq.com/s/f1SZM-f3J-7jYHnDETdodg)
+* 335.[Math in Houdini 02 ](https://mp.weixin.qq.com/s/f1SZM-f3J-7jYHnDETdodg)
 
-* 336.[336](https://mp.weixin.qq.com/s/eRtcm2j01NhixUWa52JGOw)
+* 336.[Math in Houdini 01 ](https://mp.weixin.qq.com/s/eRtcm2j01NhixUWa52JGOw)
 
-* 337.[337](https://mp.weixin.qq.com/s/2HHR95AU6_FcyPN-IgoXXQ)
+* 337.[关于VEX那些事儿(十二) ](https://mp.weixin.qq.com/s/2HHR95AU6_FcyPN-IgoXXQ)
 
-* 338.[338](https://mp.weixin.qq.com/s/Iliz3Yz-KA9sdOSw6xoJLA)
+* 338.[关于VEX那些事儿(十一) ](https://mp.weixin.qq.com/s/Iliz3Yz-KA9sdOSw6xoJLA)
 
-* 339.[339](https://mp.weixin.qq.com/s/9c8H9_rWOG_GNoJWjLVQrw)
+* 339.[关于VEX那些事儿(十) ](https://mp.weixin.qq.com/s/9c8H9_rWOG_GNoJWjLVQrw)
 
-* 340.[340](https://mp.weixin.qq.com/s/ahMVdC-AvCFCKFvUnGXmSg)
+* 340.[关于VEX那些事儿(九) ](https://mp.weixin.qq.com/s/ahMVdC-AvCFCKFvUnGXmSg)
 
-* 341.[341](https://mp.weixin.qq.com/s/3m-49TRcf73UqzI2BRUcVw)
+* 341.[关于VEX那些事儿(八) ](https://mp.weixin.qq.com/s/3m-49TRcf73UqzI2BRUcVw)
 
-* 342.[342](https://mp.weixin.qq.com/s/gA9BqLeUEK6VvR-hK7G2-w)
+* 342.[关于VEX那些事儿(七) ](https://mp.weixin.qq.com/s/gA9BqLeUEK6VvR-hK7G2-w)
 
-* 343.[343](https://mp.weixin.qq.com/s/C2mdRtLcDbEGlWsGXv8wyw)
+* 343.[说好的国庆特辑呢 ](https://mp.weixin.qq.com/s/C2mdRtLcDbEGlWsGXv8wyw)
 
-* 344.[344](https://mp.weixin.qq.com/s/N_A5j4dmiJfDXJHCdF26HQ)
+* 344.[关于VEX那些事儿(六) ](https://mp.weixin.qq.com/s/N_A5j4dmiJfDXJHCdF26HQ)
 
-* 345.[345](https://mp.weixin.qq.com/s/dn5gXLD-_dle7jrqqnNXcA)
+* 345.[关于VEX那些事儿(五) ](https://mp.weixin.qq.com/s/dn5gXLD-_dle7jrqqnNXcA)
 
-* 346.[346](https://mp.weixin.qq.com/s/4t2z9UteKxIrcbB9OjbWrQ)
+* 346.[关于VEX那些事儿(四) ](https://mp.weixin.qq.com/s/4t2z9UteKxIrcbB9OjbWrQ)
 
-* 347.[347](https://mp.weixin.qq.com/s/KXtseMCsV2frdPmHmkAyNA)
+* 347.[关于VEX那些事儿(三) ](https://mp.weixin.qq.com/s/KXtseMCsV2frdPmHmkAyNA)
 
-* 348.[348](https://mp.weixin.qq.com/s/3qgb-gMI6e0sY8gHBAuClw)
+* 348.[关于VEX那些事儿(二) ](https://mp.weixin.qq.com/s/3qgb-gMI6e0sY8gHBAuClw)
 
-* 349.[349](https://mp.weixin.qq.com/s/wMiaHhN8ZQWmYKhjlESXVA)
+* 349.[关于VEX那些事儿(一) ](https://mp.weixin.qq.com/s/wMiaHhN8ZQWmYKhjlESXVA)
 
 * 350.[350]()
 
@@ -736,73 +736,74 @@
 
 * 367.[367]()
 
-* 1.[]()
+* 368.[368]()
 
-* 1.[]()
+* 369.[369]()
 
-* 1.[]()
+* 370.[370]()
 
-* 1.[]()
+* 371.[371]()
 
-* 1.[]()
+* 372.[372]()
 
-* 1.[]()
+* 373.[373]()
 
-* 1.[]()
+* 374.[374]()
 
-* 1.[]()
+* 375.[375]()
 
-* 1.[]()
+* 376.[376]()
 
-* 1.[]()
+* 377.[377]()
 
-* 1.[]()
+* 378.[378]()
 
-* 1.[]()
+* 379.[379]()
 
-* 1.[]()
+* 380.[380]()
 
-* 1.[]()
+* 381.[381]()
 
-* 1.[]()
+* 382.[382]()
 
-* 1.[]()
+* 383.[383]()
 
-* 1.[]()
+* 384.[384]()
 
-* 1.[]()
+* 385.[385]()
 
-* 1.[]()
+* 386.[386]()
 
-* 1.[]()
-* 1.[]()
+* 387.[387]()
 
-* 1.[]()
+* 388.[388]()
 
-* 1.[]()
+* 389.[389]()
 
-* 1.[]()
+* 390.[390]()
 
-* 1.[]()
+* 391.[391]()
 
-* 1.[]()
+* 392.[392]()
 
-* 1.[]()
+* 393.[393]()
 
-* 1.[]()
+* 394.[394]()
 
-* 1.[]()
+* 395.[395]()
 
-* 1.[]()
+* 396.[396]()
 
-* 1.[]()
+* 397.[397]()
 
-* 1.[]()
+* 398.[398]()
 
-* 1.[]()
+* 399.[399]()
 
-* 1.[]()
+* 400.[400]()
 
-* 1.[]()
+* 401.[401]()
 
-* 1.[]()
+* 402.[402]()
+
+* 403.[403]()
