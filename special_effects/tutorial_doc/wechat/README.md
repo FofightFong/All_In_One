@@ -1,24 +1,24 @@
 # 微信公众号文章
 
-* 1.[1](https://mp.weixin.qq.com/s/PdhbXQlbY6y_KaQ4iS48tg)
+* 1.[史上最强羽毛插件](https://mp.weixin.qq.com/s/PdhbXQlbY6y_KaQ4iS48tg)
 
-* 2.[2](https://mp.weixin.qq.com/s/xdGk5ZFQZGwCn4W5GjevdA)
+* 2.[【文件分享】DOP《倒塌 Intro To Houdini Blend destroction》 ](https://mp.weixin.qq.com/s/xdGk5ZFQZGwCn4W5GjevdA)
 
-* 3.[3](https://mp.weixin.qq.com/s/K4ih5zqIsCr7MFXP9QbHBw)
+* 3.[【文件分享】DOP《金属可塑变形 Dynamic Metal Bending Constraints》](https://mp.weixin.qq.com/s/K4ih5zqIsCr7MFXP9QbHBw)
 
-* 4.[4](https://mp.weixin.qq.com/s/fyveebUXW_D6T25t8vsDiw)
+* 4.[【文件分享】Pyro《冲击波 Dust Shockwave》](https://mp.weixin.qq.com/s/fyveebUXW_D6T25t8vsDiw)
 
-* 5.[5](https://mp.weixin.qq.com/s/wbtTtiotEmRObAaTVNDZ8g)
+* 5.[DOP基础《约束？什么是约束，那么多属性，其实非常简单》](https://mp.weixin.qq.com/s/wbtTtiotEmRObAaTVNDZ8g)
 
-* 6.[6](https://mp.weixin.qq.com/s/Vil3jkvR-qcq9h3nm3kxDQ)
+* 6.[《手把手教你用Houdini+Python创建一个魔方》 ](https://mp.weixin.qq.com/s/Vil3jkvR-qcq9h3nm3kxDQ)
 
-* 7.[7](https://mp.weixin.qq.com/s/94zqiTUC6ITOcZAKO5OsqQ)
+* 7.[Flip-----弯月面现象 meniscus ](https://mp.weixin.qq.com/s/94zqiTUC6ITOcZAKO5OsqQ)
 
-* 8.[8](https://mp.weixin.qq.com/s/gMBTogIG2H67UPVPeY_1pg)
+* 8.[史上最强 开源 毛衣针织工具 ](https://mp.weixin.qq.com/s/gMBTogIG2H67UPVPeY_1pg)
 
-* 9.[9](https://mp.weixin.qq.com/s/UK_XepFVHro07V3hLdzDrQ)
+* 9.[Flip-----岩浆 lava ](https://mp.weixin.qq.com/s/UK_XepFVHro07V3hLdzDrQ)
 
-* 10.[10](https://mp.weixin.qq.com/s/-86KYHnaZiz_Z9EwRCi4Ng)
+* 10.[Flip-----水滴皇冠 crown splash ](https://mp.weixin.qq.com/s/-86KYHnaZiz_Z9EwRCi4Ng)
 
 * 11.[11](https://mp.weixin.qq.com/s/kJiD-WkPkJVd50DA6yQwmw)
 
