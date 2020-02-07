@@ -624,6 +624,10 @@
 
 * [vellum](https://www.bilibili.com/video/av35069578)
 
-×
-
 * [【玩转VEX】简单漂亮的算法控制花开特效——Houdini中四元数的案例解析](https://www.bilibili.com/video/av69701815)
+
+*	[houdini视频集](https://www.bilibili.com/video/av77466138)
+
+*	[Houdini 船窗冲水经验分享](https://www.bilibili.com/video/av80919787)
+
+*	[Houdin刚体自动激活](https://www.bilibili.com/video/av84180169)
