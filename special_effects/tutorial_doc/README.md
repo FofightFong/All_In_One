@@ -25,6 +25,8 @@
 
 # 一些网站
 
+* [wechat公众号文章](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/wechat)
+
 * [aducg](http://www.aducg.com/tag/houidni/)
 
 * [aigei](http://www.aigei.com/course/3d/houdini/)
