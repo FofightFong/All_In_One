@@ -38,171 +38,171 @@
 
 * 19.[DOP-----大楼约束](https://mp.weixin.qq.com/s/ZDRNIwJj55XZXIkFaohe9Q)
 
-* 20.[20](https://mp.weixin.qq.com/s/DQ52mUnR9blnVY2XGxFLUw)
+* 20.[DOP-----约束，撞击后位置固定，不回弹 ](https://mp.weixin.qq.com/s/DQ52mUnR9blnVY2XGxFLUw)
 
-* 21.[21](https://mp.weixin.qq.com/s/yE387xqyM_nhYTIu1Ozc3w)
+* 21.[Particle-----引导粒子运达](https://mp.weixin.qq.com/s/yE387xqyM_nhYTIu1Ozc3w)
 
-* 22.[22](https://mp.weixin.qq.com/s/5EZWs-W5yn0IzFfERtRXeg)
+* 22.[Pyro-----Arnold爆炸](https://mp.weixin.qq.com/s/5EZWs-W5yn0IzFfERtRXeg)
 
-* 23.[23](https://mp.weixin.qq.com/s/YA5J_Rx0Qf1hoJKoZtdWNw)
+* 23.[Grain-----蜘蛛网 ](https://mp.weixin.qq.com/s/YA5J_Rx0Qf1hoJKoZtdWNw)
 
-* 24.[24](https://mp.weixin.qq.com/s/I1E4GasA5VqUz2d_KCvhhQ)
+* 24.[Pyro-----Arnold火焰 ](https://mp.weixin.qq.com/s/I1E4GasA5VqUz2d_KCvhhQ)
 
-* 25.[25](https://mp.weixin.qq.com/s/-UyEj-E8gAy5JeKETtereQ)
+* 25.[Reel-----推几个比较好的Houdini网站](https://mp.weixin.qq.com/s/-UyEj-E8gAy5JeKETtereQ)
 
-* 26.[26](https://mp.weixin.qq.com/s/Q853V0z6i2vVdcWL-hF4FA)
+* 26.[Pyro-----手动创建smoke解算器 ](https://mp.weixin.qq.com/s/Q853V0z6i2vVdcWL-hF4FA)
 
-* 27.[27](https://mp.weixin.qq.com/s/OczzpvNdpXhzKtDxqxGB-g)
+* 27.[Python-----爬取卫星数据生成星空 ](https://mp.weixin.qq.com/s/OczzpvNdpXhzKtDxqxGB-g)
 
-* 28.[28](https://mp.weixin.qq.com/s/GzAYLpM8YyRISp8fhFd57g)
+* 28.[Chop-----声音驱动喇叭](https://mp.weixin.qq.com/s/GzAYLpM8YyRISp8fhFd57g)
 
-* 29.[29](https://mp.weixin.qq.com/s/DSwkb1ctWFQf9Ft_tQ50-g)
+* 29.[Wire-----植物动力学](https://mp.weixin.qq.com/s/DSwkb1ctWFQf9Ft_tQ50-g)
 
-* 30.[30](https://mp.weixin.qq.com/s/VE_hRWIFHmGe6urJ9iM3iw)
+* 30.[ DOP-----根据矩阵matrix做edge displacment](https://mp.weixin.qq.com/s/VE_hRWIFHmGe6urJ9iM3iw)
 
-* 31.[31](https://mp.weixin.qq.com/s/59ROC5cPyrKMq07N_2RLVw)
+* 31.[DOP-----Debris 用VEX滚动碎块](https://mp.weixin.qq.com/s/59ROC5cPyrKMq07N_2RLVw)
 
-* 32.[32](https://mp.weixin.qq.com/s/ElIY8xEPSruxUlMmYx2hVA)
+* 32.[Python-----可视化飞机航线](https://mp.weixin.qq.com/s/ElIY8xEPSruxUlMmYx2hVA)
 
-* 33.[33](https://mp.weixin.qq.com/s/p1na_GdcacGk7FFWwEGp0A)
+* 33.[DOP-----石板破碎，模型切割 ](https://mp.weixin.qq.com/s/p1na_GdcacGk7FFWwEGp0A)
 
-* 34.[34](https://mp.weixin.qq.com/s/4i5GqQxruxGT4y_ALezQyg)
+* 34.[SOP-----Lsystem语法](https://mp.weixin.qq.com/s/4i5GqQxruxGT4y_ALezQyg)
 
-* 35.[35](https://mp.weixin.qq.com/s/lDIWflqsoM03weBXlr8t1g)
+* 35.[DOP-----网兜内的鸡蛋 ](https://mp.weixin.qq.com/s/lDIWflqsoM03weBXlr8t1g)
 
-* 36.[36](https://mp.weixin.qq.com/s/z31Zk41YsPKCQRTqY3ZzFg)
+* 36.[DOP-----Arnold 碎块置换 ](https://mp.weixin.qq.com/s/z31Zk41YsPKCQRTqY3ZzFg)
 
-* 37.[37](https://mp.weixin.qq.com/s/JorzSjR89BllVA_pcZdXWQ)
+* 37.[Render-----肥皂泡材质 ](https://mp.weixin.qq.com/s/JorzSjR89BllVA_pcZdXWQ)
 
-* 38.[38](https://mp.weixin.qq.com/s/4F26AipnsooMqdDp-9GmRQ)
+* 38.[Pyro-----Arnold 烟雾 ](https://mp.weixin.qq.com/s/4F26AipnsooMqdDp-9GmRQ)
 
-* 39.[39](https://mp.weixin.qq.com/s/w37adeILOYcCOMRh6wkRhw)
+* 39.[Pyro-----volume cross ](https://mp.weixin.qq.com/s/w37adeILOYcCOMRh6wkRhw)
 
-* 40.[40](https://mp.weixin.qq.com/s/GSOBaAzBxGUELrzmShoQeA)
+* 40.[DOP-----FEM 运动的轮胎](https://mp.weixin.qq.com/s/GSOBaAzBxGUELrzmShoQeA)
 
-* 41.[41](https://mp.weixin.qq.com/s/Iv4u2rwgTa11u_kustiIBA)
+* 41.[DOP-----Mantra 碎块置换 ](https://mp.weixin.qq.com/s/Iv4u2rwgTa11u_kustiIBA)
 
-* 42.[42](https://mp.weixin.qq.com/s/bzQFT3mDfQQ6He0rHn0rYQ)
+* 42.[VEX-----针织效果 ](https://mp.weixin.qq.com/s/bzQFT3mDfQQ6He0rHn0rYQ)
 
-* 43.[43](https://mp.weixin.qq.com/s/OUzIAPHVMsMMcl9AtolAAw)
+* 43.[Python-----Houdini的GUI图形库之PySide ](https://mp.weixin.qq.com/s/OUzIAPHVMsMMcl9AtolAAw)
 
-* 44.[44](https://mp.weixin.qq.com/s/Sa3lpfUid-GoJftAVFlwTw)
+* 44.[Python-----Houdini的GUI图形库之PyQt ](https://mp.weixin.qq.com/s/Sa3lpfUid-GoJftAVFlwTw)
 
-* 45.[45](https://mp.weixin.qq.com/s/ouEmUykPsSBPK_976UpWjQ)
+* 45.[Python-----Houdini的GUI图形库之wxPython](https://mp.weixin.qq.com/s/ouEmUykPsSBPK_976UpWjQ)
 
-* 46.[46](https://mp.weixin.qq.com/s/J84mQlU9a_8aH0CxDkFeGg)
+* 46.[Pyro-----Arnold渲染云海 ](https://mp.weixin.qq.com/s/J84mQlU9a_8aH0CxDkFeGg)
 
-* 47.[47](https://mp.weixin.qq.com/s/68-QAJ0V12of4vzYG_1YGQ)
+* 47.[OpenCL-----opencl中实现反应扩散Reaction Diffusion ](https://mp.weixin.qq.com/s/68-QAJ0V12of4vzYG_1YGQ)
 
-* 48.[48](https://mp.weixin.qq.com/s/RM3ZwKHT-ToweX6nIUsBsw)
+* 48.[Chop-----基础 ](https://mp.weixin.qq.com/s/RM3ZwKHT-ToweX6nIUsBsw)
 
-* 49.[49](https://mp.weixin.qq.com/s/xnooo-K1R8A6zyp36ptduA)
+* 49.[OpenCL-----Houdini中的OpenCL ](https://mp.weixin.qq.com/s/xnooo-K1R8A6zyp36ptduA)
 
-* 50.[50](https://mp.weixin.qq.com/s/JhDHrTf0nuzakIwjNKtpQw)
+* 50.[OpenCL-----opencl实现Multistate Cellular Automata ](https://mp.weixin.qq.com/s/JhDHrTf0nuzakIwjNKtpQw)
 
-* 51.[51](https://mp.weixin.qq.com/s/AQk7tk7wYMjUR-kgUIjs-w)
+* 51.[DOP-----可塑变形 ](https://mp.weixin.qq.com/s/AQk7tk7wYMjUR-kgUIjs-w)
 
-* 52.[52](https://mp.weixin.qq.com/s/s1wCD5xp5o5nN9NZbwxUrA)
+* 52.[Pyro-----烟雾锐化 Kernels Sharpening A Smoke Sim ](https://mp.weixin.qq.com/s/s1wCD5xp5o5nN9NZbwxUrA)
 
-* 53.[53](https://mp.weixin.qq.com/s/K3vtBaTJ1MRadKVAHxjd4Q)
+* 53.[OpenCL-----拉普拉斯锐化 Custom Kernels ](https://mp.weixin.qq.com/s/K3vtBaTJ1MRadKVAHxjd4Q)
 
-* 54.[54](https://mp.weixin.qq.com/s/N7hW_EFx9lhqwlKk9N9qgg)
+* 54.[Tips-----Lock住File节点](https://mp.weixin.qq.com/s/N7hW_EFx9lhqwlKk9N9qgg)
 
-* 55.[55](https://mp.weixin.qq.com/s/arJ2z3-ENp3gkOMJqLnT1Q)
+* 55.[波波头发型 ](https://mp.weixin.qq.com/s/arJ2z3-ENp3gkOMJqLnT1Q)
 
-* 56.[56](https://mp.weixin.qq.com/s/9nC_QG3VDDXuVgVK0IWIdw)
+* 56.[DOP-----楼房倒塌 Architectural Destruction](https://mp.weixin.qq.com/s/9nC_QG3VDDXuVgVK0IWIdw)
 
-* 57.[57](https://mp.weixin.qq.com/s/O7Xjtuhj71XhUJPI5TO0vA)
+* 57.[Vellum-----衣服褶皱 ](https://mp.weixin.qq.com/s/O7Xjtuhj71XhUJPI5TO0vA)
 
-* 58.[58](https://mp.weixin.qq.com/s/yCnhSGpzkZ4FUFyqI3ekOg)
+* 58.[Pyro-----打散蘑菇头 turbulize smoke](https://mp.weixin.qq.com/s/yCnhSGpzkZ4FUFyqI3ekOg)
 
-* 59.[59](https://mp.weixin.qq.com/s/fZLc3kDK0P5lz3g51G-_ww)
+* 59.[Wire-----蜘蛛网 ](https://mp.weixin.qq.com/s/fZLc3kDK0P5lz3g51G-_ww)
 
-* 60.[60](https://mp.weixin.qq.com/s/6FbnJQaY9cYpV66dT5EhHg)
+* 60.[DOP-----地裂效果 ](https://mp.weixin.qq.com/s/6FbnJQaY9cYpV66dT5EhHg)
 
-* 61.[61](https://mp.weixin.qq.com/s/4qCqzwPc1yeR1wHSzZSHJA)
+* 61.[Pyro-----喷射的火焰 ](https://mp.weixin.qq.com/s/4qCqzwPc1yeR1wHSzZSHJA)
 
-* 62.[62](https://mp.weixin.qq.com/s/QgmfudCwbmV6OSGYkw7qPA)
+* 62.[Python-----全面介绍python in Houdini ](https://mp.weixin.qq.com/s/QgmfudCwbmV6OSGYkw7qPA)
 
-* 63.[63](https://mp.weixin.qq.com/s/5cKQ9BLk8Ky7zeQ_atKMYg)
+* 63.[Python-----houdini的常用函数 ](https://mp.weixin.qq.com/s/5cKQ9BLk8Ky7zeQ_atKMYg)
 
-* 64.[64](https://mp.weixin.qq.com/s/RE1JsFfRpahJmkfe8RPkGA)
+* 64.[Houdini:vellum + vex制作行走的病毒(下卷) ](https://mp.weixin.qq.com/s/RE1JsFfRpahJmkfe8RPkGA)
 
-* 65.[65](https://mp.weixin.qq.com/s/jcYn9k4b9JJs8thFTUpfJQ)
+* 65.[【Tips】如何将杂乱无章的点序号重新排序](https://mp.weixin.qq.com/s/jcYn9k4b9JJs8thFTUpfJQ)
 
-* 66.[66](https://mp.weixin.qq.com/s/QOFZaC9s5U4mK0OFtUnX7w)
+* 66.[Houdini :vellum + vex 制作行走的病毒](https://mp.weixin.qq.com/s/QOFZaC9s5U4mK0OFtUnX7w)
 
-* 67.[67](https://mp.weixin.qq.com/s/I3i7nSc7XVSRRIE-d03rLQ)
+* 67.[houdini vex挑战:圆柱填充 ](https://mp.weixin.qq.com/s/I3i7nSc7XVSRRIE-d03rLQ)
 
-* 68.[68](https://mp.weixin.qq.com/s/-iCxMTc7jo0X1NZUdd8XBQ)
+* 68.[houdini 折叠生长效果 ](https://mp.weixin.qq.com/s/-iCxMTc7jo0X1NZUdd8XBQ)
 
-* 69.[69](https://mp.weixin.qq.com/s/S22P7bRdthv4EiviwV9IFQ)
+* 69.[houdini_vex_猪头变形的极限](https://mp.weixin.qq.com/s/S22P7bRdthv4EiviwV9IFQ)
 
-* 70.[70](https://mp.weixin.qq.com/s/YgzKsi0BWVDr3lhtbAnNlQ)
+* 70.[houdini 猪头后软翻挑战](https://mp.weixin.qq.com/s/YgzKsi0BWVDr3lhtbAnNlQ)
 
-* 71.[71](https://mp.weixin.qq.com/s/LSPLDi4H0r4e1skixTEaHA)
+* 71.[Houdini18.0.287中英离线帮助文档 ](https://mp.weixin.qq.com/s/LSPLDi4H0r4e1skixTEaHA)
 
-* 72.[72](https://mp.weixin.qq.com/s/5c1-Fa4NQws8IRk3VNKZrA)
+* 72.[houdini制作刀光剑影](https://mp.weixin.qq.com/s/5c1-Fa4NQws8IRk3VNKZrA)
 
-* 73.[73](https://mp.weixin.qq.com/s/4MqbsfYbCbtlRrnLaw-mPw)
+* 73.[问：把猪头塞进网兜需要几步～](https://mp.weixin.qq.com/s/4MqbsfYbCbtlRrnLaw-mPw)
 
-* 74.[74](https://mp.weixin.qq.com/s/6j552h6tXVfrYn3uDI5giQ)
+* 74.[三千烦恼丝，一幅肖像画 ](https://mp.weixin.qq.com/s/6j552h6tXVfrYn3uDI5giQ)
 
-* 75.[75](https://mp.weixin.qq.com/s/NAJSkJemZEy37ohYv5SrRQ)
+* 75.[让geo根据PSR运动产生形变](https://mp.weixin.qq.com/s/NAJSkJemZEy37ohYv5SrRQ)
 
-* 76.[76](https://mp.weixin.qq.com/s/X6e9U15VJio8VRa2adopmQ)
+* 76.[像素的排序与重组 ](https://mp.weixin.qq.com/s/X6e9U15VJio8VRa2adopmQ)
 
-* 77.[77](https://mp.weixin.qq.com/s/ut7gwL3Krrq9u8OmVqU3Pw)
+* 77.[高速移动粒子发射源的小优化，让你的粒子拖尾丝般顺滑](https://mp.weixin.qq.com/s/ut7gwL3Krrq9u8OmVqU3Pw)
 
-* 78.[78](https://mp.weixin.qq.com/s/fsp8ZpakEYapa3dobFoxKQ)
+* 78.[把m个不同的geo随机copy到n个点上](https://mp.weixin.qq.com/s/fsp8ZpakEYapa3dobFoxKQ)
 
-* 79.[79](https://mp.weixin.qq.com/s/0F6YyZr_Hx24tCyLCO6KiA)
+* 79.[探讨一下，如何用尽可能少的box填充一个geo ](https://mp.weixin.qq.com/s/0F6YyZr_Hx24tCyLCO6KiA)
 
-* 80.[80](https://mp.weixin.qq.com/s/nHoJabJcsHQDMWT7atoFXQ)
+* 80.[关于copystamp的一些想法 ](https://mp.weixin.qq.com/s/nHoJabJcsHQDMWT7atoFXQ)
 
-* 81.[81](https://mp.weixin.qq.com/s/aTZR31HBijjMAogPEZ0PQA)
+* 81.[走泥丸~](https://mp.weixin.qq.com/s/aTZR31HBijjMAogPEZ0PQA)
 
-* 82.[82](https://mp.weixin.qq.com/s/oUtLGklPWiy_yjtl1zPBiA)
+* 82.[介大家一个很Q的vex函数 ](https://mp.weixin.qq.com/s/oUtLGklPWiy_yjtl1zPBiA)
 
-* 83.[83](https://mp.weixin.qq.com/s/fnD8akr6Sgd8O-NuuV5fzw)
+* 83.[矩阵的应用，漫天纷飞的猪头君 ](https://mp.weixin.qq.com/s/fnD8akr6Sgd8O-NuuV5fzw)
 
-* 84.[84](https://mp.weixin.qq.com/s/Bhn3nQdQZIgUyNxAQuGLlg)
+* 84.[用Python让Houdini节点动起来 ](https://mp.weixin.qq.com/s/Bhn3nQdQZIgUyNxAQuGLlg)
 
-* 85.[85](https://mp.weixin.qq.com/s/d8jMfezQYs0yHr26HRs43g)
+* 85.[Houdini结合Qt Designer设计UI的套路代码](https://mp.weixin.qq.com/s/d8jMfezQYs0yHr26HRs43g)
 
-* 86.[86](https://mp.weixin.qq.com/s/QfBMEUOXUBF307IEAgk2Jg)
+* 86.[Houdini马疾跑拖尾烟尘特效教程+工程文件](https://mp.weixin.qq.com/s/QfBMEUOXUBF307IEAgk2Jg)
 
-* 87.[87](https://mp.weixin.qq.com/s/TG6LM4JtSbkGii4GVuW_TA)
+* 87.[houdini vex挑战:圆柱填充 ](https://mp.weixin.qq.com/s/TG6LM4JtSbkGii4GVuW_TA)
 
-* 88.[88](https://mp.weixin.qq.com/s/7VxK2VWIGa6a0o_CmniFsw)
+* 88.[Python模块import本质是什么? ](https://mp.weixin.qq.com/s/7VxK2VWIGa6a0o_CmniFsw)
 
-* 89.[89](https://mp.weixin.qq.com/s/OayUSfZH-zoJ8cO-5vr3aQ)
+* 89.[houdini 折叠生长效果](https://mp.weixin.qq.com/s/OayUSfZH-zoJ8cO-5vr3aQ)
 
-* 90.[90](https://mp.weixin.qq.com/s/qqJKyfYBV63FzyHGKsC5ew)
+* 90.[Houdini18.0.287中英离线帮助文档 ](https://mp.weixin.qq.com/s/qqJKyfYBV63FzyHGKsC5ew)
 
-* 91.[91](https://mp.weixin.qq.com/s/wBk6ZcOLxKKhsyKJBJFu7A)
+* 91.[houdini_vex_猪头变形的极限](https://mp.weixin.qq.com/s/wBk6ZcOLxKKhsyKJBJFu7A)
 
-* 92.[92](https://mp.weixin.qq.com/s/y07mqQRjC2lZ7ZC_GdoT8Q)
+* 92.[houdini 猪头后软翻挑战 ](https://mp.weixin.qq.com/s/y07mqQRjC2lZ7ZC_GdoT8Q)
 
-* 93.[93](https://mp.weixin.qq.com/s/0SGgHCKIOcnFiUYgsNvL-Q)
+* 93.[houdini制作刀光剑影](https://mp.weixin.qq.com/s/0SGgHCKIOcnFiUYgsNvL-Q)
 
-* 94.[94](https://mp.weixin.qq.com/s/mtLzz5ivhJMMSq4p_QtNKA)
+* 94.[问：把猪头塞进网兜需要几步～](https://mp.weixin.qq.com/s/mtLzz5ivhJMMSq4p_QtNKA)
 
-* 95.[95](https://mp.weixin.qq.com/s/Iccgrkc7YigrvYGhAJVkBw)
+* 95.[三千烦恼丝，一幅肖像画](https://mp.weixin.qq.com/s/Iccgrkc7YigrvYGhAJVkBw)
 
-* 96.[96](https://mp.weixin.qq.com/s/78JjvxoiT3YeOx2kZjTH_g)
+* 96.[让geo根据PSR运动产生形变 ](https://mp.weixin.qq.com/s/78JjvxoiT3YeOx2kZjTH_g)
 
-* 97.[97](https://mp.weixin.qq.com/s/7fW_lJ1SuC3Ya-2u9CFKGw)
+* 97.[像素的排序与重组 ](https://mp.weixin.qq.com/s/7fW_lJ1SuC3Ya-2u9CFKGw)
 
-* 98.[98](https://mp.weixin.qq.com/s/02sLonvr19t-09dko-zs8Q)
+* 98.[高速移动粒子发射源的小优化，让你的粒子拖尾丝般顺滑 ](https://mp.weixin.qq.com/s/02sLonvr19t-09dko-zs8Q)
 
-* 99.[99](https://mp.weixin.qq.com/s/AJESj3y0uo7lIXKtOYpMkA)
+* 99.[把m个不同的geo随机copy到n个点上 ](https://mp.weixin.qq.com/s/AJESj3y0uo7lIXKtOYpMkA)
 
-* 100.[100](https://mp.weixin.qq.com/s/Hl_mqMCvp5T6V6uhu5ZM2Q)
+* 100.[一个小需求：代码实现ramp参数链接](https://mp.weixin.qq.com/s/Hl_mqMCvp5T6V6uhu5ZM2Q)
 
-* 101.[101](https://mp.weixin.qq.com/s/-FjiptF5bsLxhbuIfDvNqw)
+* 101.[探讨一下，如何用尽可能少的box填充一个geo ](https://mp.weixin.qq.com/s/-FjiptF5bsLxhbuIfDvNqw)
 
-* 102.[102](https://mp.weixin.qq.com/s/OPCZA44y1SL198QAAtyA0A)
+* 102.[一个小需求 ](https://mp.weixin.qq.com/s/OPCZA44y1SL198QAAtyA0A)
 
 * 103.[103](https://mp.weixin.qq.com/s/FNb14hUS9ROb1_ADvigDzA)
 
