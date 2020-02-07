@@ -204,205 +204,205 @@
 
 * 102.[一个小需求 ](https://mp.weixin.qq.com/s/OPCZA44y1SL198QAAtyA0A)
 
-* 103.[103](https://mp.weixin.qq.com/s/FNb14hUS9ROb1_ADvigDzA)
+* 103.[关于copystamp的一些想法](https://mp.weixin.qq.com/s/FNb14hUS9ROb1_ADvigDzA)
 
-* 104.[104](https://mp.weixin.qq.com/s/5vnEnW7peR1xQw2GnEklhQ)
+* 104.[Houdini开源节点网络热盒插件 ](https://mp.weixin.qq.com/s/5vnEnW7peR1xQw2GnEklhQ)
 
-* 105.[105](https://mp.weixin.qq.com/s/k-G_FF0JH4xk46X1bnB6Wg)
+* 105.[Packed Fragments输出Cryptomatte不支持怎么办? ](https://mp.weixin.qq.com/s/k-G_FF0JH4xk46X1bnB6Wg)
 
-* 106.[106](https://mp.weixin.qq.com/s/KMRwMwF7fSn8srhFY9TmYw)
+* 106.[走泥丸~ ](https://mp.weixin.qq.com/s/KMRwMwF7fSn8srhFY9TmYw)
 
-* 107.[107](https://mp.weixin.qq.com/s/V1K71jH4GVm_KXJ6lgZ6Lg)
+* 107.[Houdini Mantra Cryptomatte工作流程 ](https://mp.weixin.qq.com/s/V1K71jH4GVm_KXJ6lgZ6Lg)
 
-* 108.[108](https://mp.weixin.qq.com/s/wv0NJCaz5Ja6FbTmP-AbsA)
+* 108.[推介大家一个很Q的vex函数 ](https://mp.weixin.qq.com/s/wv0NJCaz5Ja6FbTmP-AbsA)
 
-* 109.[109](https://mp.weixin.qq.com/s/1bicETnTEE3s2q3RWkfMMA)
+* 109.[矩阵的应用，漫天纷飞的猪头君 ](https://mp.weixin.qq.com/s/1bicETnTEE3s2q3RWkfMMA)
 
-* 110.[110](https://mp.weixin.qq.com/s/0xQPk168z9LMzlwoH9G5-g)
+* 110.[简单『五步』制作针织风格猪头 ](https://mp.weixin.qq.com/s/0xQPk168z9LMzlwoH9G5-g)
 
-* 111.[111](https://mp.weixin.qq.com/s/ijgwPkPhMglXyECbVD3oLg)
+* 111.[Deadline渲染农场配置软件版本 ](https://mp.weixin.qq.com/s/ijgwPkPhMglXyECbVD3oLg)
 
-* 112.[112](https://mp.weixin.qq.com/s/pI-0OVy7ma5WZrnuOyAEkQ)
+* 112.[Deadline渲染农场集中式部署方案 ](https://mp.weixin.qq.com/s/pI-0OVy7ma5WZrnuOyAEkQ)
 
-* 113.[113](https://mp.weixin.qq.com/s/is_fNxz3Pf8l7kf2jBpm2g)
+* 113.[用Python让Houdini节点动起来](https://mp.weixin.qq.com/s/is_fNxz3Pf8l7kf2jBpm2g)
 
-* 114.[114](https://mp.weixin.qq.com/s/BkSE1YCNRZP2I7pjghZ0uw)
+* 114.[【Houdini17研发】OptiX Denoiser部署与提交农场设置 ](https://mp.weixin.qq.com/s/BkSE1YCNRZP2I7pjghZ0uw)
 
-* 115.[115](https://mp.weixin.qq.com/s/GOgfHsOhxF9vBimPjTZOww)
+* 115.[【Houdini17研发】用Houdini演示数字逻辑电路](https://mp.weixin.qq.com/s/GOgfHsOhxF9vBimPjTZOww)
 
-* 116.[116](https://mp.weixin.qq.com/s/-e2NFJBHqmhBhuh7ivdyJg)
+* 116.[【Houdini17研发】VEX 36个案例hip以及视频讲解 ](https://mp.weixin.qq.com/s/-e2NFJBHqmhBhuh7ivdyJg)
 
-* 117.[117](https://mp.weixin.qq.com/s/XBKVKbPF5Tj3NF54FM5_2g)
+* 117.[【Houdini17研发】Houdini热盒菜单开源工具部署与试用 ](https://mp.weixin.qq.com/s/XBKVKbPF5Tj3NF54FM5_2g)
 
-* 118.[118](https://mp.weixin.qq.com/s/g_h9mRX_4uW0s6P6-s8Zrw)
+* 118.[【Houdini17研发】如何将一套VOP节点存成预设](https://mp.weixin.qq.com/s/g_h9mRX_4uW0s6P6-s8Zrw)
 
-* 119.[119](https://mp.weixin.qq.com/s/wfTu0k8ApEQ1abjnjzHk1g)
+* 119.[【Houdini17研发】从Vray for Houdini安装了解Houdini工作流 ](https://mp.weixin.qq.com/s/wfTu0k8ApEQ1abjnjzHk1g)
 
-* 120.[120](https://mp.weixin.qq.com/s/lxSUN2_qUo1P34-734wWkQ)
+* 120.[【Houdini16.5研发】创建Bundle List管理Geometry ](https://mp.weixin.qq.com/s/lxSUN2_qUo1P34-734wWkQ)
 
-* 121.[121](https://mp.weixin.qq.com/s/f8H6k3mba5r2mwEhOaQrCA)
+* 121.[【Houdini16.5研发】自定义扩展参数菜单栏 ](https://mp.weixin.qq.com/s/f8H6k3mba5r2mwEhOaQrCA)
 
-* 122.[122](https://mp.weixin.qq.com/s/y3bBeXx9KKgCSW0bHx-Pjw)
+* 122.[【Houdini16.5研发】PBR材质系统原理简介](https://mp.weixin.qq.com/s/y3bBeXx9KKgCSW0bHx-Pjw)
 
-* 123.[123](https://mp.weixin.qq.com/s/QyOZKFoaso5KZHS84UHhmw)
+* 123.[【Houdini16.5研发】对结算后的烟雾增加细节 ](https://mp.weixin.qq.com/s/QyOZKFoaso5KZHS84UHhmw)
 
-* 124.[124](https://mp.weixin.qq.com/s/NC4F0GLhf53R7_Sd25IHVg)
+* 124.[【Houdini16.5研发】黑盒子操作保密hip文件数据 ](https://mp.weixin.qq.com/s/NC4F0GLhf53R7_Sd25IHVg)
 
-* 125.[125](https://mp.weixin.qq.com/s/M7CfbsUdUt6L4W6CpH2Jkg)
+* 125.[【Houdini16.5研发】关于Houdini官方案例文件](https://mp.weixin.qq.com/s/M7CfbsUdUt6L4W6CpH2Jkg)
 
-* 126.[126](https://mp.weixin.qq.com/s/UevbE6psSBODMxNvw0BBAw)
+* 126.[【Houdini16.5研发】Houdini Flex简单安装 ](https://mp.weixin.qq.com/s/UevbE6psSBODMxNvw0BBAw)
 
-* 127.[127](https://mp.weixin.qq.com/s/kKRn6r-6Ek231DvqxFzAdw)
+* 127.[【Houdini16.5研发】认识Houdini节点网络和节点标签 ](https://mp.weixin.qq.com/s/kKRn6r-6Ek231DvqxFzAdw)
 
-* 128.[128](https://mp.weixin.qq.com/s/LkVMpX4u7M0uC1lZD3eyZA)
+* 128.[【Houdini16.5研发】Houdini销毁自定义UI窗口](https://mp.weixin.qq.com/s/LkVMpX4u7M0uC1lZD3eyZA)
 
-* 129.[129](https://mp.weixin.qq.com/s/KMoAtHxHmdZFIUsApXWLrw)
+* 129.[【Houdini16.5研发】Houdini中复制粘贴多个关键帧的基础知识](https://mp.weixin.qq.com/s/KMoAtHxHmdZFIUsApXWLrw)
 
-* 130.[130](https://mp.weixin.qq.com/s/CpcOSYucleD9CRRpgBo-cQ)
+* 130.[【Houdini16.5研发】Houdini Rop Arnold插件](https://mp.weixin.qq.com/s/CpcOSYucleD9CRRpgBo-cQ)
 
-* 131.[131](https://mp.weixin.qq.com/s/bbJnkFXJjsCIDDNGiLBMCA)
+* 131.[【Houdini教程解析】VEX in Houdini：Phyllotaxis Part2 ](https://mp.weixin.qq.com/s/bbJnkFXJjsCIDDNGiLBMCA)
 
-* 132.[132](https://mp.weixin.qq.com/s/vnpZMxtLAc414flqZlHWDw)
+* 132.[【Houdini16.5研发】Houdini中比较节点参数工具bug修改 ](https://mp.weixin.qq.com/s/vnpZMxtLAc414flqZlHWDw)
 
-* 133.[133](https://mp.weixin.qq.com/s/fkA2li3hdpt1GJW29LiK3A)
+* 133.[【Houdini16.5研发】Maya输出geo缓存 ](https://mp.weixin.qq.com/s/fkA2li3hdpt1GJW29LiK3A)
 
-* 134.[134](https://mp.weixin.qq.com/s/39sFWF9An2o4b490aptr1A)
+* 134.[【Houdini16.5研发】Houdini中分离setup与render好处 ](https://mp.weixin.qq.com/s/39sFWF9An2o4b490aptr1A)
 
-* 135.[135](https://mp.weixin.qq.com/s/IbLCeA7Y_scWGjem4KD3nA)
+* 135.[【Houdini16.5研发】节点自动添加comment的脚本 ](https://mp.weixin.qq.com/s/IbLCeA7Y_scWGjem4KD3nA)
 
-* 136.[136](https://mp.weixin.qq.com/s/j3FW2-eifxIP-XDmIV5GAQ)
+* 136.[【Houdini16.5研发】如何修改节点的默认参数，比如某一个按钮 ](https://mp.weixin.qq.com/s/j3FW2-eifxIP-XDmIV5GAQ)
 
-* 137.[137](https://mp.weixin.qq.com/s/7osOoMfG26VpwBAPibwuWg)
+* 137.[【Houdini16.5研发】Houdini中选择节点排版](https://mp.weixin.qq.com/s/7osOoMfG26VpwBAPibwuWg)
 
-* 138.[138](https://mp.weixin.qq.com/s/ubQSy-QKIaZbWFSACQ6dYA)
+* 138.[【Houdini16.5研发】烟拍屏带黑边的解决方案](https://mp.weixin.qq.com/s/ubQSy-QKIaZbWFSACQ6dYA)
 
-* 139.[139](https://mp.weixin.qq.com/s/8mCMir8jgJtQwOPHuHpX-Q)
+* 139.[【Houdini16.5研发】简单的批量ROP输出工具架脚本](https://mp.weixin.qq.com/s/8mCMir8jgJtQwOPHuHpX-Q)
 
-* 140.[140](https://mp.weixin.qq.com/s/MNSomya-4-D9mTMWTg7Smg)
+* 140.[【Houdini16.5研发】使用棋盘格调节烟雾渲染density ](https://mp.weixin.qq.com/s/MNSomya-4-D9mTMWTg7Smg)
 
-* 141.[141](https://mp.weixin.qq.com/s/ochF_sRBuj7OzpOiLZzmGg)
+* 141.[【Houdini教程解析】VEX in Houdini：Phyllotaxis Part1](https://mp.weixin.qq.com/s/ochF_sRBuj7OzpOiLZzmGg)
 
-* 142.[142](https://mp.weixin.qq.com/s/_56JjWTRzVduzhDFosaBtQ)
+* 142.[【Houdini16.5研发】碎块输出缓存之前检查bound ](https://mp.weixin.qq.com/s/_56JjWTRzVduzhDFosaBtQ)
 
-* 143.[143](https://mp.weixin.qq.com/s/6-e4fKNbtmkVZ5NGZLP7Nw)
+* 143.[【Houdini16.5研发】查看copy stamp表达式值域的方法](https://mp.weixin.qq.com/s/6-e4fKNbtmkVZ5NGZLP7Nw)
 
-* 144.[144](https://mp.weixin.qq.com/s/PehvHmgQVh8TXnWefTWEDg)
+* 144.[【Houdini16.5研发】将Houdini节点存为Python代码 ](https://mp.weixin.qq.com/s/PehvHmgQVh8TXnWefTWEDg)
 
-* 145.[145](https://mp.weixin.qq.com/s/Nuw070PSb_JOTuOzSWWHPw)
+* 145.[【Houdini16.5研发】用VEX实现网格平滑](https://mp.weixin.qq.com/s/Nuw070PSb_JOTuOzSWWHPw)
 
-* 146.[146](https://mp.weixin.qq.com/s/877c43EsuPJUjMeuRLyokg)
+* 146.[【Houdini16.5研发】如何创建交互式工具架工具 ](https://mp.weixin.qq.com/s/877c43EsuPJUjMeuRLyokg)
 
-* 147.[147](https://mp.weixin.qq.com/s/8zuUEkiSynFBoCZEcXdoBA)
+* 147.[【Houdini16.5研发】Houdini Expression Editor更新v1.1.1](https://mp.weixin.qq.com/s/8zuUEkiSynFBoCZEcXdoBA)
 
-* 148.[148](https://mp.weixin.qq.com/s/FxCCYWHfgGFIjOPMXZpzww)
+* 148.[【Houdini16.5研发】如何使用VEX让点在曲线上滑动 ](https://mp.weixin.qq.com/s/FxCCYWHfgGFIjOPMXZpzww)
 
-* 149.[149](https://mp.weixin.qq.com/s/jwTwmTz0TaG_Q-DGe6StVQ)
+* 149.[【Houdini16.5研发】Houdini中刷羽毛的案例](https://mp.weixin.qq.com/s/jwTwmTz0TaG_Q-DGe6StVQ)
 
-* 150.[150](https://mp.weixin.qq.com/s/KjwZolZliBPfgzItHz1c2g)
+* 150.[【Houdini16.5研发】Houdini节点参数比较工具（帮助学习）](https://mp.weixin.qq.com/s/KjwZolZliBPfgzItHz1c2g)
 
-* 151.[151](https://mp.weixin.qq.com/s/MCt9nm3_qbsHRTKmqBm-ng)
+* 151.[【Houdini16.5研发】如何用onCreated.py设置节点默认参数 ](https://mp.weixin.qq.com/s/MCt9nm3_qbsHRTKmqBm-ng)
 
-* 152.[152](https://mp.weixin.qq.com/s/QWhkctE8KK2avI4CQCchJA)
+* 152.[【Houdini16.5研发】Houdini中如何删除摄像机外的点?](https://mp.weixin.qq.com/s/QWhkctE8KK2avI4CQCchJA)
 
-* 153.[153](https://mp.weixin.qq.com/s/rtZBKxRNx2Id_cVTOR3sUw)
+* 153.[【Houdini16.5研发】如何获取节点路径以及快速跳转输入输出节点技巧 ](https://mp.weixin.qq.com/s/rtZBKxRNx2Id_cVTOR3sUw)
 
-* 154.[154](https://mp.weixin.qq.com/s/I206ajnbjRqsq9Eb3_3FDQ)
+* 154.[【Houdini16.5研发】三个冷知识点](https://mp.weixin.qq.com/s/I206ajnbjRqsq9Eb3_3FDQ)
 
-* 155.[155](https://mp.weixin.qq.com/s/ilge_sBIDsSOd6F5zg94_w)
+* 155.[【Houdini16.5研发】Houdini中如何旋转Pyro解算框？](https://mp.weixin.qq.com/s/ilge_sBIDsSOd6F5zg94_w)
 
-* 156.[156](https://mp.weixin.qq.com/s/-TCRJcKDqtWrP_THJnV3TA)
+* 156.[【Houdini16.5研发】Arnold在GPU领域研发进展 ](https://mp.weixin.qq.com/s/-TCRJcKDqtWrP_THJnV3TA)
 
-* 157.[157](https://mp.weixin.qq.com/s/Wf-eDXCHQS-XdORoHlWIHA)
+* 157.[【Houdini16.5研发】Mantra节点隐藏参数vm_overscan](https://mp.weixin.qq.com/s/Wf-eDXCHQS-XdORoHlWIHA)
 
-* 158.[158](https://mp.weixin.qq.com/s/Y3tyxj1V5zKGBqrdUfQ5lA)
+* 158.[【Houdini16.5研发】Houdini中Fluid Source优化方案](https://mp.weixin.qq.com/s/Y3tyxj1V5zKGBqrdUfQ5lA)
 
-* 159.[159](https://mp.weixin.qq.com/s/W6AaJqQvoYHXRBO84mEb8w)
+* 159.[【Houdini16.5研发】7个Houdini操作小技巧 ](https://mp.weixin.qq.com/s/W6AaJqQvoYHXRBO84mEb8w)
 
-* 160.[160](https://mp.weixin.qq.com/s/4ViiarKNwP1Ouk8LTnG7DQ)
+* 160.[【Houdini16.5研发】Houdini中如何使用面片做头发塑型 ](https://mp.weixin.qq.com/s/4ViiarKNwP1Ouk8LTnG7DQ)
 
-* 161.[161](https://mp.weixin.qq.com/s/UMXQPdTB4zvNyVAec7QkEQ)
+* 161.[【Houdini16.5研发】从程序角度思考SHOTGUN（七）](https://mp.weixin.qq.com/s/UMXQPdTB4zvNyVAec7QkEQ)
 
-* 162.[162](https://mp.weixin.qq.com/s/_UN0kL4hmSu7CLVrplFCug)
+* 162.[【Houdini16.5研发】使用Python让Merge节点变的更好用？ ](https://mp.weixin.qq.com/s/_UN0kL4hmSu7CLVrplFCug)
 
-* 163.[163](https://mp.weixin.qq.com/s/Y-7CbIYQhAzlRM-_QPKJYQ)
+* 163.[【Houdini16.5研发】使用Python自动创建Null节点，并自动命名为OUT_ ](https://mp.weixin.qq.com/s/Y-7CbIYQhAzlRM-_QPKJYQ)
 
-* 164.[164](https://mp.weixin.qq.com/s/98q22laKP1hMFUfGTVUHkg)
+* 164.[【Houdini16.5研发】自定义工具Slice Cluster Source使用方法](https://mp.weixin.qq.com/s/98q22laKP1hMFUfGTVUHkg)
 
-* 165.[165](https://mp.weixin.qq.com/s/ohdY301X48zeMGQz5ZIAtg)
+* 165.[【Houdini16.5研发】从程序角度思考SHOTGUN（六）](https://mp.weixin.qq.com/s/ohdY301X48zeMGQz5ZIAtg)
 
-* 166.[166](https://mp.weixin.qq.com/s/jU90LCJtR--XdiKD6GRMjA)
+* 166.[【Houdini16.5研发】从程序角度思考SHOTGUN（五）](https://mp.weixin.qq.com/s/jU90LCJtR--XdiKD6GRMjA)
 
-* 167.[167](https://mp.weixin.qq.com/s/VPOI0hPMe_eTIMf5VCGeZQ)
+* 167.[【Houdini16.5研发】从程序角度思考SHOTGUN（四）](https://mp.weixin.qq.com/s/VPOI0hPMe_eTIMf5VCGeZQ)
 
-* 168.[168](https://mp.weixin.qq.com/s/tGztA6t1ALxIcDpKi3rCBw)
+* 168.[【Houdini16.5研发】从程序角度思考SHOTGUN（三）](https://mp.weixin.qq.com/s/tGztA6t1ALxIcDpKi3rCBw)
 
-* 169.[169](https://mp.weixin.qq.com/s/xjQu8Nix-bNiQqtUt_KjLA)
+* 169.[【Houdini16.5研发】从程序角度思考SHOTGUN（二） ](https://mp.weixin.qq.com/s/xjQu8Nix-bNiQqtUt_KjLA)
 
-* 170.[170](https://mp.weixin.qq.com/s/on_PVsThpvhjo9t25jkFAg)
+* 170.[【Houdini16.5研发】从程序角度思考SHOTGUN（一） ](https://mp.weixin.qq.com/s/on_PVsThpvhjo9t25jkFAg)
 
-* 171.[171](https://mp.weixin.qq.com/s/XdWPqtlCwsvsh9kNk-Pt6Q)
+* 171.[【Houdini16.5研发】如何修改Houdini启动图片](https://mp.weixin.qq.com/s/XdWPqtlCwsvsh9kNk-Pt6Q)
 
-* 172.[172](https://mp.weixin.qq.com/s/HIQKZF_viVE6s5UfOFGXaQ)
+* 172.[【Houdini16.5研发】Houdini半边函数（Half-edges） ](https://mp.weixin.qq.com/s/HIQKZF_viVE6s5UfOFGXaQ)
 
-* 173.[173](https://mp.weixin.qq.com/s/pejRnu4XED93ToD8ripkNQ)
+* 173.[【Houdini16.5研发】VS Code中配置Auto-Complete ](https://mp.weixin.qq.com/s/pejRnu4XED93ToD8ripkNQ)
 
-* 174.[174](https://mp.weixin.qq.com/s/QVzGZ8tnb1ZhC6VAFou7cQ)
+* 174.[【Houdini16.5研发】如何显示隐藏的节点？ ](https://mp.weixin.qq.com/s/QVzGZ8tnb1ZhC6VAFou7cQ)
 
-* 175.[175](https://mp.weixin.qq.com/s/ucoaOIDPxLALTnzwVV4zQQ)
+* 175.[【Houdini16.5研发】VEX一套值得研究的教学 ](https://mp.weixin.qq.com/s/ucoaOIDPxLALTnzwVV4zQQ)
 
-* 176.[176](https://mp.weixin.qq.com/s/2D7jgbwwk1hfpjy7gCQ7fA)
+* 176.[【Houdini16.5研发】HOUDINI_BUFFEREDSAVE能否加速网盘hip文件保存？ ](https://mp.weixin.qq.com/s/2D7jgbwwk1hfpjy7gCQ7fA)
 
-* 177.[177](https://mp.weixin.qq.com/s/n4f53nX9JKeFEwrq3E7Ieg)
+* 177.[【Houdini16.5研发】独立应用MPlay.exe ](https://mp.weixin.qq.com/s/n4f53nX9JKeFEwrq3E7Ieg)
 
-* 178.[178](https://mp.weixin.qq.com/s/3-i5Jf5_X4sMWeJu5eTnDA)
+* 178.[【Houdini16.5研发】依据相机和Normal删除面背后的原理](https://mp.weixin.qq.com/s/3-i5Jf5_X4sMWeJu5eTnDA)
 
-* 179.[179](https://mp.weixin.qq.com/s/lfhEqjBCqBPTwoPfMt6Ckg)
+* 179.[【Houdini16.5研发】Houdini中点云概念 ](https://mp.weixin.qq.com/s/lfhEqjBCqBPTwoPfMt6Ckg)
 
-* 180.[180](https://mp.weixin.qq.com/s/UkimVh_NqdTx5U8qpU0Ceg)
+* 180.[【Houdini16.5研发】如何批渲多个hip文件](https://mp.weixin.qq.com/s/UkimVh_NqdTx5U8qpU0Ceg)
 
-* 181.[181](https://mp.weixin.qq.com/s/Eh9dWOwfqfm06dAC2wxzFA)
+* 181.[【Houdini16.5研发】Houdini中运行Nuke后台命令遇到的问题以及解决方案](https://mp.weixin.qq.com/s/Eh9dWOwfqfm06dAC2wxzFA)
 
-* 182.[182](https://mp.weixin.qq.com/s/_yC0XQlAVZfpvF8YYI2Apw)
+* 182.[【Houdini16.5研发】节点经典命名OUT_的用意 ](https://mp.weixin.qq.com/s/_yC0XQlAVZfpvF8YYI2Apw)
 
-* 183.[183](https://mp.weixin.qq.com/s/0a0bci1oBh640qrGdOF97Q)
+* 183.[【Houdini16.5研发】Houdini中使用第三方工具的通用方法](https://mp.weixin.qq.com/s/0a0bci1oBh640qrGdOF97Q)
 
-* 184.[184](https://mp.weixin.qq.com/s/lfg7f0Yarnhx3rx-Omvl-A)
+* 184.[【Houdini16.5教程解析】Promote参数最简单姿势——Drag&Drop](https://mp.weixin.qq.com/s/lfg7f0Yarnhx3rx-Omvl-A)
 
-* 185.[185](https://mp.weixin.qq.com/s/Me6WzjLnpirDlYfwcBj7IA)
+* 185.[【Houdini16.5教程解析】矢量运算](https://mp.weixin.qq.com/s/Me6WzjLnpirDlYfwcBj7IA)
 
-* 186.[186](https://mp.weixin.qq.com/s/HULeK9vSASFpqoU1ANxbVw)
+* 186.[【Houdini16.5研发】H16.5 Marking Menu Demo ](https://mp.weixin.qq.com/s/HULeK9vSASFpqoU1ANxbVw)
 
-* 187.[187](https://mp.weixin.qq.com/s/4torbsfbrBBAfcnOLZDLdw)
+* 187.[【Houdini16.5研发】Houdini中定义快捷键最快姿势 ](https://mp.weixin.qq.com/s/4torbsfbrBBAfcnOLZDLdw)
 
-* 188.[188](https://mp.weixin.qq.com/s/w8Y5UdXEHERDPeInEW_MQQ)
+* 188.[【Houdini16.5研发】hou模块的本质：如何将py代码转成pyd？](https://mp.weixin.qq.com/s/w8Y5UdXEHERDPeInEW_MQQ)
 
-* 189.[189](https://mp.weixin.qq.com/s/W_hQRNM3tpcWtjNjgDQqhw)
+* 189.[【Houdini16.5研发】Houdini使用Python的九种方案 ](https://mp.weixin.qq.com/s/W_hQRNM3tpcWtjNjgDQqhw)
 
-* 190.[190](https://mp.weixin.qq.com/s/Fe77mf1Sq4XXhZHqNJn6Ig)
+* 190.[【Houdini16.5研发】Houdini热盒功能的自定义技术 ](https://mp.weixin.qq.com/s/Fe77mf1Sq4XXhZHqNJn6Ig)
 
-* 191.[191](https://mp.weixin.qq.com/s/2bLiueYM8qNntKNFkaUtxg)
+* 191.[【Houdini16.5研发】Python文件扩展名.py?.pyc?.pyd? ](https://mp.weixin.qq.com/s/2bLiueYM8qNntKNFkaUtxg)
 
-* 192.[192](https://mp.weixin.qq.com/s/99IiYia9amLhHl6_NRSfPw)
+* 192.[【Houdini16.5研发】Window如何获取batch命令的帮助以及示例 ](https://mp.weixin.qq.com/s/99IiYia9amLhHl6_NRSfPw)
 
-* 193.[193](https://mp.weixin.qq.com/s/ive-PdldbJnwhGGIJeJ1aA)
+* 193.[【Houdini 16.5研发】Python与VEX中正则表达式的对比](https://mp.weixin.qq.com/s/ive-PdldbJnwhGGIJeJ1aA)
 
-* 194.[194](https://mp.weixin.qq.com/s/8fbDyt6IkUJpY8kmCuyf5w)
+* 194.[【Houdini16.5研发】关于HQueue安装实现分布式解算 ](https://mp.weixin.qq.com/s/8fbDyt6IkUJpY8kmCuyf5w)
 
-* 195.[195](https://mp.weixin.qq.com/s/JtAU1w1La5PVvpkgB4IwmQ)
+* 195.[【Houdini16.5研发】HDK源代码中的*和&运算符是个什么东东？](https://mp.weixin.qq.com/s/JtAU1w1La5PVvpkgB4IwmQ)
 
-* 196.[196](https://mp.weixin.qq.com/s/1qJ8FGcXokb7CJzlFuZ4aA)
+* 196.[【Houdini16.5研发】7-zip解压软件另类安装Houdini RFConnect插件 ](https://mp.weixin.qq.com/s/1qJ8FGcXokb7CJzlFuZ4aA)
 
-* 197.[197](https://mp.weixin.qq.com/s/C0-NwCQHgPTxPrE-HzdeJg)
+* 197.[【Houdini16.5研发】看书的时候如何调试书中简单的C++代码？ ](https://mp.weixin.qq.com/s/C0-NwCQHgPTxPrE-HzdeJg)
 
-* 198.[198](https://mp.weixin.qq.com/s/0hQK79DvOnE2na5_dEe14w)
+* 198.[【Houdini16.5研发】HDK扩展自定义VEX函数print ](https://mp.weixin.qq.com/s/0hQK79DvOnE2na5_dEe14w)
 
-* 199.[199](https://mp.weixin.qq.com/s/7gjvIQH50XP8vVw61-ahEg)
+* 199.[【Houdini16.5研发】C++虚函数实现多态性的思考](https://mp.weixin.qq.com/s/7gjvIQH50XP8vVw61-ahEg)
 
-* 200.[200](https://mp.weixin.qq.com/s/PdIKuehfx5ovIYE4hLGMSA)
+* 200.[【Houdini16.5研发】如何使用PRM_Template类接口来添加节点参数？ ](https://mp.weixin.qq.com/s/PdIKuehfx5ovIYE4hLGMSA)
 
-* 201.[201](https://mp.weixin.qq.com/s/Gl9TfZqpvtnqQn2v1eeedw)
+* 201.[【Houdini16.5研发】如何扩展一个自定义SOP节点（C++基础）](https://mp.weixin.qq.com/s/Gl9TfZqpvtnqQn2v1eeedw)
 
-* 202.[202](https://mp.weixin.qq.com/s/YNMqTfo8TJR8QCjcyAvLuA)
+* 202.[2【Houdini16.5研发】简化Houdini插件编译流程，即编即用](https://mp.weixin.qq.com/s/YNMqTfo8TJR8QCjcyAvLuA)
 
 * 203.[203](https://mp.weixin.qq.com/s/e1oCEWxMrS-ze0C_HzmtdQ)
 
