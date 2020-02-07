@@ -700,29 +700,29 @@
 
 * 349.[关于VEX那些事儿(一) ](https://mp.weixin.qq.com/s/wMiaHhN8ZQWmYKhjlESXVA)
 
-* 350.[350]()
+* 350.[007.8-9 Pyro进阶蘑菇云处理+渲染 ](https://mp.weixin.qq.com/s/7UiNwddAsZKXZICWDkg9xw)
 
-* 351.[351]()
+* 351.[006.6.方块折叠 完结篇 ](https://mp.weixin.qq.com/s/zHa51Ksszv5cyVTQ5VUhdw)
 
-* 352.[352]()
+* 352.[005.3 车面光线粒子 粒子篇 ](https://mp.weixin.qq.com/s/JNOACg-nnSBfcYhB6MinUw)
 
-* 353.[353]()
+* 353.[2020大家一飞冲天~~004.2.山脉投影 合成篇](https://mp.weixin.qq.com/s/rVLJiwxkkTTGbjkMdoHS8A)
 
-* 354.[354]()
+* 354.[003..2.科技粒子线条渲染篇](https://mp.weixin.qq.com/s/3XjFWcmJeOVt7lDgXfRzUQ)
 
-* 355.[355]()
+* 355.[002.粒子形状转换 ](https://mp.weixin.qq.com/s/SvdRqXzsfPA9zYTIwntdCQ)
 
-* 356.[356]()
+* 356.[003.课后作业_布加迪LOGO制作](https://mp.weixin.qq.com/s/fvVsZzCCLCLIjPuXacqoWg)
 
-* 357.[357]()
+* 357.[HQueue的安装调配 ](https://mp.weixin.qq.com/s/mQCo4P1IsjJYvDc9LC_E7g)
 
-* 358.[358]()
+* 358.[转-浅谈CG流水线《又名五分钟内精通Maya》](https://mp.weixin.qq.com/s/Gjw7zNJv7MhX-I9fFWID9w)
 
-* 359.[359]()
+* 359.[(翻译)Pixar技术贴，Piper注定是一个转折点 ](https://mp.weixin.qq.com/s/qSCaxnAsUiEqG_W2uDfHBg)
 
-* 360.[360]()
+* 360.[(初步了解)在Houdini中用属性控制MG动画 ](https://mp.weixin.qq.com/s/gWtUjX8W_NWxHuG85dAIgw)
 
-* 361.[361]()
+* 361.[在MToA中调用MPlay显示渲染 ](https://mp.weixin.qq.com/s/onErvaO0xTc3ADvHx7fPYg)
 
 * 362.[362]()
 
