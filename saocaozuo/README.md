@@ -9,3 +9,5 @@
 * [【Neil Wei】CG特效技术展示 6 - 在Houdini中玩游戏 III ：推箱子](https://www.bilibili.com/video/av73440006)
 
 * [【Neil Wei】CG特效技术展示 5 - 在Houdini中玩游戏 II ：贪食蛇](https://www.bilibili.com/video/av70776103)
+
+* [【Houdini研发】非商业版hipnc实现转hip文件workflow](https://mp.weixin.qq.com/s?__biz=MzI2NzUxMDg2NQ==&mid=2247484427&idx=1&sn=a743354e0c57e8ebe62b0f662a676c98&chksm=eafcf135dd8b7823b302b6c7529587a5efcefd3a5b162b28a34e6ab48e145dde65e915944dc7&scene=21#wechat_redirect)
