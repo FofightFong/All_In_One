@@ -7,6 +7,10 @@
 
 * [【Houdini17研发】Houdini热盒菜单开源工具部署与试用 ](https://mp.weixin.qq.com/s/XBKVKbPF5Tj3NF54FM5_2g)----[SmileHotBOX插件链接](https://github.com/SmileHoudini/SmileHotBOX)
 
+* [【Houdini16.5研发】节点自动添加comment的脚本 ](https://mp.weixin.qq.com/s/IbLCeA7Y_scWGjem4KD3nA)
+
+* [【Houdini16.5研发】Houdini中比较节点参数工具bug修改 ](https://mp.weixin.qq.com/s/vnpZMxtLAc414flqZlHWDw)
+
 ## 关于hda/otl的
 
 * [Houdini安装和管理数字资产HDA、OTL,方法详解](https://www.newvfx.com/forums/topic/69738)
