@@ -3,7 +3,9 @@
 
 * [HOUDINI动态设计系列课程007 - Houdini中的MoGraph](https://www.bilibili.com/video/av68584646)-----[MOPS插件链接](https://github.com/toadstorm/MOPS)
 
-* []()
+* [Houdini开源节点网络热盒插件 ](https://mp.weixin.qq.com/s/5vnEnW7peR1xQw2GnEklhQ)----[houdini_markingmenu插件链接](https://github.com/dchow1992/houdini_markingmenu)
+
+* [【Houdini17研发】Houdini热盒菜单开源工具部署与试用 ](https://mp.weixin.qq.com/s/XBKVKbPF5Tj3NF54FM5_2g)----[SmileHotBOX插件链接](https://github.com/SmileHoudini/SmileHotBOX)
 
 ## 关于hda/otl的
 
