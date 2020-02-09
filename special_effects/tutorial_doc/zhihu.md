@@ -18,6 +18,7 @@
 * [致houdini的情书](https://zhuanlan.zhihu.com/c_1118955389068234752)
 
 # 文章和
+* [开源700+HDA；FeELib for Houdini使用指北](https://zhuanlan.zhihu.com/p/97369808)
 *	[From Houdini to Unreal/Unity, The Easy Way[s]](https://zhuanlan.zhihu.com/p/54152292)
 *	[Houdini & UE4 程序化建模——石头（一）基础工作流](https://zhuanlan.zhihu.com/p/77360700)
 *	[Houdini (一) 基础操作与节点分类](https://zhuanlan.zhihu.com/p/66991744)
