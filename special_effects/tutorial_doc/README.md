@@ -631,3 +631,38 @@
 *	[Houdini 船窗冲水经验分享](https://www.bilibili.com/video/av80919787)
 
 *	[Houdin刚体自动激活](https://www.bilibili.com/video/av84180169)
+
+* [【Houdini教程】特效之王houdini中文基础教程](https://www.bilibili.com/video/av88203175)
+
+* [【Houdini教程】特效之王Houdini基础教程](https://www.bilibili.com/video/av88198614)
+
+* [【Houdini教程】Hondini影视特效教学视频 cgjoy](https://www.bilibili.com/video/av88190820)
+
+* [【Houdini教程】houdini教程网粒子拖尾教程](https://www.bilibili.com/video/av88175727)
+
+* [【Houdini教程】中文录制 Houdini 流体教程](https://www.bilibili.com/video/av88158806)
+
+* [【Houdini教程】中文 Houdini 刚体动力学教程](https://www.bilibili.com/video/av88158622)
+
+* [【Houdini教程】houdini河流制作教程](https://www.bilibili.com/video/av88150075)
+
+* [【Houdini教程】Houdini 12 基础教程中文](https://www.bilibili.com/video/av88144585)
+
+* [【Houdini教程】Houdini水流制作应用实例中文](https://www.bilibili.com/video/av88144252)
+
+* [【Houdini教程】Houdini中文初级入门视频教程](https://www.bilibili.com/video/av88076285)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
