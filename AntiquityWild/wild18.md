@@ -18,6 +18,7 @@
 
 * [【中文教程】Houdini18 节点介绍：Sweep (扫描节点)](https://www.bilibili.com/video/av86400615)
 
+* [H18 Solaris | 陈宇青｜洛杉矶 Houdini 用户H18 Solaris | 陈宇青｜洛杉矶 Houdini 用户](https://www.bilibili.com/video/av88178607)
 
 
 ### 文章
