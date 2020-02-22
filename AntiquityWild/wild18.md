@@ -24,6 +24,8 @@
 
 * [Houdini 18 FLIP流体系列教程 2 河流](https://www.bilibili.com/video/av89599464)
 
+* [HOUDINI动态设计系列课程008 - 简单实用的工具集](https://www.bilibili.com/video/av89193217)
+
 
 ### 文章
 
