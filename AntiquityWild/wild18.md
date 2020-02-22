@@ -20,6 +20,10 @@
 
 * [H18 Solaris | 陈宇青｜洛杉矶 Houdini 用户H18 Solaris | 陈宇青｜洛杉矶 Houdini 用户](https://www.bilibili.com/video/av88178607)
 
+* [Houdini 18 FLIP流体系列教程 1 基础](https://www.bilibili.com/video/av80844615)
+
+* [Houdini 18 FLIP流体系列教程 2 河流](https://www.bilibili.com/video/av89599464)
+
 
 ### 文章
 
