@@ -26,6 +26,8 @@
 
 * [HOUDINI动态设计系列课程008 - 简单实用的工具集](https://www.bilibili.com/video/av89193217)
 
+* [Houdini18_Solaris LOPs模块影视制作流程分享-中文_CGReview](https://www.bilibili.com/video/av79443654)
+
 
 ### 文章
 
