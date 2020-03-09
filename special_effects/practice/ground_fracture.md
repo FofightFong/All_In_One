@@ -6,4 +6,4 @@
 
 * [zplus_houdini_路面塌陷教程](https://www.bilibili.com/video/av94453054)
 
-* []()
+* [【Houdini】Houdini 刚体破碎 实战（国语）](https://www.bilibili.com/video/av32870199?p=6)
