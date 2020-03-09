@@ -656,6 +656,15 @@
 
 * [ZPLUS_Houdini教程](https://www.bilibili.com/video/av94463690)
 
+* [Houdini大师班野外篝火](https://www.bilibili.com/video/av93383237)
+
+* [Houdini入门教程A](https://www.bilibili.com/video/av93362679)
+
+* [Houdini入门教程B](https://www.bilibili.com/video/av93411117)
+
+* [Houdini入门教程C](https://www.bilibili.com/video/av93390158)
+
+* [Houdini入门到精通A](https://www.bilibili.com/video/av93354531)
 
 
 
