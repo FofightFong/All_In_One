@@ -652,6 +652,10 @@
 
 * [【Houdini教程】Houdini中文初级入门视频教程](https://www.bilibili.com/video/av88076285)
 
+* [zplus_houdini_路面塌陷教程](https://www.bilibili.com/video/av94453054)
+
+* [ZPLUS_Houdini教程](https://www.bilibili.com/video/av94463690)
+
 
 
 
