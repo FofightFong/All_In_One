@@ -666,6 +666,9 @@
 
 * [Houdini入门到精通A](https://www.bilibili.com/video/av93354531)
 
+* [Houdini小妞大象教程](https://www.bilibili.com/video/av94890754)
+
+* [Houdini入门课](https://www.bilibili.com/video/av94460997)
 
 
 
