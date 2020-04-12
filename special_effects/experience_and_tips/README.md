@@ -23,6 +23,8 @@
 
 * 11. [【Houdini】根据相机距离控制粒子大小](http://blog.sina.com.cn/s/blog_13f902b690102yfdb.html)
 
+* 12. [houdini安装renderman](https://blenderartists.org/t/pixar-renderman-for-blender/646404/615)
+
 # 分类
 
 ### 渲染
