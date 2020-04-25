@@ -670,6 +670,8 @@
 
 * [Houdini入门课](https://www.bilibili.com/video/av94460997)
 
+* [houdini 粒子控制的理解以及延伸](https://www.bilibili.com/video/BV1df4y1U7KU)
+
 
 
 
