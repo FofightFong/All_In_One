@@ -721,4 +721,21 @@
 
 * [完美动力法国VFX技术顾问Mr .Yao 高端广告视效揭秘分享会](https://www.bilibili.com/video/BV1AT4y1G7f7)
 
+* [Houdini+MAYA+Nuke 海洋船舶特效](https://www.bilibili.com/video/BV1Kt4y127cG)
+
+* [HOUDINI+NUKE 模拟爆炸特效](https://www.bilibili.com/video/BV1dT4y137GN)
+
+* [Houdini 18 零基础到实际案例](https://www.bilibili.com/video/BV1Hi4y187Ww)
+
+
+
+
+
+
+
+
+
+
+
+
 
