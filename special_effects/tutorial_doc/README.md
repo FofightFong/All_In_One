@@ -719,6 +719,6 @@
 
 * [【HOUDINI】中文（十七）正片35分钟开始，多边形动态logo演绎（前三十分钟证明我是烧饼，告诉大家为啥我不建群，准备好迎接你们的骂声了，来吧！！！）](https://www.bilibili.com/video/BV1cQ4y1N7CS)
 
-
+* [完美动力法国VFX技术顾问Mr .Yao 高端广告视效揭秘分享会](https://www.bilibili.com/video/BV1AT4y1G7f7)
 
 
