@@ -672,14 +672,52 @@
 
 * [houdini 粒子控制的理解以及延伸](https://www.bilibili.com/video/BV1df4y1U7KU)
 
+* [Houdini中文教程](https://www.bilibili.com/video/BV19V411o7J4)
 
 
+* [【HOUDINI】国语（一）国语教程，十分钟快速制作果冻球效果。](https://www.bilibili.com/video/BV1cE411N7k6)
 
 
+* [【HOUDINI】国语（二）几何多边形线条](https://www.bilibili.com/video/BV1ZE411A7s8)
+
+* [【HOUDINI】国语（四）抽象几何体线条简单vex构建](https://www.bilibili.com/video/BV1nE411w7Vg)
+
+* [【HOUDINI】国语（三、2）快速创建基于图片的数字抽象几何体第2P](https://www.bilibili.com/video/BV1r74112761)
+
+* [【HOUDINI】国语（三、3）快速创建基于图片的数字化抽象几何体第3P](https://www.bilibili.com/video/BV1C741127sg)
+
+* [【HOUDINI】国语（三、1）快速创建基于图片的抽象数字化图形](https://www.bilibili.com/video/BV1r741127fM)
+
+* [【HOUDINI】中文（六）全中文真正零基础快速入门houdini-vex函数调用，使用方法，程序语言的书写](https://www.bilibili.com/video/BV1C541147fK)
+
+* [【HOUDINI】中文（九）之全中文快速入门VEX&VOP模块。](https://www.bilibili.com/video/BV1gp4y1C7Sv)
+
+* [【HOUDINI】中文（五）快速创建几何体抽象线框包裹。](https://www.bilibili.com/video/BV1U64y1M7mH)
 
 
+* [【HOUDINI】国语（十一、1）没啥说的，学不会，请来砍死我（系列第二篇）！！！VELLUM布料系统完全入门，vellum布料的膨胀与撕裂。](https://www.bilibili.com/video/BV1cz41187nn)
 
+* [【HOUDINI】中文 (十一、2)高级进阶必须掌握的原理，学完没飞升，请来砍死我。houdini核心矢量运算原理。手把手教，学会了，你飞升，学不会，来砍死我。](https://www.bilibili.com/video/BV1Pt4y127we)
 
+* [【HOUDINI】中文（十一、4）高级进阶基础，动力学（力，速度，加速度，位置）相互关系，一句话，学会了飞升，学不会来砍我。](https://www.bilibili.com/video/BV13V411o74p)
+
+* [【HOUDINI】（十一、5）录着录着哭了，还是得站好最后一班岗，VELLUM之PBD&Grain，底层原理解析。](https://www.bilibili.com/video/BV1HQ4y1K79r)
+
+* [【HOUDINI】中文（十二）进阶教程——飞动的魔法布料，手撸VEX，详解PBD。](https://www.bilibili.com/video/BV1nK4y1r7BD)
+
+* [【HOUDINI】中文(十三)Pyro烟火模块，1.5小时，全流程手撸，核心精讲，看完还说你不懂，来砍死我。跪求。包学包会，不收学费。](https://www.bilibili.com/video/BV1d54y1X7QK)
+
+* [【HOUDINI】中文（十四），VEX进阶视频，手撸多股缠绕绳子，深入理解表达式调用，for循环用法。以及动力学原理，力，速度的相互关系。](https://www.bilibili.com/video/BV1zT4y1G77H)
+
+* [【HOUDINI-Tips(1)】（pop curve force）粒子曲线运动](https://www.bilibili.com/video/BV1D54y197Zo)
+
+* [【HOUDINI】中文（十五）POP & PYRO《恶魔城》粒子特效。](https://www.bilibili.com/video/BV145411x7Wm)
+
+* [【HOUDINI】中文（十六）快速创建pyro腐蚀燃烧物体。（sop，pyro，pop）](https://www.bilibili.com/video/BV1ht4y127qC)
+
+* [【HOUDINI-Tips(2)】中文(VOP)模块 粒子曲线运动。](https://www.bilibili.com/video/BV1JA411b7Gu)
+
+* [【HOUDINI】中文（十七）正片35分钟开始，多边形动态logo演绎（前三十分钟证明我是烧饼，告诉大家为啥我不建群，准备好迎接你们的骂声了，来吧！！！）](https://www.bilibili.com/video/BV1cQ4y1N7CS)
 
 
 
