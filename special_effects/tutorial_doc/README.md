@@ -727,13 +727,17 @@
 
 * [Houdini 18 零基础到实际案例](https://www.bilibili.com/video/BV1Hi4y187Ww)
 
+* [3.导入模型和相机到HOUDINI（海洋船舶特效）](https://www.bilibili.com/video/BV1SK411L72m)
 
+* [4.海洋系统的创建 (海洋船舶特效)](https://www.bilibili.com/video/BV1MA411b7FJ)
 
+* [7.Cache缓存的意义（海洋船舶特效）](https://www.bilibili.com/video/BV1h5411t7Kz)
 
+* [8.分层的渲染（海洋船舶特效）](https://www.bilibili.com/video/BV1wp4y1y7tv)
 
+* [6.浪花的建立 Whitewater(海洋船舶特效)](https://www.bilibili.com/video/BV15p4y1C7PD)
 
-
-
+* [5.Wave Tank的建立去交互船体运动 (海洋船舶特效)](https://www.bilibili.com/video/BV1J5411t7q2)
 
 
 
