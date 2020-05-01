@@ -380,7 +380,25 @@ UE4 影视场景制作流程及技巧
 
 [UE4蓝图：多视角切换系统（第一人称、第三人称、漫游视角的切换）](https://www.bilibili.com/video/BV1w741117ov)
 
+[Megascans X UE4（这可不是什么自学X个月出的DEMO哦呵呵~）](https://www.bilibili.com/video/BV1Bp411R7Xi)
 
+[虚幻4自适应地形材质制作](https://www.bilibili.com/video/BV1Js411E7VK)
+
+[【虚幻4蓝图】实现冒泡排序的思路](https://www.bilibili.com/video/BV1r4411X75n)
+
+[【虚幻4公开课】-材质-虚拟空间效果-认识坐标系](https://www.bilibili.com/video/BV1L7411F7QB)
+
+[【公开课】—让我们荡起虚幻4，驶向游戏动漫的彼方](https://www.bilibili.com/video/BV1o7411K7DK)
+
+[【虚幻4公开课】-材质-虚拟空间效果-UV的概念](https://www.bilibili.com/video/BV1kE411E7YR)
+
+[【虚幻4公开课】-动画-定序器入门](https://www.bilibili.com/video/BV1b7411f7Xs)
+
+[【公开课】—想做动漫的少年啊，那就来和我学虚幻4吧~](https://www.bilibili.com/video/BV1fE411P7gN)
+
+[【虚幻4公开课】-后期材质-如何给视频打码](https://www.bilibili.com/video/BV13E411c7Hn)
+
+[【虚幻4公开课】-材质-虚拟空间效果-基本节点框架讲解](https://www.bilibili.com/video/BV1Qi4y1b7ao)
 
 
 
