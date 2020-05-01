@@ -349,15 +349,19 @@ UE4 影视场景制作流程及技巧
 [【UE4 编程基础 第二讲】Unreal Engine 虚幻4游戏引擎全中文课程C++游戏编程基础 -移动/旋转/Debug (print) 三课合一！
 ](https://www.bilibili.com/video/BV1pK4y1k7vm)
 
+[中国电影设计制作联盟-首届CG电影创作分享会（二）张志杰：数字世界的建造师
+](https://www.bilibili.com/video/BV1a7411g7wC)
 
+[郑珩：虚幻引擎影视动画专场第一弹（上半场）——虚幻影视的影视动画之路盘点
+](https://www.bilibili.com/video/BV1yE411j7xM)
 
+[张志杰：虚幻引擎影视动画专场第一弹（下半场）——虚幻引擎案例展示及实操演示
+](https://www.bilibili.com/video/BV1jE411471R)
 
+[蔡涛：虚幻引擎影视动画专场第二弹——从影视美术到游戏技术美术的练级之路
+](https://www.bilibili.com/video/BV1eE411T7Tf)
 
-
-
-
-
-
+[殿粉：数字艺术专场——虚幻引擎的3D艺术实验](https://www.bilibili.com/video/BV1Yz411b7RT)
 
 
 
