@@ -126,16 +126,19 @@
 [【虚幻4教程】从零开始制作回合游戏17# 人物逐渐弹出效果-中文教程ue4](https://www.bilibili.com/video/BV1bJ411q7cN
 )
 
+[UE4室内场景、灯光、相机动画快速入门中文教程，中国风+现代元素](https://www.bilibili.com/video/BV1J7411m73Z)
 
+[Quixel导进UE4植物怎么添加风吹草动的动态效果](https://www.bilibili.com/video/BV1ja4y1t7dN)
 
+[UE4模型与地面接缝处理，模型与地面融合过渡效果教程](https://www.bilibili.com/video/BV1Lz41187MB
+)
 
+[UE4使用地形工具创建简单地形，简单地形混合材质与草地工具【地形草地类型】的使用和UE4场景工具技巧分享教程](https://www.bilibili.com/video/BV14V411Z7Ve)
 
+[UE4植被工具使用的几个注意事项简单分享（建议同学们倍速看没怎么剪辑哈哈）](https://www.bilibili.com/video/BV1z5411x744
+)
 
-
-
-
-
-
+[【UE4】如何在UE4中使用自动LOD生成系统，设置自动LOD生成，创建LOD，（解决UE4中植被拉远消失不见或者分辨率很低的问题）](https://www.bilibili.com/video/BV1ae411s7Kz)
 
 
 
