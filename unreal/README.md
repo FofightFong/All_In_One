@@ -328,6 +328,31 @@ UE4 影视场景制作流程及技巧
 
 [ue4_005_天空插件](https://www.bilibili.com/video/BV1RC4y1p7gx)
 
+[【UE4入门教程 第一讲】Unreal Engine 虚幻4游戏引擎全中文新手学习课程 - 饿了就吃大列巴！
+](https://www.bilibili.com/video/BV1a741167wQ)
+
+[【UE4入门教程 第二讲】Unreal Engine 虚幻4游戏引擎全中文新手学习课程 - 地道战！嘿！地道战！
+](https://www.bilibili.com/video/BV1L7411s75q)
+
+[【UE4入门教程 第三讲】Unreal Engine 虚幻4游戏引擎全中文新手学习课程 - 这里的山路十八弯！
+](https://www.bilibili.com/video/BV1Y7411n7cZ)
+
+[【UE4入门教程 第四讲】Unreal Engine 虚幻4游戏引擎全中文新手学习课程 - 会动的女侠最美丽！
+](https://www.bilibili.com/video/BV1m7411M75Q)
+
+[【UE4 Blueprint精讲 第一讲】Unreal Engine 虚幻4游戏引擎全中文课程BP精讲系列 - 不同Blueprint之间的沟通
+](https://www.bilibili.com/video/BV15E41147r1)
+
+[【UE4 编程基础 第一讲】Unreal Engine 虚幻4游戏引擎全中文课程C++游戏编程基础 -如何通过C++成为UE4的造物者
+](https://www.bilibili.com/video/BV1a7411C7ex)
+
+[【UE4 编程基础 第二讲】Unreal Engine 虚幻4游戏引擎全中文课程C++游戏编程基础 -移动/旋转/Debug (print) 三课合一！
+](https://www.bilibili.com/video/BV1pK4y1k7vm)
+
+
+
+
+
 
 
 
