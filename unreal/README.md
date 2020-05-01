@@ -209,7 +209,7 @@
 [UE4曲线编辑器光速掌握(上)](https://www.bilibili.com/video/BV1m7411y7jg)
 
 [光速掌握UE4曲线编辑器(下)](https://www.bilibili.com/video/BV1r741117qM)
-
+UE4 影视场景制作流程及技巧
 [UMG核心功能教学](https://www.bilibili.com/video/BV1SK411L7sE)
 
 [【UE4实现奎托斯简单ACT】020翻滚吧奎托斯！！！（N多Bug的解决）](https://www.bilibili.com/video/BV1Bt4y1y7Y7)
@@ -295,6 +295,44 @@
 [【UE4技术分享】关于使用UE4的Spline组件实现路线移动](https://www.bilibili.com/video/BV1GE411A78n)
 
 [UE4冰材质制作分享](https://www.bilibili.com/video/BV1bE411w7vK)
+
+[UE4 影视场景制作流程及技巧](https://www.bilibili.com/video/BV1h7411d79S)
+
+[UE4蓝图开发生存游戏教程](https://www.bilibili.com/video/BV1yE411x7GD)
+
+[UE4中的EventDispatcher](https://www.bilibili.com/video/BV1YE411G7Eo)
+
+[UE4 Animation Montage (蒙太奇)](https://www.bilibili.com/video/BV1q7411d7xb)
+
+[如何学习虚幻4](https://www.bilibili.com/video/BV1FT4y1G7cK)
+
+[Hello Splines! UE4中的样条线](https://www.bilibili.com/video/BV1qV411f7E5)
+
+[十分钟课堂001-迷雾之境](https://www.bilibili.com/video/BV1PW411k7dg)
+
+[十分钟课堂002-神奇粒子魔法](https://www.bilibili.com/video/BV1oW411U7xn)
+
+[UE4建筑生长动画](https://www.bilibili.com/video/BV1FE411r7AH)
+
+[Ue4_Physics刚体模拟详解](https://www.bilibili.com/video/BV1tE41127o1)
+
+[ue4制作云层效果](https://www.bilibili.com/video/BV1YE411h7MA)
+
+[001_ue4_矢量场制作与使用](https://www.bilibili.com/video/BV1AE411u7xN)
+
+[002_ue4分层渲染全流程](https://www.bilibili.com/video/BV1k7411o7uR)
+
+[UE4_003_丁达尔效应制作](https://www.bilibili.com/video/BV1H7411R7BB)
+
+[ue4_光线追踪RTX应用](https://www.bilibili.com/video/BV1k7411m7gp)
+
+[ue4_005_天空插件](https://www.bilibili.com/video/BV1RC4y1p7gx)
+
+
+
+
+
+
 
 
 
