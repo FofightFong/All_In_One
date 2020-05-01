@@ -180,6 +180,27 @@
 
 [简单的UE4战争迷雾教程](https://www.bilibili.com/video/BV18t4y1U7sv)
 
+[UE4简单粒子特效教程](https://www.bilibili.com/video/BV1FE411P7wc)
+
+[UE4软乎乎的简单水母材质](https://www.bilibili.com/video/BV1eg4y1877p)
+
+[UE4 枪口吸收物体材质效果](https://www.bilibili.com/video/BV1fk4y197Gu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
