@@ -148,14 +148,37 @@
 
 [UE4，材质介绍及Q弹材质教学。](https://www.bilibili.com/video/BV1tE411f7Q2)
 
+[虚幻4-UE4游戏特效-零基础-1（下载安装及创建粒子系统）](https://www.bilibili.com/video/BV1W7411C7WC)
 
+[虚幻4-UE4游戏特效-零基础-2（虚幻粒子基础功能介绍-1）](https://www.bilibili.com/video/BV1c7411X7iP)
 
+[虚幻4-UE4游戏特效-零基础-3（虚幻粒子基础功能介绍-2）](https://www.bilibili.com/video/BV1X7411U74F)
 
+[虚幻4-UE4游戏特效-零基础-番外篇-光晕材质制作](https://www.bilibili.com/video/BV1bz411h7w5)
 
+[虚幻4-UE4游戏特效-零基础-4-光晕制作](https://www.bilibili.com/video/BV15a4y1t7PT)
 
+[虚幻4-UE4游戏特效-零基础-5（上升的光线）](https://www.bilibili.com/video/BV1Q541147ru)
 
+[虚幻4-UE4游戏特效-零基础-番外篇（PS贴图制作-光圈效果）](https://www.bilibili.com/video/BV1aC4y1s7NM)
 
+[虚幻4-UE4游戏特效-零基础-6（光圈扩散-曲线应用）](https://www.bilibili.com/video/BV17T4y1G7j2)
 
+[经验分享-1-游戏特效行业之路](https://www.bilibili.com/video/BV1zA411b7zQ)
+
+[经验分享-2-游戏特效学习之路](https://www.bilibili.com/video/BV1yf4y1U7J2)
+
+[经验分享-3-游戏特效工作流程](https://www.bilibili.com/video/BV1gK4y1k7GX)
+
+[虚幻4-UE4游戏特效-零基础-7（图标触发特效-1）](https://www.bilibili.com/video/BV1LC4y1W7GQ)
+
+[虚幻4-UE4游戏特效-零基础-8（图标触发特效-2）](https://www.bilibili.com/video/BV1za4y1v7fk)
+
+[虚幻4-UE4游戏特效-零基础-9（图标触发特效-3）](https://www.bilibili.com/video/BV1654y1Q7s7)
+
+[UE4 Moba Demo 开发的一些学习经验分享](https://www.bilibili.com/video/BV1X64y1u7Xg)
+
+[简单的UE4战争迷雾教程](https://www.bilibili.com/video/BV18t4y1U7sv)
 
 
 
