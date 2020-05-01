@@ -363,5 +363,25 @@ UE4 影视场景制作流程及技巧
 
 [殿粉：数字艺术专场——虚幻引擎的3D艺术实验](https://www.bilibili.com/video/BV1Yz411b7RT)
 
+[【直播回放】虚幻引擎4 自定义蓝图节点](https://www.bilibili.com/video/BV1HE411x7AJ)
+
+[UE4蓝图：蓝图功能实现冒泡排序](https://www.bilibili.com/video/BV117411M737)
+
+
+[UE4特效材质：剖析万能粒子材质系统的制作方法（高手之路）](https://www.bilibili.com/video/BV1s7411T7Cj)
+
+[UE4蓝图：制作双向门系统](https://www.bilibili.com/video/BV1FE411H7bc)
+
+[UE4蓝图：舞台聚光灯模块组件制作](https://www.bilibili.com/video/BV1mE411u71Q)
+
+[UE4蓝图：如何玩转第一人称模板工程](https://www.bilibili.com/video/BV1mE411u7Yw)
+
+[UE4蓝图：虚拟仿真项目中摄像机系统制作全流程讲解](https://www.bilibili.com/video/BV1RE411A73u)
+
+[UE4蓝图：多视角切换系统（第一人称、第三人称、漫游视角的切换）](https://www.bilibili.com/video/BV1w741117ov)
+
+
+
+
 
 
