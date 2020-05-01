@@ -212,6 +212,89 @@
 
 [UMG核心功能教学](https://www.bilibili.com/video/BV1SK411L7sE)
 
+[【UE4实现奎托斯简单ACT】020翻滚吧奎托斯！！！（N多Bug的解决）](https://www.bilibili.com/video/BV1Bt4y1y7Y7)
+
+[【UE4实现奎托斯简单ACT】019主角动画资源整理](https://www.bilibili.com/video/BV1cQ4y1N7w3)
+
+[006透视描边+简单分析](https://www.bilibili.com/video/BV1NZ4y1s7c3)
+
+[005扫描材质+简单分析](https://www.bilibili.com/video/BV1554y1R7Mh)
+
+[【UE4实现奎托斯简单ACT】017简单数据结构处理连招逻辑](https://www.bilibili.com/video/BV1qZ4y1x78j)
+
+[【UE4实现奎托斯简单ACT】018蒙太奇加拖尾和音效](https://www.bilibili.com/video/BV1zT4y1g7TJ)
+
+[【UE4实现奎托斯简单ACT】016导入动画资源和处理动画逻辑](https://www.bilibili.com/video/BV1Re411W7uR)
+
+[【UE4实现奎托斯简单ACT】015添加生命值组件](https://www.bilibili.com/video/BV1Pf4y1S7a5)
+
+[【UE4实现奎托斯丢斧子】014加一个破坏的物体](https://www.bilibili.com/video/BV1ga4y1473R)
+
+[UE4利维坦之斧阶段性成果展示，想学吗？嗯？](https://www.bilibili.com/video/BV1eQ4y1K7VH)
+
+[【UE4实现奎托斯丢斧子】013最后一课](https://www.bilibili.com/video/BV1Uz411b7yH)
+
+[【UE4实现奎托斯丢斧子】012返回的简单算法_2](https://www.bilibili.com/video/BV1vK411L7cb)
+
+[【UE4实现奎托斯丢斧子】011返回的简单算法_1](https://www.bilibili.com/video/BV1JK4y1r734)
+
+[【UE4实现奎托斯丢斧子】010回收斧子的逻辑_bug修改](https://www.bilibili.com/video/BV1st4y1U7pF)
+
+[【UE4实现奎托斯丢斧子】009回收斧子的逻辑](https://www.bilibili.com/video/BV1za4y1t7vh)
+
+[【UE4实现奎托斯丢斧子】008接斧头的动画逻辑](https://www.bilibili.com/video/BV1Xz411b7um)
+
+[【UE4实现奎托斯丢斧子】007利维坦之斧丢出去的角度计算！](https://www.bilibili.com/video/BV18p4y1C7Bm)
+
+[004有意思的材质教学Ow猩猩你的护盾呢？](https://www.bilibili.com/video/BV1dT4y137zH)
+
+[【UE4实现奎托斯丢斧子】006利维坦之斧转起来啦！！！](https://www.bilibili.com/video/BV1dT4y137hi)
+
+[【UE4实现奎托斯丢斧子】005利维坦之斧的动画逻辑](https://www.bilibili.com/video/BV1Jt4y1U7DP)
+
+[【UE4实现奎托斯丢斧子】004斧子钉墙上](https://www.bilibili.com/video/BV18i4y187wc)
+
+[【UE4实现奎托斯丢斧子】003斧子终于丢出去了](https://www.bilibili.com/video/BV1qV411o7A3)
+
+[【UE4实现奎托斯丢斧子】002奎托斯瞄准动画](https://www.bilibili.com/video/BV14V411o7qM)
+
+[【UE4实现奎托斯丢斧子】001利维坦之斧的瞄准逻辑](https://www.bilibili.com/video/BV1iK4y1r7kj)
+
+[【UE4实现奎托斯丢斧子】000前面的闲话](https://www.bilibili.com/video/BV1tp4y1C7fc)
+
+[【ue4_C++多人FPS教程】P07 开火和伤害](https://www.bilibili.com/video/BV1AT4y1G7BA)
+
+[【ue4_C++多人FPS教程】P09 开火bug修正加入特效资源](https://www.bilibili.com/video/BV1NK411L7KM)
+
+[【ue4_C++多人FPS教程】P10 开火和轨迹特效实现](https://www.bilibili.com/video/BV1zt4y1m7Ud)
+
+[【ue4_C++多人FPS教程】P08 伤害系统](https://www.bilibili.com/video/BV1Ep4y117ah)
+
+[【ue4_C++多人FPS教程】P06 挂载武器](https://www.bilibili.com/video/BV1BC4y147WV)
+
+[UE4有意思的材质教学003下雪效果——添加地面积雪](https://www.bilibili.com/video/BV1Pz411b7pS)
+
+[UE4有意思的材质教学002下雪效果—使用奶瓜制作](https://www.bilibili.com/video/BV1va4y1t7j3)
+
+[UE4有意思的材质教学001：3D打印效果+原理分析](https://www.bilibili.com/video/BV1yK4y1C7TH)
+
+[【UE4插件】Ue4简单插件写法教学](https://www.bilibili.com/video/BV1UE411Z7uY)
+
+[【ue4_C++多人FPS教程】P05 导入武器](https://www.bilibili.com/video/BV1M441127es)
+
+[【ue4_C++多人FPS教程】P02 资源导入](https://www.bilibili.com/video/BV1Lb411L7Du)
+
+[【ue4_C++多人FPS教程】P03 控制完善和动画_1](https://www.bilibili.com/video/BV1Lb411L7SP)
+
+[【ue4_C++多人FPS教程】P04 控制完善和动画_2](https://www.bilibili.com/video/BV1Lb411L7nv)
+
+[【ue4_C++多人FPS教程】P01 创建工程和移动](https://www.bilibili.com/video/BV1xb411j7jD)
+
+[【UE4_C++多人FPS教程】P00 课程梗概](https://www.bilibili.com/video/BV1Sb411T7yi)
+
+
+
+
 
 
 
