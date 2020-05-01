@@ -66,11 +66,65 @@
 
 [【虚幻4教程】从零开始制作回合游戏1#-基本移动-中文教程](https://www.bilibili.com/video/BV1s4411n7MT)
 
+[【虚幻4】ue4 4.24版本打包安卓教程，把你的游戏打包给朋友玩吧！打包出现cmd.exe问题解决。](https://www.bilibili.com/video/BV1D54y1R7RH)
 
+[【虚幻4】UE4制作回合游戏教程-第三十节：存档系统-载入-全中文带字幕重置版](https://www.bilibili.com/video/BV1p7411f7a5)
 
+[【虚幻4】UE4制作回合游戏教程-第二十九节：存档系统-保存-全中文带字幕重置版](https://www.bilibili.com/video/BV1K7411f7a7)
 
+[【虚幻4】UE4制作回合游戏教程-第二十八节：UI返回接口的使用，切换关卡变量的传递instance-全中文带字幕重置版](https://www.bilibili.com/video/BV1EE411579L
+)
 
+[【虚幻4】UE4制作回合游戏教程-第二十三节：制作战斗结束过渡控件-全中文带字幕重置版](https://www.bilibili.com/video/BV127411j7yd
+)
 
+[【虚幻4】UE4制作回合游戏教程-第二十四节：修复小问题，添加JP升级时间轴 战斗系统完成！-全中文带字幕重置版](https://www.bilibili.com/video/BV1m7411j7p5)
+
+[【虚幻4】UE4制作回合游戏教程-第二十五节：制作游戏开始界面（一）-全中文带字幕重置版](https://www.bilibili.com/video/BV1DE411W7rz
+)
+
+[【虚幻4】UE4制作回合游戏教程-第二十六节：制作游戏开始界面（二）-全中文带字幕重置版](https://www.bilibili.com/video/BV1DE411W773)
+
+[【虚幻4】UE4制作回合游戏教程-第二十七节：制作游戏开始界面（三）-全中文带字幕重置版](https://www.bilibili.com/video/BV16E411M7JZ)
+
+[【虚幻4】UE4制作回合游戏教程-第二十二节：添加战斗结束事件（四）-全中文带字幕重置版](https://www.bilibili.com/video/BV1m7411j73i
+)
+
+[【虚幻4】UE4制作回合游戏教程-第二十一节：添加战斗结束事件（三）-全中文带字幕重置版](https://www.bilibili.com/video/BV1m7411j7CG)
+
+[【虚幻4】UE4制作回合游戏教程-第二十节：添加战斗结束事件（二）-全中文带字幕重置版](https://www.bilibili.com/video/BV127411j7Tf
+)
+
+[【虚幻4】UE4制作回合游戏教程-第十九节：添加战斗结束事件（一）-全中文带字幕重置版](https://www.bilibili.com/video/BV1f7411E7eK
+)
+
+[【虚幻4】UE4制作回合游戏教程-第十八节：玩家攻击移动至中央，攻击直接播放蒙太奇，修改创建菜单位置-全中文带字幕重置版](https://www.bilibili.com/video/BV1wJ411n7xR)
+
+[【虚幻4】UE4制作回合游戏教程-第十七节：当前攻击的人物信息移动效果-全中文带字幕重置版](https://www.bilibili.com/video/BV1HJ411G7Mn)
+
+[【虚幻4】UE4制作回合游戏教程-第十六节：添加当前所有控制的人物信息-全中文带字幕重置版](https://www.bilibili.com/video/BV1WJ411G7V4
+)
+
+[【虚幻4】UE4制作回合游戏教程-第十五节：选择的敌人先攻表会变亮显示-全中文带字幕重置版](https://www.bilibili.com/video/BV1eJ41157c1
+)
+
+[【虚幻4】UE4制作回合游戏教程-第十四节：为先攻值表的添加回合更替动画-全中文带字幕重置版](https://www.bilibili.com/video/BV1eJ41157Ao)
+
+[【虚幻4】UE4制作回合游戏教程-第十三节：使用数据表格搜索功能添加可视化先攻表-全中文带字幕重置版](https://www.bilibili.com/video/BV1XJ411V7ic)
+
+[【虚幻4】UE4制作回合游戏教程-第十二节：选中敌人时的明暗变化-全中文带字幕重置版](https://www.bilibili.com/video/BV1XJ411V74b
+)
+
+[【虚幻4】UE4制作回合游戏教程-第十一节：添加选中菜单控件说明，鼠标指针动画-全中文带字幕重置版](https://www.bilibili.com/video/BV1XJ411V7Xw
+)
+
+[【虚幻4】UE4初学者进阶教程（合集）-全中文教程（全字幕）-制作一个回合游戏-1-25P更新中](https://www.bilibili.com/video/BV11J411y7QR
+)
+
+[ue4中文教程-制作王者荣耀抽奖系统](https://www.bilibili.com/video/BV1UJ411q7ob)
+
+[【虚幻4教程】从零开始制作回合游戏17# 人物逐渐弹出效果-中文教程ue4](https://www.bilibili.com/video/BV1bJ411q7cN
+)
 
 
 
