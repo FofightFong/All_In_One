@@ -146,7 +146,7 @@
 
 [UE4快速制作沙漠绿洲有声版](https://www.bilibili.com/video/BV1ZQ4y1K7eZ)
 
-
+[UE4，材质介绍及Q弹材质教学。](https://www.bilibili.com/video/BV1tE411f7Q2)
 
 
 
