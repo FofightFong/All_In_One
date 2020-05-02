@@ -1503,6 +1503,55 @@ UE4 影视场景制作流程及技巧
 
 [UE4插件系列讲解（三）-图像板插件ImagePlate](https://www.bilibili.com/video/BV14K4y1r7rM)
 
+[【游戏开发】UE4使用Megascans上万种扫描素材的一种姿势](https://www.bilibili.com/video/BV1fJ411S7W6)
+
+[【游戏开发】UE4连接Steam与成就功能实现](https://www.bilibili.com/video/BV1QJ41117eF)
+
+[虚幻4新手教程02 体力和拖拽物品](https://www.bilibili.com/video/BV1Eb41157dq)
+
+[虚幻4新手教程01 创建属于自己的角色](https://www.bilibili.com/video/BV1Eb41157Sw)
+
+[UE4新手教程 传送节点比较详细教程 小白人永远也无法逃脱](https://www.bilibili.com/video/BV1e441197WJ)
+
+[ue4新手教程 addlocalrotation 添加本地旋转 疯狂旋转的小白人](https://www.bilibili.com/video/BV1L4411q733)
+
+[虚幻4新手教程 断肢效果和ai一直朝向你](https://www.bilibili.com/video/BV1D441117pm)
+
+[每日一水 ue4 盒子检测与伤害的接收](https://www.bilibili.com/video/BV1Q4411C7du)
+
+[ue4每期一水 第三人称第一剑客--小白人 动态模型切割](https://www.bilibili.com/video/BV1TE411t7aN)
+
+[ue4每期一水 小白人的觉醒，追梦有错吗？ “爆炸”组件](https://www.bilibili.com/video/BV19E411t7e3)
+
+[ue4每日一水 低配版重力异世界幻想](https://www.bilibili.com/video/BV1cE411q7u9)
+
+[ue4没啥卵用教程 计算两个物体之间的距离](https://www.bilibili.com/video/BV15J411y71M)
+
+[ue4 简易的背包](https://www.bilibili.com/video/BV1wE411F7SR)
+
+[越看越懵逼的第三人称小游戏教程](https://www.bilibili.com/video/BV15g4y187te)
+
+[UE4 简易的定向开门](https://www.bilibili.com/video/BV1JA411b7hi)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
