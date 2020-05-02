@@ -400,6 +400,78 @@ UE4 影视场景制作流程及技巧
 
 [【虚幻4公开课】-材质-虚拟空间效果-基本节点框架讲解](https://www.bilibili.com/video/BV1Qi4y1b7ao)
 
+[UE4内制作K帧动作，摄像机视野抖动CameraShake数据，FPS手部ik调整，武器晃动，手持武器偏移虚幻4技巧分享
+](https://www.bilibili.com/video/BV1Z7411F7qV)
 
+[UE4的开发经验分享，鼠标卡顿，打包后鼠标有延迟卡顿，电脑系统显示可能影响UE4的鼠标相关问题
+](https://www.bilibili.com/video/BV1p7411Z7dG)
 
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏，虚幻4制作FPS游戏系列教程（极限简易篇），人人都能做游戏系列
+](https://www.bilibili.com/video/BV1Dg4y1b7aA)
 
+[UE4独立游戏，简陋的实机展示，两周制作时间](https://www.bilibili.com/video/BV1vZ4y1j77j)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第一期（已重制版）：《准备阶段》基础资源的导入（人物模型，武器，人物动画）等
+](https://www.bilibili.com/video/BV1b54y1d7KU)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第二期上（已重制版）：人物基础移动，跳跃，武器简单材质等
+](https://www.bilibili.com/video/BV1gk4y1R7iN)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第二期【下】（已重制版）：《基础移动动画》人物动画蓝图基本制作，对应移动动作
+](https://www.bilibili.com/video/BV1NA411b7p2)
+
+[UE4制作开镜，UE4开镜教程，录播](https://www.bilibili.com/video/BV1Y54y1d7mL)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第三期【上】：《武器连发，基础武器摇动》武器初步连发实现，武器初步左右摇实现
+](https://www.bilibili.com/video/BV1Sk4y197Gt)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第三期【下】：武器子弹发射，射线检测简单讲解
+](https://www.bilibili.com/video/BV1B64y1u7Po)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第四期：不使用人物动画，只利用摄像机晃动（CameraShake）模拟武器后坐力动作
+](https://www.bilibili.com/video/BV1RA411t7Tw)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，第五期：武器准心的添加，武器后座摄像机晃动的优化
+](https://www.bilibili.com/video/BV1K54y197Wt)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，进阶Pro1：武器偏移优化
+](https://www.bilibili.com/video/BV1Sp4y1C7Fu)
+
+[UE4用最简单的蓝图逻辑做一个大作感FPS模式PVE游戏教程，【必修】第六期：《视角限制》限制第一人称向下看的视角
+](https://www.bilibili.com/video/BV1H5411t7dB)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，第七期：《人物的简单跳跃动作》；进阶篇Pro2：物动作模拟移动晃动
+](https://www.bilibili.com/video/BV1HA411b7hz)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，【必修】第八期上：《AI死亡，击中AI》：编写AI前的初步准备
+](https://www.bilibili.com/video/BV1Jk4y1R78D)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，第八期(中)：《AI自动追踪玩家并攻击，AI动作》
+](https://www.bilibili.com/video/BV1FK4y1k7Vv)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，【必修】第八期(下)：《到达指定位置使AI追踪》：更换商城人物，更新动作资源，导入新枪声，到达指定位置
+](https://www.bilibili.com/video/BV1LK411j7Ba)
+
+[UE4独立游戏，简陋的实机展示，新增标记系统，改善人物移动动作，增加人工瞄准
+](https://www.bilibili.com/video/BV1D54y197N9)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，第九期：《拾取弹药，总弹药计算》：武器弹药的拾取与消耗，包含拾取物件
+](https://www.bilibili.com/video/BV1PK411j7tE)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，第十期：《自动感应推拉门》时间轴（TimeLine）
+](https://www.bilibili.com/video/BV1t64y1M7P9)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，【必修】第十一期：《自动单向电梯》
+](https://www.bilibili.com/video/BV1M541147Rm)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，【必修】第十二期：《血量显示及游戏结束UI》
+](https://www.bilibili.com/video/BV1te411s7aS)
+
+[虚幻4UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，{ 选修 } 进阶篇Pro3 {附属第10，11期}：高级按键触发电梯
+](https://www.bilibili.com/video/BV1bz411z7wd)
+
+[虚幻4教程第十三期：《子弹痕迹和击中音效》设置子弹痕迹和被击打物音效，UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程，
+](https://www.bilibili.com/video/BV1i64y1M7r7)
+
+[虚幻4教程{ 选修 } 进阶篇Pro4上 （附属第13期）：换弹计算，进度条生命值，子弹数进度条显示，UE4用最简单的蓝图逻辑做一个大作感FPS游戏教程
+](https://www.bilibili.com/video/BV1Mk4y1k7eX)
