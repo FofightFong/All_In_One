@@ -1256,41 +1256,67 @@ UE4 影视场景制作流程及技巧
 
 [UE4C++独立游戏全流程](https://www.bilibili.com/video/BV1K64y1M7me)
 
+[C++ RPG单机 第一集 人物的移动和视角移动](https://www.bilibili.com/video/BV16W411k7d8)
 
+[UE4 C++ 第二集 添加人物Msh和动画](https://www.bilibili.com/video/BV1AW411r74W)
 
+[UE4 C++ 第三集 人物属性栏UI 1](https://www.bilibili.com/video/BV18W411z78a)
 
+[UE4 C++ 第四集 人物属性栏UI 2](https://www.bilibili.com/video/BV1CW411z7uS)
 
+[从头开始 UE4 C++ 单机RPG 第一集 获取资源](https://www.bilibili.com/video/BV1Yb411c72S)
 
+[从头开始 UE4 C++单机RPG 第二集 添加人物](https://www.bilibili.com/video/BV1db411c7Bs)
 
+[从头开始 UE4 C++ 单机RPG 第三集 人物移动](https://www.bilibili.com/video/BV1Db411c76p)
 
+[从零开始 UE4 C++ 单机RPG第四集 物品的属性](https://www.bilibili.com/video/BV1Qb411c7Nw)
 
+[从零开始 UE4 C++ 单机RPG第五集 背包UI 1](https://www.bilibili.com/video/BV1zt411m7Qj)
 
+[从头开始 UE4 C++ 单机RPG 第六集 背包UI 2 和 第七集 拾取物品逻辑1](https://www.bilibili.com/video/BV1Lt411U7Ls)
 
+[从零开始 UE4 C++ 单机RPG 第八集 完成物品拾取逻辑](https://www.bilibili.com/video/BV18t411U7Zk)
 
+[从头开始 UE4 C++ 单机RPG 第九集 使用物品逻辑](https://www.bilibili.com/video/BV1Ct411U77z)
 
+[UE4 C++1 登录UI](https://www.bilibili.com/video/BV15b411v7Lb)
 
+[UE4 C++2 登录UI 2](https://www.bilibili.com/video/BV1Nb411H7Yt)
 
+[UE4 C++3 登录UI 3](https://www.bilibili.com/video/BV1wb411H7ap)
 
+[ue4 c++ 4 登录UI4](https://www.bilibili.com/video/BV1Lb411H7N4)
 
+[UE4 C++ 5 人物移动](https://www.bilibili.com/video/BV1jb411H7Yp)
 
+[ue4 c++ 5 敌人AI 1](https://www.bilibili.com/video/BV1fb411H71n)
 
+[C++动画通知](https://www.bilibili.com/video/BV1T4411h7J8)
 
+[登录UI --1](https://www.bilibili.com/video/BV1hx41197um)
 
+[2.进入游戏UI和初步存档](https://www.bilibili.com/video/BV16x41197oA)
 
+[3.创建角色UI-1](https://www.bilibili.com/video/BV16x41197vy)
 
+[4.创建角色UI-2](https://www.bilibili.com/video/BV1rx411972q)
 
+[5.完成基本存档和创建角色UI](https://www.bilibili.com/video/BV1vx41197BG)
 
+[6.物品属性1](https://www.bilibili.com/video/BV11x41197f5)
 
+[7.背包UI](https://www.bilibili.com/video/BV1Ax411R7AJ)
 
+[8.初始化背包数组](https://www.bilibili.com/video/BV1Wx411R7Vf)
 
+[9.拾取不可叠加物品](https://www.bilibili.com/video/BV1px411R7rL)
 
+[10.拾取可叠加物品](https://www.bilibili.com/video/BV1Yx411R7c2)
 
+[1.视角移动](https://www.bilibili.com/video/BV1fJ411S7u8)
 
-
-
-
-
-
+[UE4 C++解析Json](https://www.bilibili.com/video/BV19J41117GL)
 
 
 
