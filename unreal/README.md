@@ -1533,17 +1533,64 @@ UE4 影视场景制作流程及技巧
 
 [UE4 简易的定向开门](https://www.bilibili.com/video/BV1JA411b7hi)
 
+[【MMORPG开发日志】-3UE4引擎安装及项目初始化](https://www.bilibili.com/video/BV184411r7Fw)
 
+[【MMORPG开发日志】-2第三人称模板自带蓝图讲解](https://www.bilibili.com/video/BV1r4411r7j3)
 
+[【mmorpg开发日志】-1新建角色动画蓝图](https://www.bilibili.com/video/BV1e4411679Z)
 
+[【MMORPG开发日志002】前后端简单通信，原理讲解以及登录功能实现！](https://www.bilibili.com/video/BV1fJ411A71g)
 
+[【MMORPG开发日志003】数据配置表导出工具的二次开发，前后端通用！](https://www.bilibili.com/video/BV1tJ41137C2)
 
+[【MMORPG开发日志004】登录场景的前端实现，UI动画及事件调度器](https://www.bilibili.com/video/BV1HE41167Xj)
 
+[【MMORPG开发日志005】半成品！陷入选人界面制作的大坑中的危机！](https://www.bilibili.com/video/BV1iE411q7e6)
 
+[【MMORPG开发日志006】崩溃！！！继续折腾选人列表](https://www.bilibili.com/video/BV1PE411B7GY)
 
+[【MMORPG开发日志007】读取配置表种族Race信息，将其中数据更新显示在UI上！
+](https://www.bilibili.com/video/BV13E411v7nX)
 
+[【MMORPG开发日志008】创建角色完成，成功将数据存入数据库](https://www.bilibili.com/video/BV1kE411e7jY)
 
+[【MMORPG开发日志009】老李跟大家一起用UE4制作选人界面模型展示，实现角色换装功能
+](https://www.bilibili.com/video/BV1bJ411D7kp)
 
+[【MMORPG开发日志010】KBEngine服务器获取数据，UE4界面ListView选人列表中选中效果的实现
+](https://www.bilibili.com/video/BV1YJ411U7G8)
+
+[【MMORPG开发日志011】UE4角色动画状态机的创建，混合空间的解释说明(好奇心计划)
+](https://www.bilibili.com/video/BV1CJ411Q71u)
+
+[【MMORPG开发日志012】角色移动跳跃实现，及设计思路分享](https://www.bilibili.com/video/BV1jJ411t7pX)
+
+[【MMORPG开发日志013】简单的血条效果实现，以及之后的调优方向](https://www.bilibili.com/video/BV1EJ41147Hi)
+
+[【老李RPG】21期，UE4小地图简单实现](https://www.bilibili.com/video/BV11741157LV)
+
+[老李教你放技能第1期！游戏策划UE4利用GameplayAbilitySystem插件理论讲解](https://www.bilibili.com/video/BV157411A7wR)
+
+[老李教你造世界 第1期 用UE4开发我的世界体素游戏](https://www.bilibili.com/video/BV1ME411n7TB)
+
+[老李教你造世界 第2期 ue4类我的世界游戏材质的简单设置](https://www.bilibili.com/video/BV1HE411n765)
+
+[老李教你放技能第2期！GAS初始化操作，UE4实现角色属性生命值](https://www.bilibili.com/video/BV1JE411s7eK)
+
+[老李教你造世界 第3期 用Chunk作为构成世界的基本单位，下一步就是无限地形](https://www.bilibili.com/video/BV1sE411473f)
+
+[老李教你放技能第3期！实现最简单的扣除自己生命值并显示在UI上的效果](https://www.bilibili.com/video/BV1QE411N7PP)
+
+[老李教你穿装备 第1期 关于委托和一些基础理论知识](https://www.bilibili.com/video/BV17E41137mh)
+
+[老李教你穿装备 第2期 InventoryComponent逻辑实现，虽说是copy官方demo的但还是解说一下
+](https://www.bilibili.com/video/BV1yE411w7RW)
+
+[老李教你穿装备 第3期 UI界面逻辑的实现，对之前代码的验证](https://www.bilibili.com/video/BV1rp4y117Fk)
+
+[老李带你入门UE4 第1期 第三人称模板介绍，超基础教程讲解](https://www.bilibili.com/video/BV1g54y1d7PR)
+
+[老李带你入门UE4 第2期 目录结构和命名规范，超基础unreal入门教程](https://www.bilibili.com/video/BV1q64y1u7nV)
 
 
 
