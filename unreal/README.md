@@ -901,6 +901,48 @@ UE4 影视场景制作流程及技巧
 
 [虚幻引擎（UE4）基础教程：第1.8节蓝图数组的创建和引用](https://www.bilibili.com/video/BV1zp4y1X7aY)
 
+[【UE4材质教程】过渡效果材质 by 漫云CG](https://www.bilibili.com/video/BV13b41117xZ)
+
+[【UE4材质】运用数学计算制作深洞效果 by 漫云CG](https://www.bilibili.com/video/BV1at411P7Ms)
+
+[【UE4材质】雷达扫描效果 by 漫云CG](https://www.bilibili.com/video/BV1e4411m72y)
+
+[【UE4材质】闪亮的灯球 by 漫云CG](https://www.bilibili.com/video/BV1zJ411m7oL)
+
+[从零开始做TPS+AI原理与实践——第四期：AI学习第一步：视野检测](https://www.bilibili.com/video/BV1cZ4y1x7f3)
+
+[从零开始做TPS+AI基础实践 第三期_蒙太奇动画](https://www.bilibili.com/video/BV1RJ411U7Ke)
+
+[UE4-从零开始做TPS+AI原理与实践——第二期学习笔记](https://www.bilibili.com/video/BV1UE411v7ga)
+
+[从零开始做TPS+AI基础实践](https://www.bilibili.com/video/BV1jE411i7RC)
+
+[在UE4中制作背景透明视频](https://www.bilibili.com/video/BV1ib41137wQ)
+
+[UE4当中制作卷轴展开动态UI](https://www.bilibili.com/video/BV1FE411B7Hi)
+
+[UE4 Landscape初级地貌材质制作分享](https://www.bilibili.com/video/BV11E41147pF)
+
+[UE4地貌材质理论基础分享。](https://www.bilibili.com/video/BV1mE411H7AP)
+
+[UE4高级地貌材质理论原理_Landscape自动地貌](https://www.bilibili.com/video/BV1yE411M7g1)
+
+[UE4地貌场景材质_草地自动分布](https://www.bilibili.com/video/BV1fE411K7Pr)
+
+[UE4场景地貌LandScape_最后Sequence漫游过场动画输出](https://www.bilibili.com/video/BV1VE411T7jt)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
