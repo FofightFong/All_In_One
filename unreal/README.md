@@ -1431,26 +1431,46 @@ UE4 影视场景制作流程及技巧
 
 [【UE4】动态材质（细胞鼓包蠕动）](https://www.bilibili.com/video/BV1T64y1u7br)
 
+[课程1—了解UE4材质系统UI以及材质模式](https://www.bilibili.com/video/BV1Tt411C7rY)
 
+[课程3—了解UE4材质系统的通道(下部分)](https://www.bilibili.com/video/BV1Ft411k7Sy)
 
+[课程2—了解UE4材质系统如何更换材质模式](https://www.bilibili.com/video/BV1wt411r7SA)
 
+[课程4—材质系统中的加减乘除节点用法](https://www.bilibili.com/video/BV1St411z7E3)
 
+[课程5—材质系统中的Panner和Rotator](https://www.bilibili.com/video/BV15t41167eE)
 
+[课程6—材质系统中的TexCoord节点](https://www.bilibili.com/video/BV1Vt411B7j9)
 
+[课程7—材质系统中的Time节点](https://www.bilibili.com/video/BV1kt411B7Zy)
 
+[课程8—材质系统中的Min和Max节点](https://www.bilibili.com/video/BV17t411z7pA)
 
+[课程9—材质系统中的floor和ceil节点](https://www.bilibili.com/video/BV1Jt411x7K1)
 
+[课程10—材质系统中Parameter](https://www.bilibili.com/video/BV1vt411x7sJ)
 
+[课程11—什么是Material Instance](https://www.bilibili.com/video/BV1Zt411x71Q)
 
+[课程12—材质系统中的BlackBody节点](https://www.bilibili.com/video/BV1ft411W7d4)
 
+[课程13—材质系统Lerp是什么](https://www.bilibili.com/video/BV1jt411s7F4)
 
+[课程14—材质系统中的Fresnel](https://www.bilibili.com/video/BV1Bt411s7Yy)
 
+[课程15—Sine和Cosine](https://www.bilibili.com/video/BV1Zt411s7Y4)
 
+[课程16—ConstantBiasScale节点](https://www.bilibili.com/video/BV11t411p7Ae)
 
+[课程17—材质系统中的DepthFade节点](https://www.bilibili.com/video/BV1Jt411W7dv)
 
+[课程18—材质系统中的Desaturation](https://www.bilibili.com/video/BV1vt411W7te)
 
+[课程19—材质系统中的Distance节点](https://www.bilibili.com/video/BV1ht411H7q4)
 
+[UE4定序器基本介绍以及用法](https://www.bilibili.com/video/BV1rE411o7gU)
 
+[UE4项目合并（资源移植）](https://www.bilibili.com/video/BV17E411d7aX)
 
-
-
+[UE4 WorldPosition节点](https://www.bilibili.com/video/BV1aE411K7AG)
