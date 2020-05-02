@@ -538,19 +538,177 @@ UE4 影视场景制作流程及技巧
 
 [bandicam 2020-01-06 05-52-54-504](https://www.bilibili.com/video/BV1tJ411V7LR)
 
+[ue4 上車,拾取,奔跑,人稱切換,UI (基本操作 新手向)](https://www.bilibili.com/video/BV14J411V7fu)
 
+[開關門,自動門 (新手向)](https://www.bilibili.com/video/BV1kJ41157Yt)
 
+[pubg backpack 人物渲染](https://www.bilibili.com/video/BV1JJ411V7ZW)
 
+[ue 4 修改角色模型](https://www.bilibili.com/video/BV1qJ411H7jh)
 
+[ue4 單發連發切換 UI 顯示子彈數量 3DUI 第一人稱](https://www.bilibili.com/video/BV13J411p7a3)
 
+[血條](https://www.bilibili.com/video/BV1HJ411n7T3)
 
+[ue4 3D ui 在遊戲裏上網](https://www.bilibili.com/video/BV1VJ411H775)
 
+[第一人稱和第三人稱切換 （水視頻 ）](https://www.bilibili.com/video/BV1tJ411H7Gu)
 
+[ue4 普通3d UI可互動](https://www.bilibili.com/video/BV14J411H79B)
 
+[ue4 自動跑步](https://www.bilibili.com/video/BV1tJ411H7NS)
 
+[ue4 真實槍械聲音,後座力,換彈](https://www.bilibili.com/video/BV14J411J7RV)
 
+[3D血條 (重製版)](https://www.bilibili.com/video/BV13J411E78R)
 
+[第一人稱射擊訓練場](https://www.bilibili.com/video/BV1WJ411E7pT)
 
+[ue4 輪廓/描邊 效果](https://www.bilibili.com/video/BV1z7411i7tV)
+
+[顯示名字](https://www.bilibili.com/video/BV1r7411i759)
+
+[顯示詳細信息](https://www.bilibili.com/video/BV1C7411i7c1)
+
+[ue4 steam在线子系统 Steam Online Subsystem Steam](https://www.bilibili.com/video/BV1H7411q7ez)
+
+[UE4音频可视化](https://www.bilibili.com/video/BV187411q7yi)
+
+[自然順滑人稱切換 ( 做一個系列 ) (1)_](https://www.bilibili.com/video/BV1k7411q7KL)
+
+[ue4做一個菜單 (ui) (2)_](https://www.bilibili.com/video/BV1v7411q7bo)
+
+[ue4 設置一個準心 (3)_](https://www.bilibili.com/video/BV1q7411q7Jt)
+
+[血條系統修坑 (水視頻系列)](https://www.bilibili.com/video/BV1s7411v7Cz)
+
+[血條系統 (水視頻系列)](https://www.bilibili.com/video/BV1x7411v7VY)
+
+[ue4 做一個畫質設定 (水視頻系列)(5上)](https://www.bilibili.com/video/BV1S7411v7Yr)
+
+[ue4 做一個畫質設定 (水視頻系列)(5下)](https://www.bilibili.com/video/BV1q7411v7mm)
+
+[優化了一下之前的人稱切換 (水視頻系列)(6)_](https://www.bilibili.com/video/BV1Q7411v7X4)
+
+[第一人稱模板蹲下 突然想水視頻](https://www.bilibili.com/video/BV1K7411e7o1)
+
+[ue4 鐵鏈效果](https://www.bilibili.com/video/BV157411e7dA)
+
+[ue4自動變色材質](https://www.bilibili.com/video/BV1e7411e7UY)
+
+[ue4分辨率設置 (水視頻系列)(7)_](https://www.bilibili.com/video/BV1m7411e7kV)
+
+[把之前的坑一次过堵上 (水視頻系列)(9)_](https://www.bilibili.com/video/BV1f7411e7wP)
+
+[为设定添加个分类,添加一个有问题的萤幕模式切换 (水視頻系列)(8)_](https://www.bilibili.com/video/BV1f7411e7oM)
+
+[ue4 靈敏度 (水視頻系列)(10)_](https://www.bilibili.com/video/BV1F7411v7CD)
+
+[ue4 密碼門](https://www.bilibili.com/video/BV1d7411r769)
+
+[ue4 在遊戲中顯示時間 中間有很多bug 我順便修復了 so時間比較長 ???????????????? (水視頻系列 可以是也可是不是 ）（11）](https://www.bilibili.com/video/BV137411k7Ky)
+
+[ue4 修復一點小bug (水視頻系列) (12)](https://www.bilibili.com/video/BV1W7411k7iH)
+
+[ue4 顯示fps 還有添加了細節 (水視頻系列)(13)_](https://www.bilibili.com/video/BV1r7411k7qQ)
+
+[ue4 曝光設置and FPS限制 (限制)(14)_](https://www.bilibili.com/video/BV1U7411k7ya)
+
+[ue4 蹲下動作 (水视频系列)(18)_](https://www.bilibili.com/video/BV1R7411t7L6)
+
+[ue4 拿槍動作 (水视频系列)(19)_](https://www.bilibili.com/video/BV1s741147Qv)
+
+[ue4 修復了上一期的bug (水视频系列)(20)_](https://www.bilibili.com/video/BV14741147KX)
+
+[ue4 添加了一個走路阻力，還有修復了上一期說的bug (水视频系列)(21)_](https://www.bilibili.com/video/BV1t741147Xv)
+
+[ue4 槍械自動生成](https://www.bilibili.com/video/BV1n741147SR)
+
+[ue4 添加一個閑置模式 (水视频系列)(22)_](https://www.bilibili.com/video/BV1n741147Xz)
+
+[ue4 仿吃雞背包 (背包製作)(水视频系列)(23)_](https://www.bilibili.com/video/BV1K741157mT)
+
+[ue4 仿吃雞背包 (背包製作)(水视频系列)(25)_](https://www.bilibili.com/video/BV1H741157nr)
+
+[ue4 仿吃雞背包 (背包製作)(水视频系列)(24)_](https://www.bilibili.com/video/BV1H7411575y)
+
+[(背包製作)(水视频系列)(27)_](https://www.bilibili.com/video/BV1n741157Zz)
+
+[(背包製作)(水视频系列)(26)_](https://www.bilibili.com/video/BV1H7411574d)
+
+[(背包製作)(水视频系列)(28)_](https://www.bilibili.com/video/BV1H741157wQ)
+
+[ue4把素材導入虛幻啟動器的素材庫](https://www.bilibili.com/video/BV1k7411G7CR)
+
+[ue4 準心偏移 (就是攝像頭往哪看人物就往哪看)(水视频系列)(29)_](https://www.bilibili.com/video/BV197411G7uP)
+
+[ue4 把蹲下瞄準的盡心偏移添加上,還有開始製作無縫動畫 (水视频系列)(30)_](https://www.bilibili.com/video/BV1F7411V7Eh)
+
+[做了一個完美的動畫(水视频系列)(31)_](https://www.bilibili.com/video/BV1V7411V7PP)
+
+[ue4 二話不說一個ik (水视频系列)(31)_](https://www.bilibili.com/video/BV1m7411V7wH)
+
+[修復了我们ik的一点bug (水视频系列)(32)_](https://www.bilibili.com/video/BV1S741137P3)
+
+[开始搞一个武器切换 (水视频系列)(33)_](https://www.bilibili.com/video/BV147411G7Pt)
+
+[开始搞一个武器切换 (水视频系列)(34)_](https://www.bilibili.com/video/BV1J7411g7oW)
+
+[开始搞一个武器切换 (水视频系列)(35)_](https://www.bilibili.com/video/BV1n7411g7wu)
+
+[(水视频系列)(36)_](https://www.bilibili.com/video/BV1n7411J7op)
+
+[詳細的做了一個保存系統](https://www.bilibili.com/video/BV127411E7t5)
+
+[ue4 做一台電腦 (做系統系列)(1)_](https://www.bilibili.com/video/BV1J741177SS)
+
+[ue4 做一台電腦 (做系統系列)(2)_](https://www.bilibili.com/video/BV1C741177Wg)
+
+[ue4 做一台電腦 (做系統系列)(3)_](https://www.bilibili.com/video/BV1D7411771r)
+
+[ue4 做一台電腦 (做系統系列)(4)_](https://www.bilibili.com/video/BV1D741177Pv)
+
+[ue4 做一台電腦的bios (做系統系列)(5)](https://www.bilibili.com/video/BV187411L7so)
+
+[ue4 開始製作登入介面 (做系統系列)(6)](https://www.bilibili.com/video/BV1r7411L7MV)
+
+[ue4 做好了一个登入介面 (做系統系列)(7)](https://www.bilibili.com/video/BV1F7411j7Se)
+
+[ue4 做一个监控 / cctv](https://www.bilibili.com/video/BV1N7411P7sT)
+
+[ue4 開始做桌面 (做系統系列)(8)](https://www.bilibili.com/video/BV1V7411w7nN)
+
+[ue4 做一個開始介面 (做系統系列)(9)](https://www.bilibili.com/video/BV1V7411w7c4)
+
+[ue4 把拖放搞好了 (做系統系列)(10)](https://www.bilibili.com/video/BV1j7411c7F8)
+
+[开始搞(伪)wi-fi连接 (做系統系列)(11)](https://www.bilibili.com/video/BV147411c7dE)
+
+[ue4 修復了開機的 bug (做系統系列)(12)](https://www.bilibili.com/video/BV1pj411f7CV)
+
+[ue4 制造一个用户信息更改 (做系統系列)(13)](https://www.bilibili.com/video/BV1L7411F7iq)
+
+[ue4 关机跟重启 (做系統系列)(14)](https://www.bilibili.com/video/BV1E7411u7T6)
+
+[ue4 把睡眠改成了锁屏 (做系統系列)(15)](https://www.bilibili.com/video/BV1v7411K7Tm)
+
+[ue4 开始搞一个设置 (做系統系列)(16)](https://www.bilibili.com/video/BV117411K75y)
+
+[ue4超级无敌新手教程,说到尾就是水视频(0-1)](https://www.bilibili.com/video/BV1i7411P7oy)
+
+[ue4 做了一個app的拖拉操作 (做系統系列)(17)](https://www.bilibili.com/video/BV1TE411H7T1)
+
+[ue4 做一個設置 (做系統系列)(18)](https://www.bilibili.com/video/BV18E411j7g1)
+
+[ue4 雙擊](https://www.bilibili.com/video/BV1gE41147mb)
+
+[更改了開啟視窗的方式 (做系統系列)(19)](https://www.bilibili.com/video/BV1AE411W7wC)
+
+[工作欄(做系統系列)(20)](https://www.bilibili.com/video/BV1wE411W7yf)
+
+[開發日誌 #1 (做一個設定太難了)](https://www.bilibili.com/video/BV1DE411577y)
+
+[拖更up出來了 (局域網聯機)](https://www.bilibili.com/video/BV1rE411G7kE)
 
 
 
