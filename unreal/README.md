@@ -857,6 +857,63 @@ UE4 影视场景制作流程及技巧
 
 [[UE4]12月资源解析(2019)](https://www.bilibili.com/video/BV1nJ411s7ug)
 
+[【文铮老师讲设计】【UE4】《虚幻引擎设计》大学专业系列课程_第一堂课：基础入门（共10小节）
+](https://www.bilibili.com/video/BV1SJ411C7e4)
+
+[Class01_418_04_场景素材预览](https://www.bilibili.com/video/BV1SJ411C7Hz)
+
+[【文铮老师讲设计】【UE4】《虚幻引擎设计》大学专业系列课程_第二堂课：模型预处理（共5小节）
+](https://www.bilibili.com/video/BV1TJ411k7rZ)
+
+[【UE4教程】《虚幻引擎设计》大学专业系列课程_第三堂课：基础灯光](https://www.bilibili.com/video/BV1eJ411k7e7)
+
+[【UE4教程】《虚幻引擎设计》大学专业系列课程_第四堂课：过场动画制作（共8集）](https://www.bilibili.com/video/BV1uJ411x7ic)
+
+[6分钟学会制作游戏](https://www.bilibili.com/video/BV177411G73V)
+
+[0基础做游戏：1.1节虚幻编辑器界面操作介绍](https://www.bilibili.com/video/BV1d7411j7tM)
+
+[虚幻引擎（UE4）编辑器的基础操作教程：1.2 场景摄像机的操作](https://www.bilibili.com/video/BV1ME411W7MG)
+
+[虚幻引擎（UE4）编辑器的基础操作教程:第1.3节场景中选择和添加模型对象](https://www.bilibili.com/video/BV1JE411W7zQ)
+
+[虚幻引擎（UE4）编辑器的基础操作教程:1.4节 通过几何体笔刷快速搭建场景](https://www.bilibili.com/video/BV1ME411p7cK)
+
+[虚幻引擎（UE4）编辑器的基础操作:第1.5节 通过地形工具完善场景](https://www.bilibili.com/video/BV1RE411u7L7)
+
+[虚幻引擎（UE4）编辑器的基础操作第1.6节 创建我们自己的3A游戏](https://www.bilibili.com/video/BV1QE411g7uf)
+
+[虚幻引擎（UE4）编辑器的基础操作:第1.6.1节完善我的们的游戏](https://www.bilibili.com/video/BV14E411T7TN)
+
+[虚幻引擎（UE4）基础教程：第1.1虚幻蓝图界面功能介绍](https://www.bilibili.com/video/BV1fE411N72D)
+
+[虚幻引擎（UE4）基础教程：第1.2虚幻蓝图函数的使用与创建](https://www.bilibili.com/video/BV187411f7pq)
+
+[虚幻引擎（UE4）基础教程：第1.3节虚幻蓝图变量的使用与创建](https://www.bilibili.com/video/BV1f7411o7rh)
+
+[虚幻引擎（UE4）基础教程：第1.4虚幻蓝图变量的数学运算](https://www.bilibili.com/video/BV1iE411A7Dw)
+
+[虚幻引擎（UE4）基础教程：第1.5虚幻蓝图String的数据运算](https://www.bilibili.com/video/BV1Zt4y1m78h)
+
+[虚幻引擎（UE4）基础教程：第1.6虚幻蓝图命名字符串文本3种数据类型区别](https://www.bilibili.com/video/BV1iV411f74P)
+
+[虚幻引擎（UE4）基础教程：第1.7节虚幻蓝图变量的分解与合成](https://www.bilibili.com/video/BV1RV411o7kL)
+
+[虚幻引擎（UE4）基础教程：第1.8节蓝图数组的创建和引用](https://www.bilibili.com/video/BV1zp4y1X7aY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
