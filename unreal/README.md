@@ -1397,19 +1397,19 @@ UE4 影视场景制作流程及技巧
 
 [UE4 - 如何给变量和函数分组](https://www.bilibili.com/video/BV17a4y147xs)
 
+[UE4中蓝图类实现视频播放交互操作](https://www.bilibili.com/video/BV1Lt41157iG)
 
+[UE4关卡蓝图实现视频播放交互操作](https://www.bilibili.com/video/BV13t41157F2)
 
+[UE4制作高质量玻璃材质效果](https://www.bilibili.com/video/BV1H4411q7x1)
 
+[UE4三种方法制作开关门的效果](https://www.bilibili.com/video/BV124411C7oD)
 
+[16-UE4如何创建切换材质UI](https://www.bilibili.com/video/BV1k4411y7uK)
 
+[UnrealStudio完全解析之Datamisth工作流程](https://www.bilibili.com/video/BV1c441117LT)
 
-
-
-
-
-
-
-
+[UE4做场景如何进行校色LUT如何制作](https://www.bilibili.com/video/BV1BE41167CU)
 
 
 
