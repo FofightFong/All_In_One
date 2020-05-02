@@ -776,6 +776,35 @@ UE4 影视场景制作流程及技巧
 
 [编辑器工具控件的用途和使用方法](https://www.bilibili.com/video/BV1Mp4y1Q7wM)
 
+[UE4：Niagara如何让粒子颜色与模型颜色相匹配](https://www.bilibili.com/video/BV147411q7cx)
+
+[UE4互动植物 （演示+教程）](https://www.bilibili.com/video/BV1T7411H7r9)
+
+[UE4：如何让AI自己从低处跳到高处（从高处跳到低处）](https://www.bilibili.com/video/BV1j7411c7GH)
+
+[UE4手雷等抛物线](https://www.bilibili.com/video/BV1Ee41147L2)
+
+[UE4_4.24_头发测试导入教程](https://www.bilibili.com/video/BV1W7411z7Ff)
+
+[dog日常：：开发blender导出unreal插件](https://www.bilibili.com/video/BV1x7411v7ra)
+
+[Unreal Engine 4 C++ / BP 制作状态机 #1 ——创建图结构](https://www.bilibili.com/video/BV1P7411k7sE)
+
+[Unreal Engine 4 C++ / BP 制作状态机 #2 ——从数据类构建双向图结构](https://www.bilibili.com/video/BV14741167vC)
+
+[Unreal Engine 4 C++ / BP 制作状态机 #3 ——状态嵌套与状态切换](https://www.bilibili.com/video/BV1h7411z74Y)
+
+[Unreal Engine 4 C++ / BP 制作状态机 #4 ——输入与输出](https://www.bilibili.com/video/BV1q7411z7iG)
+
+[Unreal Engine 4 C++ / BP 制作状态机 #5 ——应用：复刻怪物猎人太刀连击](https://www.bilibili.com/video/BV1B7411z7mT)
+
+[用blender制作动画并导入Unreal Engine（使用小白人插件）](https://www.bilibili.com/video/BV1KE41147LY)
+
+[UE4地形样条线的应用](https://www.bilibili.com/video/BV1jJ411n7VZ)
+
+[灯光函数材质的制作](https://www.bilibili.com/video/BV1UE411W7Bo)
+
+[UE4中 UV空间变换材质](https://www.bilibili.com/video/BV1TE411g7bq)
 
 
 
