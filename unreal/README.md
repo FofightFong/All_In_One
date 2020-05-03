@@ -28,7 +28,8 @@
 
 [03Niagara系统创建向导对话框](https://www.bilibili.com/video/BV1dE411R7Hx)
 
-[04Niagara系统的界面概述_显示_隔离显示_时间轴的（determinism）正常倒放正放
+[04Niagara系统的界面概述_显示_隔离显示_时间轴的（determinism）正常倒放正放](https://www.bilibili.com/video/BV19E411X7TR)
+
 [05Nigara粒子系统综合小实例新版4.22_国庆献礼特别版](https://www.bilibili.com/video/BV1ZE411X76r?p=2)
 
 [06Nigara粒子系统创建Sprite烟雾粒子效果](https://www.bilibili.com/video/BV1TE411X78G)
@@ -2292,7 +2293,8 @@
 [顯示名字](https://www.bilibili.com/video/BV1r7411i759)
 
 [顯示詳細信息](https://www.bilibili.com/video/BV1C7411i7c1)
-](https://www.bilibili.com/video/BV19E411X7TR)
+
+
 
 
 
