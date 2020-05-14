@@ -747,3 +747,43 @@
 
 * [HOUDINI18 国语 sop pyro 粒子 教程,英雄联盟新CG ez武器光效](https://www.bilibili.com/video/BV1ZT4y1g7Bs)
 
+* [Houdini 18 中文群集教程，僵尸世界大战镜头简单制作过程分享，布娃娃解算。](https://www.bilibili.com/video/BV1ic411h7SH)
+
+* [Houdini 18 中文快速教程 FLIP 教程，类哪吒魔童降世水龙卷效果分享](https://www.bilibili.com/video/BV1cZ4y1x7gh)
+
+* [Houdini 18 国语中文教程，类哪吒魔童降世冰生长效果制作思路，快速的sop&粒子教程。](https://www.bilibili.com/video/BV1p54y1979d
+)
+
+* [Houdini 18 国语教程。复联3奇异博士被困砖块堆效果。制作思路快速讲解](https://www.bilibili.com/video/BV1yC4y1s7nE)
+
+* [Houdini 18 国语教程。复联3灭霸破坏星球效果。制作思路快速讲解，点乘叉乘的实际应用。](https://www.bilibili.com/video/BV1JK4y1r7DC)
+
+* [Houdini 18 国语教程，类哪吒万龙甲效果制作思路，快速的sop&粒子教程。](https://www.bilibili.com/video/BV1e64y1u7U2
+)
+
+* [Houdini 18 国语教程，类哪吒混元珠本体组合特效制作思路，快速的刚体&新流体教程。](https://www.bilibili.com/video/BV1LT4y1G7jo)
+
+* [Houdini18国语教程，类哪吒闪电附体特效制作，快速的sop&粒子%新流体教程。](https://www.bilibili.com/video/BV1Kf4y1S7Dz)
+
+* [Houdini18国语教程，类哪吒冲击波&多元素特效制作，快速的sop&粒子&新流体教程。](https://www.bilibili.com/video/BV1qa4y1x7hd)
+
+* [Houdini18国语教程，类哪吒抽象线效果特效制作，快速的sop&粒子&新流体教程。](https://www.bilibili.com/video/BV17V411Z7X6)
+
+* [Houdini18国语教程，类哪吒莲花宝座效果，sop教程。](https://www.bilibili.com/video/BV1Ai4y1t7wS
+)
+
+* [HOUDINI18 国语 sop教程，黑豹飞船进入瓦坎达领空护盾撤销效果](https://www.bilibili.com/video/BV12A411b7dT)
+
+* [HOUDINI18 国语 sop pyro 粒子 教程,英雄联盟新CG ez武器光效](https://www.bilibili.com/video/BV1ZT4y1g7Bs
+)
+
+* [HOUDINI18 国语 sop pyro 粒子 教程,英雄联盟新CG 卡莎飞弹拖尾效果](https://www.bilibili.com/video/BV1kK4y1b7XJ)
+
+* [HOUDINI18 国语 sop 粒子 新pyro教程,英雄联盟新CG水晶眼泪效果](https://www.bilibili.com/video/BV15p4y197oK
+)
+
+* [HOUDINI18 国语 sop&粒子&新pyro教程,类哪吒魔灵合体旋转彩色烟雾](https://www.bilibili.com/video/BV1Sk4y1r7Dz)
+
+* [HOUDINI18 国语纯 sop 自制案例分享。奇异博士古一法师地面翻转效果](https://www.bilibili.com/video/BV1VZ4y1s7or)
+
+* [HOUDINI18 国语 sop案例，黑豹开篇CG护盾新思路新动态分享](https://www.bilibili.com/video/BV17V411C7Jj)
