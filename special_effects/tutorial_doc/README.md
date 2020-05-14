@@ -739,7 +739,11 @@
 
 * [5.Wave Tank的建立去交互船体运动 (海洋船舶特效)](https://www.bilibili.com/video/BV1J5411t7q2)
 
+* [HOUDINI18 国语 sop 粒子 新pyro教程,英雄联盟新CG水晶眼泪效果](https://www.bilibili.com/video/BV15p4y197oK)
+
+* [Houdini 18 国语教程，类哪吒万龙甲效果制作思路，快速的sop&粒子教程。](https://www.bilibili.com/video/BV1e64y1u7U2
+)
 
 
-
+* [HOUDINI18 国语 sop pyro 粒子 教程,英雄联盟新CG ez武器光效](https://www.bilibili.com/video/BV1ZT4y1g7Bs)
 
