@@ -1896,7 +1896,7 @@
 
 [用blender制作动画并导入Unreal Engine（使用小白人插件）](https://www.bilibili.com/video/BV1KE41147LY)
 
-[用Python为UE4 Sequencer添加动画](https://www.bilibili.com/video/BV1eJ411a7A3)
+* [用Python为UE4 Sequencer添加动画](https://www.bilibili.com/video/BV1eJ411a7A3)
 
 [用Python在UE4中使用Qt窗口](https://www.bilibili.com/video/BV1wJ411W7sN)
 
