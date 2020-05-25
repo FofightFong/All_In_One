@@ -1008,7 +1008,7 @@
 
 [UE4绑骨骼插件安装方法以及插件下载连接](https://www.bilibili.com/video/BV1NJ411G7zK)
 
-[UE4绿屏抠像之播放视频](https://www.bilibili.com/video/BV1aJ411M7gy)
+* [UE4绿屏抠像之播放视频](https://www.bilibili.com/video/BV1aJ411M7gy)
 
 [UE4编辑器开发基础](https://www.bilibili.com/video/BV114411474a)
 
