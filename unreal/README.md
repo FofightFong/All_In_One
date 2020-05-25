@@ -2276,7 +2276,7 @@
 
 [越看越懵逼的第三人称小游戏教程](https://www.bilibili.com/video/BV15g4y187te)
 
-[过场动画/加载界面 教程视频](https://www.bilibili.com/video/BV1U7411A7sw)
+* [过场动画/加载界面 教程视频](https://www.bilibili.com/video/BV1U7411A7sw)
 
 [郑珩：虚幻引擎影视动画专场第一弹（上半场）——虚幻影视的影视动画之路盘点](https://www.bilibili.com/video/BV1yE411j7xM)
 
