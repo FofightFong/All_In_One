@@ -2294,12 +2294,31 @@
 
 [顯示詳細信息](https://www.bilibili.com/video/BV1C7411i7c1)
 
+[虚幻4自适应地形材质制作](https://www.bilibili.com/video/BV1Js411E7VK)
 
+[【虚幻4蓝图】实现冒泡排序的思路](https://www.bilibili.com/video/BV1r4411X75n
+)
 
+[【虚幻4公开课】-材质-虚拟空间效果-认识坐标系](https://www.bilibili.com/video/BV1L7411F7QB)
 
+[【公开课】—让我们荡起虚幻4，驶向游戏动漫的彼方](https://www.bilibili.com/video/BV1o7411K7DK)
 
+[【虚幻4公开课】-材质-虚拟空间效果-UV的概念](https://www.bilibili.com/video/BV1kE411E7YR)
 
+[【虚幻4公开课】-动画-定序器入门](https://www.bilibili.com/video/BV1b7411f7Xs)
 
+[【虚幻4公开课】-材质-虚拟空间效果-基本节点框架讲解](https://www.bilibili.com/video/BV1Qi4y1b7ao)
 
+[【公开课】——少年啊不要再犹豫，虚幻4已经指明了方向~](https://www.bilibili.com/video/BV16i4y147ve)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 https://www.bilibili.com/video/BV144411k7dm
