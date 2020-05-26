@@ -1290,7 +1290,7 @@
 
 [【UE4材质教程】过渡效果材质 by 漫云CG](https://www.bilibili.com/video/BV13b41117xZ)
 
-[【公开课】—想做动漫的少年啊，那就来和我学虚幻4吧~](https://www.bilibili.com/video/BV1fE411P7gN)
+* [【公开课】—想做动漫的少年啊，那就来和我学虚幻4吧~](https://www.bilibili.com/video/BV1fE411P7gN)
 
 [【公开课】—让我们荡起虚幻4，驶向游戏动漫的彼方](https://www.bilibili.com/video/BV1o7411K7DK)
 
