@@ -1786,7 +1786,7 @@
 
 [在Blender中制作开炮动画并导入UE4](https://www.bilibili.com/video/BV1c4411U7yP)
 
-[在UE4中制作背景透明视频](https://www.bilibili.com/video/BV1ib41137wQ)
+* [在UE4中制作背景透明视频](https://www.bilibili.com/video/BV1ib41137wQ)
 
 [在UE4中用Python选中资源](https://www.bilibili.com/video/BV15J411q7eC)
 
