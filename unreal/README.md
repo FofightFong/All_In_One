@@ -1152,7 +1152,7 @@
 
 [【UE4 FarAway】 背包 更新至6阶段（带演示）](https://www.bilibili.com/video/BV14E411h7g7)
 
-[【UE4 崔老师教你快速上手引擎电影】Class04_Cinematic_01_概述](https://www.bilibili.com/video/BV1UJ411K7DT)
+* [【UE4 崔老师教你快速上手引擎电影】Class04_Cinematic_01_概述](https://www.bilibili.com/video/BV1UJ411K7DT)
 
 [【UE4 编程基础 第一讲】Unreal Engine 虚幻4游戏引擎全中文课程C++游戏编程基础 -如何通过C++成为UE4的造物者](https://www.bilibili.com/video/BV1a7411C7ex)
 
