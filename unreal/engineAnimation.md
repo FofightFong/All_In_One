@@ -12,5 +12,7 @@
 
 [中国电影设计制作联盟-首届CG电影创作分享会（二）张志杰：数字世界的建造师](https://www.bilibili.com/video/BV1a7411g7wC)
 
+[UE4室内场景、灯光、相机动画快速入门中文教程，中国风+现代元素](https://www.bilibili.com/video/BV1J7411m73Z?p=16)
+
 
 
