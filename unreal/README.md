@@ -2,6 +2,8 @@
 
 ## B站
 
+#### [关于引擎动画影视](https://github.com/FofightFong/All_In_One/blob/master/unreal/engineAnimation.md)
+
 [(水视频系列)(36)_](https://www.bilibili.com/video/BV1n7411J7op)
 
 [(背包製作)(水视频系列)(26)_](https://www.bilibili.com/video/BV1H7411574d)
