@@ -2338,6 +2338,7 @@
 
 [虚幻引擎5是怎么榨干PS5的性能的？](https://www.bilibili.com/video/BV1854y1D7Tj)
 
+[Tridium的Niagara基础课程](https://www.bilibili.com/video/BV1Q441137H1)
 
 [虚幻4入门到精通教程【全集】](https://www.bilibili.com/video/BV1jW411i7cw)
 
