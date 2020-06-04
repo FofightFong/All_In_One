@@ -2461,7 +2461,17 @@
 
 [UE4FPS综合教程（一）——捡枪](https://www.bilibili.com/video/BV1kE411p783)
 
+[[UE4教程转载]虚幻引擎虚实结合+透明通道抠像1](https://www.bilibili.com/video/BV1vK4y1C7b5)
 
+[[UE4教程转载]虚幻引擎虚实结合+透明通道抠像2](https://www.bilibili.com/video/BV1Tp4y1C7og)
+
+[[UE4教程]序列器Sequence制作多材质物体消失渐隐动画](https://www.bilibili.com/video/BV19c411h7hC)
+
+[UE4建筑生长动画](https://www.bilibili.com/video/BV1FE411r7AH)
+
+[【度风玘】UE4中简单的群集动画实现方案演示_包括定序器中事件如何调用关卡内角色蓝图](https://www.bilibili.com/video/BV14K411W7qk)
+
+[虚幻4UE4汽车样条线自动驾驶教程向VehicleAISpline汽车AI功能教程_根据Spline确定VehicleAI路径的功能教程](https://www.bilibili.com/video/BV1k7411i77D)
 
 
 
