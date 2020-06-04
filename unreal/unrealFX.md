@@ -98,3 +98,20 @@
 
 [unreal游戏特效基础02教你做火焰](https://www.bilibili.com/video/BV1qx411J7qM)
 
+[【同步】半还原热切破墙效果重置版#定点破墙模型破碎#虚幻4教程#ue4](https://www.bilibili.com/video/BV1E7411H72d)
+
+[【UE4教程】击碎玻璃物体破裂破碎效果](https://www.bilibili.com/video/BV1kb411u7Jb)
+
+[UE4.23新功能04Chaos无限破碎系统介绍](https://www.bilibili.com/video/BV1mJ411N7dH)
+
+[【虚幻4】破碎网络体教程](https://www.bilibili.com/video/BV12b411M7so)
+
+
+[UE4制作一个破碎的物体](https://www.bilibili.com/video/BV1Tb411T76R)
+
+[[同步]在UE4中制作热切破墙的效果](https://www.bilibili.com/video/BV1Gb411y7if)
+
+[【麒麟】Unreal Engine 4 - 破碎效果 (destructible mesh)](https://www.bilibili.com/video/BV1Pt411p7eP)
+
+[[UE4教程]物体破碎及Sequence控制破裂发生的时间](https://www.bilibili.com/video/BV1fE411K7ht)
+
