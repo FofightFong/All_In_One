@@ -2442,7 +2442,24 @@
 
 [Unreal Engine 4 虚幻引擎 Oeasy-UE4中文教程](https://www.bilibili.com/video/BV1Yt411e7hu)
 
+[【同步】半还原热切破墙效果重置版#定点破墙模型破碎#虚幻4教程#ue4](https://www.bilibili.com/video/BV1E7411H72d)
 
+[【UE4教程】击碎玻璃物体破裂破碎效果](https://www.bilibili.com/video/BV1kb411u7Jb)
+
+[UE4.23新功能04Chaos无限破碎系统介绍](https://www.bilibili.com/video/BV1mJ411N7dH)
+
+[【虚幻4】破碎网络体教程](https://www.bilibili.com/video/BV12b411M7so)
+
+
+[【虚幻4】UE4 4.23新破碎系统编译流程【虚幻4】UE4 4.23新破碎系统编译流程](https://www.bilibili.com/video/BV1F4411C7HZ)
+
+[UE4制作一个破碎的物体](https://www.bilibili.com/video/BV1Tb411T76R)
+
+[[同步]在UE4中制作热切破墙的效果](https://www.bilibili.com/video/BV1Gb411y7if)
+
+[【麒麟】Unreal Engine 4 - 破碎效果 (destructible mesh)](https://www.bilibili.com/video/BV1Pt411p7eP)
+
+[UE4FPS综合教程（一）——捡枪](https://www.bilibili.com/video/BV1kE411p783)
 
 
 
