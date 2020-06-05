@@ -2473,6 +2473,90 @@
 
 [虚幻4UE4汽车样条线自动驾驶教程向VehicleAISpline汽车AI功能教程_根据Spline确定VehicleAI路径的功能教程](https://www.bilibili.com/video/BV1k7411i77D)
 
+[虚幻4教程-上古卷轴5交互式转场动画的实现-第五部分-描述文字的显示](https://www.bilibili.com/video/BV1YJ41157dK)
+
+[虚幻4入门教程，如何给人物设置行走方式，长按shift键3秒后进入奔跑状态](https://www.bilibili.com/video/BV1HJ411M7VY)
+
+[虚幻4入门教程，如何制作人物角色的血条](https://www.bilibili.com/video/BV1ZJ411K7Fk)
+
+[虚幻4教程-游戏小地图的制作（基础篇-第一部分）](https://www.bilibili.com/video/BV1bE411f7N6)
+
+[虚幻4教程-游戏小地图的制作（基础篇-第二部分）](https://www.bilibili.com/video/BV1hE411o7z6)
+
+[虚幻4教程-小地图高级教程-第一部分（介绍)](https://www.bilibili.com/video/BV1gE411y7vu)
+
+[虚幻4教程-小地图高级教程-第一部分（关于小地图的工作原理）](https://www.bilibili.com/video/BV1FE411k72P)
+
+[虚幻4教程-小地图高级教程-第一部分（把地图设置为圆形并加上旋转功能）.12860.83961](https://www.bilibili.com/video/BV15E411k7tw
+)
+
+[虚幻4教程-小地图高级教程-第一部分（添加角色图标）](https://www.bilibili.com/video/BV1wE411r7fM)
+
+[虚幻4教程-如何设置制作的AI巡逻](https://www.bilibili.com/video/BV14E411h76T)
+
+[虚幻4教程-小地图高级教程-第二部分（前半部分）](https://www.bilibili.com/video/BV1EE411b7AW)
+
+[虚幻4教程-小地图高级教程-第三部分](https://www.bilibili.com/video/BV1SE411v7ry)
+
+[虚幻4教程-慢镜头效果(慢动作效果)的实现](https://www.bilibili.com/video/BV17J411m7qe)
+
+[虚幻4教程-如何正确的导入其他项目的文件](https://www.bilibili.com/video/BV1gJ41127Jw)
+
+[虚幻4教程-使命召唤12开场动画的模拟](https://www.bilibili.com/video/BV1fJ411d7cJ)
+
+[虚幻4教程-(Camera Fade)关于镜头过渡效果的第二种实现方式](https://www.bilibili.com/video/BV1WJ411X7Kf)
+
+[虚幻4教程-圆环进度条的实现](https://www.bilibili.com/video/BV1XJ411q7JP)
+
+[虚幻4教程-加载动画-简单分析篇](https://www.bilibili.com/video/BV1mJ411i7gP)
+
+[虚幻4教程-关卡流的基础知识(Stream Level)](https://www.bilibili.com/video/BV16J411e7vh)
+
+[虚幻4教程-(Game Instance)如何跨地图传输数据](https://www.bilibili.com/video/BV1FJ41117R5)
+
+[虚幻4教程-(Stream Level)泰坦2的时间跳跃效果的实现-流关卡的最佳使用方式](https://www.bilibili.com/video/BV1MJ411C7c4)
+
+[虚幻4教程-(Progress Bar)加载进度条的实现-前半部分](https://www.bilibili.com/video/BV1QJ411C7Mw)
+
+[虚幻4教程-(Progress Bar)加载进度条的实现(进度条的平滑过渡)-后半部分](https://www.bilibili.com/video/BV19J411C78H)
+
+[虚幻4教程-捡完物品才能过关应该怎么实现?](https://www.bilibili.com/video/BV11J41167Sr)
+
+[虚幻4教程-1.关于Teleport和Set actor location的区别 - 2.如何把出生点绑定到角色身上](https://www.bilibili.com/video/BV1TJ411r78u)
+
+[虚幻4教程-上古卷轴5交互式的转场动画的实现-第一部分-场景的分析和搭建](https://www.bilibili.com/video/BV1jJ411b7f7)
+
+[虚幻4教程-上古卷轴5交互式的转场动画的实现-第二部分-模型出生和移动效果的实现](https://www.bilibili.com/video/BV1EJ411j7KU)
+
+[虚幻4教程-上古卷轴5交互式的转场动画的实现-第三部分-模型的随机出生](https://www.bilibili.com/video/BV1CJ411j7Lq)
+
+[虚幻4教程-上古卷轴5交互式转场动画的实现-第四部分-交互功能的实现](https://www.bilibili.com/video/BV17J411L7T6)
+
+[虚幻4教程-上古卷轴5交互式转场动画的实现-第五部分-描述文字的显示](https://www.bilibili.com/video/BV1YJ41157dK)
+
+[虚幻4教程-上古卷轴5交互式转场动画的实现-完结篇-把加载地图放入游戏关卡](https://www.bilibili.com/video/BV13J411V75F)
+
+[UE4-长按(long Press)的功能实现](https://www.bilibili.com/video/BV1D7411V7bj)
+
+[UE4 - 标记功能的实现](https://www.bilibili.com/video/BV1YE41177Vx)
+
+[Widget的 Animation 如何自动打关键帧, 如何让Text显示中文文字 等小问题](https://www.bilibili.com/video/BV1NE411g7eJ)
+
+[UE4 - Data Table(数据表)的理解和使用(重度)](https://www.bilibili.com/video/BV1WE411K7xA)
+
+[UE4-窗口模式与屏幕分辨率设置的详细介绍(WindowMode n Resolutions)](https://www.bilibili.com/video/BV1F7411d7zw)
+
+[UE4 - 武器的旋转和缩放](https://www.bilibili.com/video/BV1nE411N7iL)
+
+[UE4 - 源码控制(Source Control)基本入门](https://www.bilibili.com/video/BV1XA411t7RL)
+
+[UE4 - 是3D Text插件的错还是Variant set的错?](https://www.bilibili.com/video/BV1rk4y197aT)
+
+[UE4 - 来看看Set Timer by Event(Function Name)到底有多坑](https://www.bilibili.com/video/BV1ti4y1t73e)
+
+[UE4 - 如何给变量和函数分组](https://www.bilibili.com/video/BV17a4y147xs)
+
+[UE4 - 关于[初学]的一点个人看法分享](https://www.bilibili.com/video/BV1zZ4y1p7Sw)
 
 
 
