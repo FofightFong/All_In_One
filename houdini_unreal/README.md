@@ -8,7 +8,7 @@
 
 * [用Houdini制作UE4特效_huodini部分](https://www.bilibili.com/video/BV1DJ411T7WV)
 
-* []()
+* [HOUDINIforUE4管道制作教程下](https://www.bilibili.com/video/BV1yJ411S7uf)
 
 * []()
 
