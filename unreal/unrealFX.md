@@ -4,6 +4,8 @@
 
 [Niagara](https://github.com/MoonAntonio/Niagara)
 
+[NiagaraPractice](https://github.com/jnphgs/NiagaraPractice)
+
 # 奶瓜Niagara特效
 
 * []()
