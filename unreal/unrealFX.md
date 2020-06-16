@@ -6,6 +6,8 @@
 
 [NiagaraPractice](https://github.com/jnphgs/NiagaraPractice)
 
+[NiagaraShowcase](https://github.com/NicholasGoldstein/NiagaraShowcase)
+
 # 奶瓜Niagara特效
 
 * []()
