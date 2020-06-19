@@ -2560,6 +2560,13 @@
 
 [UE4 - 关于[初学]的一点个人看法分享](https://www.bilibili.com/video/BV1zZ4y1p7Sw)
 
+[雪花更美--UE4插件Datasmith下载和安装](https://www.bilibili.com/video/BV18J411U7ih)
+
+[雪花更美--Datasmith使用方法和与sp的桥接使用](https://www.bilibili.com/video/BV1jJ411D7rr)
+
+[]()
+
+[]()
 
 
 
