@@ -40,11 +40,66 @@
 
 [UE4简单AI制作系列教程06 节点整理](https://www.bilibili.com/video/BV1Xi4y1t7SH)
 
+[UE4简单AI制作系列教程05 AI随机移动](https://www.bilibili.com/video/BV1R5411x7xB)
+
+[从零开始做TPS+AI原理与实践——第四期：AI学习第一步：视野检测](https://www.bilibili.com/video/BV1cZ4y1x7f3)
+
+[UE4简单AI制作系列教程02 AI血条](https://www.bilibili.com/video/BV1Gf4y1m79M)
+
+[UE4简单AI制作系列教程04 AI死亡机制](https://www.bilibili.com/video/BV1ae411s7Mn)
+
+[【老李做游戏】《涂鸦坦克》02单机版本完结，UE4实现简单敌人AI](https://www.bilibili.com/video/BV1w7411C7RQ)
+
+[虚幻4新手教程 断肢效果和ai一直朝向你](https://www.bilibili.com/video/BV1D441117pm)
+
+[虚幻4(UE4)教程-AI行为树入坟(2)服务](https://www.bilibili.com/video/BV1Fs411L7g8)
+
+[虚幻实例教程（龙珠大冒险）第一部第三节1_怪物AI](https://www.bilibili.com/video/BV1fW41177Ey)
+
+[虚幻引擎4-UE4-AI血条制作-教你做游戏](https://www.bilibili.com/video/BV1Ex411n7aT)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
+[]()
 
+[]()
 
+[]()
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
 
