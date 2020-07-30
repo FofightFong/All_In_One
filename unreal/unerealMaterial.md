@@ -15,7 +15,7 @@
 
 * [UE4_材质的数学运算_1](https://www.cnblogs.com/reluctante1/p/13229519.html)
 
-* []()
+* [UE4材质中的TexCoord/TextureCoordinate](https://www.hanzhe.com/article/27)
 
 * []()
 
