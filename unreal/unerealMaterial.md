@@ -21,9 +21,9 @@
 
 * [UE4材质中的点乘DotProduct](https://www.hanzhe.com/article/24)
 
-* []()
+* [UE4材质中的PixelDepth和SceneDepth](https://www.hanzhe.com/article/17)
 
-* []()
+* [UE4材质中的Sin函数](https://www.hanzhe.com/article/13)
 
 * []()
 
