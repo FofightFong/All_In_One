@@ -19,7 +19,7 @@
 
 * [UE4中的常量材质实例和动态材质实例](https://www.hanzhe.com/article/16)
 
-* []()
+* [UE4材质中的点乘DotProduct](https://www.hanzhe.com/article/24)
 
 * []()
 
