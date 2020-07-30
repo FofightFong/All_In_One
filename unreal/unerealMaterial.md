@@ -13,7 +13,7 @@
 
 * [UE4_材质/纹理2](https://www.cnblogs.com/reluctante1/p/13196592.html)
 
-* []()
+* [UE4_材质的数学运算_1](https://www.cnblogs.com/reluctante1/p/13229519.html)
 
 * []()
 
