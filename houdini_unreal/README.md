@@ -1,5 +1,34 @@
 # houdini for unreal相关
 
+### 教程文档
+
+* [Houdini技术体系 基础管线（二） ：Heightfiled与UE4的无缝导入以及对World Composition的支持](https://www.cnblogs.com/TracePlus/p/9121607.html)
+
+* [Houdini技术体系 基础管线（三） ：UE4以选择区域的方式对地形做生成和更新 上篇](https://www.cnblogs.com/TracePlus/p/9160221.html)
+
+* [Houdini技术体系 基础管线（四） ：Houdini驱动的UE4植被系统 上篇](https://www.cnblogs.com/TracePlus/p/9239120.html)
+
+* [Houdini技术体系 基础管线（四） ：Houdini驱动的UE4植被系统 下篇](https://www.cnblogs.com/TracePlus/p/9278096.html)
+
+* [Houdini 过程化地形系统（二）：基于UE4的FC5植被系统（1）](https://www.cnblogs.com/TracePlus/p/9370369.html)
+
+* [Houdini技术体系 过程化地形系统（一）：Far Cry5的植被系统分析](https://www.cnblogs.com/TracePlus/p/9202567.html)
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+
+### 视频教程
+
 * [用Houdini制作UE4特效_UE4部分](https://www.bilibili.com/video/av69186014/)
 
 
