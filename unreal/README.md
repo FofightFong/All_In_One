@@ -2570,7 +2570,7 @@
 
 [虚幻4-爬墙集群动画-丧尸围城教程](https://www.bilibili.com/video/BV1e4411V7Xo)
 
-[]()
+[【虚幻4】动态切割模型 教程](https://www.bilibili.com/video/BV1DJ411g7Wv)
 
 
 
