@@ -2,7 +2,7 @@
 
 ## 参考/资源网站
 
-##### [magesbox](https://www.magesbox.com/)----[魔动网](http://www.modongwang.com/?x=1698)----[iiidea](http://iiidea.cn/unreal-engine-plugin)
+##### [magesbox](https://www.magesbox.com/)----[魔动网](http://www.modongwang.com/?x=1698)----[iiidea](http://iiidea.cn/unreal--engine-plugin)----[52vr](https://www.52vr.com/?fromuser=learnbgame)
 
 ## B站
 
