@@ -4,11 +4,25 @@
 
 * [UE4 Niagara模块介绍](https://papalqi.cn/index.php/2020/04/11/ue4-niagara模块介绍/452560911/)
 
-* [03.Niagara条带粒子Part2 闪电](http://25artist.com/?p=9779)
+* [03.Niagara条带粒子Part2 闪电](https://zhuanlan.zhihu.com/p/52455963)
 
 * [03.Niagara条带粒子Part1 拖尾&流星](http://25artist.com/?p=9773)
 
 * [02.Niagara魔法阵案例](http://25artist.com/?p=9768)
+
+* [【UE4】Niagara | Spline BP | 酷炫线条环绕文字运动效果【下篇】](https://zhuanlan.zhihu.com/p/143104075)
+
+* [【UE4Niagara解析】try](https://zhuanlan.zhihu.com/c_1052991482637668352)
+
+* [【UE4】Niagara |Spline BP| 带骨骼文字模型程序化对应Spline各个点【上篇】](https://zhuanlan.zhihu.com/p/142416003)
+
+* [【UE4】Niagara |Spline BP| Spline线条环绕文字动态效果【中篇】](https://zhuanlan.zhihu.com/p/142723347)
+
+* []()
+
+* []()
+
+* []()
 
 * []()
 
