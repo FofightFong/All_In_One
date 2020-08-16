@@ -29,17 +29,17 @@
 
 * [[UE4]RetainerBox，控制UI更新频率，把渲染后的UI当成Texture](https://www.cnblogs.com/timy/p/10042873.html)
 
-* []()
+* [Element 火山材质分析](https://papalqi.cn/index.php/2019/07/22/ue4-demo-element-火山材质分析/)
 
-* []()
+* [Unreal 影视爆炸材质功能全解锁](https://zhuanlan.zhihu.com/p/127344951)
 
-* []()
+* [UE4材质节点Sine，Append，Abs＆Lerp讲解](https://www.incg.com.cn/ue4-sine-append-abs-lerp/)
 
-* []()
+* [ZunGarden水和相关材质分析](https://papalqi.cn/index.php/2019/06/25/zungarden水和相关材质分析/)
 
-* []()
+* [Element 熔浆材质](https://papalqi.cn/index.php/2019/07/22/element-熔浆材质/)
 
-* []()
+* [UE4 Niagara 模块细节](https://papalqi.cn/index.php/2020/04/18/799/)
 
 * []()
 
