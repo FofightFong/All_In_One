@@ -107,3 +107,5 @@
 # 无声但实用
 
 [【Houdini To Unreal4】将Houdini制作的粒子导入UE4，HoudiniNiagara+SideFXLabs插件使用方法介绍](https://www.bilibili.com/video/BV1bK411W787)
+
+[(全流程)Houdini 18+UE4制作爆炸效果](https://www.bilibili.com/video/BV1sV41167Fo)
