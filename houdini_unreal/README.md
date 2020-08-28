@@ -48,7 +48,7 @@
 
 * [ue4读取houdini数据资产的流程演示](https://www.bilibili.com/video/BV1HA411q7PY)
 
-* []()
+* [UE4视频——（自己踩得坑）-Houdini中的camera，epic game保管库，如何不重新下载引擎。](https://www.bilibili.com/video/BV1x5411W7M3)
 
 * []()
 
