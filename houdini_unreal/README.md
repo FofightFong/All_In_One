@@ -50,7 +50,7 @@
 
 * [UE4视频——（自己踩得坑）-Houdini中的camera，epic game保管库，如何不重新下载引擎。](https://www.bilibili.com/video/BV1x5411W7M3)
 
-* []()
+* [UP主偏要Houidni导入UE4，教你怎么看文档~结果一路懵逼，失败告终， 哈哈哈，[GameDev-Day5]](https://www.bilibili.com/video/BV1ut411x73v)
 
 * []()
 
