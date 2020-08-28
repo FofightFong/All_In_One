@@ -43,7 +43,7 @@
 
 * [【虚幻4】houdini引擎与虚幻4联动教程（我断更了‎）](https://www.bilibili.com/video/BV1q4411P7Cp)
 
-* []()
+* [ue4读取houdini数据资产的流程演示](https://www.bilibili.com/video/BV1HA411q7PY)
 
 * []()
 
