@@ -52,7 +52,7 @@
 
 * [UP主偏要Houidni导入UE4，教你怎么看文档~结果一路懵逼，失败告终， 哈哈哈，[GameDev-Day5]](https://www.bilibili.com/video/BV1ut411x73v)
 
-* []()
+* [Houdini骨骼动画导入UE4的可行方案~！【亦庄生06】](https://www.bilibili.com/video/BV1Qt411W7n9)
 
 * []()
 
