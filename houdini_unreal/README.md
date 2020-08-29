@@ -68,9 +68,9 @@
 
 * [UE4制作3D场景Houdini-02](https://www.bilibili.com/video/BV1Tp4y1S7KS)
 
-* []()
+* [ue4读取houdini数据资产的流程演示](https://www.bilibili.com/video/BV1HA411q7PY)
 
-* []()
+* [UE4制作3D场景Houdini-02](https://www.bilibili.com/video/BV1oA411e7T1)
 
 * []()
 
