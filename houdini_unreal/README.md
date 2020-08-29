@@ -54,7 +54,7 @@
 
 * [Houdini骨骼动画导入UE4的可行方案~！【亦庄生06】](https://www.bilibili.com/video/BV1Qt411W7n9)
 
-* []()
+* [Ue4和houdini影视镜头制作公开课录频](https://www.bilibili.com/video/BV1m54y1B7k5)
 
 * []()
 
