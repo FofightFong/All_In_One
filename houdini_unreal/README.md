@@ -56,17 +56,17 @@
 
 * [Ue4和houdini影视镜头制作公开课录频](https://www.bilibili.com/video/BV1m54y1B7k5)
 
-* []()
+* [徐伟老师公开课-Houdini加UE4制作3D场景-04-UE4氛围阵型布料头发](https://www.bilibili.com/video/BV1i54y1v7fo)
 
-* []()
+* [【UE4】houdini或者其他地形软件的地形导入ue4教程](https://www.bilibili.com/video/BV1hJ411j74C)
 
-* []()
+* [徐伟老师公开课-Houdini加UE4制作3D场景-02-houdini地形制作](https://www.bilibili.com/video/BV1fp4y1i7Pi)
 
-* []()
+* [徐伟老师公开课-Houdini加UE4制作3D场景-03-houdiniHDA导入ue4](https://www.bilibili.com/video/BV1rK4y1e7pf)
 
-* []()
+* [UE4制作3D场景Houdini-03](https://www.bilibili.com/video/BV1T54y1B7Sv)
 
-* []()
+* [UE4制作3D场景Houdini-02](https://www.bilibili.com/video/BV1Tp4y1S7KS)
 
 * []()
 
