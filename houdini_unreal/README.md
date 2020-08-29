@@ -111,3 +111,7 @@
 [(全流程)Houdini 18+UE4制作爆炸效果](https://www.bilibili.com/video/BV1sV41167Fo)
 
 [Houdini布料模拟导出到UE4](https://www.bilibili.com/video/BV1EQ4y1M7gX)
+
+[Houdini to Unreal Engine Niagara（中英）](https://www.bilibili.com/video/BV1qJ411H7SN)
+
+[Houdini_rbd_to_ue4](https://www.bilibili.com/video/BV1EQ4y1M7gX)
