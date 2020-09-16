@@ -1,5 +1,7 @@
 # 引擎动画影视
 
+[ue4摄像机导轨拍摄法360度环绕拍摄，使用Sequencer输出影片视频](https://www.bilibili.com/video/BV16Z4y1M76v)
+
 [【UE4 崔老师教你快速上手引擎电影】Class04_Cinematic_01_概述](https://www.bilibili.com/video/BV1UJ411K7DT)
 
 [[UE4教程]物体破碎及Sequence控制破裂发生的时间](https://www.bilibili.com/video/BV1fE411K7ht)
