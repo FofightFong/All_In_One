@@ -31,7 +31,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第六集-攻击后保持武器状态](https://www.bilibili.com/video/BV1eJ411x7UY)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第七集-使用弓箭时八方向移动状态](https://www.bilibili.com/video/BV1bJ41147Zn)
 
 * []()
 
