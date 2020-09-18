@@ -29,7 +29,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第五集-近战武器攻击动画](https://www.bilibili.com/video/BV1QJ411t7Mu)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第六集-攻击后保持武器状态](https://www.bilibili.com/video/BV1eJ411x7UY)
 
 * []()
 
