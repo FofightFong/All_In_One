@@ -43,7 +43,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第十二集-弓箭瞄准偏移](https://www.bilibili.com/video/BV1NJ411e7fN)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第十三集-武器动态准星#根据瞄准位置进行准星生成](https://www.bilibili.com/video/BV1LJ411a7K6)
 
 * []()
 
