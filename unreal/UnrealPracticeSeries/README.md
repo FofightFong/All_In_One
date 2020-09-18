@@ -41,7 +41,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第十一集-弓箭射击](https://www.bilibili.com/video/BV17J411Y7fm)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第十二集-弓箭瞄准偏移](https://www.bilibili.com/video/BV1NJ411e7fN)
 
 * []()
 
