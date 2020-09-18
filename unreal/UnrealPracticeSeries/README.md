@@ -33,7 +33,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第七集-使用弓箭时八方向移动状态](https://www.bilibili.com/video/BV1bJ41147Zn)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第八集-武器切换bug修复](https://www.bilibili.com/video/BV1XJ41147pm)
 
 * []()
 
