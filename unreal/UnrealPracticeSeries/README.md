@@ -45,7 +45,7 @@
 
 * [【新手向】虚幻4ARPG教程-重置版-第十三集-武器动态准星#根据瞄准位置进行准星生成](https://www.bilibili.com/video/BV1LJ411a7K6)
 
-* []()
+* [【新手向】虚幻4ARPG教程-重置版-第十四集-武器动态准星#射击靶子](https://www.bilibili.com/video/BV1WJ411h7u9)
 
 * []()
 
