@@ -16,6 +16,8 @@
 
 # 魔法师
 
+* [【UE4】实现游戏Control主角远程抓取技能系列](https://www.bilibili.com/video/BV1R7411H7BZ)
+
 ### 御剑
 
 # 武者
