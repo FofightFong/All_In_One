@@ -16,7 +16,22 @@
 
 # 魔法师
 
+### 控物
 * [【UE4】实现游戏Control主角远程抓取技能系列](https://www.bilibili.com/video/BV1R7411H7BZ)
+
+* []()
+
+* [【UE4】实现游戏Control主角远程抓取技能之 LineTrace](https://www.bilibili.com/video/BV1R7411H7DT)
+
+* [【UE4】实现游戏Control主角远程抓取技能之 ObjectOutline](https://www.bilibili.com/video/BV1X7411H7vc)
+
+* [【UE4】实现游戏Control主角远程抓取技能之 物理约束](https://www.bilibili.com/video/BV1S7411H7mH)
+
+* [【UE4】实现游戏Control主角远程抓取技能之 物体投掷](https://www.bilibili.com/video/BV147411h7UE)
+
+* [【UE4】实现游戏Control主角远程抓取技能之 摄像机控制](https://www.bilibili.com/video/BV1i7411t7hf)
+
+* [【UE4】实现游戏Control主角远程抓取技能之 检测系统升级](https://www.bilibili.com/video/BV1C7411t7My)
 
 ### 御剑
 
