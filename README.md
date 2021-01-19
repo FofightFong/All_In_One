@@ -4,7 +4,7 @@
 
 # houdini
 
-* [Houdini算法]()
+* [Houdini算法](https://github.com/FofightFong/All_In_One/tree/master/HoudiniAlgorithmic)
 
 * [All In One-流程](https://github.com/FofightFong/All_In_One/blob/master/circuit/README.md)
 
