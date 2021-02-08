@@ -23,6 +23,8 @@
 * [microbot](http://www.microbot.ch/)----[mlib](https://github.com/Doudini/mLib)----[Doudini](https://github.com/Doudini)
 
 
+
+
 # 一些网站
 
 * [wechat公众号文章](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/wechat)
@@ -56,6 +58,8 @@
 * [Houdini 资源汇总](http://www.urdro.com/houdini_rec)
 
 * [timelinefx](www.timelinefx.com)
+
+* [视效人](https://www.vfx.ren/)
 
 # 系列频道
 
