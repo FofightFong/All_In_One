@@ -28,6 +28,85 @@
 
 * [Houdini18_Solaris LOPs模块影视制作流程分享-中文_CGReview](https://www.bilibili.com/video/av79443654)
 
+* [Houdini18国语教程，类哪吒闪电附体特效制作，快速的sop&粒子%新流体教程。](https://www.bilibili.com/video/BV1Kf4y1S7Dz)
+
+* [HOUDINI18 国语 flip岩浆小案例，制作思路分享。](https://www.bilibili.com/video/BV1PT4y177Lj)
+
+* [Houdini 18 国语中文教程，类哪吒魔童降世冰生长效果制作思路，快速的sop&粒子教程。](https://www.bilibili.com/video/BV1p54y1979d)
+
+* [HOUDINI18 国语 dop案例 吸引坍缩刚体&烟尘](https://www.bilibili.com/video/BV1xT4y1A7hm)
+
+* [Houdini18 卡通核爆效果案例教程](https://www.bilibili.com/video/BV1Wi4y1V7Dg)
+
+* [Houdini18 python入门教学](https://www.bilibili.com/video/BV18V411a75k)
+
+* [Houdini 18 零基础到实际案例](https://www.bilibili.com/video/BV1Hi4y187Ww)
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+
+
+
+
+
+
+
+
+
 
 ### 文章
 
