@@ -42,7 +42,7 @@
 
 * [Houdini 18 零基础到实际案例](https://www.bilibili.com/video/BV1Hi4y187Ww)
 
-* []()
+* [Houdini18.5完全入门教程](https://www.bilibili.com/video/BV1Hp4y1k7Jr)
 
 * []()
 
