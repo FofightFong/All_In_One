@@ -794,3 +794,6 @@
 * [HOUDINI18 国语纯 sop 自制案例分享。奇异博士古一法师地面翻转效果](https://www.bilibili.com/video/BV1VZ4y1s7or)
 
 * [HOUDINI18 国语 sop案例，黑豹开篇CG护盾新思路新动态分享](https://www.bilibili.com/video/BV17V411C7Jj)
+
+* [【Houdini零基础入门教程】在家也能做出百万大片特效！迪士尼也在用的特效软件确定不来学习一下吗？
+](https://www.bilibili.com/video/BV1u541187bJ)
