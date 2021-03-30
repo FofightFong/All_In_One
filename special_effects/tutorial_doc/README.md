@@ -797,3 +797,7 @@
 
 * [【Houdini零基础入门教程】在家也能做出百万大片特效！迪士尼也在用的特效软件确定不来学习一下吗？
 ](https://www.bilibili.com/video/BV1u541187bJ)
+
+* [HOUDINI 粒子破碎案例，录完了。希望对你有点帮助。](https://www.bilibili.com/video/BV1gt4y1e7x1)
+
+
