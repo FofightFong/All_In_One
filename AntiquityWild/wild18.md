@@ -44,7 +44,7 @@
 
 * [Houdini18.5完全入门教程](https://www.bilibili.com/video/BV1Hp4y1k7Jr)
 
-* []()
+* [这特效感觉无敌了！撞建筑各种破碎~影视级动力学特效《建筑破碎》Houdini18案例制作教学让你横着走](https://www.bilibili.com/video/BV14V411z7Bq)
 
 * []()
 
