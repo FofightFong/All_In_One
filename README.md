@@ -32,7 +32,7 @@
 
 * [上古蛮荒](AntiquityWild/)
 
-* [值得推荐的教程，嗯，这很透彻]()
+* [值得推荐的教程，嗯，这很透彻](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/Recommended.md)
 
 # [unreal](https://github.com/FofightFong/All_In_One/blob/master/unreal/README.md)
 
