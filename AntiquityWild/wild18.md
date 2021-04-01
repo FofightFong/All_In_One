@@ -50,7 +50,7 @@
 
 * [Houdini18.5新功能：神奇的pyro bake volume和ACES色彩空间](https://www.bilibili.com/video/BV1Qr4y1w7HU)
 
-* []()
+* [【教程】Houdini RBD破碎入门讲解](https://www.bilibili.com/video/BV1254y1y7Mm)
 
 * []()
 
