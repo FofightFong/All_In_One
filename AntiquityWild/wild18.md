@@ -46,6 +46,8 @@
 
 * [这特效感觉无敌了！撞建筑各种破碎~影视级动力学特效《建筑破碎》Houdini18案例制作教学让你横着走](https://www.bilibili.com/video/BV14V411z7Bq)
 
+* [[Houdini教程] 老婆非让我做个香蜜里的凤凰](https://www.bilibili.com/video/BV1rV411k7do)
+
 * []()
 
 * []()
