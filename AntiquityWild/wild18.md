@@ -52,7 +52,7 @@
 
 * [【教程】Houdini RBD破碎入门讲解](https://www.bilibili.com/video/BV1254y1y7Mm)
 
-* []()
+* [Houdini 18 魔法手烟雾案例 Pyro 烟雾模拟更新教程](https://www.bilibili.com/video/BV1nJ411v7Ki)
 
 * []()
 
