@@ -806,7 +806,7 @@
 
 * [houdini我们走02冲击波](https://www.bilibili.com/video/BV1Zx411k7kx)
 
-* []()
+* [houdini17动态金属弯曲约束教程第一集](https://www.bilibili.com/video/BV1Jt411975F)
 
 * []()
 
