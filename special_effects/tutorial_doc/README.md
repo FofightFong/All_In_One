@@ -810,7 +810,7 @@
 
 * [houdini教程1_glue约束及name详解](https://www.bilibili.com/video/BV1HE411E7aj)
 
-* []()
+* [【HOUDINI】（十一、5）录着录着哭了，还是得站好最后一班岗，VELLUM之PBD&Grain，底层原理解析。](https://www.bilibili.com/video/BV1HQ4y1K79r)
 
 * []()
 
