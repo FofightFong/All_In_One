@@ -808,7 +808,7 @@
 
 * [houdini17动态金属弯曲约束教程第一集](https://www.bilibili.com/video/BV1Jt411975F)
 
-* []()
+* [houdini教程1_glue约束及name详解](https://www.bilibili.com/video/BV1HE411E7aj)
 
 * []()
 
