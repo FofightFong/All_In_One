@@ -56,7 +56,7 @@
 
 * [Houdini 18.0 团体课 破碎第一课 免费观赏](https://www.bilibili.com/video/BV1Ev411i7t3)
 
-* []()
+* [Houdini 18.5 Pyro 粒子 RBD大型综合教程 -《十万火急》电影案例](https://www.bilibili.com/video/BV1A5411w7uS)
 
 * []()
 
