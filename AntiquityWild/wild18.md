@@ -54,7 +54,7 @@
 
 * [Houdini 18 魔法手烟雾案例 Pyro 烟雾模拟更新教程](https://www.bilibili.com/video/BV1nJ411v7Ki)
 
-* []()
+* [Houdini 18.0 团体课 破碎第一课 免费观赏](https://www.bilibili.com/video/BV1Ev411i7t3)
 
 * []()
 
