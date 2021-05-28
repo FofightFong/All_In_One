@@ -812,7 +812,7 @@
 
 * [【HOUDINI】（十一、5）录着录着哭了，还是得站好最后一班岗，VELLUM之PBD&Grain，底层原理解析。](https://www.bilibili.com/video/BV1HQ4y1K79r)
 
-* []()
+* [【Houdini】萌新的《湖边小屋》教程拆解与实现，殊途同归！](https://www.bilibili.com/video/BV1Ly4y1i7Vx)
 
 * []()
 
