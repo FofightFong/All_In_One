@@ -814,7 +814,7 @@
 
 * [【Houdini】萌新的《湖边小屋》教程拆解与实现，殊途同归！](https://www.bilibili.com/video/BV1Ly4y1i7Vx)
 
-* []()
+* [【HOUDINI】中文——胡迪尼快速创建 RBD 刚体破碎基础与进阶数字资产的使用方法。](https://www.bilibili.com/video/BV1ZK4y1f7EV)
 
 * []()
 
