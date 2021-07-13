@@ -62,7 +62,8 @@
 * [视效人](https://www.vfx.ren/)
 
 * [ae-houdini](http://www.ae-houdini.com/houdini)
-* 
+
+* [Houdini 百科](https://hou.l0v0.com/zh/)
 
 # 系列频道
 
