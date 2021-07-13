@@ -63,7 +63,11 @@
 
 * [ae-houdini](http://www.ae-houdini.com/houdini)
 
-* [Houdini 百科](https://hou.l0v0.com/zh/)
+* [Houdini 百科](https://hou.l0v0.com/zh/)——[Github——HoudiniWiki](https://github.com/FXTD-ODYSSEY/HoudiniWiki)
+
+* 
+
+
 
 # 系列频道
 
