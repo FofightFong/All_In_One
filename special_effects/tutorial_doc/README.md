@@ -22,6 +22,8 @@
 
 * [microbot](http://www.microbot.ch/)----[mlib](https://github.com/Doudini/mLib)----[Doudini](https://github.com/Doudini)
 
+* [中英互译-vfx.ren](https://www.vfx.ren/houdini/houdini17/index.html)
+
 
 
 
