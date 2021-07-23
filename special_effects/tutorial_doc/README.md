@@ -73,6 +73,9 @@
 
 * [99ku](https://www.99ku.vip/zt_Houdini)
 
+* [deborahrfowler](https://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
+
+* [neoshoudinimemo](https://sites.google.com/site/neoshoudinimemo/home)
 
 
 # 系列频道
