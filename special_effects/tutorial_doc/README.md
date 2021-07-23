@@ -77,6 +77,8 @@
 
 * [neoshoudinimemo](https://sites.google.com/site/neoshoudinimemo/home)
 
+* [VFXFORCE 论坛](https://chat.vfxforce.cn/)
+
 
 # 系列频道
 
