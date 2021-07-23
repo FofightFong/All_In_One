@@ -1,5 +1,7 @@
 # houdini中文本土化的教程文档
 
+* [有关houdini的一些算法以及实现](https://github.com/all-in-one-houdini/Houdini_Algorithmic)
+
 * [自译houdini中文化文档](houdini_doc)
 
 * [节点解释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/node_explanation.md)-----[变量解释](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/variables_explanation.md)
