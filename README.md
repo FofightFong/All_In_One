@@ -8,7 +8,7 @@
 
 * [All In One-流程](https://github.com/FofightFong/All_In_One/blob/master/circuit/README.md)
 
-* [生命不息，折腾不止]()
+* [生命不息，折腾不止](https://github.com/FofightFong/All_In_One/tree/master/pbyhack)
 
 * [他山之石可以攻玉](https://github.com/FofightFong/All_In_One/blob/master/learnrut/README.md)
 
