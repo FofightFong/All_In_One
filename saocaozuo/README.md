@@ -13,3 +13,5 @@
 * [【Houdini研发】非商业版hipnc实现转hip文件workflow](https://mp.weixin.qq.com/s?__biz=MzI2NzUxMDg2NQ==&mid=2247484427&idx=1&sn=a743354e0c57e8ebe62b0f662a676c98&chksm=eafcf135dd8b7823b302b6c7529587a5efcefd3a5b162b28a34e6ab48e145dde65e915944dc7&scene=21#wechat_redirect)
 
 * [用Python让Houdini节点动起来](https://mp.weixin.qq.com/s/is_fNxz3Pf8l7kf2jBpm2g)
+
+* [。。。让你的houdini 提高工作效率，全程打鸡血](https://www.bilibili.com/video/BV15M4y1u7qf)——[flag](https://80.lv/articles/template-flag-kitty-using-event-callbacks-in-houdini/)
