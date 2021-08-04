@@ -14,6 +14,8 @@
 
 * 7. [根据相机距离控制粒子大小](http://blog.sina.com.cn/s/blog_13f902b690102yfdb.html)-----[源文件]()
 
+* 8. [Houdini使用点乘制作X光效果](http://123.56.238.122/index.php/2020/06/05/houdini%e4%bd%bf%e7%94%a8%e7%82%b9%e4%b9%98%e5%88%b6%e4%bd%9cx%e5%85%89%e6%95%88%e6%9e%9c/)
+
 # 读万卷书，行万里路---
 
 * [在Github收集的包含houdini源文件的repositories](https://github.com/all-in-one-of)
