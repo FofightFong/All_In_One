@@ -1,5 +1,7 @@
 # HoudiniGettingStarted
 
+[中文讲解频道](https://space.bilibili.com/25349368/channel/detail?cid=68307&ctype=0)——[HOUDINI教程 学习资源推荐以及CGWIKI的讲解](https://www.bilibili.com/video/BV1AU4y1h7hE)
+
 所以你决定看看houdini吗？对你有益！如果不确定，也许你可以浏览[MyaToHoudini](http://www.tokeru.com/cgwiki/index.php?title=MayaToHoudini)页面，它可能会说服你。
 
 该站点假定你可以浏览houdini并了解基本知识。如果不是，请不要担心，内核UI非常简单，学习时间不会超过一个小时。如果是这样，那么你可能首先需要执行以下步骤：
