@@ -1,4 +1,4 @@
-# HoudiniGettingStarted
+# [HoudiniGettingStarted](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
 
 [中文讲解频道](https://space.bilibili.com/25349368/channel/detail?cid=68307&ctype=0)——[HOUDINI教程 学习资源推荐以及CGWIKI的讲解](https://www.bilibili.com/video/BV1AU4y1h7hE)
 ——[【求正】Houdini_wiki基础 中文全剧集整理【学习_houdini_cgwiki_自学提炼】]()
