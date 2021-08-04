@@ -79,6 +79,8 @@
 
 * [VFXFORCE 论坛](https://chat.vfxforce.cn/)
 
+* [cgwiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)——[Github](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/cgwiki)
+
 
 # 系列频道
 
