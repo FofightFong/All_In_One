@@ -12,3 +12,8 @@ https://forums.odforce.net/topic/46746-houdini-18-instancing-debris-on-particles
 https://forums.odforce.net/topic/46306-creat-rbd-pieces-along-predefined-cracks-on-surface/?tab=comments#comment-216535
 
 https://forums.odforce.net/topic/46005-how-to-achieve-earthquake-destruction-in-houdini/?tab=comments#comment-215558
+
+https://forums.odforce.net/topic/45561-how-do-i-add-a-wallpaper-texture-to-only-the-front-side-of-a-brick-wall-sim/?tab=comments#comment-213751
+
+
+
