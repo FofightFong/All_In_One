@@ -11,3 +11,4 @@ https://forums.odforce.net/topic/46746-houdini-18-instancing-debris-on-particles
 
 https://forums.odforce.net/topic/46306-creat-rbd-pieces-along-predefined-cracks-on-surface/?tab=comments#comment-216535
 
+https://forums.odforce.net/topic/46005-how-to-achieve-earthquake-destruction-in-houdini/?tab=comments#comment-215558
