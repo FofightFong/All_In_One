@@ -1,4 +1,4 @@
-# 节点式程序化非破坏性模型
+# [节点式程序化非破坏性模型](https://github.com/FofightFong/All_In_One/blob/master/source_file/npnb.md)
 
 # 鉴于houdini为基于节点式软件，节点式的学习方式，大体特征为:
 * 以不变应万变，通过有限基础节点的掌握，只要思路畅通，那么几乎可以无所不能，而且通过不断地迭代，能更好地提高效率
