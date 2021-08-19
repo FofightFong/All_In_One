@@ -12,4 +12,6 @@ https://forums.odforce.net/topic/43444-mix-shader-depending-on-distance-from-sur
 
 https://forums.odforce.net/topic/19680-mantrasurface-shader-export-refraction/
 
+https://forums.odforce.net/topic/44250-help-with-ice-fracturing/
+
 
