@@ -14,4 +14,6 @@ https://forums.odforce.net/topic/19680-mantrasurface-shader-export-refraction/
 
 https://forums.odforce.net/topic/44250-help-with-ice-fracturing/
 
+https://forums.odforce.net/topic/29725-soda-in-a-glass-with-ice/
+
 
