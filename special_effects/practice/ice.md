@@ -10,4 +10,6 @@ https://forums.odforce.net/topic/21019-iceberg-shader/
 
 https://forums.odforce.net/topic/43444-mix-shader-depending-on-distance-from-surface/
 
+https://forums.odforce.net/topic/19680-mantrasurface-shader-export-refraction/
+
 
