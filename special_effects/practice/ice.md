@@ -8,4 +8,6 @@ https://forums.odforce.net/topic/48755-ice-crack-pattern/?tab=comments#comment-2
 
 https://forums.odforce.net/topic/21019-iceberg-shader/
 
+https://forums.odforce.net/topic/43444-mix-shader-depending-on-distance-from-surface/
+
 
