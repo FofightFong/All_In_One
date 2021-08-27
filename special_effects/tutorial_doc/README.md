@@ -81,6 +81,8 @@
 
 * [cgwiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)——[Github](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/cgwiki)
 
+* [程序员宅基地](https://www.cxyzjd.com/searchArticle?qc=houdini&page=1)
+
 
 # 系列频道
 
