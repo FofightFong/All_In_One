@@ -36,7 +36,7 @@
 
 * [风沙参考](https://github.com/FofightFong/All_In_One/blob/master/special_effects/reference/%E9%A3%8E%E6%B2%99%E5%8F%82%E8%80%83.md)
 
-* [冰与雪](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/ice.md) 
+* [冰与雪](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/iceSnow.md) 
 
 
 
