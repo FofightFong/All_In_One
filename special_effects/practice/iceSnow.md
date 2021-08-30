@@ -20,3 +20,7 @@ https://forums.odforce.net/topic/29725-soda-in-a-glass-with-ice/
 ## 雪
 
 https://github.com/Azmisov/snow
+
+https://forums.odforce.net/topic/41439-fur-and-snow-hip/?tab=comments#comment-198536
+
+https://andreasbabo93.wixsite.com/sbabovfx/example-files
