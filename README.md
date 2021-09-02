@@ -39,6 +39,8 @@
 
 * [值得推荐的教程，嗯，这很透彻](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/Recommended.md)
 
+* [亟待解决的问题————只要思想不滑坡，办法总比困难多](https://github.com/FofightFong/All_In_One/tree/master/make_it)
+
 # [unreal](https://github.com/FofightFong/All_In_One/blob/master/unreal/README.md)
 
 # [Houdini for Unreal](https://github.com/FofightFong/All_In_One/blob/master/houdini_unreal/README.md)
