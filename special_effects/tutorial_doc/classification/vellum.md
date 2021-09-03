@@ -6,9 +6,9 @@
 
 * [Houdini Vellum——胡迪尼布料实用技巧模拟柔体切割，流体效果。](https://www.bilibili.com/video/BV1nK4y1D7qD)
 
-* []()
+* [vellum系统案例](https://www.bilibili.com/video/BV1cz4y1S7Qv)
 
-* []()
+* [vellum](https://www.bilibili.com/video/BV1tb411P7FB)
 
 * []()
 
