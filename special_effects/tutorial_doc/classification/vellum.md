@@ -4,7 +4,7 @@
 
 * [Houdini Master 系列 ——Vellum大师，常用布料功能快速上手演示。](https://www.bilibili.com/video/BV19b4y1R7kX)
 
-* []()
+* [Houdini Vellum——胡迪尼布料实用技巧模拟柔体切割，流体效果。](https://www.bilibili.com/video/BV1nK4y1D7qD)
 
 * []()
 
