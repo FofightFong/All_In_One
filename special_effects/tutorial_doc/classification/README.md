@@ -1,14 +1,16 @@
 # [按模块分类]()
 
-[vellum柔体]()
+[vellum柔体](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/classification/vellum.md)
 
-[pyro烟火流体]()
+[pyro烟火](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/classification/pyro.md)
 
-[破碎刚体]()
+[rbd破碎刚体](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/classification/rbd.md)
 
 [集群]()
 
-[flip流体]()
+[flip流体](https://github.com/FofightFong/All_In_One/blob/master/special_effects/tutorial_doc/classification/flip.md)
+
+[粒子]()
 
 
 
