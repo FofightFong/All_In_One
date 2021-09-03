@@ -26,7 +26,7 @@
 
 * [中英互译-vfx.ren](https://www.vfx.ren/houdini/houdini17/index.html)
 
-
+### [模块分类](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/classification)
 
 
 # 一些网站
