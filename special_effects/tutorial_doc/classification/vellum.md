@@ -12,7 +12,7 @@
 
 * [houdini_vellum_气泡爆炸](https://www.bilibili.com/video/BV1d5411s7Gu)
 
-* []()
+* [houdini根据条件删除vellum物体](https://www.bilibili.com/video/BV1HT4y177Ar)
 
 * []()
 
