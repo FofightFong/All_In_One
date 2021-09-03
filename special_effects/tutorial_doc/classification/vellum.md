@@ -10,7 +10,7 @@
 
 * [vellum](https://www.bilibili.com/video/BV1tb411P7FB)
 
-* []()
+* [houdini_vellum_气泡爆炸](https://www.bilibili.com/video/BV1d5411s7Gu)
 
 * []()
 
