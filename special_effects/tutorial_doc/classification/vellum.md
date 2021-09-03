@@ -2,7 +2,7 @@
 
 * [houdini 18.5布料(vellum)中文讲解](https://www.bilibili.com/video/BV1Lb4y1y7Mv)
 
-* []()
+* [Houdini Master 系列 ——Vellum大师，常用布料功能快速上手演示。](https://www.bilibili.com/video/BV19b4y1R7kX)
 
 * []()
 
