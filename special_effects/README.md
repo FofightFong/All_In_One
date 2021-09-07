@@ -4,7 +4,7 @@
 
 ## 他山之石，可以工玉，借鉴ing。
 
-* [属性变量]()
+* [属性变量](https://github.com/FofightFong/All_In_One/tree/master/special_effects/Attributes)
 
 * [标签](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tag)
 
