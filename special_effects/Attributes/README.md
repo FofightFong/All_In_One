@@ -1,6 +1,9 @@
 # 属性变量
 
-Attribute Data Types
+https://www.johnkunz.com/vex
+
+#Attribute Data Types
+
 To manually specify the VEX datatype for an attribute, add a character representing the type before the @ sign.
 
 string                  s@name
