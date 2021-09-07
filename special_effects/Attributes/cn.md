@@ -1,11 +1,8 @@
-# 属性变量
-
-https://www.johnkunz.com/vex
 
 ### 属性数据类型
 
 要为属性手动指定 VEX 数据类型，请在 @ 符号前添加一个表示该类型的字符。
-``
+```
 字符串 s@name
 int i@name
 浮动 f@name
@@ -15,11 +12,11 @@ vector4（4 个浮点数） p@name
 matrix2 (2×2 浮点数) 2@name
 matrix3 (3×3 浮点数) 3@name
 矩阵 (4×4 浮点数) 4@name
-``
+```
 ### 全局变量
 
 wangles 中可用的变量列表。不需要类型指示器，但作为提醒包含在内。
-``
+```
 f@Frame //当前浮动帧数，相当于$FF Hscript变量
 f@Time //当前时间以秒为单位，相当于$T Hscript变量 
 i@SimFrame //整数模拟时间步数（$SF），只出现在DOP上下文中。
@@ -44,12 +41,12 @@ v@center //当前体积的中心。
 v@dPdx, v@dPdy, v@dPdz //这些向量存储在 x、y 和 z 体素索引中发生的 P 变化。
 i@ix, i@iy, i@iz //体素索引。对于密集卷（非 VDB），这些范围从 0 到分辨率 1。
 i@resx, i@resy, i@resz //当前音量的分辨率。
-``
+```
 ### 常用几何属性
 
 常用属性。Houdini 知道将这些转换为适当的 VEX 数据类型。不需要类型指示器，但包括作为提醒。
 
-``
+```
 v@P // 点位置。使用它在 3D 空间中布置点。
 v@N // 曲面或曲线法线。如果此属性不存在，Houdini 将计算法线。
 v@uv // 此点/顶点的 UV 纹理坐标。
@@ -67,12 +64,12 @@ f@width // 曲线的粗细。在对象节点上启用“Shade Open Curves In Vie
 f@Alpha // Alpha 透明度覆盖。视口使用它来设置 OpenGL 几何体的 alpha。
 s@instance // 要在渲染时实例化的对象节点的路径。
 f@Pw // 样条权重。在这一点上大多贬值。
-``
+```
 
 ### DOP 粒子属性
 
 粒子系统首先是由属性驱动的。以下是使用的一些属性。
-``
+```
 f@age // 自粒子诞生以来的时间（以秒为单位）。
 f@life // 允许粒子存活的时间（以秒为单位）。当 f@age>f@life 时，i@dead 将被设置为 1。
 f@nage // 归一化年龄，f@age 除以 f@life。隐式属性，你不能写这个。
@@ -123,12 +120,12 @@ v@targetw // 该粒子的目标旋转方向和速度。
 f@spinresist//匹配targetw有多重要。
 f@spinmin // 粒子可以旋转的每秒弧度的最小速度。
 f@spinmax // 粒子可以旋转的每秒弧度的最大速度。
-``
+```
 
 ### DOP 谷物属性
 
 受 POP Grains 控制的粒子的 ispbd 属性设置为 1。这导致它们不会在 POP 解算器中执行正常的运动更新，因为实际的运动更新是在此节点中完成的。
-``
+```
 i@ispbd // 值为 1 会使粒子表现为颗粒。
 f@pscale // 用于确定每个粒子的半径。
 f@repulsionweight // 粒子碰撞力的加权程度。
@@ -144,12 +141,12 @@ f@constraintweight // 缩放，基于每个粒子的约束力。
 f@constraintstiffness // 这可以控制基于每个粒子的刚度。
 f@strain // 这个基元属性记录了约束被拉伸了多少。
 f@strength // 如果 f@strain 超过了这个原始属性，则约束将被移除。
-``
+```
 ### DOP 打包 RBD 属性
 
 Bullet Solver 使用多个点属性来存储每个打包对象的属性。
 
-``
+```
 i@active // 指定对象是否能够对其他对象做出反应。
 i@animated // 指定是否应在每个时间步从其 SOP 几何体更新变换。
 i@deforming // 指定是否应该在每个时间步从其 SOP 几何体重建碰撞形状。
@@ -215,12 +212,12 @@ f@deactivation_time // 速度低于线性阈值或角度阈值的时间。
 i@found_overlap // 被求解器用来判断是否进行了重叠测试。
 i@id // 对象的唯一标识符。
 i@nextid// 存储求解器将分配给下一个新对象的 i@id。
-``
+```
 ### DOP 约束网络属性
 
 您可以在几何体上创建属性以自定义每个约束的行为和类型。如果存在与约束属性（例如阻尼）同名的原始属性，则属性值将与约束子数据中的值相乘。
 
-``
+```
 s@constraint_name // 通过名称指定一段关系数据，例如'Glue'或'Spring'。
 s@constraint_type // 指定约束是否影响“位置”、“旋转”或“所有”自由度。
 f@restlength // 指定所需的约束长度。
@@ -253,11 +250,11 @@ i@codependentcollisionallowed // 切换软体碰撞（仅限非 SDF 几何碰撞
 i@codependentcollisionresolved // 未解决的切换软体碰撞（仅限非 SDF 几何碰撞）。
 i@selfcollisionallowed // 切换自碰撞（仅限非 SDF 几何碰撞）。
 i@selfcollisionresolved // 未解决的切换自碰撞（仅限非 SDF 几何碰撞）。
-``
+```
 ### DOP 翻转属性
 FLIP 求解器包含一个嵌入式 POP 求解器，因此上面列出的所有 POP 属性都适用。
 
-``
+```
 f@pscale// 粒子尺度
 v@v // 粒子速度
 f@viscosity // 流体的“厚度”。
@@ -273,11 +270,11 @@ i@ballistic // 指定流体求解将忽略的粒子。
 v@Lx // 角动量 X 轴
 v@Ly // 角动量 Y 轴
 v@Lz // 角动量 Z 轴
-``
+```
 ### DOP 牛皮纸属性
 Vellum 几何体也被视为粒子，因此上面列出的所有 POP 属性都适用。
 
-``
+```
 i@isgrain // 值为 1 会使粒子表现为颗粒。区分布料和谷物。
 f@attractionweight // 接近时粒子自然粘在一起的程度，零禁用结块。
 f@friction // 静摩擦的缩放比例。
@@ -330,7 +327,7 @@ s@patchname // 标识模拟中生成的每个补丁，以便更新/替换。
 ### DOP 牛皮纸约束属性
 约束的类型很多，因此这些变量的含义往往取决于约束类型。他们通常过着原始生活。
 
-``
+```
 s@type // 约束的类型。
     距离 // 显示几何中的每条边都变成了保持该边长度的距离约束。
     缝合 // 使用距离约束将同一几何体中的点缝合在一起。这些点实际上不需要通过几何连接。这对于保持夹克关闭或防止口袋拍打很有用
@@ -352,4 +349,4 @@ s@type // 约束的类型。
 
 f@阻尼比 // 
 f@stress // 约束所做工作的估计（由 Vellum 求解器更新）。
-``
+```
