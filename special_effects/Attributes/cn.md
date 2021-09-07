@@ -344,8 +344,8 @@ s@type // 约束的类型。
     弯扭
     拉伸剪切
     四纤维
-    三合一
-    四爪鱼*
+    triarap
+    tetarap*
 
 f@阻尼比 // 
 f@stress // 约束所做工作的估计（由 Vellum 求解器更新）。
