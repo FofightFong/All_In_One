@@ -5,7 +5,7 @@ https://www.johnkunz.com/vex
 ###   Attribute Data Types
 
 To manually specify the VEX datatype for an attribute, add a character representing the type before the @ sign.
-
+```
 string                  s@name
 int                     i@name
 float                   f@name
@@ -15,7 +15,9 @@ vector4   (4 floats)    p@name
 matrix2   (2×2 floats)  2@name
 matrix3   (3×3 floats)  3@name
 matrix    (4×4 floats)  4@name
-Global Variables
+```
+### Global Variables
+
 A list of variables available in wrangles. The type indicator isn't needed, but is included as a reminder.
 
 f@Frame     //The current floating frame number, equivalent to the $FF Hscript variable
