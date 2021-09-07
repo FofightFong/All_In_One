@@ -128,7 +128,7 @@ f@spinmax   // Maximum speed in radians per second that a particle can spin.
 ### DOP Grains Attributes
 
 Particles under control of POP Grains have the ispbd attribute set to 1. This causes them to not perform normal movement update in the POP Solver, as the actual motion update is done in this node.
-
+```
 i@ispbd     // A value of 1 causes the particle to behave as grains.
 f@pscale    // Used to determine the radius of each particle.
 f@repulsionweight   // How much the particle collision forces are weighted.
@@ -144,7 +144,7 @@ f@constraintweight  // Scale, on a per-particle basis of the constraint force.
 f@constraintstiffness   // This controls the stiffness on a per-particle basis.
 f@strain    // This primitive attribute records how much the constraint is stretched.
 f@strength  // If f@strain exceeds this primitive attribute, the constraint will be removed.
-
+```
 ### DOP Packed RBD Attributes
 
 The Bullet Solver uses several point attributes to store the properties of each piece of a packed object.
@@ -215,7 +215,7 @@ f@deactivation_time // Amount of time the speed has been below the Linear Thresh
 i@found_overlap // Used by the solver to determine whether it has performed the overlap test.
 i@id    // A unique identifier for the object.
 i@nextid// Stores the i@id the solver will assign to the next new object.
-
+```
 ### DOP Constraint Network Attributes
 
 You can create attributes on the geometry to customize each constraint’s behavior and type. If a primitive attribute with the same name as a constraint property (such as damping) is present, the attribute value will be multiplied with the value from the constraint sub-data.
@@ -273,7 +273,7 @@ i@ballistic // Specifies particles which will be ignored by the fluid solve.
 v@Lx    // Angular momentum X axis
 v@Ly    // Angular momentum Y axis
 v@Lz    // Angular momentum Z axis
-
+```
 ### DOP Vellum Attributes
 Vellum geometry is also considered particles, so all of POP Attributes listed above apply.
 
