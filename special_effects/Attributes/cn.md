@@ -341,9 +341,9 @@ s@type // 约束的类型。
     贴，别针
     附加正常
     东方
-    弯扭
-    拉伸剪切
-    四纤维
+    bendtwist
+    stretchshear
+    tetfiber
     triarap
     tetarap*
 
