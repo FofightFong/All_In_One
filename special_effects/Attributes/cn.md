@@ -3,15 +3,15 @@
 
 要为属性手动指定 VEX 数据类型，请在 @ 符号前添加一个表示该类型的字符。
 ```
-字符串 s@name
+string s@name
 int i@name
-浮动 f@name
-vector2 (2 个浮点数) u@name
-向量（3 个浮点数） v@name
-vector4（4 个浮点数） p@name
-matrix2 (2×2 浮点数) 2@name
-matrix3 (3×3 浮点数) 3@name
-矩阵 (4×4 浮点数) 4@name
+float f@name
+vector2 (2 floats) u@name
+vector（3 floats） v@name
+vector4（4 floats） p@name
+matrix2 (2×2 floats) 2@name
+matrix3 (3×3 floats) 3@name
+matrix (4×4 floats) 4@name
 ```
 ### 全局变量
 
