@@ -72,7 +72,7 @@ f@Pw         // Spline weight.  Mostly depreciated at this point.
 ### DOP Particle Attributes
 
 A particle system is first and foremost driven by attributes. Here are some of the attributes used.
-
+```
 f@age       // Time in seconds since the particle was born.
 f@life      // Time in seconds the particle is allowed to live. When f@age>f@life, i@dead will be set to 1.
 f@nage      // Normalized age, f@age divided by f@life.  Implicit attribute, you cannot write to this.
@@ -253,7 +253,7 @@ i@codependentcollisionallowed   // Toggle soft body collisions (Only non-SDF Geo
 i@codependentcollisionresolved  // Unresolved toggle soft body collisions (Only non-SDF Geometric Collision).
 i@selfcollisionallowed  // Toggle self collisions (Only non-SDF Geometric Collision).
 i@selfcollisionresolved // Unresolved toggle self collisions (Only non-SDF Geometric Collision).
-
+```
 ### DOP FLIP Attributes
 The FLIP Solver contains an embedded POP Solver, so all of POP Attributes listed above apply.
 
