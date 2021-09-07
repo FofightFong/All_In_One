@@ -19,7 +19,7 @@ matrix    (4×4 floats)  4@name
 ### Global Variables
 
 A list of variables available in wrangles. The type indicator isn't needed, but is included as a reminder.
-
+```
 f@Frame     //The current floating frame number, equivalent to the $FF Hscript variable
 f@Time      //The current time in seconds, equivalent to the $T Hscript variable 
 i@SimFrame  //The integer simulation timestep number ($SF), only present in DOP contexts.
@@ -44,9 +44,12 @@ v@center                //The center of the current volume.
 v@dPdx, v@dPdy, v@dPdz  //These vectors store the change in P that occurs in the x, y, and z voxel indices.
 i@ix, i@iy, i@iz        //Voxel indices. For dense volumes (non-VDB) these range from 0 to resolution-1.
 i@resx, i@resy, i@resz  //The resolution of the current volume.
-Common Geometry Attributes
+```
+### Common Geometry Attributes
+
 Frequently used attributes. Houdini knows to cast these to the appropriate VEX datatype.  Type indicator isn't needed, but included as a reminder.
 
+```
 v@P          // Point position.  Used this to lay out points in 3D space.
 v@N          // Surface or curve normal.  Houdini will compute the normal if this attribute does not exist.
 v@uv         // UV texture coordinates for this point/vertex.
@@ -64,7 +67,10 @@ f@width      // Thickness of curves.  Enable 'Shade Open Curves In Viewport' on 
 f@Alpha      // Alpha transparency override.  The viewport uses this to set the alpha of OpenGL geometry.
 s@instance   // Path of an object node to be instanced at render time.
 f@Pw         // Spline weight.  Mostly depreciated at this point.
-DOP Particle Attributes
+```
+
+### DOP Particle Attributes
+
 A particle system is first and foremost driven by attributes. Here are some of the attributes used.
 
 f@age       // Time in seconds since the particle was born.
@@ -117,7 +123,10 @@ v@targetw   // The goal spin direction and speed for this particle.
 f@spinresist// How important it is to match the targetw.
 f@spinmin   // Minumum speed in radians per second that a particle can spin.
 f@spinmax   // Maximum speed in radians per second that a particle can spin.
-DOP Grains Attributes
+```
+
+### DOP Grains Attributes
+
 Particles under control of POP Grains have the ispbd attribute set to 1. This causes them to not perform normal movement update in the POP Solver, as the actual motion update is done in this node.
 
 i@ispbd     // A value of 1 causes the particle to behave as grains.
@@ -135,9 +144,12 @@ f@constraintweight  // Scale, on a per-particle basis of the constraint force.
 f@constraintstiffness   // This controls the stiffness on a per-particle basis.
 f@strain    // This primitive attribute records how much the constraint is stretched.
 f@strength  // If f@strain exceeds this primitive attribute, the constraint will be removed.
-DOP Packed RBD Attributes
+
+### DOP Packed RBD Attributes
+
 The Bullet Solver uses several point attributes to store the properties of each piece of a packed object.
 
+```
 i@active    // Specifies whether the object is able to react to other objects.
 i@animated  // Specifies whether the transform should be updated from its SOP geometry at each timestep.
 i@deforming // Specifies whether the collision shape should be rebuilt from its SOP geometry each timestep.
@@ -203,9 +215,12 @@ f@deactivation_time // Amount of time the speed has been below the Linear Thresh
 i@found_overlap // Used by the solver to determine whether it has performed the overlap test.
 i@id    // A unique identifier for the object.
 i@nextid// Stores the i@id the solver will assign to the next new object.
-DOP Constraint Network Attributes
+
+### DOP Constraint Network Attributes
+
 You can create attributes on the geometry to customize each constraint’s behavior and type. If a primitive attribute with the same name as a constraint property (such as damping) is present, the attribute value will be multiplied with the value from the constraint sub-data.
 
+```
 s@constraint_name    // Specifies a piece of relationship data by name, such as 'Glue' or 'Spring'.
 s@constraint_type    // Specifies whether the constraint affects 'position', 'rotation' or 'all' degrees of freedom.
 f@restlength    // Specifies the desired length of the constraint.
@@ -238,9 +253,11 @@ i@codependentcollisionallowed   // Toggle soft body collisions (Only non-SDF Geo
 i@codependentcollisionresolved  // Unresolved toggle soft body collisions (Only non-SDF Geometric Collision).
 i@selfcollisionallowed  // Toggle self collisions (Only non-SDF Geometric Collision).
 i@selfcollisionresolved // Unresolved toggle self collisions (Only non-SDF Geometric Collision).
-DOP FLIP Attributes
+
+### DOP FLIP Attributes
 The FLIP Solver contains an embedded POP Solver, so all of POP Attributes listed above apply.
 
+```
 f@pscale// Particle scale
 v@v     // Particle velocity
 f@viscosity // The "thickness" of a fluid.
@@ -256,9 +273,11 @@ i@ballistic // Specifies particles which will be ignored by the fluid solve.
 v@Lx    // Angular momentum X axis
 v@Ly    // Angular momentum Y axis
 v@Lz    // Angular momentum Z axis
-DOP Vellum Attributes
+
+### DOP Vellum Attributes
 Vellum geometry is also considered particles, so all of POP Attributes listed above apply.
 
+```
 i@isgrain     // A value of 1 causes the particle to behave as grains.  Distinguish between cloth and grains.
 f@attractionweight  // How much the particles will naturally stick together when close, zero disables clumping.
 f@friction // How much to scale the static friction.
@@ -307,9 +326,11 @@ p@wlast // For 2nd order integration, the angular velocity from two frames earli
 f@dP // Constraint displacements.  Likely of last iteration.
 f@dPw // Constraint weights.  Likely of last iteration.
 s@patchname // Identifies each generated patch in a simulation so it can be updated/replaced.
-DOP Vellum Constraint Attributes
+```
+### DOP Vellum Constraint Attributes
 There are many types of constraints, so the meaning of these variables is often dependent on the constraint type. They usually live on the primitive.
 
+```
 s@type // Type of the constraint.
     distance // Each edge in the display geometry is turned into a distance constraint maintaining that edge length.
     stitch // Stitch points within the same geometry together using distance constraints. The points do not need to actually be connected by geometry. This is useful for keeping jackets closed or preventing pockets from flapping
@@ -331,3 +352,4 @@ s@type // Type of the constraint.
 
 f@dampingratio // 
 f@stress // Estimate of work done by the constraint (updated by Vellum solver).
+```
