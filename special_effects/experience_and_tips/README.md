@@ -36,3 +36,7 @@
 * 3.提高mantra的min ray samples能提高ray trace的采样值。
 
 * 4.mantra的dicing的shading quality multipler的值是raytrace渲染引擎发射更多的raytrace光线来采样多边形。如果使用micropolgon算法，这个值就是多边形渲染的更加细小。提高这个值，渲染精度就越高，时间越长。
+
+# 数学常用理论和技巧
+
+1.  可用ray节点计算点到面的距离————用法：如积雪厚度
