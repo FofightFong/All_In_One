@@ -30,3 +30,5 @@ https://www.vfxforce.cn/archives/4450
 https://www.youtube.com/watch?v=O-bGjioVq30
 
 http://mrkunz.com/learn/johnkunz_vellum_grain_character_disintegration.hiplc
+
+https://forums.odforce.net/topic/40292-how-to-set-vellum-grain-constraints/?tab=comments#comment-194157
