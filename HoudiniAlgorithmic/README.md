@@ -1,4 +1,4 @@
-# 算法之妙
+# 算法与原理
 
 https://github.com/all-in-one-houdini/Houdini_Algorithmic
 
