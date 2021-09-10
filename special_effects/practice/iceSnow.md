@@ -17,6 +17,8 @@ https://forums.odforce.net/topic/44250-help-with-ice-fracturing/
 
 https://forums.odforce.net/topic/29725-soda-in-a-glass-with-ice/
 
+[蹦床上的冰](https://forums.odforce.net/topic/41016-ice-fracture-on-a-trampoline-what-workflow-would-you-use/?tab=comments#comment-196858)
+
 ## 雪
 
 https://github.com/Azmisov/snow
