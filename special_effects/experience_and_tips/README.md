@@ -41,6 +41,6 @@
 
 1.  可用ray节点计算点到面的距离————用法：如积雪厚度
 
-2.  计算碎块大小：   [f@piece_size = length(getbbox_size(0))]();
+2.  计算碎块大小：   [f@piece_size = length(getbbox_size(0))](),此方法在一定程度上不是那么准确，但是一个不错的可行性方案
 
 3.  计算粒子密度
