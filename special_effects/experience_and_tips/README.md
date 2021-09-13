@@ -43,4 +43,4 @@
 
 2.  计算碎块大小：   [f@piece_size = length(getbbox_size(0))](),需要for循环，此方法在一定程度上不是那么准确，但是一个不错的可行性方案
 
-3.  计算粒子密度 i@point_density =  len(nearpoints(0, @P,chf("dist")))，不需要for循环
+3.  计算粒子密度: [i@point_density =  len(nearpoints(0, @P,chf("dist")))]()，不需要for循环
