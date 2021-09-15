@@ -36,3 +36,5 @@ http://mrkunz.com/learn/johnkunz_vellum_grain_character_disintegration.hiplc
 https://forums.odforce.net/topic/40292-how-to-set-vellum-grain-constraints/?tab=comments#comment-194157
 
 https://forums.odforce.net/topic/47066-pop-grain-disintegration-on-character-animation/?tab=comments#comment-219108
+
+https://forums.odforce.net/topic/45839-solved-how-to-get-interaction-between-vellum-hair-and-grain/
