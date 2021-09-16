@@ -16,3 +16,5 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [pixar](https://graphics.pixar.com/library/)
 
 * [wetafx](https://www.wetafx.co.nz/articles/)
+
+* [museth](https://www.museth.org/Ken/Publications.html)
