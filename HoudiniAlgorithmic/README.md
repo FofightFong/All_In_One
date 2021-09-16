@@ -26,3 +26,5 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [yunfei](http://yunfei.work/)
 
 * [cffjian](https://www.math.ucla.edu/~cffjiang/publications.html)
+
+* [jteran](https://www.math.ucla.edu/~jteran/papers/)
