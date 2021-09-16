@@ -28,3 +28,5 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [cffjian](https://www.math.ucla.edu/~cffjiang/publications.html)
 
 * [jteran](https://www.math.ucla.edu/~jteran/papers/)
+
+* [yonghao](http://www.cg.it.aoyama.ac.jp/yonghao/)
