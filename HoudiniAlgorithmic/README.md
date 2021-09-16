@@ -8,3 +8,10 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 https://matthias-research.github.io/pages/publications/publications.html
 
 
+# Paper
+
+* [disneyanimation](https://www.disneyanimation.com/publications/)
+
+* [pixar](https://graphics.pixar.com/library/)
+
+* []
