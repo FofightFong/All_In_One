@@ -18,3 +18,5 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [wetafx](https://www.wetafx.co.nz/articles/)
 
 * [museth](https://www.museth.org/Ken/Publications.html)
+
+* [columbia](http://www.cs.columbia.edu/cg/pubs.php)
