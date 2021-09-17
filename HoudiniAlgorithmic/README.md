@@ -21,6 +21,10 @@ https://matthias-research.github.io/pages/publications/publications.html
 
 * [columbia](http://www.cs.columbia.edu/cg/pubs.php)
 
+-----------
+
+* [dreamworks](https://research.dreamworks.com/research-library/)
+
 # who个人
 
 * [yunfei](http://yunfei.work/)
