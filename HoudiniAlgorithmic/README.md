@@ -30,3 +30,7 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [jteran](https://www.math.ucla.edu/~jteran/papers/)
 
 * [yonghao](http://www.cg.it.aoyama.ac.jp/yonghao/)
+
+______
+
+* [sifakis](http://pages.cs.wisc.edu/~sifakis/)
