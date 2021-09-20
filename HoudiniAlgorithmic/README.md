@@ -6,7 +6,7 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 * [其他](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/others.md)
 * [MPM(material point method)](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/mpm.md)
 * 
-https://matthias-research.github.io/pages/publications/publications.html
+
 
 
 # Paper
@@ -21,7 +21,6 @@ https://matthias-research.github.io/pages/publications/publications.html
 
 * [columbia](http://www.cs.columbia.edu/cg/pubs.php)
 
------------
 
 * [dreamworks](https://research.dreamworks.com/research-library/)
 
@@ -34,7 +33,5 @@ https://matthias-research.github.io/pages/publications/publications.html
 * [jteran](https://www.math.ucla.edu/~jteran/papers/)
 
 * [yonghao](http://www.cg.it.aoyama.ac.jp/yonghao/)
-
-______
 
 * [sifakis](http://pages.cs.wisc.edu/~sifakis/)
