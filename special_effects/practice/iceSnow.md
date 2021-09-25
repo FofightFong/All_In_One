@@ -38,3 +38,7 @@ https://forums.odforce.net/topic/40292-how-to-set-vellum-grain-constraints/?tab=
 https://forums.odforce.net/topic/47066-pop-grain-disintegration-on-character-animation/?tab=comments#comment-219108
 
 https://forums.odforce.net/topic/45839-solved-how-to-get-interaction-between-vellum-hair-and-grain/
+
+## 飘雪
+
+https://www.sidefx.com/tutorials/snow-and-ice-i/
