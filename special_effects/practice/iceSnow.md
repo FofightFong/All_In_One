@@ -42,3 +42,5 @@ https://forums.odforce.net/topic/45839-solved-how-to-get-interaction-between-vel
 ## 飘雪
 
 https://www.sidefx.com/tutorials/snow-and-ice-i/
+
+https://forums.odforce.net/topic/41166-how-create-a-peak-snowdrift-snowsand-blowing-setup/
