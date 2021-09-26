@@ -46,3 +46,5 @@ https://www.sidefx.com/tutorials/snow-and-ice-i/
 https://forums.odforce.net/topic/41166-how-create-a-peak-snowdrift-snowsand-blowing-setup/
 
 https://forums.odforce.net/topic/26828-blowing-grains-from-object/
+
+## 炸雪
