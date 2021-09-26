@@ -48,3 +48,5 @@ https://forums.odforce.net/topic/41166-how-create-a-peak-snowdrift-snowsand-blow
 https://forums.odforce.net/topic/26828-blowing-grains-from-object/
 
 ## 炸雪
+
+https://forums.odforce.net/topic/46942-vellum-grains-exploding-when-animating-attributes/
