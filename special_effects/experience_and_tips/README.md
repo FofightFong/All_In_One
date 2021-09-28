@@ -45,4 +45,4 @@
 
 3.  计算粒子密度: [i@point_density =  len(nearpoints(0, @P,chf("dist")))]()，不需要for循环
 
-4.  删除重合的点i@near = nearpoint(0,@P,0);if(i@near!=@ptnum) removepoint(0,@ptnum);
+4.  删除重合的点[i@near = nearpoint(0,@P,0);if(i@near!=@ptnum) removepoint(0,@ptnum)]();
