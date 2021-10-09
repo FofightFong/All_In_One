@@ -5,7 +5,7 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 * [PBD (Position Based Dynamics)](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/pbd.md)
 * [其他](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/others.md)
 * [MPM(material point method)](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/mpm.md)
-* 
+* [Gray Scott Reaction-Diffusion](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/GrayScottReactionDiffusion.md)
 
 
 
