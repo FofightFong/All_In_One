@@ -6,7 +6,12 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 * [其他](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/others.md)
 * [MPM(material point method)](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/mpm.md)
 * [Gray Scott Reaction-Diffusion](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/GrayScottReactionDiffusion.md)
+
+----------
+
 * [venation algorithm](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/venation.md)
+
+* [flip](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/flip.md)
 
 
 
