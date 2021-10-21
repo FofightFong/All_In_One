@@ -85,6 +85,10 @@
 
 * [ANDREA SBABO](https://andreasbabo93.wixsite.com/sbabovfx/example-files)
 
+* [ygwiki](https://ygwiki.com/vfx/houdini/start)
+ 
+* []()
+
 
 # 系列频道
 
