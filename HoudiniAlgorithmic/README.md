@@ -7,11 +7,13 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 * [MPM(material point method)](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/mpm.md)
 * [Gray Scott Reaction-Diffusion](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/GrayScottReactionDiffusion.md)
 
-----------
-
 * [venation algorithm](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/venation.md)
 
 * [flip](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/flip.md)
+
+--------
+
+* [How to create L-Systems](https://www.houdinikitchen.net/2019/12/21/how-to-create-l-systems/)
 
 
 
