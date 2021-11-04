@@ -6,6 +6,7 @@
 
 # [houdini](https://github.com/all-in-one-houdini/Houdini_Algorithmic)
 
+* [Github上的houdini工程](https://awesomeopensource.com/projects/houdini)
 
 * [Houdini算法](https://github.com/FofightFong/All_In_One/tree/master/HoudiniAlgorithmic)
 
