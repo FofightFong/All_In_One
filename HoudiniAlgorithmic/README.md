@@ -11,11 +11,10 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 
 * [flip](https://github.com/FofightFong/All_In_One/blob/master/HoudiniAlgorithmic/flip.md)
 
+* [How to create L-Systems](https://www.houdinikitchen.net/2019/12/21/how-to-create-l-systems/)
 --------
 
-* [How to create L-Systems](https://www.houdinikitchen.net/2019/12/21/how-to-create-l-systems/)
-
-
+* [Procedural Generation of Scenes with WFC in Houdini and UE4](https://choe.moe/?p=70)
 
 # Paper
 
