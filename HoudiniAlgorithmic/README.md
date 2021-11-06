@@ -16,6 +16,8 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 
 * [Procedural Generation of Scenes with WFC in Houdini and UE4](https://choe.moe/?p=70)
 
+* [wfc-level-generation](https://www.sidefx.com/contentlibrary/wfc-level-generation/)
+
 # Paper
 
 * [disneyanimation](https://www.disneyanimation.com/publications/)
