@@ -18,7 +18,10 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 
 * [wfc-level-generation](https://www.sidefx.com/contentlibrary/wfc-level-generation/)
 
+
 --------
+
+* [Houdini Algorithmic Live #042 - Night Cityscape with Wave Function Collapse](https://www.youtube.com/watch?v=6jVk4tLTVjQ)----[hip](https://github.com/all-in-one-houdini/HoudiniHowtos/tree/master/Live-0042%20Night%20Cityscape)
 
 # Paper
 
