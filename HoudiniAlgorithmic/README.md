@@ -18,14 +18,14 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 
 * [wfc-level-generation](https://www.sidefx.com/contentlibrary/wfc-level-generation/)
 
-
---------
 [vimeo.com](https://vimeo.com/400993662)
 * [Houdini Algorithmic Live #042 - Night Cityscape with Wave Function Collapse](https://www.youtube.com/watch?v=6jVk4tLTVjQ)----[hip](https://github.com/all-in-one-houdini/HoudiniHowtos/tree/master/Live-0042%20Night%20Cityscape)
 * 非houdini实现
 * [Wave Function Collapse（一）](https://openhome.cc/Gossip/P5JS/WaveFunctionCollapse.html)
 * [Wave Function Collapse（二）](https://openhome.cc/Gossip/P5JS/WaveFunctionCollapse2.html)
 * [Wave Function Collapse（三）](https://openhome.cc/Gossip/P5JS/WaveFunctionCollapse3.html)
+
+--------
 
 # Paper
 
