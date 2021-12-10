@@ -25,18 +25,18 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 * [Wave Function Collapse（二）](https://openhome.cc/Gossip/P5JS/WaveFunctionCollapse2.html)
 * [Wave Function Collapse（三）](https://openhome.cc/Gossip/P5JS/WaveFunctionCollapse3.html)
 
---------
 
 * [Houdini建筑学_5.1_薛定谔的猫-波函数塌陷](https://www.bilibili.com/video/BV1D5411u7dy)
 * [Houdini建筑学_5.2_原理介绍](https://www.bilibili.com/video/BV1Yy4y1W7KQ)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Houdini建筑学_5.3_马列维奇简介以及工具安装](https://www.bilibili.com/video/BV1wq4y1E7iD)
+* [Houdini建筑学_5.4_避坑以及初步生成](https://www.bilibili.com/video/BV1zB4y1F791)
+* [Houdini建筑学_5.5_不同颜色的波函数塌陷](https://www.bilibili.com/video/BV1FK4y1R7bw)
+* [Houdini建筑学_5.6_波函数塌陷_连接的马列维奇画作生成](https://www.bilibili.com/video/BV1dU4y1577c)
+* [Houdini建筑学_5.7_波函数塌陷_建筑概念实例_a](https://www.bilibili.com/video/BV14V41177Zp)
+* [Houdini建筑学_5.8_波函数塌陷_建筑概念实例_b](https://www.bilibili.com/video/BV1HA41137gE)
+* [Houdini建筑学_5.9_波函数塌陷_建筑概念实例_c](https://www.bilibili.com/video/BV1L64y1k7Tr)
 
+--------
 
 # Paper
 
