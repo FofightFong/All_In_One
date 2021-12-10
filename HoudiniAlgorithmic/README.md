@@ -28,6 +28,15 @@ https://github.com/all-in-one-houdini/Houdini_Algorithmic
 --------
 
 * [Houdini建筑学_5.1_薛定谔的猫-波函数塌陷](https://www.bilibili.com/video/BV1D5411u7dy)
+* [Houdini建筑学_5.2_原理介绍](https://www.bilibili.com/video/BV1Yy4y1W7KQ)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 
 # Paper
 
