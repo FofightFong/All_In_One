@@ -42,9 +42,8 @@
 1.  可用ray节点计算点到面的距离[dist]()————用法：如积雪厚度,[setdetailattrib(0, 'dist_max', @dist, "max");setdetailattrib(0, 'dist_min', @dist, "min")]()获得最大最小值。
 
 2.  计算碎块大小：   
-3.  *   [f@piece_size = length(getbbox_size(0))](),需要for循环，此方法在一定程度上不是那么准确，但是一个不错的可行性方案
-4.  
-5.  *   Labs Delete Small Parts节点计算面积
+    *   [f@piece_size = length(getbbox_size(0))](),需要for循环，此方法在一定程度上不是那么准确，但是一个不错的可行性方案
+    *   Labs Delete Small Parts节点计算面积
 
 3.  计算粒子密度: [i@point_density =  len(nearpoints(0, @P,chf("dist")))]()，不需要for循环
 
