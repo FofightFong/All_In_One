@@ -1,6 +1,6 @@
 # 关于圆周和球的一些计算和技巧
 
-
+1.  计算圆周的角度（0-360）
 ```
 vector center = point(1,"P",0);
 vector aim = @P-center;
