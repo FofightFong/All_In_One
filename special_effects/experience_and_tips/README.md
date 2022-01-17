@@ -41,6 +41,8 @@
 
 # 数学常用理论和技巧
 
+### [关于圆周和球的一些计算和技巧](https://github.com/FofightFong/All_In_One/blob/master/special_effects/experience_and_tips/circle.md)
+
 1.  可用ray节点计算点到面的距离[dist]()————用法：如积雪厚度,[setdetailattrib(0, 'dist_max', @dist, "max");setdetailattrib(0, 'dist_min', @dist, "min")]()获得最大最小值。
 
 2.  计算碎块大小：   
