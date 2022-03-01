@@ -12,6 +12,8 @@ https://jurajtomori.wordpress.com/2016/09/29/rain-and-ripples-rnd/
 
 https://viktorsanfimovs.gumroad.com/
 
+https://www.sidefx.com/tutorials/
+
 # [节点式程序化非破坏性模型](https://github.com/FofightFong/All_In_One/blob/master/source_file/npnb.md)
 
 # 鉴于houdini为基于节点式软件，节点式的学习方式，大体特征为:
