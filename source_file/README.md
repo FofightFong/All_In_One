@@ -24,3 +24,5 @@ https://viktorsanfimovs.gumroad.com/
 * 模型方面，houdini非破坏性的工作方式会使得建模相较传统来说有一定的难度，但由于是非破坏性的，一旦模型完成，当遇到二次建模或修改时，会变得相当容易和逻辑清晰
 
 # 基于以上观点，由于节点式软件流程是非破坏性的，所以节点式软件的一种较好学习方式为直接研究前人的源文件
+
+# [大世界场景](https://github.com/FofightFong/All_In_One/tree/master/source_file/WorldScence)
