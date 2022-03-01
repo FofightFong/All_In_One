@@ -29,4 +29,6 @@ https://www.sidefx.com/tutorials/
 
 # [大世界场景](https://github.com/FofightFong/All_In_One/tree/master/source_file/WorldScence)
 
+# [群集](https://github.com/FofightFong/All_In_One/tree/master/source_file/Crowd)
+
 https://github.com/FofightFong/Learnrut
