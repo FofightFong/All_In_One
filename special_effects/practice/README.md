@@ -33,7 +33,7 @@
 
 # 自然
 
-* [冰](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/ice.md)
+* [冰](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/iceSnow.md)
 
 # 群集
 
