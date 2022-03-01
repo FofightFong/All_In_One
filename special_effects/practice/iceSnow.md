@@ -50,3 +50,7 @@ https://forums.odforce.net/topic/26828-blowing-grains-from-object/
 ## 炸雪
 
 https://forums.odforce.net/topic/46942-vellum-grains-exploding-when-animating-attributes/
+
+# 雪崩 
+
+https://bubblepins.com/blog/grain-simulation-using-alien-plateau-as-terrain-in-houdini
