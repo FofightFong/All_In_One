@@ -34,3 +34,8 @@
 # 自然
 
 * [冰](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/ice.md)
+
+# 群集
+
+* [群集](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/Crowd.md)
+
