@@ -4,6 +4,8 @@
 
 [水母](https://www.sidefx.com/tutorials/jellyfish-project/)
 
+[蝙蝠](https://github.com/FofightFong/Learnrut/blob/main/animal/bat.hip)
+
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
 
