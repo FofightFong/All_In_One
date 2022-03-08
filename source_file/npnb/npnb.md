@@ -10,6 +10,9 @@
 
 [鹰](https://forums.odforce.net/topic/702-slow-rendering/)
 
+[水蛭](https://github.com/FofightFong/Learnrut/blob/main/poqbdb/animal/leech.hip)
+
+
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
 
