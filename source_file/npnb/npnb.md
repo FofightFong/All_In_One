@@ -8,6 +8,8 @@
 
 [海豚](https://github.com/FofightFong/Learnrut/blob/main/poqbdb/animal/dolphin.hip)
 
+[鹰](https://forums.odforce.net/topic/702-slow-rendering/)
+
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
 
