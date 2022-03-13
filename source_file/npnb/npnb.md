@@ -18,11 +18,16 @@
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
 
-[蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
+
 
 [阔叶树](https://www.bilibili.com/video/BV1xJ411U78r)
 
 [针叶树](https://www.bilibili.com/video/BV11E411e76N)
+
+### 
+[蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
+
+[裂褶菌](https://forums.odforce.net/topic/47127-how-handle-this-mushroom-shape-procedurally/)
 
 ### 武器
 [剑](https://github.com/PhatSharkBait/Digital-Media-1660-2020/blob/master/Houdini/Sword.hipnc)
