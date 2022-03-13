@@ -54,3 +54,8 @@
 4.  删除重合的点[i@near = nearpoint(0,@P,0);if(i@near!=@ptnum) removepoint(0,@ptnum)]();
 
 5.  [Houdini 删除相机看不到的点\背面的点或面](https://blog.csdn.net/weixin_44517539/article/details/109468314)-[HIP](https://github.com/FofightFong/All_In_One/blob/master/special_effects/experience_and_tips/camera_scan_v01.hip)
+
+
+#  建模技巧
+
+[使用sweep建模避免穿插技巧](https://forums.odforce.net/topic/50358-stop-sweep-from-interseting-itself/)
