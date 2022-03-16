@@ -24,10 +24,14 @@
 
 [针叶树](https://www.bilibili.com/video/BV11E411e76N)
 
+[灌木](https://forums.odforce.net/topic/16484-space-colonization/?do=findComment&comment=226784)
+
 ### 
 [蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
 
 [裂褶菌](https://forums.odforce.net/topic/47127-how-handle-this-mushroom-shape-procedurally/)
+
+
 
 ### 武器
 [剑](https://github.com/PhatSharkBait/Digital-Media-1660-2020/blob/master/Houdini/Sword.hipnc)
