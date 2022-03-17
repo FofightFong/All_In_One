@@ -24,6 +24,8 @@
 
 [灌木](https://forums.odforce.net/topic/16484-space-colonization/?do=findComment&comment=226784)
 
+[lsystem](https://forums.odforce.net/topic/49141-trees-trunk-clean-shape-and-branch-modeling-question-l-system/?do=findComment&comment=225760)[-]()
+
 ### 微生物
 
 [蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
