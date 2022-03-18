@@ -93,6 +93,8 @@
 
 * [teamhoudini](https://teamhoudini.wordpress.com/)
 
+* [houdini-teaparty](https://houdini-teaparty.connpass.com/)
+
 
 # 系列频道
 
