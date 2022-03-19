@@ -12,6 +12,8 @@ https://forums.odforce.net/topic/48611-bell-shape-flowers-petal-detail/?do=findC
 
 翅膀  https://forums.odforce.net/topic/48547-copy-multiple-variation-in-order-and-control-for-the-wing-curve/?do=findComment&comment=223887
 
+羽毛  https://forums.odforce.net/topic/8508-feathers/?do=findComment&comment=56786
+
 # 飞行器
 
 https://forums.odforce.net/topic/7905-cylon-raider-from-battlestar-galactica/?do=findComment&comment=54246
