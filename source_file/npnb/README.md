@@ -8,6 +8,8 @@ https://forums.odforce.net/topic/48537-modeling-dry-fruit-and-color-by-attribute
 # 花
 https://forums.odforce.net/topic/48611-bell-shape-flowers-petal-detail/?do=findComment&comment=224162
 
+https://forums.odforce.net/topic/8459-raven-student-group-project/?do=findComment&comment=56957
+
 # 器官
 
 翅膀  https://forums.odforce.net/topic/48547-copy-multiple-variation-in-order-and-control-for-the-wing-curve/?do=findComment&comment=223887
