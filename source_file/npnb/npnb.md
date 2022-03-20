@@ -14,6 +14,8 @@
 
 [乌龟](https://github.com/FofightFong/Learnrut/blob/main/poqbdb/animal/turtle.hip)
 
+[羊](https://github.com/Franziska-Paetzold/Houdini-Asset)
+
 
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
