@@ -12,6 +12,8 @@ https://forums.odforce.net/topic/8459-raven-student-group-project/?do=findCommen
 
 https://github.com/jhorikawa/HoudiniHowtos/tree/master/Live-0009%20Procedural%20Flower
 
+https://www.vfxforce.cn/archives/7947
+
 # 器官
 
 翅膀  https://forums.odforce.net/topic/48547-copy-multiple-variation-in-order-and-control-for-the-wing-curve/?do=findComment&comment=223887
