@@ -21,6 +21,10 @@ https://www.vfxforce.cn/archives/7947
 
 羽毛  https://forums.odforce.net/topic/8508-feathers/?do=findComment&comment=56786
 
+# 树
+https://www.sidefx.com/tutorials/tree-generator/
+
+
 # 飞行器
 
 https://forums.odforce.net/topic/7905-cylon-raider-from-battlestar-galactica/?do=findComment&comment=54246
