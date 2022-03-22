@@ -24,6 +24,9 @@ https://www.vfxforce.cn/archives/7947
 # 树
 https://www.sidefx.com/tutorials/tree-generator/
 
+# 植株
+https://ae-houdini.com/archives/7596
+
 
 # 飞行器
 
