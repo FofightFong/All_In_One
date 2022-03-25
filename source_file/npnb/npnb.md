@@ -16,6 +16,8 @@
 
 [羊](https://github.com/Franziska-Paetzold/Houdini-Asset)
 
+[蛇](https://www.wearelovedo.com/projects/ep0016---snake-scales)
+
 
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
