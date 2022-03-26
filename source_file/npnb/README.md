@@ -4,6 +4,7 @@
 
 # 果实
 https://forums.odforce.net/topic/48537-modeling-dry-fruit-and-color-by-attribute/?do=findComment&comment=223845
+https://entagma.com/procedurally-modeling-a-raspberry/
 
 # 花
 https://forums.odforce.net/topic/48611-bell-shape-flowers-petal-detail/?do=findComment&comment=224162
