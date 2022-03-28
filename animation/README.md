@@ -10,3 +10,5 @@ https://forums.odforce.net/topic/26669-bvh-tweaker-for-carnegie-mellon-motion-ca
 
 https://github.com/maajor/Dancer-Skin-Decomposition
 
+https://www.sidefx.com/tutorials/houdini-185-quickstart-kinefx-motion-retargeting/
+
