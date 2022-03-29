@@ -18,6 +18,8 @@ https://github.com/jhorikawa/HoudiniHowtos/tree/master/Live-0009%20Procedural%20
 
 https://www.vfxforce.cn/archives/7947
 
+[彼岸花](https://qiita.com/talkyren/items/4b6219c0ce258e1c9904)
+
 # 器官
 
 翅膀  https://forums.odforce.net/topic/48547-copy-multiple-variation-in-order-and-control-for-the-wing-curve/?do=findComment&comment=223887
