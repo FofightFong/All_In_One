@@ -95,6 +95,8 @@
 
 * [houdini-teaparty](https://houdini-teaparty.connpass.com/)
 
+* [praph](https://www.praph.tokyo/tags/VEX)
+
 
 # 系列频道
 
