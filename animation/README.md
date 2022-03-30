@@ -14,3 +14,5 @@ https://www.sidefx.com/tutorials/houdini-185-quickstart-kinefx-motion-retargetin
 
 https://www.sidefx.com/tutorials/retarget-the-cmu-motion-capture-database/
 
+https://codewelt.com/cmumocap
+
