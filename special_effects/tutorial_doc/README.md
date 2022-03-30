@@ -97,6 +97,10 @@
 
 * [praph](https://www.praph.tokyo/tags/VEX)
 
+* [deborahrfowler](https://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
+
+
+
 
 # 系列频道
 
