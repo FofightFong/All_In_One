@@ -20,6 +20,8 @@
 
 [蠕虫](https://forums.odforce.net/topic/28557-worms/?do=findComment&comment=162303)-[-](https://forums.odforce.net/topic/46558-vellum-apply-motion-force-issue/?do=findComment&comment=217414)-[-](https://forums.odforce.net/topic/43459-worms/?do=findComment&comment=205695)
 
+[蜗牛](https://github.com/jhorikawa/HoudiniHowtos/blob/master/0021%20Ammonite%20Shell/Ammonite%20Shell.hipnc)
+
 
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
