@@ -16,3 +16,5 @@ https://www.sidefx.com/tutorials/retarget-the-cmu-motion-capture-database/
 
 https://codewelt.com/cmumocap
 
+
+https://www.sidefx.com/forum/topic/81715/?page=1#post-353186
