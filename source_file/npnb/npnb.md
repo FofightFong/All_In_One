@@ -22,6 +22,8 @@
 
 [蜗牛](https://github.com/jhorikawa/HoudiniHowtos/blob/master/0021%20Ammonite%20Shell/Ammonite%20Shell.hipnc)
 
+[蜈蚣](https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=findComment&comment=24283)
+
 
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
