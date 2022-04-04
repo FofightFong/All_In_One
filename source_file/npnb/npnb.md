@@ -29,6 +29,8 @@ https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=find
 
 [蜈蚣](https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=findComment&comment=24283)
 
+[鲸鱼](https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=findComment&comment=24283)
+
 
 ### 植物
 [向日葵](https://www.bilibili.com/video/BV1BE411q7Hh)
