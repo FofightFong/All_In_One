@@ -33,6 +33,10 @@ https://www.sidefx.com/tutorials/tree-generator/
 # 植株
 https://ae-houdini.com/archives/7596
 
+# 叶子
+
+蕨类https://www.bilibili.com/video/av497647152/
+
 
 # 飞行器
 
