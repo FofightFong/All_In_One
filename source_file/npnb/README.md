@@ -37,7 +37,7 @@ https://ae-houdini.com/archives/7596
 
 蕨类https://www.bilibili.com/video/av497647152/
 
-https://www.youtube.com/watch?v=-kne16jQszU     【】    https://github.com/jhorikawa/HoudiniHowtos/blob/master/0027%20IFS%20Fractals/IFS%20Fractals.hipnc
+【】https://www.youtube.com/watch?v=-kne16jQszU 【https://github.com/jhorikawa/HoudiniHowtos/blob/master/0027%20IFS%20Fractals/IFS%20Fractals.hipnc
 
 
 # 飞行器
