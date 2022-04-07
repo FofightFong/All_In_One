@@ -27,6 +27,8 @@ https://www.vfxforce.cn/archives/7947
 
 羽毛  https://forums.odforce.net/topic/8508-feathers/?do=findComment&comment=56786
 
+脚的谢   https://forums.odforce.net/topic/48811-organic-shape/?do=findComment&comment=225741
+
 # 树
 https://www.sidefx.com/tutorials/tree-generator/
 
