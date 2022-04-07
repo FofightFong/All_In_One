@@ -39,6 +39,12 @@ https://ae-houdini.com/archives/7596
 
 【】https://www.youtube.com/watch?v=-kne16jQszU 【https://github.com/jhorikawa/HoudiniHowtos/blob/master/0027%20IFS%20Fractals/IFS%20Fractals.hipnc
 
+# 像形生物
+
+https://forums.odforce.net/topic/43213-biological-modelling-methods/?do=findComment&comment=227319
+
+https://forums.odforce.net/topic/21383-deer-modeling-in-houdini-is-procedural-possible/?do=findComment&comment=225778
+
 
 # 飞行器
 
