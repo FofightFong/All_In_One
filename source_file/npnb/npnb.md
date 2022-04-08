@@ -57,6 +57,7 @@ https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=find
 
 ### 武器
 [剑](https://github.com/PhatSharkBait/Digital-Media-1660-2020/blob/master/Houdini/Sword.hipnc)
+[折扇](https://forums.odforce.net/topic/44846-china-fan/?do=findComment&comment=210711)
 
 ### 细胞
 [细胞分裂](https://forums.odforce.net/topic/49734-hard-surface-design/?do=findComment&comment=228149)
