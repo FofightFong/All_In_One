@@ -45,6 +45,8 @@ https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=find
 
 [棕榈树](https://ae-houdini.com/archives/4400)
 
+[君子兰](https://forums.odforce.net/topic/44622-procedural-rose/?do=findComment&comment=215333)
+
 ### 微生物
 
 [蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
