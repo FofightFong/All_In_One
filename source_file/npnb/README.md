@@ -54,6 +54,9 @@ https://forums.odforce.net/topic/21383-deer-modeling-in-houdini-is-procedural-po
 
 https://forums.odforce.net/topic/7905-cylon-raider-from-battlestar-galactica/?do=findComment&comment=54246
 
+#  工厂和仪器
+https://forums.odforce.net/topic/45678-need-help-using-pathdeform-in-a-for-loop/?do=findComment&comment=214363
+
 
 # Github待研究的项目
 
