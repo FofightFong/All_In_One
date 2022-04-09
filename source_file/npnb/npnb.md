@@ -49,7 +49,7 @@ https://forums.odforce.net/topic/3370-1st-annual-houdini-hacker-contest/?do=find
 
 ### 微生物
 
-[蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)
+[蘑菇](https://www.bilibili.com/video/BV1fJ411V7kp)[----](https://forums.odforce.net/topic/29602-mushroom-asset-feedback/)
 
 [裂褶菌](https://forums.odforce.net/topic/47127-how-handle-this-mushroom-shape-procedurally/)
 
