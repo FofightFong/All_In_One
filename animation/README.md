@@ -18,3 +18,6 @@ https://codewelt.com/cmumocap
 
 
 https://www.sidefx.com/forum/topic/81715/?page=1#post-353186
+
+
+https://github.com/all-in-one-houdini/AutoSkeleton
