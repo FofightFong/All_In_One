@@ -99,6 +99,10 @@
 
 * [deborahrfowler](https://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
 
+* [katexagoraris](https://www.katexagoraris.com/jellyfish-physics-facts-and-simulat)
+
+
+
 
 
 
