@@ -6,3 +6,7 @@
 * [pdg_mutagen](https://github.com/all-in-one-of/pdg_mutagen)
 
 * [schoolofai](https://github.com/all-in-one-of/schoolofai)
+
+### Other
+
+https://www.sidefx.com/tutorials/retarget-the-cmu-motion-capture-database/
