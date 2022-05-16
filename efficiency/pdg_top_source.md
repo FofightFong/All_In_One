@@ -12,3 +12,6 @@
 https://www.sidefx.com/tutorials/retarget-the-cmu-motion-capture-database/
 
 https://www.sidefx.com/contentlibrary/wfc-level-generation/
+
+https://www.vfxforce.cn/archives/5453
+
