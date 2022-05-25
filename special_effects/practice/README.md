@@ -31,6 +31,8 @@
 
 * 16. [地面破碎的小测试](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/ground_fracture.md)
 
+* 17. [水滴解算](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/dripFlip.md)
+
 # 自然
 
 * [冰](https://github.com/FofightFong/All_In_One/blob/master/special_effects/practice/iceSnow.md)
