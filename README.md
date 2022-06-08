@@ -5,6 +5,9 @@
 # [节点式程序化非破坏性模型](https://github.com/FofightFong/All_In_One/tree/master/source_file/npnb)
 # [极客世界](https://github.com/FofightFong/All_In_One/tree/master/geek_world)
 ##  [图形和法阵](https://github.com/FofightFong/All_In_One/tree/master/graphics)
+
+## [机器学习](https://github.com/FofightFong/All_In_One/tree/master/machinelearning) 
+
 ##  [houdini动作](https://github.com/FofightFong/All_In_One/tree/master/animation)
 # [houdini](https://github.com/all-in-one-houdini/Houdini_Algorithmic)
 
