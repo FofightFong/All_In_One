@@ -3,6 +3,7 @@
 # All_In_One
 
 # [节点式程序化非破坏性模型](https://github.com/FofightFong/All_In_One/tree/master/source_file/npnb)
+# [PByHack](https://github.com/FofightFong/All_In_One/tree/master/PByHack)
 # [极客世界](https://github.com/FofightFong/All_In_One/tree/master/geek_world)
 ##  [图形和法阵](https://github.com/FofightFong/All_In_One/tree/master/graphics)
 
