@@ -1,5 +1,7 @@
 # 拍屏
 
+[自制Houdini自动拍屏插件，安装方便，功能实用](https://www.bilibili.com/video/BV1Py4y1V7SP)————[Github](https://github.com/all-in-one-houdini/Houdini_Flipbook_Cache_Plugin)
+
 # 一些经验和技巧
 
 * 1. [外部导入模型清除多余数据技巧](https://www.bilibili.com/video/BV14V411z7Bq/?p=3)-----5'06''
