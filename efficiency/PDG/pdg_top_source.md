@@ -15,3 +15,5 @@ https://www.sidefx.com/contentlibrary/wfc-level-generation/
 
 https://www.vfxforce.cn/archives/5453
 
+
+https://www.sidefx.com/tutorials/machine-learning-data-preparation/
