@@ -4,4 +4,6 @@
 
 [数据重新采集 – 使用Houdini进行机器学习Data Reseeding – Machine Learning in Houdini Tutorial](https://www.vfxforce.cn/archives/15814)
 
+[Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/all-in-one-houdini/Houdini-Plugin-for-Tensorflow-Smoke-Stylization)
+
 
