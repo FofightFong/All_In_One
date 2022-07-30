@@ -31,6 +31,8 @@
 
 # 一些网站
 
+* [gis4design](https://gis4design.wordpress.com/2015/10/22/houdini-installing-hdas/)
+
 * [wechat公众号文章](https://github.com/FofightFong/All_In_One/tree/master/special_effects/tutorial_doc/wechat)
 
 * [aducg](http://www.aducg.com/tag/houidni/)
