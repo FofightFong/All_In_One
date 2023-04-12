@@ -57,6 +57,8 @@
 
 5.  [Houdini 删除相机看不到的点\背面的点或面](https://blog.csdn.net/weixin_44517539/article/details/109468314)-[HIP](https://github.com/FofightFong/All_In_One/blob/master/special_effects/experience_and_tips/camera_scan_v01.hip)
 
+6. [检测刚体碰撞](https://github.com/FofightFong/All_In_One/blob/master/special_effects/experience_and_tips/HitDetect.hip)
+
 
 #  建模技巧
 
